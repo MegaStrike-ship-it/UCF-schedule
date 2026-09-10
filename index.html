@@ -1,0 +1,86 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>UCF Schedule</title>
+<meta name="description" content="Live class schedule with room and time changes synced from Canvas.">
+<meta name="theme-color" content="#ffc904">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><text y='26' font-size='26'>🗓️</text></svg>">
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+<svg width="0" height="0" style="position:absolute" aria-hidden="true">
+  <defs>
+    <symbol id="i-sun" viewBox="0 0 24 24">
+      <circle cx="12" cy="12" r="4.4"/>
+      <g stroke-linecap="round"><path d="M12 2.4v2.6M12 19v2.6M2.4 12h2.6M19 12h2.6
+        M5.2 5.2l1.9 1.9M16.9 16.9l1.9 1.9M18.8 5.2l-1.9 1.9M7.1 16.9l-1.9 1.9"/></g>
+    </symbol>
+    <symbol id="i-cloud" viewBox="0 0 24 24">
+      <path d="M7.2 18.5h9.6a3.9 3.9 0 0 0 .5-7.77 5.6 5.6 0 0 0-10.75-1.2A3.85 3.85 0 0 0 7.2 18.5z"/>
+    </symbol>
+    <symbol id="i-drizzle" viewBox="0 0 24 24">
+      <path d="M7.4 15.2h9.2a3.6 3.6 0 0 0 .45-7.17A5.2 5.2 0 0 0 7.1 6.92 3.55 3.55 0 0 0 7.4 15.2z"/>
+      <g stroke-linecap="round"><path d="M9.4 18.3v1.3M12 18.9v1.3M14.6 18.3v1.3"/></g>
+    </symbol>
+    <symbol id="i-rain" viewBox="0 0 24 24">
+      <path d="M7.4 15.2h9.2a3.6 3.6 0 0 0 .45-7.17A5.2 5.2 0 0 0 7.1 6.92 3.55 3.55 0 0 0 7.4 15.2z"/>
+      <g stroke-linecap="round"><path d="M9.2 17.6l-.9 2.6M12.4 17.6l-.9 2.6M15.6 17.6l-.9 2.6"/></g>
+    </symbol>
+    <symbol id="i-storm" viewBox="0 0 24 24">
+      <path d="M7.4 14.6h9.2a3.6 3.6 0 0 0 .45-7.17A5.2 5.2 0 0 0 7.1 6.32 3.55 3.55 0 0 0 7.4 14.6z"/>
+      <path d="M12.9 16.1l-2.7 3.5h2.5l-1 3.1 3.4-4.2h-2.6z" stroke-linejoin="round"/>
+    </symbol>
+    <symbol id="i-fog" viewBox="0 0 24 24">
+      <g stroke-linecap="round"><path d="M4 8.5h16M4 12h16M6 15.5h12M8 19h8"/></g>
+    </symbol>
+    <symbol id="i-snow" viewBox="0 0 24 24">
+      <path d="M7.4 14.8h9.2a3.6 3.6 0 0 0 .45-7.17A5.2 5.2 0 0 0 7.1 6.52 3.55 3.55 0 0 0 7.4 14.8z"/>
+      <g stroke-linecap="round"><path d="M9.6 18.4v2M8.7 18.9l1.8 1M10.5 18.9l-1.8 1
+        M14.4 18.4v2M13.5 18.9l1.8 1M15.3 18.9l-1.8 1"/></g>
+    </symbol>
+  </defs>
+</svg>
+
+<div class="wrap">
+
+  <header>
+    <h1>UCF Schedule<span class="dot">.</span></h1>
+    <span class="term" id="term"></span>
+    <span class="stamp" id="stamp">loading…</span>
+  </header>
+
+  <div id="banners"></div>
+
+  <section id="weather"></section>
+
+  <section class="now" id="now">
+    <div class="label">Loading</div>
+    <div class="course">…</div>
+  </section>
+
+  <nav class="tabs" role="tablist">
+    <button role="tab" data-tab="today" aria-selected="true">Today</button>
+    <button role="tab" data-tab="week" aria-selected="false">Week</button>
+    <button role="tab" data-tab="work" aria-selected="false">Work<span class="badge" id="workCount" hidden></span></button>
+    <button role="tab" data-tab="campus" aria-selected="false">Campus</button>
+    <button role="tab" data-tab="changes" aria-selected="false">Changes<span class="badge" id="changeCount" hidden></span></button>
+    <button role="tab" data-tab="about" aria-selected="false">Courses</button>
+  </nav>
+
+  <main id="view"></main>
+
+  <footer>
+    <p class="status off" id="canvasStatus">Canvas status unknown</p>
+    <p>
+      Subscribe on your phone so this schedule stays live in your calendar app:
+      <br><code id="icsUrl">schedule.ics</code>
+    </p>
+    <p>Times shown in campus time (America/New_York).</p>
+  </footer>
+
+</div>
+<script src="assets/app.js"></script>
+</body>
+</html>
