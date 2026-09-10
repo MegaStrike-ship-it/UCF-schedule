@@ -1,0 +1,350 @@
+{
+  "term": {
+    "name": "Fall 2026",
+    "start": "2026-08-24",
+    "end": "2026-12-03",
+    "timezone": "America/New_York",
+    "classesEnd": "2026-12-03",
+    "finals": {
+      "start": "2026-12-04",
+      "end": "2026-12-10"
+    }
+  },
+  "location": {
+    "name": "UCF Orlando",
+    "lat": 28.6024,
+    "lon": -81.2001
+  },
+  "keyDates": [
+    {
+      "date": "2026-08-24",
+      "label": "Classes begin"
+    },
+    {
+      "date": "2026-08-28",
+      "label": "Add/drop deadline",
+      "note": "Last day for a full refund"
+    },
+    {
+      "date": "2026-09-07",
+      "label": "Labor Day",
+      "kind": "holiday"
+    },
+    {
+      "date": "2026-10-30",
+      "label": "Withdrawal deadline",
+      "note": "Last day to withdraw with a W"
+    },
+    {
+      "date": "2026-11-11",
+      "label": "Veterans Day",
+      "kind": "holiday"
+    },
+    {
+      "date": "2026-11-23",
+      "label": "Thanksgiving break begins",
+      "kind": "holiday",
+      "note": "No classes through Nov 27"
+    },
+    {
+      "date": "2026-12-03",
+      "label": "Last day of classes"
+    },
+    {
+      "date": "2026-12-04",
+      "label": "Finals begin",
+      "note": "Through Dec 10"
+    },
+    {
+      "date": "2026-12-10",
+      "label": "Finals end"
+    },
+    {
+      "date": "2026-12-11",
+      "label": "Commencement"
+    }
+  ],
+  "courses": [
+    {
+      "code": "EGS 1006C",
+      "title": "Intro to Engineering",
+      "canvasId": null
+    },
+    {
+      "code": "ENC 1101",
+      "title": "Writing & Composition",
+      "canvasId": null
+    },
+    {
+      "code": "IDH 1920H",
+      "title": "Honors Symposium",
+      "canvasId": null
+    },
+    {
+      "code": "ISC 2054",
+      "title": "STEM Seminar",
+      "canvasId": null
+    },
+    {
+      "code": "MAC 2312",
+      "title": "Calculus 2",
+      "canvasId": null
+    },
+    {
+      "code": "PHY 2048",
+      "title": "Physics: Mechanics",
+      "canvasId": null
+    },
+    {
+      "code": "PHY 2048L",
+      "title": "Physics Lab",
+      "canvasId": null
+    }
+  ],
+  "meetings": [
+    {
+      "id": "egs-1006c-lecture-fr",
+      "course": "EGS 1006C",
+      "kind": "Lecture",
+      "note": null,
+      "days": [
+        "FR"
+      ],
+      "dayLabels": [
+        "Fri"
+      ],
+      "start": "08:30",
+      "end": "09:20",
+      "location": "College of Sciences Building 0101",
+      "firstDate": "2026-08-28",
+      "lastDate": "2026-12-03",
+      "except": [
+        "2026-11-27"
+      ],
+      "source": "baseline"
+    },
+    {
+      "id": "egs-1006c-laboratory-mo",
+      "course": "EGS 1006C",
+      "kind": "Laboratory",
+      "note": null,
+      "days": [
+        "MO"
+      ],
+      "dayLabels": [
+        "Mon"
+      ],
+      "start": "09:00",
+      "end": "10:15",
+      "location": "Engineering I 0260",
+      "firstDate": "2026-08-24",
+      "lastDate": "2026-12-03",
+      "except": [
+        "2026-09-07",
+        "2026-11-23"
+      ],
+      "source": "baseline"
+    },
+    {
+      "id": "enc-1101-lecture-tuth",
+      "course": "ENC 1101",
+      "kind": "Lecture",
+      "note": null,
+      "days": [
+        "TU",
+        "TH"
+      ],
+      "dayLabels": [
+        "Tue",
+        "Thu"
+      ],
+      "start": "10:30",
+      "end": "11:45",
+      "location": "Business Administration I 0218",
+      "firstDate": "2026-08-25",
+      "lastDate": "2026-12-03",
+      "except": [
+        "2026-11-24",
+        "2026-11-26"
+      ],
+      "source": "baseline"
+    },
+    {
+      "id": "idh-1920h-lecture-tu",
+      "course": "IDH 1920H",
+      "kind": "Lecture",
+      "note": null,
+      "days": [
+        "TU"
+      ],
+      "dayLabels": [
+        "Tue"
+      ],
+      "start": "16:30",
+      "end": "17:50",
+      "location": "Classroom Building I 0121",
+      "firstDate": "2026-08-25",
+      "lastDate": "2026-12-03",
+      "except": [
+        "2026-11-24"
+      ],
+      "source": "baseline"
+    },
+    {
+      "id": "idh-1920h-lecture-tu",
+      "course": "IDH 1920H",
+      "kind": "Lecture",
+      "note": null,
+      "days": [
+        "TU"
+      ],
+      "dayLabels": [
+        "Tue"
+      ],
+      "start": "18:00",
+      "end": "18:50",
+      "location": "Classroom Building I 0113",
+      "firstDate": "2026-08-25",
+      "lastDate": "2026-12-03",
+      "except": [
+        "2026-11-24"
+      ],
+      "source": "baseline"
+    },
+    {
+      "id": "isc-2054-seminar-mowe",
+      "course": "ISC 2054",
+      "kind": "Seminar",
+      "note": null,
+      "days": [
+        "MO",
+        "WE"
+      ],
+      "dayLabels": [
+        "Mon",
+        "Wed"
+      ],
+      "start": "15:30",
+      "end": "16:45",
+      "location": "Classroom Building II 0201",
+      "firstDate": "2026-08-24",
+      "lastDate": "2026-12-03",
+      "except": [
+        "2026-09-07",
+        "2026-11-11",
+        "2026-11-23",
+        "2026-11-25"
+      ],
+      "source": "baseline"
+    },
+    {
+      "id": "mac-2312-lecture-tuth",
+      "course": "MAC 2312",
+      "kind": "Lecture",
+      "note": null,
+      "days": [
+        "TU",
+        "TH"
+      ],
+      "dayLabels": [
+        "Tue",
+        "Thu"
+      ],
+      "start": "12:00",
+      "end": "13:50",
+      "location": "Teaching Academy 0322",
+      "firstDate": "2026-08-25",
+      "lastDate": "2026-12-03",
+      "except": [
+        "2026-11-24",
+        "2026-11-26"
+      ],
+      "source": "baseline"
+    },
+    {
+      "id": "mac-2312-friday-lecture-fr",
+      "course": "MAC 2312",
+      "kind": "Friday Lecture",
+      "note": null,
+      "days": [
+        "FR"
+      ],
+      "dayLabels": [
+        "Fri"
+      ],
+      "start": "12:00",
+      "end": "12:50",
+      "location": "Biological Sciences Building 0209",
+      "firstDate": "2026-08-28",
+      "lastDate": "2026-12-03",
+      "except": [
+        "2026-11-27"
+      ],
+      "source": "baseline"
+    },
+    {
+      "id": "phy-2048-discussion-tu",
+      "course": "PHY 2048",
+      "kind": "Discussion",
+      "note": null,
+      "days": [
+        "TU"
+      ],
+      "dayLabels": [
+        "Tue"
+      ],
+      "start": "07:30",
+      "end": "08:20",
+      "location": "Mathematical Sciences Building 0204",
+      "firstDate": "2026-08-25",
+      "lastDate": "2026-12-03",
+      "except": [
+        "2026-11-24"
+      ],
+      "source": "baseline"
+    },
+    {
+      "id": "phy-2048-lecture-tuth",
+      "course": "PHY 2048",
+      "kind": "Lecture",
+      "note": null,
+      "days": [
+        "TU",
+        "TH"
+      ],
+      "dayLabels": [
+        "Tue",
+        "Thu"
+      ],
+      "start": "15:00",
+      "end": "16:15",
+      "location": "Mathematical Sciences Building 0260",
+      "firstDate": "2026-08-25",
+      "lastDate": "2026-12-03",
+      "except": [
+        "2026-11-24",
+        "2026-11-26"
+      ],
+      "source": "baseline"
+    },
+    {
+      "id": "phy-2048l-laboratory-sa",
+      "course": "PHY 2048L",
+      "kind": "Laboratory",
+      "note": null,
+      "days": [
+        "SA"
+      ],
+      "dayLabels": [
+        "Sat"
+      ],
+      "start": "11:30",
+      "end": "13:20",
+      "location": "Mathematical Sciences Building 0339",
+      "firstDate": "2026-08-29",
+      "lastDate": "2026-12-03",
+      "except": [],
+      "source": "baseline"
+    }
+  ]
+}
