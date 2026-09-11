@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T14:10:09.146903-04:00",
+  "generatedAt": "2026-09-11T17:32:19.124166-04:00",
   "term": {
     "name": "Fall 2026",
     "start": "2026-08-24",
@@ -89,31 +89,31 @@
   "weather": {
     "place": "UCF Orlando",
     "current": {
-      "temp": 89,
-      "feelsLike": 97,
-      "label": "Partly cloudy",
+      "temp": 79,
+      "feelsLike": 85,
+      "label": "Overcast",
       "icon": "cloud",
       "isDay": true
     },
     "days": [
       {
         "date": "2026-09-11",
-        "label": "Showers",
+        "label": "Light rain",
         "icon": "rain",
-        "high": 89,
+        "high": 94,
         "low": 76,
-        "precip": 44,
+        "precip": 52,
         "uv": 8,
         "sunrise": "07:07",
         "sunset": "19:34"
       },
       {
         "date": "2026-09-12",
-        "label": "Showers",
-        "icon": "rain",
+        "label": "Overcast",
+        "icon": "cloud",
         "high": 89,
-        "low": 75,
-        "precip": 38,
+        "low": 76,
+        "precip": 37,
         "uv": 8,
         "sunrise": "07:08",
         "sunset": "19:33"
@@ -123,19 +123,19 @@
         "label": "Thunderstorms",
         "icon": "storm",
         "high": 92,
-        "low": 75,
-        "precip": 73,
+        "low": 74,
+        "precip": 74,
         "uv": 7,
         "sunrise": "07:08",
         "sunset": "19:31"
       },
       {
         "date": "2026-09-14",
-        "label": "Thunderstorms",
-        "icon": "storm",
+        "label": "Heavy drizzle",
+        "icon": "drizzle",
         "high": 95,
         "low": 77,
-        "precip": 71,
+        "precip": 66,
         "uv": 8,
         "sunrise": "07:09",
         "sunset": "19:30"
@@ -146,7 +146,7 @@
         "icon": "drizzle",
         "high": 93,
         "low": 77,
-        "precip": 39,
+        "precip": 36,
         "uv": 8,
         "sunrise": "07:09",
         "sunset": "19:29"
@@ -157,7 +157,7 @@
         "icon": "drizzle",
         "high": 88,
         "low": 77,
-        "precip": 36,
+        "precip": 35,
         "uv": 6,
         "sunrise": "07:10",
         "sunset": "19:28"
@@ -168,16 +168,16 @@
         "icon": "storm",
         "high": 82,
         "low": 72,
-        "precip": 43,
+        "precip": 42,
         "uv": 7,
         "sunrise": "07:10",
         "sunset": "19:27"
       }
     ],
     "air": {
-      "aqi": 50,
-      "label": "Good",
-      "pm25": 6.9
+      "aqi": 51,
+      "label": "Moderate",
+      "pm25": 7.6
     }
   },
   "severe": [],
@@ -293,20 +293,6 @@
   ],
   "events": [
     {
-      "id": "12623586",
-      "name": "Emergency Preparedness 101",
-      "org": "Volunteer UCF",
-      "theme": "ThoughtfulLearning",
-      "location": "Student Union Room 220",
-      "date": "2026-09-11",
-      "start": "14:00",
-      "end": "15:00",
-      "blurb": "Join Volunteer UCF and our collaborating partners, Orange County Citizen Corps and the UCF Emergency Management Department, to learn how to prepare for emergenc",
-      "rsvps": 18,
-      "image": "https://se-images.campuslabs.com/clink/images/490a3337-4c73-4a56-a279-1b3a548d1054a05dcf92-e35c-4725-b63d-a060908b79aa.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12623586"
-    },
-    {
       "id": "12583320",
       "name": "Blaze Pizza Partial Proceeds",
       "org": "National Student Speech Language Hearing Association (NSSLHA) - Orlando",
@@ -316,23 +302,9 @@
       "start": "15:00",
       "end": "23:00",
       "blurb": "About: Kick off the fall semester with pizza and NSSLHA! \ud83c\udf55 Come enjoy Blaze Pizza for lunch, dinner, or a late night snack with friends while supporting our cha",
-      "rsvps": 16,
+      "rsvps": 18,
       "image": "https://se-images.campuslabs.com/clink/images/ffeebc6d-8499-4154-a916-ddcb85b96cc962132be5-aaa1-417b-8008-6c94e65dc150.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12583320"
-    },
-    {
-      "id": "12739059",
-      "name": "Executive Committee Meeting ",
-      "org": "Student Government Executive Branch",
-      "theme": "GroupBusiness",
-      "location": "Online",
-      "date": "2026-09-11",
-      "start": "16:00",
-      "end": "17:00",
-      "blurb": "A meeting for the Branch heads of Student Government to have a discussion about their branches. 09.11.2026 Executive Committee Agenda",
-      "rsvps": 0,
-      "image": "https://se-images.campuslabs.com/clink/images/5bb2dd43-f722-405c-bdc1-43c24ab6ae5fa839fbc7-0b22-4c78-bd66-ba9228c772cc.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12739059"
     },
     {
       "id": "12718785",
@@ -344,7 +316,7 @@
       "start": "17:00",
       "end": "18:30",
       "blurb": "Join us for a special LIVE presentation this Friday, September 11th, hosted by Randy Goodman - located in MSB 359, from 5-6:30 PM. Randy Goodman is Florida's pr",
-      "rsvps": 9,
+      "rsvps": 11,
       "image": "https://se-images.campuslabs.com/clink/images/f66ecee3-5949-4c27-800b-4d0c61d7fe5b5bfc575f-eff1-455b-a647-08f39b996ba6.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12718785"
     },
@@ -442,7 +414,7 @@
       "start": "08:30",
       "end": "10:00",
       "blurb": "Come join us for a morning run with COLSA!!!",
-      "rsvps": 6,
+      "rsvps": 7,
       "image": "https://se-images.campuslabs.com/clink/images/9ed277a5-25e5-4ce8-b43e-047af79b8c96f13cf2c3-0104-4479-afc3-6064211582c6.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12739283"
     },
@@ -1142,7 +1114,7 @@
       "start": "19:30",
       "end": "21:00",
       "blurb": "Join us for AmStat@UCF's first general body meeting of the semester! Meet the exec board, hear what's coming up this year, and connect with fellow stats and dat",
-      "rsvps": 3,
+      "rsvps": 4,
       "image": "https://se-images.campuslabs.com/clink/images/8246a9ee-8893-4817-b63d-c47b7e8d5ecc2bfeedf0-5096-497a-8730-7266123e0901.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12740038"
     },
@@ -1506,7 +1478,7 @@
       "start": "12:00",
       "end": "13:00",
       "blurb": "Teaching the Constitution: How Should America Prepare Citizens for Self-Government? Constitution Day Group Forum &middot; Thursday, September 17, 2026 Federal l",
-      "rsvps": 18,
+      "rsvps": 25,
       "image": "https://se-images.campuslabs.com/clink/images/0d1b6112-b08a-4cac-ba11-fe4ec093cc18c7ec09af-44f7-499a-9af4-7a962254e59a.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12667204"
     },
@@ -1791,20 +1763,6 @@
       "url": "https://ucf.campuslabs.com/engage/event/12728449"
     },
     {
-      "id": "12720359",
-      "name": "GBM #1: Arts & Crafts",
-      "org": "Pride Student Association",
-      "theme": "Social",
-      "location": "Trevor Colbourn Hall",
-      "date": "2026-09-18",
-      "start": "16:00",
-      "end": "17:45",
-      "blurb": "Join the Pride Student Association for a chill night of crafty fun, and learn more about what PSA does!",
-      "rsvps": 13,
-      "image": "https://se-images.campuslabs.com/clink/images/31fcf24d-9183-454a-b060-35d1c60c6ffec191a92e-991f-4fdc-be5f-fe1e633f41aa.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12720359"
-    },
-    {
       "id": "12544052",
       "name": "Pre-SOMA @ Family Weekend",
       "org": "Pre-Student Osteopathic Medical Association",
@@ -1831,6 +1789,20 @@
       "rsvps": 6,
       "image": "https://se-images.campuslabs.com/clink/images/261a47f9-d419-4f07-a6c9-fa82c25791ee97e6cba4-9347-43de-9a6c-0d91a95e0f59.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12531438"
+    },
+    {
+      "id": "12720359",
+      "name": "GBM #1: Arts & Crafts",
+      "org": "Pride Student Association",
+      "theme": "Social",
+      "location": "UCF Teaching Academy ",
+      "date": "2026-09-18",
+      "start": "17:00",
+      "end": "19:00",
+      "blurb": "EDIT: TIME & PLACE HAVE CHANGED! Join the Pride Student Association for a chill night of crafty fun, and learn more about what PSA does!",
+      "rsvps": 13,
+      "image": "https://se-images.campuslabs.com/clink/images/31fcf24d-9183-454a-b060-35d1c60c6ffec191a92e-991f-4fdc-be5f-fe1e633f41aa.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12720359"
     },
     {
       "id": "12738874",
@@ -1940,7 +1912,7 @@
       "start": "19:00",
       "end": "22:00",
       "blurb": "UCF's Contemporary A Cappella Society presents Acapalooza! This is a musical event that you don&rsquo;t want to miss! With performances from our award-winning a",
-      "rsvps": 6,
+      "rsvps": 9,
       "image": "https://se-images.campuslabs.com/clink/images/eaf8021a-d7f8-4119-aab2-ce10bad21e7f79e39d6e-1704-4955-8e9b-77c2d41f336f.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12732336"
     },
@@ -1971,6 +1943,34 @@
       "rsvps": 0,
       "image": "https://se-images.campuslabs.com/clink/images/280042fb-d64c-43b3-8a8c-77ad638bbea130ecec0c-ad66-4f65-b675-4b9e06f7664f.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12591497"
+    },
+    {
+      "id": "12601234",
+      "name": "Design Thinking 101 and The Industry of Innovation",
+      "org": "BlackStone LaunchPad",
+      "theme": "ThoughtfulLearning",
+      "location": "Blackstone LaunchPad - 1st Floor - Student Union",
+      "date": "2026-09-21",
+      "start": "14:00",
+      "end": "15:00",
+      "blurb": "Visit https://ucf.startuptree.org/events/945 to RSVP Design Thinking 101 session will include 1) a high-level overview of Design Thinking, 2) How the Orlando Ma",
+      "rsvps": 1,
+      "image": "https://se-images.campuslabs.com/clink/images/dae18792-c9db-46b6-85f5-ec66090a035f5b18d1f0-545c-47d8-aa11-32de756b19fb.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12601234"
+    },
+    {
+      "id": "12550929",
+      "name": "FAO Committee Meeting",
+      "org": "Student Government Legislative Branch (Senate)",
+      "theme": "CommunityService",
+      "location": "Charge On Chamber, Student Union",
+      "date": "2026-09-21",
+      "start": "14:00",
+      "end": "15:30",
+      "blurb": "Weekly FAO Committee Meeting Email: sga_fao@ucf.edu Chair: Madalyn Phillips Vice Chair: Aaron Wacker",
+      "rsvps": 1,
+      "image": "https://se-images.campuslabs.com/clink/images/97bde8d7-8871-4389-adfd-f3e0c2f5b06e8b1ffc72-febc-46f4-bb4b-237b7fd10a8e.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12550929"
     }
   ],
   "keyDates": [
@@ -2708,8 +2708,8 @@
       "title": "PHY 2048L Laboratory",
       "url": null,
       "weather": {
-        "temp": 84,
-        "precip": 5,
+        "temp": 85,
+        "precip": 4,
         "label": "Mostly clear",
         "icon": "sun"
       },
@@ -2731,7 +2731,7 @@
       "url": null,
       "weather": {
         "temp": 81,
-        "precip": 10,
+        "precip": 9,
         "label": "Clear",
         "icon": "sun"
       },
@@ -2753,7 +2753,7 @@
       "url": null,
       "weather": {
         "temp": 95,
-        "precip": 71,
+        "precip": 66,
         "label": "Mostly clear",
         "icon": "sun"
       },
@@ -2775,7 +2775,7 @@
       "url": null,
       "weather": {
         "temp": 77,
-        "precip": 0,
+        "precip": 1,
         "label": "Clear",
         "icon": "sun"
       },
@@ -2841,7 +2841,7 @@
       "url": null,
       "weather": {
         "temp": 92,
-        "precip": 39,
+        "precip": 36,
         "label": "Partly cloudy",
         "icon": "cloud"
       },
@@ -2863,7 +2863,7 @@
       "url": null,
       "weather": {
         "temp": 91,
-        "precip": 39,
+        "precip": 36,
         "label": "Overcast",
         "icon": "cloud"
       },
@@ -2885,7 +2885,7 @@
       "url": null,
       "weather": {
         "temp": 87,
-        "precip": 39,
+        "precip": 36,
         "label": "Overcast",
         "icon": "cloud"
       },
@@ -2907,7 +2907,7 @@
       "url": null,
       "weather": {
         "temp": 87,
-        "precip": 36,
+        "precip": 35,
         "label": "Light drizzle",
         "icon": "drizzle"
       },
@@ -2929,7 +2929,7 @@
       "url": null,
       "weather": {
         "temp": 78,
-        "precip": 16,
+        "precip": 24,
         "label": "Light drizzle",
         "icon": "drizzle"
       },
@@ -2951,7 +2951,7 @@
       "url": null,
       "weather": {
         "temp": 81,
-        "precip": 16,
+        "precip": 24,
         "label": "Showers",
         "icon": "rain"
       },
@@ -2973,7 +2973,7 @@
       "url": null,
       "weather": {
         "temp": 82,
-        "precip": 43,
+        "precip": 42,
         "label": "Thunderstorms",
         "icon": "storm"
       },
