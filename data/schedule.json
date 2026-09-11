@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T17:32:19.124166-04:00",
+  "generatedAt": "2026-09-11T19:51:58.480606-04:00",
   "term": {
     "name": "Fall 2026",
     "start": "2026-08-24",
@@ -89,17 +89,17 @@
   "weather": {
     "place": "UCF Orlando",
     "current": {
-      "temp": 79,
-      "feelsLike": 85,
+      "temp": 81,
+      "feelsLike": 90,
       "label": "Overcast",
       "icon": "cloud",
-      "isDay": true
+      "isDay": false
     },
     "days": [
       {
         "date": "2026-09-11",
-        "label": "Light rain",
-        "icon": "rain",
+        "label": "Overcast",
+        "icon": "cloud",
         "high": 94,
         "low": 76,
         "precip": 52,
@@ -112,8 +112,8 @@
         "label": "Overcast",
         "icon": "cloud",
         "high": 89,
-        "low": 76,
-        "precip": 37,
+        "low": 75,
+        "precip": 36,
         "uv": 8,
         "sunrise": "07:08",
         "sunset": "19:33"
@@ -131,7 +131,7 @@
       },
       {
         "date": "2026-09-14",
-        "label": "Heavy drizzle",
+        "label": "Light drizzle",
         "icon": "drizzle",
         "high": 95,
         "low": 77,
@@ -142,8 +142,8 @@
       },
       {
         "date": "2026-09-15",
-        "label": "Light drizzle",
-        "icon": "drizzle",
+        "label": "Overcast",
+        "icon": "cloud",
         "high": 93,
         "low": 77,
         "precip": 36,
@@ -153,8 +153,8 @@
       },
       {
         "date": "2026-09-16",
-        "label": "Light drizzle",
-        "icon": "drizzle",
+        "label": "Overcast",
+        "icon": "cloud",
         "high": 88,
         "low": 77,
         "precip": 35,
@@ -164,8 +164,8 @@
       },
       {
         "date": "2026-09-17",
-        "label": "Thunderstorms",
-        "icon": "storm",
+        "label": "Showers",
+        "icon": "rain",
         "high": 82,
         "low": 72,
         "precip": 42,
@@ -175,9 +175,9 @@
       }
     ],
     "air": {
-      "aqi": 51,
+      "aqi": 57,
       "label": "Moderate",
-      "pm25": 7.6
+      "pm25": 12.4
     }
   },
   "severe": [],
@@ -302,79 +302,9 @@
       "start": "15:00",
       "end": "23:00",
       "blurb": "About: Kick off the fall semester with pizza and NSSLHA! \ud83c\udf55 Come enjoy Blaze Pizza for lunch, dinner, or a late night snack with friends while supporting our cha",
-      "rsvps": 18,
+      "rsvps": 21,
       "image": "https://se-images.campuslabs.com/clink/images/ffeebc6d-8499-4154-a916-ddcb85b96cc962132be5-aaa1-417b-8008-6c94e65dc150.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12583320"
-    },
-    {
-      "id": "12718785",
-      "name": "Magic of Mathematics (PMC 1st GBM)",
-      "org": "Pegasus Math Club",
-      "theme": "Social",
-      "location": "MSB 359",
-      "date": "2026-09-11",
-      "start": "17:00",
-      "end": "18:30",
-      "blurb": "Join us for a special LIVE presentation this Friday, September 11th, hosted by Randy Goodman - located in MSB 359, from 5-6:30 PM. Randy Goodman is Florida's pr",
-      "rsvps": 11,
-      "image": "https://se-images.campuslabs.com/clink/images/f66ecee3-5949-4c27-800b-4d0c61d7fe5b5bfc575f-eff1-455b-a647-08f39b996ba6.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12718785"
-    },
-    {
-      "id": "12708936",
-      "name": "First General Body Meeting",
-      "org": "Institute of Electrical and Electronics Engineers Power and Energy Society at the University of Central Florida",
-      "theme": "Social",
-      "location": "Student Union, Room 222",
-      "date": "2026-09-11",
-      "start": "17:00",
-      "end": "18:30",
-      "blurb": "Our first General Body Meeting of Fall 2026! Come to hear about our projects, technical workshops, professional workshops, networking events, and socials. Locat",
-      "rsvps": 5,
-      "image": "https://se-images.campuslabs.com/clink/images/d4abc992-57db-44c1-8c24-59071e6078e79708cd9c-9db1-4305-bc3c-0ebda91b2d1c.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12708936"
-    },
-    {
-      "id": "12697694",
-      "name": "SASP Welcome Dinner",
-      "org": "Student Association of School Psychologists",
-      "theme": "Social",
-      "location": "Bj's Restaurant and Brewhouse",
-      "date": "2026-09-11",
-      "start": "17:30",
-      "end": "19:30",
-      "blurb": "First-, second-, and third-year students please join us for a welcome welcome dinner to start off the 2026-2027 academic year.",
-      "rsvps": 3,
-      "image": "https://se-images.campuslabs.com/clink/images/5d66cc2a-68ad-41cc-af3c-b357997e49fd632d5a1c-29e3-47bf-bc05-af91e1fc3cdf.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12697694"
-    },
-    {
-      "id": "12612488",
-      "name": "Welcome Meeting",
-      "org": "Best Buddies at UCF",
-      "theme": "Social",
-      "location": "IES Office (In Ferrell Commons across from Dining Services)",
-      "date": "2026-09-11",
-      "start": "18:00",
-      "end": "19:00",
-      "blurb": "Join us as we welcome you to Best Buddies at UCF. We will have a short informational presentation that helps you learn all about who we are, what we do, and ste",
-      "rsvps": 16,
-      "image": "https://se-images.campuslabs.com/clink/images/10b077f6-862c-4f21-80b7-33fa4ab7b72716e7d669-0393-4f3c-aef0-1ff5699b254a.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12612488"
-    },
-    {
-      "id": "12675898",
-      "name": "Lights, Camera, Bingo!",
-      "org": "Rosen Apartments",
-      "theme": "Social",
-      "location": "Rosen - 905 Community Room",
-      "date": "2026-09-11",
-      "start": "18:00",
-      "end": "19:30",
-      "blurb": "Now Showing: BINGO is a movie-themed bingo night where residents can hang out, meet new people, and enjoy a fun night with the community. Residents will play bi",
-      "rsvps": 3,
-      "image": "https://se-images.campuslabs.com/clink/images/ba234396-ebc3-466a-ae10-749281d89baf8f2cfae7-a191-4757-b73a-982706c893bd.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12675898"
     },
     {
       "id": "12527568",
@@ -400,7 +330,7 @@
       "start": "19:00",
       "end": "20:00",
       "blurb": "Come hang out with us at our first APPA Social! This is the perfect chance to meet new people, make new friends, connect with fellow pre-PA students, and just h",
-      "rsvps": 4,
+      "rsvps": 5,
       "image": "https://se-images.campuslabs.com/clink/images/31e77372-b678-4866-b051-78dda7a72bc5641b7955-19c1-4078-bdda-f14cb913ac93.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12692565"
     },
@@ -414,7 +344,7 @@
       "start": "08:30",
       "end": "10:00",
       "blurb": "Come join us for a morning run with COLSA!!!",
-      "rsvps": 7,
+      "rsvps": 8,
       "image": "https://se-images.campuslabs.com/clink/images/9ed277a5-25e5-4ce8-b43e-047af79b8c96f13cf2c3-0104-4479-afc3-6064211582c6.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12739283"
     },
@@ -685,20 +615,6 @@
       "url": "https://ucf.campuslabs.com/engage/event/12711464"
     },
     {
-      "id": "12615246",
-      "name": "Judicial Outreach Committee",
-      "org": "Student Government Judicial Branch",
-      "theme": "CommunityService",
-      "location": "UCF SG Conference Room - Student Union Room 350",
-      "date": "2026-09-14",
-      "start": "18:00",
-      "end": "19:00",
-      "blurb": "The Judicial Outreach Committee (JOC) works to expand the reach of the Judicial Branch across campus and raise awareness of the services the branch offers. JOC ",
-      "rsvps": 0,
-      "image": "https://se-images.campuslabs.com/clink/images/8002885d-8d19-4c61-8e25-3988da235073c0b13fc2-23b1-493b-b0f5-a2033171d9a8.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12615246"
-    },
-    {
       "id": "12639060",
       "name": "Wii in T3",
       "org": "Tower III Apartments",
@@ -711,6 +627,20 @@
       "rsvps": 14,
       "image": "https://se-images.campuslabs.com/clink/images/720e41f4-4d56-4952-ba96-7b60f1ef827410c78b80-26fa-4d86-b107-830ed5708978.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12639060"
+    },
+    {
+      "id": "12615246",
+      "name": "Judicial Outreach Committee",
+      "org": "Student Government Judicial Branch",
+      "theme": "CommunityService",
+      "location": "UCF SG Conference Room - Student Union Room 350",
+      "date": "2026-09-14",
+      "start": "18:00",
+      "end": "19:00",
+      "blurb": "The Judicial Outreach Committee (JOC) works to expand the reach of the Judicial Branch across campus and raise awareness of the services the branch offers. JOC ",
+      "rsvps": 0,
+      "image": "https://se-images.campuslabs.com/clink/images/8002885d-8d19-4c61-8e25-3988da235073c0b13fc2-23b1-493b-b0f5-a2033171d9a8.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12615246"
     },
     {
       "id": "12708275",
@@ -918,7 +848,7 @@
       "start": "12:00",
       "end": "13:00",
       "blurb": "Grab your Controllers and Race to Rosen to compete in our Level Up Tournament! Battle to the Finish Line on Rainbow Road and win some awesome prizes! September ",
-      "rsvps": 0,
+      "rsvps": 1,
       "image": "https://se-images.campuslabs.com/clink/images/6c8009ee-54f5-41b3-90b3-ce05cf87166774a7cfbd-59bb-451a-af4f-be3bd1e90c62.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12738830"
     },
@@ -1016,7 +946,7 @@
       "start": "18:00",
       "end": "20:00",
       "blurb": "We will set up in the elevator and ask trivia questions related to animation and video games. Correct answers will win a prize.",
-      "rsvps": 2,
+      "rsvps": 3,
       "image": "https://se-images.campuslabs.com/clink/images/4b806443-c2f9-4006-850e-80855fa5389b3c155c1e-c8a8-4b81-b29e-1d3b679fd606.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12638980"
     },
@@ -1590,7 +1520,7 @@
       "start": "18:00",
       "end": "20:00",
       "blurb": "Enjoy a variety of board games and get to know new people at this chill gaming event.",
-      "rsvps": 11,
+      "rsvps": 12,
       "image": "https://se-images.campuslabs.com/clink/images/5aac13ad-a640-4c34-85cd-dcd0c3b7db273f157fe4-b6e4-424d-89af-282deaef9c94.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12517244"
     },
@@ -1744,7 +1674,7 @@
       "start": "14:00",
       "end": "16:00",
       "blurb": "About: Whip it. Aim. Donate. \ud83e\udd67 Send your NSSLHA officers flying into a pie while supporting a great cause! Every contribution helps fund UCF NSSLHA events, outr",
-      "rsvps": 11,
+      "rsvps": 12,
       "image": "https://se-images.campuslabs.com/clink/images/5294e80e-08bb-4563-9a41-2775f85ec818b9d9daba-b2f5-406e-b843-8485a1710257.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/11547723"
     },
@@ -1800,7 +1730,7 @@
       "start": "17:00",
       "end": "19:00",
       "blurb": "EDIT: TIME & PLACE HAVE CHANGED! Join the Pride Student Association for a chill night of crafty fun, and learn more about what PSA does!",
-      "rsvps": 13,
+      "rsvps": 15,
       "image": "https://se-images.campuslabs.com/clink/images/31fcf24d-9183-454a-b060-35d1c60c6ffec191a92e-991f-4fdc-be5f-fe1e633f41aa.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12720359"
     },
@@ -1971,6 +1901,76 @@
       "rsvps": 1,
       "image": "https://se-images.campuslabs.com/clink/images/97bde8d7-8871-4389-adfd-f3e0c2f5b06e8b1ffc72-febc-46f4-bb4b-237b7fd10a8e.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12550929"
+    },
+    {
+      "id": "12517246",
+      "name": "Self Care Kit Building",
+      "org": "LGBTQ+ Services",
+      "theme": "Social",
+      "location": "Student Union Cape Florida Ballroom 316",
+      "date": "2026-09-21",
+      "start": "15:00",
+      "end": "17:00",
+      "blurb": "Swing by this self care based event and gather items for a free self-care kit to continue the semester strong.",
+      "rsvps": 3,
+      "image": "https://se-images.campuslabs.com/clink/images/8c372bb9-9be6-4950-b24f-e1ab2ed414bd40783189-8f4a-4a8a-a2c2-486997a9a81b.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12517246"
+    },
+    {
+      "id": "12550850",
+      "name": "SBA Committee Meeting",
+      "org": "Student Government Legislative Branch (Senate)",
+      "theme": "CommunityService",
+      "location": "SG Conference Room",
+      "date": "2026-09-21",
+      "start": "15:00",
+      "end": "16:00",
+      "blurb": "Weekly SBA Committee Meeting. Email: sgasba@ucf.edu Chair: Veronica Perez Vice Chair: Mariah Simmons",
+      "rsvps": 0,
+      "image": "https://se-images.campuslabs.com/clink/images/484ded41-e1f8-46ad-bdc3-02ee205ea515f6b14e3f-50f0-4721-b8de-74eea0f92e1b.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12550850"
+    },
+    {
+      "id": "12616538",
+      "name": "Judicial Experience Committee",
+      "org": "Student Government Judicial Branch",
+      "theme": "Social",
+      "location": "UCF SG Conference Room - Student Union Room 350",
+      "date": "2026-09-21",
+      "start": "17:00",
+      "end": "18:00",
+      "blurb": "The Judicial Experience Committee (JEC) works to ensure high morale and cooperation between the Justices. They plan team building activities and experiences to ",
+      "rsvps": 0,
+      "image": "https://se-images.campuslabs.com/clink/images/4ab49632-c0e0-4102-9463-f5c5ccde398197956345-85ea-44a6-9223-8a4e958bc31c.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12616538"
+    },
+    {
+      "id": "12615247",
+      "name": "Judicial Outreach Committee",
+      "org": "Student Government Judicial Branch",
+      "theme": "CommunityService",
+      "location": "UCF SG Conference Room - Student Union Room 350",
+      "date": "2026-09-21",
+      "start": "18:00",
+      "end": "19:00",
+      "blurb": "The Judicial Outreach Committee (JOC) works to expand the reach of the Judicial Branch across campus and raise awareness of the services the branch offers. JOC ",
+      "rsvps": 0,
+      "image": "https://se-images.campuslabs.com/clink/images/8002885d-8d19-4c61-8e25-3988da235073c0b13fc2-23b1-493b-b0f5-a2033171d9a8.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12615247"
+    },
+    {
+      "id": "12677737",
+      "name": "Movie Dubs",
+      "org": "Voice Acting Knights",
+      "theme": "Arts",
+      "location": "Online",
+      "date": "2026-09-21",
+      "start": "18:30",
+      "end": "21:00",
+      "blurb": "Improvised fandubs of movies/tv shows over discord!",
+      "rsvps": 1,
+      "image": null,
+      "url": "https://ucf.campuslabs.com/engage/event/12677737"
     }
   ],
   "keyDates": [
@@ -2709,9 +2709,9 @@
       "url": null,
       "weather": {
         "temp": 85,
-        "precip": 4,
-        "label": "Mostly clear",
-        "icon": "sun"
+        "precip": 3,
+        "label": "Overcast",
+        "icon": "cloud"
       },
       "courseTitle": "Physics Lab"
     },
@@ -2732,8 +2732,8 @@
       "weather": {
         "temp": 81,
         "precip": 9,
-        "label": "Clear",
-        "icon": "sun"
+        "label": "Overcast",
+        "icon": "cloud"
       },
       "courseTitle": "Intro to Engineering"
     },
@@ -2820,7 +2820,7 @@
       "weather": {
         "temp": 90,
         "precip": 13,
-        "label": "Clear",
+        "label": "Mostly clear",
         "icon": "sun"
       },
       "courseTitle": "Calculus 2"
@@ -2842,7 +2842,7 @@
       "weather": {
         "temp": 92,
         "precip": 36,
-        "label": "Partly cloudy",
+        "label": "Overcast",
         "icon": "cloud"
       },
       "courseTitle": "Physics: Mechanics"
@@ -2864,7 +2864,7 @@
       "weather": {
         "temp": 91,
         "precip": 36,
-        "label": "Overcast",
+        "label": "Partly cloudy",
         "icon": "cloud"
       },
       "courseTitle": "Honors Symposium"
@@ -2908,8 +2908,8 @@
       "weather": {
         "temp": 87,
         "precip": 35,
-        "label": "Light drizzle",
-        "icon": "drizzle"
+        "label": "Overcast",
+        "icon": "cloud"
       },
       "courseTitle": "STEM Seminar"
     },
@@ -2952,8 +2952,8 @@
       "weather": {
         "temp": 81,
         "precip": 24,
-        "label": "Showers",
-        "icon": "rain"
+        "label": "Light drizzle",
+        "icon": "drizzle"
       },
       "courseTitle": "Calculus 2"
     },
@@ -2974,8 +2974,8 @@
       "weather": {
         "temp": 82,
         "precip": 42,
-        "label": "Thunderstorms",
-        "icon": "storm"
+        "label": "Partly cloudy",
+        "icon": "cloud"
       },
       "courseTitle": "Physics: Mechanics"
     },
