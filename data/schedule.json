@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T19:42:36.908105-04:00",
+  "generatedAt": "2026-09-10T20:33:15.781542-04:00",
   "term": {
     "name": "Fall 2026",
     "start": "2026-08-24",
@@ -87,17 +87,17 @@
   "weather": {
     "place": "UCF Orlando",
     "current": {
-      "temp": 78,
-      "feelsLike": 83,
-      "label": "Showers",
-      "icon": "rain",
-      "isDay": true
+      "temp": 81,
+      "feelsLike": 90,
+      "label": "Overcast",
+      "icon": "cloud",
+      "isDay": false
     },
     "days": [
       {
         "date": "2026-09-10",
-        "label": "Showers",
-        "icon": "rain",
+        "label": "Overcast",
+        "icon": "cloud",
         "high": 93,
         "low": 77,
         "precip": 48,
@@ -173,9 +173,9 @@
       }
     ],
     "air": {
-      "aqi": 55,
+      "aqi": 54,
       "label": "Moderate",
-      "pm25": 4.4
+      "pm25": 4.2
     }
   },
   "severe": [],
@@ -305,48 +305,6 @@
       "url": "https://ucf.campuslabs.com/engage/event/12710955"
     },
     {
-      "id": "12711184",
-      "name": "Dominos & Briscas Night ",
-      "org": "Puerto Rican Student Association",
-      "theme": "Social",
-      "location": "Plaza on University ",
-      "date": "2026-09-10",
-      "start": "17:00",
-      "end": "20:00",
-      "blurb": "Una noche de Dominos y Briscas! Come join us and bring out your best skills this Thursday night. Date: Thursday, Sept.10 Location: Plaza on University Time: 5pm",
-      "rsvps": 6,
-      "image": "https://se-images.campuslabs.com/clink/images/1ab2df9e-24f3-4edd-974d-25a3cb69449e90505175-24af-4b18-9efa-3d03f8a3803d.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12711184"
-    },
-    {
-      "id": "12710929",
-      "name": "Lighthouse Haven General Body Meeting #1",
-      "org": "Lighthouse Haven",
-      "theme": "CommunityService",
-      "location": "UCF",
-      "date": "2026-09-10",
-      "start": "18:30",
-      "end": "20:30",
-      "blurb": "Join us for Lighthouse Haven&rsquo;s GBM #1 on Thursday, September 10th, 2026! \ud83c\udf89 Members and non-members are welcome to come meet our new Fall board, get to kno",
-      "rsvps": 0,
-      "image": "https://se-images.campuslabs.com/clink/images/8729ad4e-d421-411f-9096-00a0536a9baa7d157bd1-b6f1-42a6-b7e4-a34ffc2ac367.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12710929"
-    },
-    {
-      "id": "12713700",
-      "name": "Dinner + Fellowship @ Nearby Home",
-      "org": "Christians on Campus",
-      "theme": "Spirituality",
-      "location": "Nearby Home (Reach out on Instagram/LinkTree for address. @cocucf)",
-      "date": "2026-09-10",
-      "start": "19:00",
-      "end": "20:00",
-      "blurb": "Join us at 7:00pm, September 10th, for dinner and fellowship at a nearby home! Food will be supplied! Reach out to us on Instagram or RSVP in our LinkTree for t",
-      "rsvps": 0,
-      "image": "https://se-images.campuslabs.com/clink/images/ec3ec90f-bd12-4e0b-9e5f-765baf37b754462f8059-17ba-4c25-8202-ac0d048b047b.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12713700"
-    },
-    {
       "id": "12550712",
       "name": "Student Government Senate Meeting",
       "org": "Student Government Legislative Branch (Senate)",
@@ -403,34 +361,6 @@
       "url": "https://ucf.campuslabs.com/engage/event/12711501"
     },
     {
-      "id": "12673760",
-      "name": "2026-2027 Interest Meeting / General Body Meeting 1",
-      "org": "SCUBA Club @ UCF",
-      "theme": "Athletics",
-      "location": "RWC Room 206",
-      "date": "2026-09-10",
-      "start": "19:30",
-      "end": "20:30",
-      "blurb": "This will be an interest meeting for new prospective members as well as returning members of the club held in room 206 at the RWC at UCF main campus at 7:30 p.m",
-      "rsvps": 2,
-      "image": null,
-      "url": "https://ucf.campuslabs.com/engage/event/12673760"
-    },
-    {
-      "id": "12642881",
-      "name": "Paint & Sip",
-      "org": "Honors Congress ",
-      "theme": "Fundraising",
-      "location": "BHC 130/131",
-      "date": "2026-09-10",
-      "start": "19:30",
-      "end": "20:30",
-      "blurb": "Enjoy a relaxing evening to sit back and paint while enjoying cider, mocktails, and small bites. Join us in BHC 130/131 on Thursday, September 10th from 7:30pm ",
-      "rsvps": 30,
-      "image": "https://se-images.campuslabs.com/clink/images/45274681-9fb8-4b63-bb4c-a4a0092b680bf635b767-af55-4063-aeb5-ff59f13466fd.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12642881"
-    },
-    {
       "id": "12648255",
       "name": "Volunteering: Strong Minds Screening",
       "org": "Pre-Student Osteopathic Medical Association",
@@ -454,7 +384,7 @@
       "start": "09:00",
       "end": "10:00",
       "blurb": "When: Friday, September 11th, 9:00AM-10:00AM Where: The Innovation Center Rm105 3280 Progress Dr, Orlando, FL 32826 *Please park in the lot across the street in",
-      "rsvps": 41,
+      "rsvps": 42,
       "image": "https://se-images.campuslabs.com/clink/images/dda363e8-99ff-418a-9a4f-1366e437c7bd4e913127-1bf7-4804-ad6e-96c340f61914.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12648479"
     },
@@ -585,20 +515,6 @@
       "url": "https://ucf.campuslabs.com/engage/event/12675898"
     },
     {
-      "id": "12692565",
-      "name": "Ice Breaker Social ",
-      "org": "Association of Pre-Physician Assistants",
-      "theme": "Social",
-      "location": "Classroom Building 2",
-      "date": "2026-09-11",
-      "start": "19:00",
-      "end": "20:00",
-      "blurb": "Come hang out with us at our first APPA Social! This is the perfect chance to meet new people, make new friends, connect with fellow pre-PA students, and just h",
-      "rsvps": 2,
-      "image": "https://se-images.campuslabs.com/clink/images/31e77372-b678-4866-b051-78dda7a72bc5641b7955-19c1-4078-bdda-f14cb913ac93.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12692565"
-    },
-    {
       "id": "12527568",
       "name": "Recruitment Night 5: Service Night",
       "org": "Omega Phi Alpha National Service Sorority",
@@ -613,6 +529,20 @@
       "url": "https://ucf.campuslabs.com/engage/event/12527568"
     },
     {
+      "id": "12692565",
+      "name": "Ice Breaker Social ",
+      "org": "Association of Pre-Physician Assistants",
+      "theme": "Social",
+      "location": "Classroom Building 2",
+      "date": "2026-09-11",
+      "start": "19:00",
+      "end": "20:00",
+      "blurb": "Come hang out with us at our first APPA Social! This is the perfect chance to meet new people, make new friends, connect with fellow pre-PA students, and just h",
+      "rsvps": 3,
+      "image": "https://se-images.campuslabs.com/clink/images/31e77372-b678-4866-b051-78dda7a72bc5641b7955-19c1-4078-bdda-f14cb913ac93.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12692565"
+    },
+    {
       "id": "12739283",
       "name": "Running con COLSA",
       "org": "Colombian Student Association",
@@ -622,7 +552,7 @@
       "start": "08:30",
       "end": "10:00",
       "blurb": "Come join us for a morning run with COLSA!!!",
-      "rsvps": 2,
+      "rsvps": 4,
       "image": "https://se-images.campuslabs.com/clink/images/9ed277a5-25e5-4ce8-b43e-047af79b8c96f13cf2c3-0104-4479-afc3-6064211582c6.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12739283"
     },
@@ -1140,7 +1070,7 @@
       "start": "17:00",
       "end": "19:00",
       "blurb": "Come join us to work on whatever fiber-related project you'd like to bring, supply trade edition! Join us at Memory Mall (weather and location availability perm",
-      "rsvps": 2,
+      "rsvps": 4,
       "image": "https://se-images.campuslabs.com/clink/images/1cfd51a9-1c64-438c-a109-08c4476d44574da86a1e-dd95-42ee-b309-6220e30a2a89.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12739233"
     },
@@ -1549,6 +1479,20 @@
       "rsvps": 1,
       "image": "https://se-images.campuslabs.com/clink/images/114f237c-d506-490d-bb23-1f8a140a5071ab4fde55-1970-4dbc-9ad1-f9fad65876fb.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12719596"
+    },
+    {
+      "id": "12739704",
+      "name": "Into To Riichi Mahjong!",
+      "org": "Riichi Mahjong Knights",
+      "theme": "Social",
+      "location": "Classroom Building 1 Room 113",
+      "date": "2026-09-16",
+      "start": "19:30",
+      "end": "23:45",
+      "blurb": "We will be doing a mahjong workshop! All levels of experience are welcome! Come join us at 7:30 PM in CB1 113 to review the basics of mahjong and great mahjong ",
+      "rsvps": 1,
+      "image": "https://se-images.campuslabs.com/clink/images/a64a27dd-a180-4f65-800e-0d983e7d8ae8d4cd2570-5e55-48fb-bc60-ab382444f6d0.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12739704"
     },
     {
       "id": "12614644",
@@ -1969,6 +1913,62 @@
       "rsvps": 0,
       "image": "https://se-images.campuslabs.com/clink/images/c893ff01-09d2-4f0b-a5a3-6a4533ac4be38d9d8ec5-32a4-4ff4-8444-7946bc09a930.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12727153"
+    },
+    {
+      "id": "12589161",
+      "name": "ACEing Autism Fall Session Sign-Ups",
+      "org": "National Student Speech Language Hearing Association (NSSLHA) - Orlando",
+      "theme": "CommunityService",
+      "location": "UCF Tennis Complex",
+      "date": "2026-09-19",
+      "start": "12:00",
+      "end": "13:00",
+      "blurb": "The Fall Session for ACEing Autism will run from September 20th to November 8th, with clinics held every Sunday from 11 a.m. to 12 p.m. This is a wonderful oppo",
+      "rsvps": 5,
+      "image": "https://se-images.campuslabs.com/clink/images/8e83055b-ad11-4169-b23d-2a8ea284ab07ce4fffed-7ad1-499c-8829-6b8e2d717591.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12589161"
+    },
+    {
+      "id": "12554018",
+      "name": "Tailgate #2 - Georgia State ft. HDR",
+      "org": "American Society of Civil Engineers at the University of Central Florida",
+      "theme": "Social",
+      "location": "Memory Mall",
+      "date": "2026-09-19",
+      "start": "15:00",
+      "end": "18:00",
+      "blurb": "Join us for a fun tailgate before the game! We&rsquo;ll have food, drinks, and games like cornhole. Feel free to bring anything extra!",
+      "rsvps": 0,
+      "image": "https://se-images.campuslabs.com/clink/images/7f8a3b26-01e1-4283-b82c-c75bef055d9d1b318c34-f9a7-44b6-b80a-94c2031bae61.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12554018"
+    },
+    {
+      "id": "12708856",
+      "name": "Share-A-Meal",
+      "org": "Volunteer UCF",
+      "theme": "CommunityService",
+      "location": "1630 Kuhl Ave, Orlando, FL 32806",
+      "date": "2026-09-19",
+      "start": "16:00",
+      "end": "19:00",
+      "blurb": "Join us in cooking and serving families dinner at the Ronald McDonald House. These families have children in the hospital and Ronald McDonald House takes care o",
+      "rsvps": 7,
+      "image": "https://se-images.campuslabs.com/clink/images/f405e76d-244b-460a-8744-c3250871b76ae03b7027-0a51-4325-89bc-6ea70b81a63d.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12708856"
+    },
+    {
+      "id": "12614728",
+      "name": "Sunday Worship with Wesley at UCF",
+      "org": "Wesley at UCF",
+      "theme": "Spirituality",
+      "location": "Faith UMC",
+      "date": "2026-09-20",
+      "start": "10:00",
+      "end": "11:30",
+      "blurb": "Join us for Faith UMC's Weekly church service every sunday at 10:00 am! Our director Erwin Lopez serves as the pastor, and all are welcome. If you are looking f",
+      "rsvps": 0,
+      "image": "https://se-images.campuslabs.com/clink/images/05ce9c70-ef83-4a92-8492-d16465dbddd6f719d2b3-18d8-4499-922b-f4f29e66b693.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12614728"
     }
   ],
   "keyDates": [
@@ -2680,7 +2680,7 @@
       "title": "EGS 1006C Lecture",
       "url": null,
       "weather": {
-        "temp": 77,
+        "temp": 78,
         "precip": 1,
         "label": "Mostly clear",
         "icon": "sun"
@@ -2702,10 +2702,10 @@
       "title": "MAC 2312 Friday Lecture",
       "url": null,
       "weather": {
-        "temp": 84,
-        "precip": 6,
-        "label": "Clear",
-        "icon": "sun"
+        "temp": 86,
+        "precip": 9,
+        "label": "Overcast",
+        "icon": "cloud"
       },
       "courseTitle": "Calculus 2"
     },
