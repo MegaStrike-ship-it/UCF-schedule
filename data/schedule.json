@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-12T09:20:24.150847-04:00",
+  "generatedAt": "2026-09-12T12:44:31.382168-04:00",
   "term": {
     "name": "Fall 2026",
     "start": "2026-08-24",
@@ -89,20 +89,20 @@
   "weather": {
     "place": "UCF Orlando",
     "current": {
-      "temp": 83,
-      "feelsLike": 92,
-      "label": "Overcast",
-      "icon": "cloud",
+      "temp": 88,
+      "feelsLike": 99,
+      "label": "Mostly clear",
+      "icon": "sun",
       "isDay": true
     },
     "days": [
       {
         "date": "2026-09-12",
-        "label": "Heavy showers",
+        "label": "Showers",
         "icon": "rain",
-        "high": 89,
+        "high": 90,
         "low": 75,
-        "precip": 33,
+        "precip": 56,
         "uv": 7,
         "sunrise": "07:08",
         "sunset": "19:33"
@@ -111,9 +111,9 @@
         "date": "2026-09-13",
         "label": "Overcast",
         "icon": "cloud",
-        "high": 87,
+        "high": 86,
         "low": 75,
-        "precip": 51,
+        "precip": 28,
         "uv": 8,
         "sunrise": "07:08",
         "sunset": "19:31"
@@ -124,7 +124,7 @@
         "icon": "storm",
         "high": 96,
         "low": 74,
-        "precip": 74,
+        "precip": 69,
         "uv": 8,
         "sunrise": "07:09",
         "sunset": "19:30"
@@ -135,7 +135,7 @@
         "icon": "cloud",
         "high": 92,
         "low": 75,
-        "precip": 51,
+        "precip": 26,
         "uv": 8,
         "sunrise": "07:09",
         "sunset": "19:29"
@@ -146,7 +146,7 @@
         "icon": "cloud",
         "high": 85,
         "low": 74,
-        "precip": 25,
+        "precip": 24,
         "uv": 5,
         "sunrise": "07:10",
         "sunset": "19:28"
@@ -157,7 +157,7 @@
         "icon": "drizzle",
         "high": 91,
         "low": 74,
-        "precip": 38,
+        "precip": 49,
         "uv": 7,
         "sunrise": "07:10",
         "sunset": "19:27"
@@ -168,16 +168,16 @@
         "icon": "drizzle",
         "high": 90,
         "low": 75,
-        "precip": 62,
+        "precip": 60,
         "uv": 7,
         "sunrise": "07:11",
         "sunset": "19:25"
       }
     ],
     "air": {
-      "aqi": 54,
+      "aqi": 52,
       "label": "Moderate",
-      "pm25": 8.1
+      "pm25": 9.6
     }
   },
   "severe": [],
@@ -292,34 +292,6 @@
     }
   ],
   "events": [
-    {
-      "id": "12739283",
-      "name": "Running con COLSA",
-      "org": "Colombian Student Association",
-      "theme": "Social",
-      "location": "Health Sciences I",
-      "date": "2026-09-12",
-      "start": "08:30",
-      "end": "10:00",
-      "blurb": "Come join us for a morning run with COLSA!!!",
-      "rsvps": 12,
-      "image": "https://se-images.campuslabs.com/clink/images/9ed277a5-25e5-4ce8-b43e-047af79b8c96f13cf2c3-0104-4479-afc3-6064211582c6.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12739283"
-    },
-    {
-      "id": "12636106",
-      "name": "Wekiva Lake Restoration",
-      "org": "Volunteer UCF",
-      "theme": "CommunityService",
-      "location": "Wekiva Lake",
-      "date": "2026-09-12",
-      "start": "09:00",
-      "end": "12:00",
-      "blurb": "This event will help keep the roads clean in Oviedo, keeping the area free of litter and the local wildlife safe! Volunteers will help plant shoreline vegetatio",
-      "rsvps": 15,
-      "image": "https://se-images.campuslabs.com/clink/images/2cdbb13e-8263-46b7-a81a-9072c3f8f6b7114a978f-aef9-4a92-8f6f-27002d392834.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12636106"
-    },
     {
       "id": "12696197",
       "name": "The Sharing Center x PBMF: Volunteering Opportunity ",
@@ -554,7 +526,7 @@
       "start": "18:00",
       "end": "19:00",
       "blurb": "We're kicking off our first speaker event of the semester! Join us for an inspiring conversation with Geraldine Ortiz, Managing Director of the Corporate Contro",
-      "rsvps": 5,
+      "rsvps": 6,
       "image": "https://se-images.campuslabs.com/clink/images/05ffe312-3e2b-4901-8771-2b787216669be385c0de-b921-4e8d-aeaa-9ff63395c04c.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12739894"
     },
@@ -1128,7 +1100,7 @@
       "start": "16:00",
       "end": "17:00",
       "blurb": "Celebrate National Waffle Week with us! Join us in BHC 130/131 on Wednesday, September 16th from 4:00-5:00 to make your own waffle. Toast your waffle, add your ",
-      "rsvps": 2,
+      "rsvps": 3,
       "image": "https://se-images.campuslabs.com/clink/images/69afe445-0f09-4033-9cdd-c2e045d5ed73d810fbec-8de3-48ae-9d09-07c0fdc79010.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12613948"
     },
@@ -1688,7 +1660,7 @@
       "start": "16:00",
       "end": "18:00",
       "blurb": "Join fellow Knights and Knight families for an afternoon of stories surrounding our names, creativity, connection, and chill vibes as Kavita Sawh, Training Spec",
-      "rsvps": 6,
+      "rsvps": 7,
       "image": "https://se-images.campuslabs.com/clink/images/261a47f9-d419-4f07-a6c9-fa82c25791ee97e6cba4-9347-43de-9a6c-0d91a95e0f59.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12531438"
     },
@@ -1744,7 +1716,7 @@
       "start": "12:00",
       "end": "13:00",
       "blurb": "The Fall Session for ACEing Autism will run from September 20th to November 8th, with clinics held every Sunday from 11 a.m. to 12 p.m. This is a wonderful oppo",
-      "rsvps": 6,
+      "rsvps": 7,
       "image": "https://se-images.campuslabs.com/clink/images/8e83055b-ad11-4169-b23d-2a8ea284ab07ce4fffed-7ad1-499c-8829-6b8e2d717591.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12589161"
     },
@@ -1800,7 +1772,7 @@
       "start": "11:00",
       "end": "13:00",
       "blurb": "These clinics are welcoming, structured, and fun for all! Each participant is paired with a friendly, trained volunteer and encouraged to participate and grow a",
-      "rsvps": 0,
+      "rsvps": 1,
       "image": null,
       "url": "https://ucf.campuslabs.com/engage/event/12738894"
     },
@@ -1971,6 +1943,34 @@
       "rsvps": 0,
       "image": "https://se-images.campuslabs.com/clink/images/cf045448-4043-4e6b-bed1-b14697c6355afff7a291-f4fd-4d33-aab2-c7c585e9b27b.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12640735"
+    },
+    {
+      "id": "12578730",
+      "name": "Meditation Monday",
+      "org": "Bhakti Yoga Club ",
+      "theme": "Spirituality",
+      "location": "ISKCON Orlando",
+      "date": "2026-09-21",
+      "start": "19:00",
+      "end": "20:00",
+      "blurb": "Join us for Meditation Monday , a chance to slow down, step away from the busyness of college life, and reconnect with yourself in good company. Each week, we e",
+      "rsvps": 0,
+      "image": "https://se-images.campuslabs.com/clink/images/2a348e23-5afa-4435-9881-3cf5d2e0fcf9d119ad82-7c19-4653-b960-ea17a6d6b131.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12578730"
+    },
+    {
+      "id": "12519195",
+      "name": "General Body Meeting #3 - East Central Branch",
+      "org": "American Society of Civil Engineers at the University of Central Florida",
+      "theme": "ThoughtfulLearning",
+      "location": "CB2 206",
+      "date": "2026-09-21",
+      "start": "19:30",
+      "end": "21:00",
+      "blurb": "Join us for ASCE&rsquo;s third General Body Meeting of the semester with the ASCE East Central Branch! Hear from representatives from ECB as they discuss the pr",
+      "rsvps": 0,
+      "image": "https://se-images.campuslabs.com/clink/images/2bbcd7a9-67d7-449e-aab8-9327d7ab4e982c1534d8-138d-48d6-af27-6f328dca5cb7.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12519195"
     }
   ],
   "keyDates": [
@@ -2697,9 +2697,9 @@
       "url": null,
       "weather": {
         "temp": 87,
-        "precip": 4,
-        "label": "Overcast",
-        "icon": "cloud"
+        "precip": 5,
+        "label": "Clear",
+        "icon": "sun"
       },
       "courseTitle": "Physics Lab"
     },
@@ -2719,7 +2719,7 @@
       "url": null,
       "weather": {
         "temp": 80,
-        "precip": 7,
+        "precip": 5,
         "label": "Overcast",
         "icon": "cloud"
       },
@@ -2741,7 +2741,7 @@
       "url": null,
       "weather": {
         "temp": 96,
-        "precip": 74,
+        "precip": 69,
         "label": "Overcast",
         "icon": "cloud"
       },
@@ -2785,7 +2785,7 @@
       "url": null,
       "weather": {
         "temp": 84,
-        "precip": 10,
+        "precip": 8,
         "label": "Clear",
         "icon": "sun"
       },
@@ -2807,7 +2807,7 @@
       "url": null,
       "weather": {
         "temp": 91,
-        "precip": 10,
+        "precip": 8,
         "label": "Clear",
         "icon": "sun"
       },
@@ -2829,7 +2829,7 @@
       "url": null,
       "weather": {
         "temp": 91,
-        "precip": 51,
+        "precip": 26,
         "label": "Overcast",
         "icon": "cloud"
       },
@@ -2851,7 +2851,7 @@
       "url": null,
       "weather": {
         "temp": 90,
-        "precip": 51,
+        "precip": 26,
         "label": "Overcast",
         "icon": "cloud"
       },
@@ -2873,7 +2873,7 @@
       "url": null,
       "weather": {
         "temp": 86,
-        "precip": 51,
+        "precip": 26,
         "label": "Overcast",
         "icon": "cloud"
       },
@@ -2895,7 +2895,7 @@
       "url": null,
       "weather": {
         "temp": 84,
-        "precip": 25,
+        "precip": 24,
         "label": "Overcast",
         "icon": "cloud"
       },
@@ -2917,7 +2917,7 @@
       "url": null,
       "weather": {
         "temp": 82,
-        "precip": 16,
+        "precip": 26,
         "label": "Light drizzle",
         "icon": "drizzle"
       },
@@ -2939,7 +2939,7 @@
       "url": null,
       "weather": {
         "temp": 88,
-        "precip": 16,
+        "precip": 26,
         "label": "Mostly clear",
         "icon": "sun"
       },
@@ -2961,7 +2961,7 @@
       "url": null,
       "weather": {
         "temp": 91,
-        "precip": 38,
+        "precip": 49,
         "label": "Partly cloudy",
         "icon": "cloud"
       },
@@ -2983,7 +2983,7 @@
       "url": null,
       "weather": {
         "temp": 76,
-        "precip": 1,
+        "precip": 3,
         "label": "Partly cloudy",
         "icon": "cloud"
       },
@@ -3005,7 +3005,7 @@
       "url": null,
       "weather": {
         "temp": 88,
-        "precip": 19,
+        "precip": 15,
         "label": "Mostly clear",
         "icon": "sun"
       },
