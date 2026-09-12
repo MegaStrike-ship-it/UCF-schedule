@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-12T14:56:15.836374-04:00",
+  "generatedAt": "2026-09-12T17:15:36.251917-04:00",
   "term": {
     "name": "Fall 2026",
     "start": "2026-08-24",
@@ -89,31 +89,31 @@
   "weather": {
     "place": "UCF Orlando",
     "current": {
-      "temp": 86,
-      "feelsLike": 96,
-      "label": "Overcast",
-      "icon": "cloud",
+      "temp": 77,
+      "feelsLike": 84,
+      "label": "Heavy rain",
+      "icon": "rain",
       "isDay": true
     },
     "days": [
       {
         "date": "2026-09-12",
-        "label": "Light drizzle",
-        "icon": "drizzle",
+        "label": "Heavy showers",
+        "icon": "rain",
         "high": 90,
-        "low": 76,
-        "precip": 60,
+        "low": 77,
+        "precip": 50,
         "uv": 7,
         "sunrise": "07:08",
         "sunset": "19:33"
       },
       {
         "date": "2026-09-13",
-        "label": "Overcast",
-        "icon": "cloud",
-        "high": 86,
+        "label": "Light drizzle",
+        "icon": "drizzle",
+        "high": 88,
         "low": 74,
-        "precip": 32,
+        "precip": 35,
         "uv": 8,
         "sunrise": "07:08",
         "sunset": "19:31"
@@ -123,8 +123,8 @@
         "label": "Thunderstorms",
         "icon": "storm",
         "high": 92,
-        "low": 75,
-        "precip": 69,
+        "low": 74,
+        "precip": 53,
         "uv": 7,
         "sunrise": "07:09",
         "sunset": "19:30"
@@ -135,7 +135,7 @@
         "icon": "drizzle",
         "high": 92,
         "low": 77,
-        "precip": 26,
+        "precip": 37,
         "uv": 8,
         "sunrise": "07:09",
         "sunset": "19:29"
@@ -146,7 +146,7 @@
         "icon": "cloud",
         "high": 87,
         "low": 74,
-        "precip": 24,
+        "precip": 25,
         "uv": 8,
         "sunrise": "07:10",
         "sunset": "19:28"
@@ -157,7 +157,7 @@
         "icon": "drizzle",
         "high": 91,
         "low": 73,
-        "precip": 49,
+        "precip": 47,
         "uv": 7,
         "sunrise": "07:10",
         "sunset": "19:27"
@@ -168,7 +168,7 @@
         "icon": "drizzle",
         "high": 89,
         "low": 74,
-        "precip": 60,
+        "precip": 67,
         "uv": 6,
         "sunrise": "07:11",
         "sunset": "19:25"
@@ -197,8 +197,8 @@
       "opponent": "Pittsburgh Panthers",
       "home": false,
       "venue": "Acrisure Stadium",
-      "state": "pre",
-      "detail": "9/12 - 3:30 PM EDT"
+      "state": "in",
+      "detail": "End of 1st"
     },
     {
       "date": "2026-09-19",
@@ -292,20 +292,6 @@
     }
   ],
   "events": [
-    {
-      "id": "12696197",
-      "name": "The Sharing Center x PBMF: Volunteering Opportunity ",
-      "org": "Pursuit Beyond Medicine Foundation",
-      "theme": "CommunityService",
-      "location": "The Sharing Center",
-      "date": "2026-09-12",
-      "start": "13:00",
-      "end": "16:00",
-      "blurb": "Join PBMF at The Sharing Center to serve those impacted by hardships, hunger, and homelessness. At The Sharing Center, volunteers will support the thrift or dis",
-      "rsvps": 2,
-      "image": "https://se-images.campuslabs.com/clink/images/977788fc-3e3a-4277-a9bf-6b8ec2c757562dcec18f-a10f-46df-9a41-29d21267c6aa.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12696197"
-    },
     {
       "id": "12662832",
       "name": "PAN Chipotle Partial Proceeds Night",
@@ -545,20 +531,6 @@
       "url": "https://ucf.campuslabs.com/engage/event/12711464"
     },
     {
-      "id": "12615246",
-      "name": "Judicial Outreach Committee",
-      "org": "Student Government Judicial Branch",
-      "theme": "CommunityService",
-      "location": "UCF SG Conference Room - Student Union Room 350",
-      "date": "2026-09-14",
-      "start": "18:00",
-      "end": "19:00",
-      "blurb": "The Judicial Outreach Committee (JOC) works to expand the reach of the Judicial Branch across campus and raise awareness of the services the branch offers. JOC ",
-      "rsvps": 0,
-      "image": "https://se-images.campuslabs.com/clink/images/8002885d-8d19-4c61-8e25-3988da235073c0b13fc2-23b1-493b-b0f5-a2033171d9a8.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12615246"
-    },
-    {
       "id": "12639060",
       "name": "Wii in T3",
       "org": "Tower III Apartments",
@@ -571,6 +543,20 @@
       "rsvps": 14,
       "image": "https://se-images.campuslabs.com/clink/images/720e41f4-4d56-4952-ba96-7b60f1ef827410c78b80-26fa-4d86-b107-830ed5708978.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12639060"
+    },
+    {
+      "id": "12615246",
+      "name": "Judicial Outreach Committee",
+      "org": "Student Government Judicial Branch",
+      "theme": "CommunityService",
+      "location": "UCF SG Conference Room - Student Union Room 350",
+      "date": "2026-09-14",
+      "start": "18:00",
+      "end": "19:00",
+      "blurb": "The Judicial Outreach Committee (JOC) works to expand the reach of the Judicial Branch across campus and raise awareness of the services the branch offers. JOC ",
+      "rsvps": 0,
+      "image": "https://se-images.campuslabs.com/clink/images/8002885d-8d19-4c61-8e25-3988da235073c0b13fc2-23b1-493b-b0f5-a2033171d9a8.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12615246"
     },
     {
       "id": "12708275",
@@ -613,6 +599,20 @@
       "rsvps": 3,
       "image": null,
       "url": "https://ucf.campuslabs.com/engage/event/12483975"
+    },
+    {
+      "id": "12747803",
+      "name": "First General Body Meeting",
+      "org": "Undergraduate Physical Therapy Association",
+      "theme": "ThoughtfulLearning",
+      "location": "Student Union Room 221",
+      "date": "2026-09-14",
+      "start": "18:30",
+      "end": "20:00",
+      "blurb": "Join us for a fun evening to learn about all UPTA has to offer! Any UCF student interested in entering the physical therapy field is welcome, and we'll cover ho",
+      "rsvps": 1,
+      "image": "https://se-images.campuslabs.com/clink/images/529d2f76-b6e9-4990-9b12-d3bf4f7e3ba6c8ddddac-b462-4a8b-aa62-6d7974c58093.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12747803"
     },
     {
       "id": "12725654",
@@ -820,7 +820,7 @@
       "start": "17:00",
       "end": "18:00",
       "blurb": "Join us on Tuesday September 15th for our first GBM of the semester. We welcome both due-paying members and prospective new members for our first meeting. We wi",
-      "rsvps": 2,
+      "rsvps": 3,
       "image": "https://se-images.campuslabs.com/clink/images/0bdbb6ee-7a0d-43ee-9c06-e6d0f920f2c858e0f1bc-82b9-4e2e-aa45-83c3d7c77331.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12747778"
     },
@@ -960,7 +960,7 @@
       "start": "19:00",
       "end": "20:30",
       "blurb": "Our second meeting of the semester is coming up. \ud83d\udcc8 Join Quantitative Finance Club @ UCF for a Financial Markets Primer, where we&rsquo;ll break down the instrum",
-      "rsvps": 3,
+      "rsvps": 4,
       "image": "https://se-images.campuslabs.com/clink/images/b6b2d361-23d8-4346-b994-228471334ae3abd4dd6a-5c89-41f6-b8ed-fc65f17d0286.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12738519"
     },
@@ -1002,7 +1002,7 @@
       "start": "19:30",
       "end": "21:00",
       "blurb": "Join us for AmStat@UCF's first general body meeting of the semester! Meet the exec board, hear what's coming up this year, and connect with fellow stats and dat",
-      "rsvps": 5,
+      "rsvps": 6,
       "image": "https://se-images.campuslabs.com/clink/images/8246a9ee-8893-4817-b63d-c47b7e8d5ecc2bfeedf0-5096-497a-8730-7266123e0901.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12740038"
     },
@@ -1441,6 +1441,20 @@
       "url": "https://ucf.campuslabs.com/engage/event/12551190"
     },
     {
+      "id": "12747801",
+      "name": "Events 101",
+      "org": "Meeting Professionals International Knights",
+      "theme": "ThoughtfulLearning",
+      "location": "Rosen College Classroom 105",
+      "date": "2026-09-17",
+      "start": "17:00",
+      "end": "18:30",
+      "blurb": "Interested in Events? Get the chance to hear from an industry professional on her career journey and experiences. Ask your questions, get connected, and learn a",
+      "rsvps": 0,
+      "image": "https://se-images.campuslabs.com/clink/images/38febb14-c220-4834-a52e-4469aeb4b3c3aa686572-08e1-4d81-8fb4-4eef08321f8b.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12747801"
+    },
+    {
       "id": "12738845",
       "name": "Study Knight with KE",
       "org": "Best Buddies at UCF",
@@ -1730,7 +1744,7 @@
       "start": "12:00",
       "end": "13:00",
       "blurb": "The Fall Session for ACEing Autism will run from September 20th to November 8th, with clinics held every Sunday from 11 a.m. to 12 p.m. This is a wonderful oppo",
-      "rsvps": 7,
+      "rsvps": 8,
       "image": "https://se-images.campuslabs.com/clink/images/8e83055b-ad11-4169-b23d-2a8ea284ab07ce4fffed-7ad1-499c-8829-6b8e2d717591.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12589161"
     },
@@ -1957,20 +1971,6 @@
       "rsvps": 0,
       "image": "https://se-images.campuslabs.com/clink/images/cf045448-4043-4e6b-bed1-b14697c6355afff7a291-f4fd-4d33-aab2-c7c585e9b27b.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12640735"
-    },
-    {
-      "id": "12578730",
-      "name": "Meditation Monday",
-      "org": "Bhakti Yoga Club ",
-      "theme": "Spirituality",
-      "location": "ISKCON Orlando",
-      "date": "2026-09-21",
-      "start": "19:00",
-      "end": "20:00",
-      "blurb": "Join us for Meditation Monday , a chance to slow down, step away from the busyness of college life, and reconnect with yourself in good company. Each week, we e",
-      "rsvps": 0,
-      "image": "https://se-images.campuslabs.com/clink/images/2a348e23-5afa-4435-9881-3cf5d2e0fcf9d119ad82-7c19-4653-b960-ea17a6d6b131.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12578730"
     }
   ],
   "keyDates": [
@@ -2718,10 +2718,10 @@
       "title": "EGS 1006C Laboratory",
       "url": null,
       "weather": {
-        "temp": 81,
-        "precip": 5,
-        "label": "Partly cloudy",
-        "icon": "cloud"
+        "temp": 79,
+        "precip": 9,
+        "label": "Clear",
+        "icon": "sun"
       },
       "courseTitle": "Intro to Engineering"
     },
@@ -2741,7 +2741,7 @@
       "url": null,
       "weather": {
         "temp": 90,
-        "precip": 69,
+        "precip": 53,
         "label": "Overcast",
         "icon": "cloud"
       },
@@ -2763,7 +2763,7 @@
       "url": null,
       "weather": {
         "temp": 77,
-        "precip": 0,
+        "precip": 1,
         "label": "Overcast",
         "icon": "cloud"
       },
@@ -2785,7 +2785,7 @@
       "url": null,
       "weather": {
         "temp": 85,
-        "precip": 8,
+        "precip": 10,
         "label": "Drizzle",
         "icon": "drizzle"
       },
@@ -2807,7 +2807,7 @@
       "url": null,
       "weather": {
         "temp": 90,
-        "precip": 8,
+        "precip": 10,
         "label": "Overcast",
         "icon": "cloud"
       },
@@ -2829,7 +2829,7 @@
       "url": null,
       "weather": {
         "temp": 91,
-        "precip": 26,
+        "precip": 37,
         "label": "Overcast",
         "icon": "cloud"
       },
@@ -2851,7 +2851,7 @@
       "url": null,
       "weather": {
         "temp": 90,
-        "precip": 26,
+        "precip": 37,
         "label": "Mostly clear",
         "icon": "sun"
       },
@@ -2873,7 +2873,7 @@
       "url": null,
       "weather": {
         "temp": 86,
-        "precip": 26,
+        "precip": 37,
         "label": "Overcast",
         "icon": "cloud"
       },
@@ -2895,7 +2895,7 @@
       "url": null,
       "weather": {
         "temp": 87,
-        "precip": 24,
+        "precip": 25,
         "label": "Overcast",
         "icon": "cloud"
       },
@@ -2917,7 +2917,7 @@
       "url": null,
       "weather": {
         "temp": 80,
-        "precip": 26,
+        "precip": 17,
         "label": "Light drizzle",
         "icon": "drizzle"
       },
@@ -2939,7 +2939,7 @@
       "url": null,
       "weather": {
         "temp": 86,
-        "precip": 26,
+        "precip": 17,
         "label": "Mostly clear",
         "icon": "sun"
       },
@@ -2961,7 +2961,7 @@
       "url": null,
       "weather": {
         "temp": 91,
-        "precip": 49,
+        "precip": 47,
         "label": "Overcast",
         "icon": "cloud"
       },
@@ -3005,7 +3005,7 @@
       "url": null,
       "weather": {
         "temp": 87,
-        "precip": 15,
+        "precip": 17,
         "label": "Overcast",
         "icon": "cloud"
       },
