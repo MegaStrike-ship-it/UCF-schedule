@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T19:51:58.480606-04:00",
+  "generatedAt": "2026-09-12T09:20:24.150847-04:00",
   "term": {
     "name": "Fall 2026",
     "start": "2026-08-24",
@@ -89,53 +89,42 @@
   "weather": {
     "place": "UCF Orlando",
     "current": {
-      "temp": 81,
-      "feelsLike": 90,
+      "temp": 83,
+      "feelsLike": 92,
       "label": "Overcast",
       "icon": "cloud",
-      "isDay": false
+      "isDay": true
     },
     "days": [
       {
-        "date": "2026-09-11",
-        "label": "Overcast",
-        "icon": "cloud",
-        "high": 94,
-        "low": 76,
-        "precip": 52,
-        "uv": 8,
-        "sunrise": "07:07",
-        "sunset": "19:34"
-      },
-      {
         "date": "2026-09-12",
-        "label": "Overcast",
-        "icon": "cloud",
+        "label": "Heavy showers",
+        "icon": "rain",
         "high": 89,
         "low": 75,
-        "precip": 36,
-        "uv": 8,
+        "precip": 33,
+        "uv": 7,
         "sunrise": "07:08",
         "sunset": "19:33"
       },
       {
         "date": "2026-09-13",
-        "label": "Thunderstorms",
-        "icon": "storm",
-        "high": 92,
-        "low": 74,
-        "precip": 74,
-        "uv": 7,
+        "label": "Overcast",
+        "icon": "cloud",
+        "high": 87,
+        "low": 75,
+        "precip": 51,
+        "uv": 8,
         "sunrise": "07:08",
         "sunset": "19:31"
       },
       {
         "date": "2026-09-14",
-        "label": "Light drizzle",
-        "icon": "drizzle",
-        "high": 95,
-        "low": 77,
-        "precip": 66,
+        "label": "Thunderstorms",
+        "icon": "storm",
+        "high": 96,
+        "low": 74,
+        "precip": 74,
         "uv": 8,
         "sunrise": "07:09",
         "sunset": "19:30"
@@ -144,9 +133,9 @@
         "date": "2026-09-15",
         "label": "Overcast",
         "icon": "cloud",
-        "high": 93,
-        "low": 77,
-        "precip": 36,
+        "high": 92,
+        "low": 75,
+        "precip": 51,
         "uv": 8,
         "sunrise": "07:09",
         "sunset": "19:29"
@@ -155,29 +144,40 @@
         "date": "2026-09-16",
         "label": "Overcast",
         "icon": "cloud",
-        "high": 88,
-        "low": 77,
-        "precip": 35,
-        "uv": 6,
+        "high": 85,
+        "low": 74,
+        "precip": 25,
+        "uv": 5,
         "sunrise": "07:10",
         "sunset": "19:28"
       },
       {
         "date": "2026-09-17",
-        "label": "Showers",
-        "icon": "rain",
-        "high": 82,
-        "low": 72,
-        "precip": 42,
+        "label": "Drizzle",
+        "icon": "drizzle",
+        "high": 91,
+        "low": 74,
+        "precip": 38,
         "uv": 7,
         "sunrise": "07:10",
         "sunset": "19:27"
+      },
+      {
+        "date": "2026-09-18",
+        "label": "Drizzle",
+        "icon": "drizzle",
+        "high": 90,
+        "low": 75,
+        "precip": 62,
+        "uv": 7,
+        "sunrise": "07:11",
+        "sunset": "19:25"
       }
     ],
     "air": {
-      "aqi": 57,
+      "aqi": 54,
       "label": "Moderate",
-      "pm25": 12.4
+      "pm25": 8.1
     }
   },
   "severe": [],
@@ -293,48 +293,6 @@
   ],
   "events": [
     {
-      "id": "12583320",
-      "name": "Blaze Pizza Partial Proceeds",
-      "org": "National Student Speech Language Hearing Association (NSSLHA) - Orlando",
-      "theme": "Fundraising",
-      "location": "Blaze Pizza",
-      "date": "2026-09-11",
-      "start": "15:00",
-      "end": "23:00",
-      "blurb": "About: Kick off the fall semester with pizza and NSSLHA! \ud83c\udf55 Come enjoy Blaze Pizza for lunch, dinner, or a late night snack with friends while supporting our cha",
-      "rsvps": 21,
-      "image": "https://se-images.campuslabs.com/clink/images/ffeebc6d-8499-4154-a916-ddcb85b96cc962132be5-aaa1-417b-8008-6c94e65dc150.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12583320"
-    },
-    {
-      "id": "12527568",
-      "name": "Recruitment Night 5: Service Night",
-      "org": "Omega Phi Alpha National Service Sorority",
-      "theme": "CommunityService",
-      "location": "TBD",
-      "date": "2026-09-11",
-      "start": "19:00",
-      "end": "20:00",
-      "blurb": "The goal of this evening is to allow potential new members to experience the heart of Omega Phi Alpha through hands-on service! By participating in a variety of",
-      "rsvps": 1,
-      "image": "https://se-images.campuslabs.com/clink/images/235f1cde-6102-4495-8722-234577ff68c643b78a60-7b29-46ed-b493-e69e566ff45e.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12527568"
-    },
-    {
-      "id": "12692565",
-      "name": "Ice Breaker Social ",
-      "org": "Association of Pre-Physician Assistants",
-      "theme": "Social",
-      "location": "Classroom Building 2",
-      "date": "2026-09-11",
-      "start": "19:00",
-      "end": "20:00",
-      "blurb": "Come hang out with us at our first APPA Social! This is the perfect chance to meet new people, make new friends, connect with fellow pre-PA students, and just h",
-      "rsvps": 5,
-      "image": "https://se-images.campuslabs.com/clink/images/31e77372-b678-4866-b051-78dda7a72bc5641b7955-19c1-4078-bdda-f14cb913ac93.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12692565"
-    },
-    {
       "id": "12739283",
       "name": "Running con COLSA",
       "org": "Colombian Student Association",
@@ -344,7 +302,7 @@
       "start": "08:30",
       "end": "10:00",
       "blurb": "Come join us for a morning run with COLSA!!!",
-      "rsvps": 8,
+      "rsvps": 12,
       "image": "https://se-images.campuslabs.com/clink/images/9ed277a5-25e5-4ce8-b43e-047af79b8c96f13cf2c3-0104-4479-afc3-6064211582c6.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12739283"
     },
@@ -372,7 +330,7 @@
       "start": "13:00",
       "end": "16:00",
       "blurb": "Join PBMF at The Sharing Center to serve those impacted by hardships, hunger, and homelessness. At The Sharing Center, volunteers will support the thrift or dis",
-      "rsvps": 1,
+      "rsvps": 2,
       "image": "https://se-images.campuslabs.com/clink/images/977788fc-3e3a-4277-a9bf-6b8ec2c757562dcec18f-a10f-46df-9a41-29d21267c6aa.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12696197"
     },
@@ -596,7 +554,7 @@
       "start": "18:00",
       "end": "19:00",
       "blurb": "We're kicking off our first speaker event of the semester! Join us for an inspiring conversation with Geraldine Ortiz, Managing Director of the Corporate Contro",
-      "rsvps": 4,
+      "rsvps": 5,
       "image": "https://se-images.campuslabs.com/clink/images/05ffe312-3e2b-4901-8771-2b787216669be385c0de-b921-4e8d-aeaa-9ff63395c04c.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12739894"
     },
@@ -699,20 +657,6 @@
       "url": "https://ucf.campuslabs.com/engage/event/12725654"
     },
     {
-      "id": "12578729",
-      "name": "Meditation Monday",
-      "org": "Bhakti Yoga Club ",
-      "theme": "Spirituality",
-      "location": "ISKCON Orlando",
-      "date": "2026-09-14",
-      "start": "19:00",
-      "end": "20:00",
-      "blurb": "Join us for Meditation Monday , a chance to slow down, step away from the busyness of college life, and reconnect with yourself in good company. Each week, we e",
-      "rsvps": 2,
-      "image": "https://se-images.campuslabs.com/clink/images/2a348e23-5afa-4435-9881-3cf5d2e0fcf9d119ad82-7c19-4653-b960-ea17a6d6b131.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12578729"
-    },
-    {
       "id": "12731896",
       "name": "KGD RUSH - Information Night",
       "org": "Kappa Gamma Delta",
@@ -725,6 +669,20 @@
       "rsvps": 6,
       "image": "https://se-images.campuslabs.com/clink/images/3c0ca36e-8717-4a5b-a58a-bbf4ca9ae00803e99578-4d34-4700-bb06-2c28df203b6a.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12731896"
+    },
+    {
+      "id": "12578729",
+      "name": "Meditation Monday",
+      "org": "Bhakti Yoga Club ",
+      "theme": "Spirituality",
+      "location": "ISKCON Orlando",
+      "date": "2026-09-14",
+      "start": "19:00",
+      "end": "20:00",
+      "blurb": "Join us for Meditation Monday , a chance to slow down, step away from the busyness of college life, and reconnect with yourself in good company. Each week, we e",
+      "rsvps": 3,
+      "image": "https://se-images.campuslabs.com/clink/images/2a348e23-5afa-4435-9881-3cf5d2e0fcf9d119ad82-7c19-4653-b960-ea17a6d6b131.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12578729"
     },
     {
       "id": "12697277",
@@ -946,7 +904,7 @@
       "start": "18:00",
       "end": "20:00",
       "blurb": "We will set up in the elevator and ask trivia questions related to animation and video games. Correct answers will win a prize.",
-      "rsvps": 3,
+      "rsvps": 4,
       "image": "https://se-images.campuslabs.com/clink/images/4b806443-c2f9-4006-850e-80855fa5389b3c155c1e-c8a8-4b81-b29e-1d3b679fd606.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12638980"
     },
@@ -977,6 +935,20 @@
       "rsvps": 0,
       "image": "https://se-images.campuslabs.com/clink/images/01e1b682-92c7-453c-944f-fc049820137ebaecedd5-9913-4a9a-ae34-57650d0cf9df.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12711470"
+    },
+    {
+      "id": "12747419",
+      "name": "New Obstacle Reveal",
+      "org": "The Skateboarding Club at UCF",
+      "theme": "Cultural",
+      "location": "Addition Arena",
+      "date": "2026-09-15",
+      "start": "18:30",
+      "end": "21:30",
+      "blurb": "We are skating our new obstacle, come out and join. We will have extra boards if you want to learn to skate.",
+      "rsvps": 0,
+      "image": "https://se-images.campuslabs.com/clink/images/02968d9a-4452-48de-a20f-6360fc4e3fd2feb0014c-ffda-4adc-8843-e6756e619ba1.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12747419"
     },
     {
       "id": "12682819",
@@ -1044,7 +1016,7 @@
       "start": "19:30",
       "end": "21:00",
       "blurb": "Join us for AmStat@UCF's first general body meeting of the semester! Meet the exec board, hear what's coming up this year, and connect with fellow stats and dat",
-      "rsvps": 4,
+      "rsvps": 5,
       "image": "https://se-images.campuslabs.com/clink/images/8246a9ee-8893-4817-b63d-c47b7e8d5ecc2bfeedf0-5096-497a-8730-7266123e0901.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12740038"
     },
@@ -1674,7 +1646,7 @@
       "start": "14:00",
       "end": "16:00",
       "blurb": "About: Whip it. Aim. Donate. \ud83e\udd67 Send your NSSLHA officers flying into a pie while supporting a great cause! Every contribution helps fund UCF NSSLHA events, outr",
-      "rsvps": 12,
+      "rsvps": 13,
       "image": "https://se-images.campuslabs.com/clink/images/5294e80e-08bb-4563-9a41-2775f85ec818b9d9daba-b2f5-406e-b843-8485a1710257.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/11547723"
     },
@@ -1772,7 +1744,7 @@
       "start": "12:00",
       "end": "13:00",
       "blurb": "The Fall Session for ACEing Autism will run from September 20th to November 8th, with clinics held every Sunday from 11 a.m. to 12 p.m. This is a wonderful oppo",
-      "rsvps": 5,
+      "rsvps": 6,
       "image": "https://se-images.campuslabs.com/clink/images/8e83055b-ad11-4169-b23d-2a8ea284ab07ce4fffed-7ad1-499c-8829-6b8e2d717591.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12589161"
     },
@@ -1842,7 +1814,7 @@
       "start": "19:00",
       "end": "22:00",
       "blurb": "UCF's Contemporary A Cappella Society presents Acapalooza! This is a musical event that you don&rsquo;t want to miss! With performances from our award-winning a",
-      "rsvps": 9,
+      "rsvps": 13,
       "image": "https://se-images.campuslabs.com/clink/images/eaf8021a-d7f8-4119-aab2-ce10bad21e7f79e39d6e-1704-4955-8e9b-77c2d41f336f.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12732336"
     },
@@ -1971,6 +1943,34 @@
       "rsvps": 1,
       "image": null,
       "url": "https://ucf.campuslabs.com/engage/event/12677737"
+    },
+    {
+      "id": "12652074",
+      "name": "Bored? Game In The Tune",
+      "org": "Neptune Community",
+      "theme": "Social",
+      "location": "Neptune Multipurpose Room",
+      "date": "2026-09-21",
+      "start": "19:00",
+      "end": "20:00",
+      "blurb": "Residents will be provided with a variety of board games (monopoly, uno, name 5, etc.) to play with each other. This program is designed for residents to relax ",
+      "rsvps": 0,
+      "image": "https://se-images.campuslabs.com/clink/images/c0c403b6-6e7c-4878-a1f7-35498423f1b4e5727f51-087b-449d-a1cb-9101797a80bb.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12652074"
+    },
+    {
+      "id": "12640735",
+      "name": "Game Knight! ",
+      "org": "Northview Apartments",
+      "theme": "Social",
+      "location": "NorthView Game Room",
+      "date": "2026-09-21",
+      "start": "19:00",
+      "end": "20:00",
+      "blurb": "Join us for a fun filled game night with Shirley Temples! We'll be playing pool, foosball, redball and more!",
+      "rsvps": 0,
+      "image": "https://se-images.campuslabs.com/clink/images/cf045448-4043-4e6b-bed1-b14697c6355afff7a291-f4fd-4d33-aab2-c7c585e9b27b.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12640735"
     }
   ],
   "keyDates": [
@@ -2663,12 +2663,6 @@
       "changes": {},
       "title": "EGS 1006C Lecture",
       "url": null,
-      "weather": {
-        "temp": 76,
-        "precip": 1,
-        "label": "Clear",
-        "icon": "sun"
-      },
       "courseTitle": "Intro to Engineering"
     },
     {
@@ -2685,12 +2679,6 @@
       "changes": {},
       "title": "MAC 2312 Friday Lecture",
       "url": null,
-      "weather": {
-        "temp": 88,
-        "precip": 3,
-        "label": "Mostly clear",
-        "icon": "sun"
-      },
       "courseTitle": "Calculus 2"
     },
     {
@@ -2708,8 +2696,8 @@
       "title": "PHY 2048L Laboratory",
       "url": null,
       "weather": {
-        "temp": 85,
-        "precip": 3,
+        "temp": 87,
+        "precip": 4,
         "label": "Overcast",
         "icon": "cloud"
       },
@@ -2730,8 +2718,8 @@
       "title": "EGS 1006C Laboratory",
       "url": null,
       "weather": {
-        "temp": 81,
-        "precip": 9,
+        "temp": 80,
+        "precip": 7,
         "label": "Overcast",
         "icon": "cloud"
       },
@@ -2752,10 +2740,10 @@
       "title": "ISC 2054 Seminar",
       "url": null,
       "weather": {
-        "temp": 95,
-        "precip": 66,
-        "label": "Mostly clear",
-        "icon": "sun"
+        "temp": 96,
+        "precip": 74,
+        "label": "Overcast",
+        "icon": "cloud"
       },
       "courseTitle": "STEM Seminar"
     },
@@ -2774,8 +2762,8 @@
       "title": "PHY 2048 Discussion",
       "url": null,
       "weather": {
-        "temp": 77,
-        "precip": 1,
+        "temp": 75,
+        "precip": 0,
         "label": "Clear",
         "icon": "sun"
       },
@@ -2796,8 +2784,8 @@
       "title": "ENC 1101 Lecture",
       "url": null,
       "weather": {
-        "temp": 85,
-        "precip": 13,
+        "temp": 84,
+        "precip": 10,
         "label": "Clear",
         "icon": "sun"
       },
@@ -2818,9 +2806,9 @@
       "title": "MAC 2312 Lecture",
       "url": null,
       "weather": {
-        "temp": 90,
-        "precip": 13,
-        "label": "Mostly clear",
+        "temp": 91,
+        "precip": 10,
+        "label": "Clear",
         "icon": "sun"
       },
       "courseTitle": "Calculus 2"
@@ -2840,8 +2828,8 @@
       "title": "PHY 2048 Lecture",
       "url": null,
       "weather": {
-        "temp": 92,
-        "precip": 36,
+        "temp": 91,
+        "precip": 51,
         "label": "Overcast",
         "icon": "cloud"
       },
@@ -2862,9 +2850,9 @@
       "title": "IDH 1920H Lecture",
       "url": null,
       "weather": {
-        "temp": 91,
-        "precip": 36,
-        "label": "Partly cloudy",
+        "temp": 90,
+        "precip": 51,
+        "label": "Overcast",
         "icon": "cloud"
       },
       "courseTitle": "Honors Symposium"
@@ -2884,8 +2872,8 @@
       "title": "IDH 1920H Lecture",
       "url": null,
       "weather": {
-        "temp": 87,
-        "precip": 36,
+        "temp": 86,
+        "precip": 51,
         "label": "Overcast",
         "icon": "cloud"
       },
@@ -2906,8 +2894,8 @@
       "title": "ISC 2054 Seminar",
       "url": null,
       "weather": {
-        "temp": 87,
-        "precip": 35,
+        "temp": 84,
+        "precip": 25,
         "label": "Overcast",
         "icon": "cloud"
       },
@@ -2928,8 +2916,8 @@
       "title": "ENC 1101 Lecture",
       "url": null,
       "weather": {
-        "temp": 78,
-        "precip": 24,
+        "temp": 82,
+        "precip": 16,
         "label": "Light drizzle",
         "icon": "drizzle"
       },
@@ -2950,10 +2938,10 @@
       "title": "MAC 2312 Lecture",
       "url": null,
       "weather": {
-        "temp": 81,
-        "precip": 24,
-        "label": "Light drizzle",
-        "icon": "drizzle"
+        "temp": 88,
+        "precip": 16,
+        "label": "Mostly clear",
+        "icon": "sun"
       },
       "courseTitle": "Calculus 2"
     },
@@ -2972,8 +2960,8 @@
       "title": "PHY 2048 Lecture",
       "url": null,
       "weather": {
-        "temp": 82,
-        "precip": 42,
+        "temp": 91,
+        "precip": 38,
         "label": "Partly cloudy",
         "icon": "cloud"
       },
@@ -2993,6 +2981,12 @@
       "changes": {},
       "title": "EGS 1006C Lecture",
       "url": null,
+      "weather": {
+        "temp": 76,
+        "precip": 1,
+        "label": "Partly cloudy",
+        "icon": "cloud"
+      },
       "courseTitle": "Intro to Engineering"
     },
     {
@@ -3009,6 +3003,12 @@
       "changes": {},
       "title": "MAC 2312 Friday Lecture",
       "url": null,
+      "weather": {
+        "temp": 88,
+        "precip": 19,
+        "label": "Mostly clear",
+        "icon": "sun"
+      },
       "courseTitle": "Calculus 2"
     },
     {
@@ -5613,7 +5613,7 @@
       "title": "Sign-Up For Conferences by 09/12 @ 11:59pm",
       "dueAt": "2026-09-12T00:00:00-04:00",
       "points": null,
-      "overdue": false,
+      "overdue": true,
       "url": "https://webcourses.ucf.edu/calendar?include_contexts=course_1521509&month=09&year=2026#assignment_9721078"
     },
     {
