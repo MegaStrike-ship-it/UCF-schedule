@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-13T13:54:55.329638-04:00",
+  "generatedAt": "2026-09-13T16:18:58.980475-04:00",
   "term": {
     "name": "Fall 2026",
     "start": "2026-08-24",
@@ -90,9 +90,9 @@
     "place": "UCF Orlando",
     "current": {
       "temp": 88,
-      "feelsLike": 100,
-      "label": "Mostly clear",
-      "icon": "sun",
+      "feelsLike": 98,
+      "label": "Overcast",
+      "icon": "cloud",
       "isDay": true
     },
     "days": [
@@ -100,20 +100,20 @@
         "date": "2026-09-13",
         "label": "Light drizzle",
         "icon": "drizzle",
-        "high": 90,
+        "high": 89,
         "low": 74,
-        "precip": 40,
+        "precip": 30,
         "uv": 8,
         "sunrise": "07:08",
         "sunset": "19:31"
       },
       {
         "date": "2026-09-14",
-        "label": "Overcast",
-        "icon": "cloud",
+        "label": "Heavy showers",
+        "icon": "rain",
         "high": 88,
-        "low": 74,
-        "precip": 37,
+        "low": 76,
+        "precip": 36,
         "uv": 8,
         "sunrise": "07:09",
         "sunset": "19:30"
@@ -175,9 +175,9 @@
       }
     ],
     "air": {
-      "aqi": 55,
+      "aqi": 56,
       "label": "Moderate",
-      "pm25": 14.3
+      "pm25": 10.5
     }
   },
   "severe": [],
@@ -442,7 +442,7 @@
       "start": "18:00",
       "end": "19:00",
       "blurb": "We're kicking off our first speaker event of the semester! Join us for an inspiring conversation with Geraldine Ortiz, Managing Director of the Corporate Contro",
-      "rsvps": 10,
+      "rsvps": 11,
       "image": "https://se-images.campuslabs.com/clink/images/05ffe312-3e2b-4901-8771-2b787216669be385c0de-b921-4e8d-aeaa-9ff63395c04c.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12739894"
     },
@@ -461,20 +461,6 @@
       "url": "https://ucf.campuslabs.com/engage/event/12711464"
     },
     {
-      "id": "12615246",
-      "name": "Judicial Outreach Committee",
-      "org": "Student Government Judicial Branch",
-      "theme": "CommunityService",
-      "location": "UCF SG Conference Room - Student Union Room 350",
-      "date": "2026-09-14",
-      "start": "18:00",
-      "end": "19:00",
-      "blurb": "The Judicial Outreach Committee (JOC) works to expand the reach of the Judicial Branch across campus and raise awareness of the services the branch offers. JOC ",
-      "rsvps": 0,
-      "image": "https://se-images.campuslabs.com/clink/images/8002885d-8d19-4c61-8e25-3988da235073c0b13fc2-23b1-493b-b0f5-a2033171d9a8.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12615246"
-    },
-    {
       "id": "12639060",
       "name": "Wii in T3",
       "org": "Tower III Apartments",
@@ -487,6 +473,20 @@
       "rsvps": 14,
       "image": "https://se-images.campuslabs.com/clink/images/720e41f4-4d56-4952-ba96-7b60f1ef827410c78b80-26fa-4d86-b107-830ed5708978.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12639060"
+    },
+    {
+      "id": "12615246",
+      "name": "Judicial Outreach Committee",
+      "org": "Student Government Judicial Branch",
+      "theme": "CommunityService",
+      "location": "UCF SG Conference Room - Student Union Room 350",
+      "date": "2026-09-14",
+      "start": "18:00",
+      "end": "19:00",
+      "blurb": "The Judicial Outreach Committee (JOC) works to expand the reach of the Judicial Branch across campus and raise awareness of the services the branch offers. JOC ",
+      "rsvps": 0,
+      "image": "https://se-images.campuslabs.com/clink/images/8002885d-8d19-4c61-8e25-3988da235073c0b13fc2-23b1-493b-b0f5-a2033171d9a8.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12615246"
     },
     {
       "id": "12708275",
@@ -741,6 +741,20 @@
       "url": "https://ucf.campuslabs.com/engage/event/12550968"
     },
     {
+      "id": "12748229",
+      "name": "PAT September General Meeting",
+      "org": "Phi Alpha Theta Honor Society ",
+      "theme": "Social",
+      "location": "Center for Humanities and Digital Research (CHDR) Room 325 in Trevor Colbourn Hall",
+      "date": "2026-09-15",
+      "start": "16:30",
+      "end": "17:30",
+      "blurb": "Come join PAT for our first general body meeting of the Fall Semester. This is a great chance to meet the PAT officers and connect with other students who have ",
+      "rsvps": 0,
+      "image": "https://se-images.campuslabs.com/clink/images/a6e0dcfe-d2bd-475f-ae34-1bc8f92e9f5860da6ac8-2cce-4254-839e-32e20f24010b.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12748229"
+    },
+    {
       "id": "12747778",
       "name": "General Body Meeting #1 Fall 2026",
       "org": "League of Women Voters of UCF",
@@ -946,7 +960,7 @@
       "start": "19:30",
       "end": "21:00",
       "blurb": "Our first GBM will be in business administration 1 room 225 at 7:30pm on Tuesday September 15th! We will cover what we do as a club and our schedule of activiti",
-      "rsvps": 2,
+      "rsvps": 4,
       "image": "https://se-images.campuslabs.com/clink/images/8edb1e81-1a4b-43a1-808e-2a1c05d25b43a135e725-d0bc-4e83-98f1-0d27f4659dcc.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12748192"
     },
@@ -1548,7 +1562,7 @@
       "start": "18:30",
       "end": "19:30",
       "blurb": "Are you a UCF student interested in joining the fight against cancer ? We are the perfect place for you!! Our first general body meeting will be a great way to ",
-      "rsvps": 0,
+      "rsvps": 1,
       "image": "https://se-images.campuslabs.com/clink/images/1e6461a0-d9f2-4f81-b3a9-41252c3d58452856be68-3e66-4d4d-9173-947d3b5a2d84.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12710815"
     },
@@ -1717,7 +1731,7 @@
       "end": "19:00",
       "blurb": "Get to know all the Best Buddies members with some fun games! We will play get to know you games/activities to learn more about the members in a group as well a",
       "rsvps": 0,
-      "image": null,
+      "image": "https://se-images.campuslabs.com/clink/images/05c50229-5801-4a5b-b7e1-e05685a881e3ca6a6d10-3d6f-4152-b63f-f846088c96f9.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12738874"
     },
     {
@@ -1801,7 +1815,7 @@
       "end": "13:00",
       "blurb": "These clinics are welcoming, structured, and fun for all! Each participant is paired with a friendly, trained volunteer and encouraged to participate and grow a",
       "rsvps": 1,
-      "image": null,
+      "image": "https://se-images.campuslabs.com/clink/images/2e0cc744-a897-42dd-84ba-b459d97f598c0301ddce-0d37-4557-872f-db72e90135aa.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12738894"
     },
     {
@@ -1957,20 +1971,6 @@
       "rsvps": 0,
       "image": "https://se-images.campuslabs.com/clink/images/c0c403b6-6e7c-4878-a1f7-35498423f1b4e5727f51-087b-449d-a1cb-9101797a80bb.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12652074"
-    },
-    {
-      "id": "12640735",
-      "name": "Game Knight! ",
-      "org": "Northview Apartments",
-      "theme": "Social",
-      "location": "NorthView Game Room",
-      "date": "2026-09-21",
-      "start": "19:00",
-      "end": "20:00",
-      "blurb": "Join us for a fun filled game night with Shirley Temples! We'll be playing pool, foosball, redball and more!",
-      "rsvps": 0,
-      "image": "https://se-images.campuslabs.com/clink/images/cf045448-4043-4e6b-bed1-b14697c6355afff7a291-f4fd-4d33-aab2-c7c585e9b27b.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12640735"
     }
   ],
   "keyDates": [
@@ -2713,9 +2713,9 @@
       "url": null,
       "weather": {
         "temp": 79,
-        "precip": 2,
-        "label": "Partly cloudy",
-        "icon": "cloud"
+        "precip": 7,
+        "label": "Clear",
+        "icon": "sun"
       },
       "courseTitle": "Intro to Engineering"
     },
@@ -2735,8 +2735,8 @@
       "url": null,
       "weather": {
         "temp": 87,
-        "precip": 19,
-        "label": "Overcast",
+        "precip": 17,
+        "label": "Partly cloudy",
         "icon": "cloud"
       },
       "courseTitle": "STEM Seminar"
@@ -2758,7 +2758,7 @@
       "weather": {
         "temp": 75,
         "precip": 2,
-        "label": "Clear",
+        "label": "Mostly clear",
         "icon": "sun"
       },
       "courseTitle": "Physics: Mechanics"
@@ -5617,6 +5617,15 @@
       "url": "https://webcourses.ucf.edu/calendar?include_contexts=course_1521509&month=09&year=2026#assignment_9721078"
     },
     {
+      "course": "MAC 2312",
+      "courseTitle": "Calculus 2",
+      "title": "Volume by Cylindrical Shells Section 2.3",
+      "dueAt": "2026-09-13T00:00:00-04:00",
+      "points": null,
+      "overdue": true,
+      "url": "https://webcourses.ucf.edu/calendar?include_contexts=course_1522946&month=09&year=2026#assignment_9672786"
+    },
+    {
       "course": "EGS 1006C",
       "courseTitle": "Intro to Engineering",
       "title": "Excel - Chapter 01 - Creating and Editing Workbooks",
@@ -5642,15 +5651,6 @@
       "points": null,
       "overdue": true,
       "url": "https://webcourses.ucf.edu/calendar?include_contexts=course_1519779&month=09&year=2026#assignment_9602492"
-    },
-    {
-      "course": "MAC 2312",
-      "courseTitle": "Calculus 2",
-      "title": "Volume by Cylindrical Shells Section 2.3",
-      "dueAt": "2026-09-13T00:00:00-04:00",
-      "points": null,
-      "overdue": true,
-      "url": "https://webcourses.ucf.edu/calendar?include_contexts=course_1522946&month=09&year=2026#assignment_9672786"
     },
     {
       "course": "IDH 1920H",
