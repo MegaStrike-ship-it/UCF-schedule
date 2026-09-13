@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-13T10:03:11.011894-04:00",
+  "generatedAt": "2026-09-13T13:54:55.329638-04:00",
   "term": {
     "name": "Fall 2026",
     "start": "2026-08-24",
@@ -89,9 +89,9 @@
   "weather": {
     "place": "UCF Orlando",
     "current": {
-      "temp": 80,
-      "feelsLike": 89,
-      "label": "Clear",
+      "temp": 88,
+      "feelsLike": 100,
+      "label": "Mostly clear",
       "icon": "sun",
       "isDay": true
     },
@@ -100,9 +100,9 @@
         "date": "2026-09-13",
         "label": "Light drizzle",
         "icon": "drizzle",
-        "high": 89,
+        "high": 90,
         "low": 74,
-        "precip": 31,
+        "precip": 40,
         "uv": 8,
         "sunrise": "07:08",
         "sunset": "19:31"
@@ -113,18 +113,18 @@
         "icon": "cloud",
         "high": 88,
         "low": 74,
-        "precip": 22,
+        "precip": 37,
         "uv": 8,
         "sunrise": "07:09",
         "sunset": "19:30"
       },
       {
         "date": "2026-09-15",
-        "label": "Partly cloudy",
-        "icon": "cloud",
+        "label": "Light drizzle",
+        "icon": "drizzle",
         "high": 92,
         "low": 75,
-        "precip": 22,
+        "precip": 40,
         "uv": 8,
         "sunrise": "07:09",
         "sunset": "19:29"
@@ -134,8 +134,8 @@
         "label": "Overcast",
         "icon": "cloud",
         "high": 88,
-        "low": 76,
-        "precip": 19,
+        "low": 78,
+        "precip": 12,
         "uv": 8,
         "sunrise": "07:10",
         "sunset": "19:28"
@@ -144,21 +144,21 @@
         "date": "2026-09-17",
         "label": "Overcast",
         "icon": "cloud",
-        "high": 87,
-        "low": 76,
-        "precip": 34,
-        "uv": 6,
+        "high": 88,
+        "low": 75,
+        "precip": 38,
+        "uv": 7,
         "sunrise": "07:10",
         "sunset": "19:27"
       },
       {
         "date": "2026-09-18",
-        "label": "Light drizzle",
+        "label": "Drizzle",
         "icon": "drizzle",
-        "high": 85,
-        "low": 73,
+        "high": 90,
+        "low": 72,
         "precip": 64,
-        "uv": 5,
+        "uv": 7,
         "sunrise": "07:11",
         "sunset": "19:25"
       },
@@ -166,18 +166,18 @@
         "date": "2026-09-19",
         "label": "Thunderstorms",
         "icon": "storm",
-        "high": 91,
-        "low": 75,
-        "precip": 65,
+        "high": 90,
+        "low": 74,
+        "precip": 69,
         "uv": 7,
         "sunrise": "07:11",
         "sunset": "19:24"
       }
     ],
     "air": {
-      "aqi": 53,
+      "aqi": 55,
       "label": "Moderate",
-      "pm25": 16.8
+      "pm25": 14.3
     }
   },
   "severe": [],
@@ -292,48 +292,6 @@
     }
   ],
   "events": [
-    {
-      "id": "12591904",
-      "name": "WVA Lake Eola Farmers Market Meet-Up \ud83c\udf3f\ud83d\udc9c",
-      "org": "Women Veterans Association ",
-      "theme": "Social",
-      "location": "Lake Eola Farmers Market",
-      "date": "2026-09-13",
-      "start": "09:00",
-      "end": "12:00",
-      "blurb": "Join the Women Veterans Association (WVA) for a Sunday morning at the Lake Eola Farmers Market! \ud83e\udd55\ud83d\udc9c Come spend the morning exploring the market, grabbing some lo",
-      "rsvps": 8,
-      "image": "https://se-images.campuslabs.com/clink/images/dfeb0775-6d05-4528-b3c6-88641e176f6b289525e8-94e2-4cd6-b1b6-98eb9317f565.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12591904"
-    },
-    {
-      "id": "12614727",
-      "name": "Sunday Worship with Wesley at UCF",
-      "org": "Wesley at UCF",
-      "theme": "Spirituality",
-      "location": "Faith UMC",
-      "date": "2026-09-13",
-      "start": "10:00",
-      "end": "11:30",
-      "blurb": "Join us for Faith UMC's Weekly church service every sunday at 10:00 am! Our director Erwin Lopez serves as the pastor, and all are welcome. If you are looking f",
-      "rsvps": 0,
-      "image": "https://se-images.campuslabs.com/clink/images/05ce9c70-ef83-4a92-8492-d16465dbddd6f719d2b3-18d8-4499-922b-f4f29e66b693.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12614727"
-    },
-    {
-      "id": "12711498",
-      "name": "Sunday Mass",
-      "org": "Catholic Campus Ministry",
-      "theme": "Spirituality",
-      "location": "Live Oak Ballroom on Campus ",
-      "date": "2026-09-13",
-      "start": "12:00",
-      "end": "13:15",
-      "blurb": "Mass is the center of our Catholic Faith. It's where we come together as a Church to worship God through Christ's offering of Himself to the Father and for us i",
-      "rsvps": 11,
-      "image": "https://se-images.campuslabs.com/clink/images/865d43d4-f132-4493-8357-7a8601947c1eb47a13b5-a8cf-4eb0-885a-bc1771725e18.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12711498"
-    },
     {
       "id": "12669334",
       "name": "General Body Meeting",
@@ -484,7 +442,7 @@
       "start": "18:00",
       "end": "19:00",
       "blurb": "We're kicking off our first speaker event of the semester! Join us for an inspiring conversation with Geraldine Ortiz, Managing Director of the Corporate Contro",
-      "rsvps": 9,
+      "rsvps": 10,
       "image": "https://se-images.campuslabs.com/clink/images/05ffe312-3e2b-4901-8771-2b787216669be385c0de-b921-4e8d-aeaa-9ff63395c04c.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12739894"
     },
@@ -797,6 +755,20 @@
       "url": "https://ucf.campuslabs.com/engage/event/12747778"
     },
     {
+      "id": "12748203",
+      "name": "R\u00e9sum\u00e9 & LinkedIn Workshop!",
+      "org": "American College of Healthcare Executives at UCF",
+      "theme": "ThoughtfulLearning",
+      "location": "Online",
+      "date": "2026-09-15",
+      "start": "17:00",
+      "end": "18:00",
+      "blurb": "Your r&eacute;sum&eacute; and LinkedIn profile are often your first introduction to a potential employer -make them count! Join ACHE at UCF for our R&eacute;sum",
+      "rsvps": 2,
+      "image": "https://se-images.campuslabs.com/clink/images/b9d3c4d0-16b7-4416-a68c-007f10dddc8cb3390c02-2d62-4ba0-b170-b6047b0675d4.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12748203"
+    },
+    {
       "id": "12740865",
       "name": "Self-Advocacy Workshop w/ Dr. Garima Bawa",
       "org": "Women in Lasers and Optics",
@@ -963,6 +935,20 @@
       "rsvps": 0,
       "image": "https://se-images.campuslabs.com/clink/images/30a94181-add6-4020-8acc-2f32089765f687dd8e98-2dcf-479f-b28f-1b688c21186a.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12707732"
+    },
+    {
+      "id": "12748192",
+      "name": "GBM1 for Fall 2026",
+      "org": "Audio Engineering Society",
+      "theme": "Arts",
+      "location": "Business Administration I 0225",
+      "date": "2026-09-15",
+      "start": "19:30",
+      "end": "21:00",
+      "blurb": "Our first GBM will be in business administration 1 room 225 at 7:30pm on Tuesday September 15th! We will cover what we do as a club and our schedule of activiti",
+      "rsvps": 2,
+      "image": "https://se-images.campuslabs.com/clink/images/8edb1e81-1a4b-43a1-808e-2a1c05d25b43a135e725-d0bc-4e83-98f1-0d27f4659dcc.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12748192"
     },
     {
       "id": "12740038",
@@ -1133,20 +1119,6 @@
       "url": "https://ucf.campuslabs.com/engage/event/12646063"
     },
     {
-      "id": "12529420",
-      "name": "Resume/LinkedIn Workshop ft. FDOT",
-      "org": "American Society of Civil Engineers at the University of Central Florida",
-      "theme": "ThoughtfulLearning",
-      "location": "TCH 203",
-      "date": "2026-09-16",
-      "start": "17:30",
-      "end": "20:00",
-      "blurb": "A professional development workshop focused on helping students improve their resumes and build their presence on LinkedIn. We&rsquo;ll offer tips, examples, an",
-      "rsvps": 2,
-      "image": "https://se-images.campuslabs.com/clink/images/ad534939-225e-4ab9-b850-93a5171ce0c6f0b0932f-c44d-4a13-8479-fd6bd468e49b.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12529420"
-    },
-    {
       "id": "12591313",
       "name": "Community Knight with Wesley at UCF",
       "org": "Wesley at UCF",
@@ -1159,6 +1131,20 @@
       "rsvps": 0,
       "image": "https://se-images.campuslabs.com/clink/images/b4d1bf74-a590-4bc2-bd63-1997d7f25b7674de23a3-08cb-4410-86c9-ca7075f024b2.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12591313"
+    },
+    {
+      "id": "12529420",
+      "name": "Resume/LinkedIn Workshop ft. FDOT",
+      "org": "American Society of Civil Engineers at the University of Central Florida",
+      "theme": "ThoughtfulLearning",
+      "location": "TCH 203",
+      "date": "2026-09-16",
+      "start": "17:30",
+      "end": "20:00",
+      "blurb": "A professional development workshop focused on helping students improve their resumes and build their presence on LinkedIn. We&rsquo;ll offer tips, examples, an",
+      "rsvps": 2,
+      "image": "https://se-images.campuslabs.com/clink/images/ad534939-225e-4ab9-b850-93a5171ce0c6f0b0932f-c44d-4a13-8479-fd6bd468e49b.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12529420"
     },
     {
       "id": "12711474",
@@ -1447,8 +1433,8 @@
       "theme": "Social",
       "location": "UCF John C. Hitt Library - Library Room 223",
       "date": "2026-09-17",
-      "start": "17:45",
-      "end": "18:45",
+      "start": "17:00",
+      "end": "18:00",
       "blurb": "Knights Exemplar supports UCF&rsquo;s Inclusive Education Services (IES) students by providing learning experiences, within an inclusive educational setting, fo",
       "rsvps": 0,
       "image": "https://se-images.campuslabs.com/clink/images/b7f44785-c50e-42e6-a65c-cb63c86b0a8cc10932bb-f0b2-4d66-8f31-b92cf1dbc304.png?preset=small-sq",
@@ -1623,6 +1609,20 @@
       "url": "https://ucf.campuslabs.com/engage/event/12748008"
     },
     {
+      "id": "12748176",
+      "name": "Worship Night",
+      "org": "Baptist Collegiate Ministries",
+      "theme": "Social",
+      "location": "Cape Florida Ballroom, Student Union 3rd Floor",
+      "date": "2026-09-17",
+      "start": "19:30",
+      "end": "21:00",
+      "blurb": "THURSDAY NIGHT!! \ud83e\udd29\ud83d\ude4c Come hang out with us for Worship Night this Thursday!! We&rsquo;re so excited to worship, grow, and spend the night together \ud83e\udef6\u2728 \ud83d\udcc5 9/17 \u23f0 7:",
+      "rsvps": 0,
+      "image": "https://se-images.campuslabs.com/clink/images/4228b4e1-d1b6-4309-b184-6b8f1df00c15508cd3df-5ca7-4edf-89af-83f5d35004e1.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12748176"
+    },
+    {
       "id": "12639521",
       "name": "Petals for Prom ",
       "org": "Volunteer UCF",
@@ -1646,7 +1646,7 @@
       "start": "14:00",
       "end": "16:00",
       "blurb": "About: Whip it. Aim. Donate. \ud83e\udd67 Send your NSSLHA officers flying into a pie while supporting a great cause! Every contribution helps fund UCF NSSLHA events, outr",
-      "rsvps": 13,
+      "rsvps": 14,
       "image": "https://se-images.campuslabs.com/clink/images/5294e80e-08bb-4563-9a41-2775f85ec818b9d9daba-b2f5-406e-b843-8485a1710257.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/11547723"
     },
@@ -1660,7 +1660,7 @@
       "start": "15:00",
       "end": "17:00",
       "blurb": "Join us as we crochet a granny square together! New to crochet? We teach beginners and provide the necessary supplies! Already know crochet? Come meet other cro",
-      "rsvps": 19,
+      "rsvps": 20,
       "image": "https://se-images.campuslabs.com/clink/images/b51d18f6-9e3a-458a-8337-323bbf480b5ce9fc40f9-7195-48d6-8b2a-a34d870c67ff.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12728449"
     },
@@ -2713,7 +2713,7 @@
       "url": null,
       "weather": {
         "temp": 79,
-        "precip": 1,
+        "precip": 2,
         "label": "Partly cloudy",
         "icon": "cloud"
       },
@@ -2735,7 +2735,7 @@
       "url": null,
       "weather": {
         "temp": 87,
-        "precip": 14,
+        "precip": 19,
         "label": "Overcast",
         "icon": "cloud"
       },
@@ -2779,9 +2779,9 @@
       "url": null,
       "weather": {
         "temp": 85,
-        "precip": 22,
-        "label": "Mostly clear",
-        "icon": "sun"
+        "precip": 27,
+        "label": "Light drizzle",
+        "icon": "drizzle"
       },
       "courseTitle": "Writing & Composition"
     },
@@ -2801,8 +2801,8 @@
       "url": null,
       "weather": {
         "temp": 91,
-        "precip": 22,
-        "label": "Clear",
+        "precip": 27,
+        "label": "Mostly clear",
         "icon": "sun"
       },
       "courseTitle": "Calculus 2"
@@ -2822,10 +2822,10 @@
       "title": "PHY 2048 Lecture",
       "url": null,
       "weather": {
-        "temp": 92,
-        "precip": 22,
-        "label": "Mostly clear",
-        "icon": "sun"
+        "temp": 91,
+        "precip": 40,
+        "label": "Overcast",
+        "icon": "cloud"
       },
       "courseTitle": "Physics: Mechanics"
     },
@@ -2845,7 +2845,7 @@
       "url": null,
       "weather": {
         "temp": 90,
-        "precip": 22,
+        "precip": 40,
         "label": "Partly cloudy",
         "icon": "cloud"
       },
@@ -2867,7 +2867,7 @@
       "url": null,
       "weather": {
         "temp": 86,
-        "precip": 22,
+        "precip": 40,
         "label": "Mostly clear",
         "icon": "sun"
       },
@@ -2888,8 +2888,8 @@
       "title": "ISC 2054 Seminar",
       "url": null,
       "weather": {
-        "temp": 87,
-        "precip": 19,
+        "temp": 88,
+        "precip": 12,
         "label": "Overcast",
         "icon": "cloud"
       },
@@ -2912,8 +2912,8 @@
       "weather": {
         "temp": 83,
         "precip": 29,
-        "label": "Overcast",
-        "icon": "cloud"
+        "label": "Clear",
+        "icon": "sun"
       },
       "courseTitle": "Writing & Composition"
     },
@@ -2932,7 +2932,7 @@
       "title": "MAC 2312 Lecture",
       "url": null,
       "weather": {
-        "temp": 86,
+        "temp": 84,
         "precip": 29,
         "label": "Overcast",
         "icon": "cloud"
@@ -2954,10 +2954,10 @@
       "title": "PHY 2048 Lecture",
       "url": null,
       "weather": {
-        "temp": 87,
-        "precip": 34,
-        "label": "Overcast",
-        "icon": "cloud"
+        "temp": 88,
+        "precip": 38,
+        "label": "Mostly clear",
+        "icon": "sun"
       },
       "courseTitle": "Physics: Mechanics"
     },
@@ -2977,9 +2977,9 @@
       "url": null,
       "weather": {
         "temp": 74,
-        "precip": 2,
-        "label": "Partly cloudy",
-        "icon": "cloud"
+        "precip": 3,
+        "label": "Clear",
+        "icon": "sun"
       },
       "courseTitle": "Intro to Engineering"
     },
@@ -2998,10 +2998,10 @@
       "title": "MAC 2312 Friday Lecture",
       "url": null,
       "weather": {
-        "temp": 85,
-        "precip": 28,
-        "label": "Mostly clear",
-        "icon": "sun"
+        "temp": 86,
+        "precip": 33,
+        "label": "Light drizzle",
+        "icon": "drizzle"
       },
       "courseTitle": "Calculus 2"
     },
@@ -3020,10 +3020,10 @@
       "title": "PHY 2048L Laboratory",
       "url": null,
       "weather": {
-        "temp": 85,
-        "precip": 20,
-        "label": "Overcast",
-        "icon": "cloud"
+        "temp": 84,
+        "precip": 14,
+        "label": "Mostly clear",
+        "icon": "sun"
       },
       "courseTitle": "Physics Lab"
     },
