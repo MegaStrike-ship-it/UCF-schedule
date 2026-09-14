@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-13T18:51:37.151009-04:00",
+  "generatedAt": "2026-09-13T20:42:45.260514-04:00",
   "term": {
     "name": "Fall 2026",
     "start": "2026-08-24",
@@ -90,10 +90,10 @@
     "place": "UCF Orlando",
     "current": {
       "temp": 84,
-      "feelsLike": 88,
+      "feelsLike": 94,
       "label": "Overcast",
       "icon": "cloud",
-      "isDay": true
+      "isDay": false
     },
     "days": [
       {
@@ -102,7 +102,7 @@
         "icon": "cloud",
         "high": 90,
         "low": 74,
-        "precip": 27,
+        "precip": 26,
         "uv": 8,
         "sunrise": "07:08",
         "sunset": "19:31"
@@ -113,7 +113,7 @@
         "icon": "rain",
         "high": 87,
         "low": 75,
-        "precip": 41,
+        "precip": 39,
         "uv": 8,
         "sunrise": "07:09",
         "sunset": "19:30"
@@ -125,16 +125,16 @@
         "high": 91,
         "low": 75,
         "precip": 24,
-        "uv": 8,
+        "uv": 7,
         "sunrise": "07:09",
         "sunset": "19:29"
       },
       {
         "date": "2026-09-16",
-        "label": "Overcast",
-        "icon": "cloud",
+        "label": "Light drizzle",
+        "icon": "drizzle",
         "high": 88,
-        "low": 78,
+        "low": 77,
         "precip": 13,
         "uv": 8,
         "sunrise": "07:10",
@@ -144,8 +144,8 @@
         "date": "2026-09-17",
         "label": "Overcast",
         "icon": "cloud",
-        "high": 88,
-        "low": 75,
+        "high": 86,
+        "low": 74,
         "precip": 36,
         "uv": 7,
         "sunrise": "07:10",
@@ -153,12 +153,12 @@
       },
       {
         "date": "2026-09-18",
-        "label": "Drizzle",
+        "label": "Heavy drizzle",
         "icon": "drizzle",
-        "high": 90,
-        "low": 72,
+        "high": 93,
+        "low": 74,
         "precip": 57,
-        "uv": 7,
+        "uv": 8,
         "sunrise": "07:11",
         "sunset": "19:25"
       },
@@ -167,7 +167,7 @@
         "label": "Thunderstorms",
         "icon": "storm",
         "high": 90,
-        "low": 74,
+        "low": 76,
         "precip": 68,
         "uv": 7,
         "sunrise": "07:11",
@@ -177,7 +177,7 @@
     "air": {
       "aqi": 52,
       "label": "Moderate",
-      "pm25": 6.1
+      "pm25": 8.7
     }
   },
   "severe": [],
@@ -292,20 +292,6 @@
     }
   ],
   "events": [
-    {
-      "id": "12729801",
-      "name": "Sports @ RWC Fields!",
-      "org": "Christians on Campus",
-      "theme": "Athletics",
-      "location": "UCF RWC Fields",
-      "date": "2026-09-13",
-      "start": "18:00",
-      "end": "20:00",
-      "blurb": "Join us at 6:00 pm, September 13th, for Ultimate Frisbee at the RWC Turf Fields!",
-      "rsvps": 0,
-      "image": "https://se-images.campuslabs.com/clink/images/b27c8e52-2e45-480e-8697-de9fdf4bd10c5ef8b0cb-005c-4837-bb5f-b0e71a68c184.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12729801"
-    },
     {
       "id": "12591493",
       "name": "Student Lounge ",
@@ -428,7 +414,7 @@
       "start": "17:30",
       "end": "18:30",
       "blurb": "We're kicking off our first speaker event of the semester! Join us for an inspiring conversation with Geraldine Ortiz, Managing Director of the Corporate Contro",
-      "rsvps": 17,
+      "rsvps": 27,
       "image": "https://se-images.campuslabs.com/clink/images/05ffe312-3e2b-4901-8771-2b787216669be385c0de-b921-4e8d-aeaa-9ff63395c04c.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12739894"
     },
@@ -624,7 +610,7 @@
       "start": "19:30",
       "end": "21:00",
       "blurb": "Join us for ASCE&rsquo;s second General Body Meeting of the semester with DRMP! Come learn and hear from representatives from DRMP, who will explore the company",
-      "rsvps": 1,
+      "rsvps": 2,
       "image": "https://se-images.campuslabs.com/clink/images/368238c4-3086-4e02-a74d-2886d81914bd24854469-2ca3-459d-b429-e1ccafab1294.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12519150"
     },
@@ -946,7 +932,7 @@
       "start": "19:30",
       "end": "21:00",
       "blurb": "Our first GBM will be in business administration 1 room 225 at 7:30pm on Tuesday September 15th! We will cover what we do as a club and our schedule of activiti",
-      "rsvps": 4,
+      "rsvps": 6,
       "image": "https://se-images.campuslabs.com/clink/images/8edb1e81-1a4b-43a1-808e-2a1c05d25b43a135e725-d0bc-4e83-98f1-0d27f4659dcc.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12748192"
     },
@@ -1044,7 +1030,7 @@
       "start": "14:00",
       "end": "15:00",
       "blurb": "Volunteer UCF in Partnership with UCFPD will host a self-defense class designed to teach students practical techniques for staying safe and responding to potent",
-      "rsvps": 22,
+      "rsvps": 23,
       "image": "https://se-images.campuslabs.com/clink/images/d45deb40-9569-48da-b400-dfe851256535d10376e9-fce0-4a02-8738-7fd5f4f08f0c.pdf?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12639925"
     },
@@ -1114,7 +1100,7 @@
       "start": "17:00",
       "end": "18:45",
       "blurb": "Join us as we introduce who we are, what we do, and our plans are for this 2026-2027 school year! \ud83d\udc99",
-      "rsvps": 9,
+      "rsvps": 11,
       "image": "https://se-images.campuslabs.com/clink/images/5a964fba-fe4e-490a-a0cc-6b6a239909111b0cd598-4385-48eb-adb3-834f7032c26a.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12646063"
     },
@@ -1828,7 +1814,7 @@
       "start": "09:00",
       "end": "10:30",
       "blurb": "Join the Natural Resources team in an invasive plant removal shift! We will meet at the Smoothie King across from the College of Sciences building before headin",
-      "rsvps": 6,
+      "rsvps": 7,
       "image": "https://se-images.campuslabs.com/clink/images/14445c5a-dae6-4e0a-a648-3b1ff008a32da58bfbf0-2f6c-45d7-94d2-055f2ffe01e0.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12689807"
     },
@@ -1971,6 +1957,20 @@
       "rsvps": 0,
       "image": "https://se-images.campuslabs.com/clink/images/cf045448-4043-4e6b-bed1-b14697c6355afff7a291-f4fd-4d33-aab2-c7c585e9b27b.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12640735"
+    },
+    {
+      "id": "12578730",
+      "name": "Meditation Monday",
+      "org": "Bhakti Yoga Club ",
+      "theme": "Spirituality",
+      "location": "ISKCON Orlando",
+      "date": "2026-09-21",
+      "start": "19:00",
+      "end": "20:00",
+      "blurb": "Join us for Meditation Monday , a chance to slow down, step away from the busyness of college life, and reconnect with yourself in good company. Each week, we e",
+      "rsvps": 0,
+      "image": "https://se-images.campuslabs.com/clink/images/2a348e23-5afa-4435-9881-3cf5d2e0fcf9d119ad82-7c19-4653-b960-ea17a6d6b131.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12578730"
     }
   ],
   "keyDates": [
@@ -2713,9 +2713,9 @@
       "url": null,
       "weather": {
         "temp": 81,
-        "precip": 6,
-        "label": "Clear",
-        "icon": "sun"
+        "precip": 3,
+        "label": "Overcast",
+        "icon": "cloud"
       },
       "courseTitle": "Intro to Engineering"
     },
@@ -2735,7 +2735,7 @@
       "url": null,
       "weather": {
         "temp": 86,
-        "precip": 19,
+        "precip": 20,
         "label": "Partly cloudy",
         "icon": "cloud"
       },
@@ -2846,7 +2846,7 @@
       "weather": {
         "temp": 90,
         "precip": 24,
-        "label": "Partly cloudy",
+        "label": "Overcast",
         "icon": "cloud"
       },
       "courseTitle": "Honors Symposium"
@@ -2868,8 +2868,8 @@
       "weather": {
         "temp": 86,
         "precip": 24,
-        "label": "Mostly clear",
-        "icon": "sun"
+        "label": "Overcast",
+        "icon": "cloud"
       },
       "courseTitle": "Honors Symposium"
     },
@@ -2910,10 +2910,10 @@
       "title": "ENC 1101 Lecture",
       "url": null,
       "weather": {
-        "temp": 83,
+        "temp": 81,
         "precip": 29,
-        "label": "Clear",
-        "icon": "sun"
+        "label": "Overcast",
+        "icon": "cloud"
       },
       "courseTitle": "Writing & Composition"
     },
@@ -2932,7 +2932,7 @@
       "title": "MAC 2312 Lecture",
       "url": null,
       "weather": {
-        "temp": 84,
+        "temp": 86,
         "precip": 29,
         "label": "Overcast",
         "icon": "cloud"
@@ -2954,10 +2954,10 @@
       "title": "PHY 2048 Lecture",
       "url": null,
       "weather": {
-        "temp": 88,
+        "temp": 86,
         "precip": 36,
-        "label": "Mostly clear",
-        "icon": "sun"
+        "label": "Overcast",
+        "icon": "cloud"
       },
       "courseTitle": "Physics: Mechanics"
     },
@@ -2976,10 +2976,10 @@
       "title": "EGS 1006C Lecture",
       "url": null,
       "weather": {
-        "temp": 74,
+        "temp": 76,
         "precip": 3,
-        "label": "Clear",
-        "icon": "sun"
+        "label": "Partly cloudy",
+        "icon": "cloud"
       },
       "courseTitle": "Intro to Engineering"
     },
@@ -2998,10 +2998,10 @@
       "title": "MAC 2312 Friday Lecture",
       "url": null,
       "weather": {
-        "temp": 86,
+        "temp": 88,
         "precip": 24,
-        "label": "Light drizzle",
-        "icon": "drizzle"
+        "label": "Overcast",
+        "icon": "cloud"
       },
       "courseTitle": "Calculus 2"
     },
@@ -3020,10 +3020,10 @@
       "title": "PHY 2048L Laboratory",
       "url": null,
       "weather": {
-        "temp": 84,
+        "temp": 86,
         "precip": 15,
-        "label": "Mostly clear",
-        "icon": "sun"
+        "label": "Partly cloudy",
+        "icon": "cloud"
       },
       "courseTitle": "Physics Lab"
     },
