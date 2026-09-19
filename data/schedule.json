@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T19:52:08.387335-04:00",
+  "generatedAt": "2026-09-19T09:41:05.411310-04:00",
   "term": {
     "name": "Fall 2026",
     "start": "2026-08-24",
@@ -86,7 +86,100 @@
       "url": null
     }
   ],
-  "weather": null,
+  "weather": {
+    "place": "UCF Orlando",
+    "current": {
+      "temp": 79,
+      "feelsLike": 88,
+      "label": "Clear",
+      "icon": "sun",
+      "isDay": true
+    },
+    "days": [
+      {
+        "date": "2026-09-19",
+        "label": "Overcast",
+        "icon": "cloud",
+        "high": 86,
+        "low": 74,
+        "precip": 23,
+        "uv": 7,
+        "sunrise": "07:11",
+        "sunset": "19:24"
+      },
+      {
+        "date": "2026-09-20",
+        "label": "Light drizzle",
+        "icon": "drizzle",
+        "high": 83,
+        "low": 74,
+        "precip": 46,
+        "uv": 8,
+        "sunrise": "07:12",
+        "sunset": "19:23"
+      },
+      {
+        "date": "2026-09-21",
+        "label": "Drizzle",
+        "icon": "drizzle",
+        "high": 93,
+        "low": 75,
+        "precip": 81,
+        "uv": 8,
+        "sunrise": "07:12",
+        "sunset": "19:22"
+      },
+      {
+        "date": "2026-09-22",
+        "label": "Thunderstorms",
+        "icon": "storm",
+        "high": 94,
+        "low": 75,
+        "precip": 78,
+        "uv": 8,
+        "sunrise": "07:13",
+        "sunset": "19:21"
+      },
+      {
+        "date": "2026-09-23",
+        "label": "Showers",
+        "icon": "rain",
+        "high": 93,
+        "low": 75,
+        "precip": 65,
+        "uv": 8,
+        "sunrise": "07:13",
+        "sunset": "19:19"
+      },
+      {
+        "date": "2026-09-24",
+        "label": "Light drizzle",
+        "icon": "drizzle",
+        "high": 86,
+        "low": 75,
+        "precip": 52,
+        "uv": 6,
+        "sunrise": "07:14",
+        "sunset": "19:18"
+      },
+      {
+        "date": "2026-09-25",
+        "label": "Overcast",
+        "icon": "cloud",
+        "high": 89,
+        "low": 74,
+        "precip": 48,
+        "uv": 7,
+        "sunrise": "07:14",
+        "sunset": "19:17"
+      }
+    ],
+    "air": {
+      "aqi": 40,
+      "label": "Good",
+      "pm25": 6.7
+    }
+  },
   "severe": [],
   "football": [
     {
@@ -200,130 +293,18 @@
   ],
   "events": [
     {
-      "id": "12759043",
-      "name": "AMA Partial Proceeds- Blaze Pizza",
-      "org": "American Marketing Association at UCF",
-      "theme": "GroupBusiness",
-      "location": "Blaze Pizza",
-      "date": "2026-09-18",
-      "start": "12:00",
-      "end": "21:00",
-      "blurb": "Come join us at Blaze Pizza! Mention AMA at checkout to help us fundraise for ICC! \ud83c\udf55&hearts;\ufe0f \ud83d\udccd Location: Blaze Pizza- 4100 N Alafaya Trail #113, Orlando, FL 32",
-      "rsvps": 3,
-      "image": "https://se-images.campuslabs.com/clink/images/8ff55a50-70d0-46fe-8665-e6b1cefec0917cc7fd94-0c04-40f3-b78f-6cf894576346.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12759043"
-    },
-    {
-      "id": "12544052",
-      "name": "Pre-SOMA @ Family Weekend",
-      "org": "Pre-Student Osteopathic Medical Association",
-      "theme": "Social",
-      "location": "UCF Student Union",
-      "date": "2026-09-18",
-      "start": "16:00",
-      "end": "20:00",
-      "blurb": "UCF Pre-SOMA will be tabling at UCF's Family Weekend event! Come by and visit us to learn more about Pre-SOMA! Members get 1 point for stopping by.",
-      "rsvps": 0,
-      "image": "https://se-images.campuslabs.com/clink/images/f262a9cf-4cb9-48dd-b04f-26032940480f786ed7b5-1540-4e4e-b621-bd846b3395dc.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12544052"
-    },
-    {
-      "id": "12765257",
-      "name": "Fall 2026 Introductory General Body Meeting ",
-      "org": "The Society of PC Building at UCF",
-      "theme": "Social",
-      "location": "NSC - 114",
-      "date": "2026-09-18",
-      "start": "18:00",
-      "end": "20:00",
-      "blurb": "Whether you're looking to build your very first PC, get help with troubleshooting, upgrading your build, or just looking hang out with fellow hardware enthusias",
-      "rsvps": 6,
-      "image": "https://se-images.campuslabs.com/clink/images/f9b7d308-9863-45e1-b5e8-dbf12391bb597daf8069-ea40-4b9b-8746-a356362e3019.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12765257"
-    },
-    {
-      "id": "12775640",
-      "name": "Sports Night!",
-      "org": "The Navigators",
-      "theme": "Social",
-      "location": "Outdoor basketball courts by the RWC",
-      "date": "2026-09-18",
-      "start": "18:00",
-      "end": "21:00",
-      "blurb": "Come join us for Sports Night! We'll be at the outdoor basketball courts by the RWC! We'll have volleyball, Spikeball, footballs, basketball and more! Come swin",
-      "rsvps": 0,
-      "image": "https://se-images.campuslabs.com/clink/images/f4ca4c1f-edca-4bae-85dd-a456874a1757859570a4-7b4c-4e5b-9d38-a04d13e27d96.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12775640"
-    },
-    {
-      "id": "12766886",
-      "name": "Family Weekend Carnival",
-      "org": "Late Knights",
-      "theme": "Social",
-      "location": "Student Union",
-      "date": "2026-09-18",
-      "start": "18:00",
-      "end": "21:00",
-      "blurb": "Step right up for Late Knights&rsquo; Family Weekend Carnival ! Bring your family to the Student Union for an evening packed with classic carnival games, cotton",
-      "rsvps": 19,
-      "image": "https://se-images.campuslabs.com/clink/images/2b05d426-8f72-40ae-b078-343f42772de84d44b809-bf08-4834-b572-08eb5caee9bc.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12766886"
-    },
-    {
-      "id": "12758212",
-      "name": " Knights of the Paw - GBM II: \"How I Became a Furry\"",
-      "org": "Knights of the Paw",
-      "theme": "Social",
-      "location": "Classroom Building II Room 206",
-      "date": "2026-09-18",
-      "start": "18:30",
-      "end": "20:00",
-      "blurb": "Becoming a furry is a unique experience for everybody. That's why on FRIDAY, September 18th, we're opening the floor to hear all about YOUR furry origin stories",
-      "rsvps": 71,
-      "image": "https://se-images.campuslabs.com/clink/images/c50644dd-c0d2-4352-8359-cd0e30c26c9128b64b3a-fa42-4763-a73d-837380f361ab.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12758212"
-    },
-    {
-      "id": "12784082",
-      "name": "KGD RUSH - Bid Day",
-      "org": "Kappa Gamma Delta",
-      "theme": "Social",
-      "location": "The 9 Central Florida",
-      "date": "2026-09-18",
-      "start": "19:00",
-      "end": "20:00",
-      "blurb": "It is officially Bid Day! Join Kappa Gamma Delta for a cozy Pajama Party as we welcome our newest members into KGD! Come dressed in your favorite pajamas and ge",
-      "rsvps": 2,
-      "image": "https://se-images.campuslabs.com/clink/images/233fa00d-7aba-4b51-9055-e606a97d1760a73d2e15-bf71-4c18-8726-e25e16280f29.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12784082"
-    },
-    {
-      "id": "12727153",
-      "name": "New Member Knight",
-      "org": "Formula Student",
+      "id": "12782711",
+      "name": "Health Promotion Screening at Special Olympics State Bowling Competition ",
+      "org": "National Student Speech Language Hearing Association (NSSLHA) - Orlando",
       "theme": "ThoughtfulLearning",
-      "location": "HEC 101",
-      "date": "2026-09-18",
-      "start": "19:00",
-      "end": "21:00",
-      "blurb": "Want to design, build, and race a Formula Student car? Join us for New Member Knights and see how you can be part of UCF's Formula SAE team! Any major is welcom",
-      "rsvps": 7,
-      "image": "https://se-images.campuslabs.com/clink/images/c893ff01-09d2-4f0b-a5a3-6a4533ac4be38d9d8ec5-32a4-4ff4-8444-7946bc09a930.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12727153"
-    },
-    {
-      "id": "12759046",
-      "name": "AMA Boardwalk Bowling Social",
-      "org": "American Marketing Association at UCF",
-      "theme": "Social",
-      "location": "Boardwalk Bowl",
-      "date": "2026-09-18",
-      "start": "19:00",
-      "end": "21:00",
-      "blurb": "Join us for a fun-filled night of bowling. Meet new friends and mentors while helping raise money for AMA! \ud83c\udfb3\ud83d\udc9b \ud83d\udccd Location: Boardwalk Bowl- 10703 E Colonial Dr, U",
-      "rsvps": 4,
-      "image": "https://se-images.campuslabs.com/clink/images/55dec40f-58eb-4ed6-b368-149ed7e7d299544ab56b-ab88-49a6-a499-b68a2af89f01.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12759046"
+      "location": "Boardwalk Bowl Entertainment Center",
+      "date": "2026-09-19",
+      "start": "08:00",
+      "end": "15:00",
+      "blurb": "When: Saturday, September 19, 8AM-3PM Where: Boardwalk Bowl Entertainment Center, 10749 E Colonial Dr, Orlando, FL 32817 About: People with intellectual disabil",
+      "rsvps": 1,
+      "image": "https://se-images.campuslabs.com/clink/images/c94fc45f-5e9b-4c38-a903-29c55805da1d39e47540-e8f5-418f-8038-464c737cd152.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12782711"
     },
     {
       "id": "12589161",
@@ -349,7 +330,7 @@
       "start": "14:00",
       "end": "16:00",
       "blurb": "Come join us from 2:00&ndash;4:00 PM for Meet the Presidents! Stop by Menchie&rsquo;s @ Plaza to hang out with the BMC leadership team, get to know us, and ask ",
-      "rsvps": 1,
+      "rsvps": 2,
       "image": "https://se-images.campuslabs.com/clink/images/ebd02b6c-12c5-46a8-8001-97062023216dc480e02a-fa36-44de-b5ca-ab61c39d702c.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12767708"
     },
@@ -391,7 +372,7 @@
       "start": "19:00",
       "end": "23:45",
       "blurb": "Knight nation will be together on September 19th at 7pm. Charge on!",
-      "rsvps": 1,
+      "rsvps": 2,
       "image": "https://se-images.campuslabs.com/clink/images/cbf6d7bd-7f38-4656-8535-25d6fadf322b71ab7683-0d49-4d02-ad24-7cf9ebb90845.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12755098"
     },
@@ -405,7 +386,7 @@
       "start": "10:00",
       "end": "11:00",
       "blurb": "This is our first Habitat for Humanity @ UCF pond clean up! There will be warm bagels. Come hang out and clean up UCF! More details will be posted in the discor",
-      "rsvps": 3,
+      "rsvps": 5,
       "image": "https://se-images.campuslabs.com/clink/images/940f39ce-8092-4630-b4f8-00a92096187c4fa8b3a6-27b2-4ab6-8f7d-0353e6c8a438.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12769232"
     },
@@ -489,7 +470,7 @@
       "start": "09:00",
       "end": "10:30",
       "blurb": "Join the Natural Resources team in an invasive plant removal shift! We will meet at the Smoothie King across from the College of Sciences building before headin",
-      "rsvps": 12,
+      "rsvps": 13,
       "image": "https://se-images.campuslabs.com/clink/images/14445c5a-dae6-4e0a-a648-3b1ff008a32da58bfbf0-2f6c-45d7-94d2-055f2ffe01e0.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12689807"
     },
@@ -587,7 +568,7 @@
       "start": "17:00",
       "end": "18:45",
       "blurb": "Join Transfer Knights (TK) next Monday for a night of connection and community! We'll kick things off with an introduction to who we are as an organization, fol",
-      "rsvps": 8,
+      "rsvps": 9,
       "image": "https://se-images.campuslabs.com/clink/images/2291e8c9-6017-4b53-8d8b-95730308790a2365ce2a-0de7-4476-a458-264c09caee60.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12766904"
     },
@@ -646,6 +627,20 @@
       "rsvps": 0,
       "image": "https://se-images.campuslabs.com/clink/images/8002885d-8d19-4c61-8e25-3988da235073c0b13fc2-23b1-493b-b0f5-a2033171d9a8.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12615247"
+    },
+    {
+      "id": "12787792",
+      "name": "GBM 2 - It's Who You Know: Networking for Pre-Meds",
+      "org": "Medicine4Youth at UCF",
+      "theme": "ThoughtfulLearning",
+      "location": "BIOLOGICAL\u00a0SCIENCES\u00a0BUILDING O212",
+      "date": "2026-09-21",
+      "start": "18:30",
+      "end": "20:00",
+      "blurb": "Learn how to find research, shadowing, and faculty opportunities - plus tips for cold emailing, introducing yourself, and building connections!",
+      "rsvps": 0,
+      "image": "https://se-images.campuslabs.com/clink/images/4e6c9413-26ec-41a1-91e6-450ee786ad7db3901ba0-f908-4079-b529-b31182c00dc4.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12787792"
     },
     {
       "id": "12756119",
@@ -727,7 +722,7 @@
       "start": "19:30",
       "end": "20:30",
       "blurb": "Ready to level up your networking skills? Join us this Monday for a special speaker meeting with Cloey Trachtenberg, a University Recruiter in Sales at Gartner!",
-      "rsvps": 4,
+      "rsvps": 5,
       "image": "https://se-images.campuslabs.com/clink/images/baa0389c-50c4-4561-8727-7a3293e19a186c3ff32c-a97a-43d9-8531-06123d272b34.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12781381"
     },
@@ -774,20 +769,6 @@
       "url": "https://ucf.campuslabs.com/engage/event/12744543"
     },
     {
-      "id": "12591498",
-      "name": "Student Lounge ",
-      "org": "Wesley at UCF",
-      "theme": "Social",
-      "location": "The Wesley Foundation at UCF",
-      "date": "2026-09-22",
-      "start": "10:00",
-      "end": "15:00",
-      "blurb": "Wesley's student lounge is open Mon-Thur 10:00am-3:00pm; wednesdays 11:00am-3:00pm. A perfect chill place to gather with friends, talk, study, play a game or ju",
-      "rsvps": 0,
-      "image": "https://se-images.campuslabs.com/clink/images/280042fb-d64c-43b3-8a8c-77ad638bbea130ecec0c-ad66-4f65-b675-4b9e06f7664f.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12591498"
-    },
-    {
       "id": "12767062",
       "name": "Spark with Hope",
       "org": "LGBTQ+ Services",
@@ -800,6 +781,20 @@
       "rsvps": 0,
       "image": "https://se-images.campuslabs.com/clink/images/57b71bd1-1860-4007-b98e-06b5acff02ee4f028a2c-ecb9-4ad1-9528-fa2b289982c2.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12767062"
+    },
+    {
+      "id": "12591498",
+      "name": "Student Lounge ",
+      "org": "Wesley at UCF",
+      "theme": "Social",
+      "location": "The Wesley Foundation at UCF",
+      "date": "2026-09-22",
+      "start": "10:00",
+      "end": "15:00",
+      "blurb": "Wesley's student lounge is open Mon-Thur 10:00am-3:00pm; wednesdays 11:00am-3:00pm. A perfect chill place to gather with friends, talk, study, play a game or ju",
+      "rsvps": 0,
+      "image": "https://se-images.campuslabs.com/clink/images/280042fb-d64c-43b3-8a8c-77ad638bbea130ecec0c-ad66-4f65-b675-4b9e06f7664f.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12591498"
     },
     {
       "id": "12569799",
@@ -895,7 +890,7 @@
       "start": "16:30",
       "end": "17:30",
       "blurb": "Join genCLEO UCF and AEP (Association of Environmental Professionals) for our Campus Clean-Up Day! Come spend an hour with us helping make the UCF campus a clea",
-      "rsvps": 1,
+      "rsvps": 3,
       "image": "https://se-images.campuslabs.com/clink/images/09906ac1-449c-4e07-ad3f-80f78894b1f8bd2d186a-ab7f-4016-b27f-91046bf93c99.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12753537"
     },
@@ -923,7 +918,7 @@
       "start": "17:00",
       "end": "19:00",
       "blurb": "Come join us picnic-style in the Psychology Building (location availability permitting) to learn how to knit! Whether you are experienced, intermediate, beginne",
-      "rsvps": 10,
+      "rsvps": 12,
       "image": "https://se-images.campuslabs.com/clink/images/a967d99a-d66f-43b2-8beb-bec2f7949d47528ad554-0d6b-49e9-85a0-f3d54630759d.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12782466"
     },
@@ -1656,6 +1651,20 @@
       "url": "https://ucf.campuslabs.com/engage/event/12550739"
     },
     {
+      "id": "12787704",
+      "name": "Dave & Buster's Social",
+      "org": "Meeting Professionals International Knights",
+      "theme": "Social",
+      "location": "Dave & Buster's",
+      "date": "2026-09-24",
+      "start": "18:00",
+      "end": "20:00",
+      "blurb": "Take a break from the classes and work. Have a fun evening with us at Dave & Buster&rsquo;s! Games, food, and fun. Oh my! Win prizes and get to hang out with fr",
+      "rsvps": 0,
+      "image": "https://se-images.campuslabs.com/clink/images/c7f9f607-8d1d-4977-84c7-3854f878d8c2fd424ca6-b053-43e7-bf60-4c8cd85e086e.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12787704"
+    },
+    {
       "id": "12643535",
       "name": "Crafts and Chaos",
       "org": "Rosen Apartments",
@@ -1878,6 +1887,90 @@
       "rsvps": 15,
       "image": "https://se-images.campuslabs.com/clink/images/db658652-9663-4cec-95bb-684c3377543aa9150799-8cf9-4827-ae03-72e91ce0053c.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12719154"
+    },
+    {
+      "id": "12614729",
+      "name": "Sunday Worship with Wesley at UCF",
+      "org": "Wesley at UCF",
+      "theme": "Spirituality",
+      "location": "Faith UMC",
+      "date": "2026-09-27",
+      "start": "10:00",
+      "end": "11:30",
+      "blurb": "Join us for Faith UMC's Weekly church service every sunday at 10:00 am! Our director Erwin Lopez serves as the pastor, and all are welcome. If you are looking f",
+      "rsvps": 0,
+      "image": "https://se-images.campuslabs.com/clink/images/05ce9c70-ef83-4a92-8492-d16465dbddd6f719d2b3-18d8-4499-922b-f4f29e66b693.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12614729"
+    },
+    {
+      "id": "12714430",
+      "name": "ACEing Autism: Fall Session ",
+      "org": "Volunteer UCF",
+      "theme": "CommunityService",
+      "location": "UCF RWC Tennis Court #1",
+      "date": "2026-09-27",
+      "start": "10:30",
+      "end": "12:00",
+      "blurb": "Volunteer UCF welcomes you to join us at ACEing Autism&rsquo;s tennis lessons! We would love to have your support as ACEing Autism helps children with autism gr",
+      "rsvps": 10,
+      "image": "https://se-images.campuslabs.com/clink/images/456a7e05-a623-466f-81f7-e86db7bcbc8ac380bed7-b6a8-4c76-8dff-fc27ceb21f2f.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12714430"
+    },
+    {
+      "id": "12709315",
+      "name": "Healthy Kids Running Series: Week 1",
+      "org": "Volunteer UCF",
+      "theme": "CommunityService",
+      "location": "Long Lake Park",
+      "date": "2026-09-27",
+      "start": "15:30",
+      "end": "18:00",
+      "blurb": "The Healthy Kids Running Series was created to motivate kids to lead a healthy, active lifestyle through running. They offer a 5-week program each season with v",
+      "rsvps": 21,
+      "image": "https://se-images.campuslabs.com/clink/images/0a52b6c8-e61f-44e1-8195-7e6ec98cf331e4539da2-312c-450c-be59-7f598f13b2c9.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12709315"
+    },
+    {
+      "id": "12591622",
+      "name": "Student Lounge",
+      "org": "Wesley at UCF",
+      "theme": "Social",
+      "location": "The Wesley Foundation at UCF",
+      "date": "2026-09-28",
+      "start": "10:00",
+      "end": "15:00",
+      "blurb": "Wesley's student lounge is open Mon-Thur 10:00am-3:00pm; Wednesdays 11:00am-3:00pm. A perfect chill place to gather with friends, talk, study, play a game or ju",
+      "rsvps": 0,
+      "image": "https://se-images.campuslabs.com/clink/images/e3c73569-1441-4d0f-90dd-fad5ffeae26204c6de6e-b6bb-4deb-8b76-3dade67f6e3a.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12591622"
+    },
+    {
+      "id": "12591666",
+      "name": "Student Lounge",
+      "org": "Wesley at UCF",
+      "theme": "Social",
+      "location": "The Wesley Foundation",
+      "date": "2026-09-28",
+      "start": "10:00",
+      "end": "15:00",
+      "blurb": "Wesley's student lounge is open Mon-Thur 10:00am-3:00pm; wednesdays 11:00am-3:00pm. A perfect chill place to gather with friends, talk, study, play a game or ju",
+      "rsvps": 0,
+      "image": "https://se-images.campuslabs.com/clink/images/1179fe9a-d999-472b-8537-6e130918cca01e921596-eeda-414b-80b8-47e23c4b905c.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12591666"
+    },
+    {
+      "id": "12775250",
+      "name": "ABP Fall Showcase ",
+      "org": "Volunteer UCF Alternative Break Program",
+      "theme": "Social",
+      "location": "Student Union, Atrium ",
+      "date": "2026-09-28",
+      "start": "12:00",
+      "end": "14:00",
+      "blurb": "file:///C:/Users/rajan/Downloads/ABP - Showcase Flyer/ABP Fall Showcase Flyer.png Hi everyone, Are you ready to make an impact, travel with purpose, and create ",
+      "rsvps": 7,
+      "image": "https://se-images.campuslabs.com/clink/images/e8386259-c5e4-45d4-8955-ae379b2d1db8604b740a-d90e-456e-b933-ae1a3a8a3dd5.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12775250"
     }
   ],
   "keyDates": [
@@ -2842,6 +2935,12 @@
       "changes": {},
       "title": "PHY 2048L Laboratory",
       "url": null,
+      "weather": {
+        "temp": 82,
+        "precip": 4,
+        "label": "Clear",
+        "icon": "sun"
+      },
       "courseTitle": "Physics Lab"
     },
     {
@@ -2858,6 +2957,12 @@
       "changes": {},
       "title": "EGS 1006C Laboratory",
       "url": null,
+      "weather": {
+        "temp": 79,
+        "precip": 13,
+        "label": "Overcast",
+        "icon": "cloud"
+      },
       "courseTitle": "Intro to Engineering"
     },
     {
@@ -2874,6 +2979,12 @@
       "changes": {},
       "title": "ISC 2054 Seminar",
       "url": null,
+      "weather": {
+        "temp": 93,
+        "precip": 81,
+        "label": "Light drizzle",
+        "icon": "drizzle"
+      },
       "courseTitle": "STEM Seminar"
     },
     {
@@ -2890,6 +3001,12 @@
       "changes": {},
       "title": "PHY 2048 Discussion",
       "url": null,
+      "weather": {
+        "temp": 76,
+        "precip": 3,
+        "label": "Clear",
+        "icon": "sun"
+      },
       "courseTitle": "Physics: Mechanics"
     },
     {
@@ -2906,6 +3023,12 @@
       "changes": {},
       "title": "ENC 1101 Lecture",
       "url": null,
+      "weather": {
+        "temp": 85,
+        "precip": 8,
+        "label": "Clear",
+        "icon": "sun"
+      },
       "courseTitle": "Writing & Composition"
     },
     {
@@ -2922,6 +3045,12 @@
       "changes": {},
       "title": "MAC 2312 Lecture",
       "url": null,
+      "weather": {
+        "temp": 91,
+        "precip": 8,
+        "label": "Mostly clear",
+        "icon": "sun"
+      },
       "courseTitle": "Calculus 2"
     },
     {
@@ -2938,6 +3067,12 @@
       "changes": {},
       "title": "PHY 2048 Lecture",
       "url": null,
+      "weather": {
+        "temp": 93,
+        "precip": 78,
+        "label": "Light drizzle",
+        "icon": "drizzle"
+      },
       "courseTitle": "Physics: Mechanics"
     },
     {
@@ -2954,6 +3089,12 @@
       "changes": {},
       "title": "IDH 1920H Lecture",
       "url": null,
+      "weather": {
+        "temp": 87,
+        "precip": 78,
+        "label": "Light drizzle",
+        "icon": "drizzle"
+      },
       "courseTitle": "Honors Symposium"
     },
     {
@@ -2970,6 +3111,12 @@
       "changes": {},
       "title": "IDH 1920H Lecture",
       "url": null,
+      "weather": {
+        "temp": 81,
+        "precip": 78,
+        "label": "Thunderstorms",
+        "icon": "storm"
+      },
       "courseTitle": "Honors Symposium"
     },
     {
@@ -2986,6 +3133,12 @@
       "changes": {},
       "title": "ISC 2054 Seminar",
       "url": null,
+      "weather": {
+        "temp": 88,
+        "precip": 65,
+        "label": "Overcast",
+        "icon": "cloud"
+      },
       "courseTitle": "STEM Seminar"
     },
     {
@@ -3002,6 +3155,12 @@
       "changes": {},
       "title": "ENC 1101 Lecture",
       "url": null,
+      "weather": {
+        "temp": 83,
+        "precip": 26,
+        "label": "Clear",
+        "icon": "sun"
+      },
       "courseTitle": "Writing & Composition"
     },
     {
@@ -3018,6 +3177,12 @@
       "changes": {},
       "title": "MAC 2312 Lecture",
       "url": null,
+      "weather": {
+        "temp": 86,
+        "precip": 26,
+        "label": "Mostly clear",
+        "icon": "sun"
+      },
       "courseTitle": "Calculus 2"
     },
     {
@@ -3034,6 +3199,12 @@
       "changes": {},
       "title": "PHY 2048 Lecture",
       "url": null,
+      "weather": {
+        "temp": 85,
+        "precip": 52,
+        "label": "Light drizzle",
+        "icon": "drizzle"
+      },
       "courseTitle": "Physics: Mechanics"
     },
     {
@@ -3050,6 +3221,12 @@
       "changes": {},
       "title": "EGS 1006C Lecture",
       "url": null,
+      "weather": {
+        "temp": 74,
+        "precip": 3,
+        "label": "Partly cloudy",
+        "icon": "cloud"
+      },
       "courseTitle": "Intro to Engineering"
     },
     {
@@ -3066,6 +3243,12 @@
       "changes": {},
       "title": "MAC 2312 Friday Lecture",
       "url": null,
+      "weather": {
+        "temp": 87,
+        "precip": 18,
+        "label": "Overcast",
+        "icon": "cloud"
+      },
       "courseTitle": "Calculus 2"
     },
     {
