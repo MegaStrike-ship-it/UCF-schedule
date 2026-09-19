@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T09:41:05.411310-04:00",
+  "generatedAt": "2026-09-19T12:59:44.346710-04:00",
   "term": {
     "name": "Fall 2026",
     "start": "2026-08-24",
@@ -89,31 +89,31 @@
   "weather": {
     "place": "UCF Orlando",
     "current": {
-      "temp": 79,
-      "feelsLike": 88,
-      "label": "Clear",
-      "icon": "sun",
+      "temp": 84,
+      "feelsLike": 92,
+      "label": "Overcast",
+      "icon": "cloud",
       "isDay": true
     },
     "days": [
       {
         "date": "2026-09-19",
-        "label": "Overcast",
-        "icon": "cloud",
+        "label": "Drizzle",
+        "icon": "drizzle",
         "high": 86,
         "low": 74,
-        "precip": 23,
+        "precip": 18,
         "uv": 7,
         "sunrise": "07:11",
         "sunset": "19:24"
       },
       {
         "date": "2026-09-20",
-        "label": "Light drizzle",
-        "icon": "drizzle",
+        "label": "Overcast",
+        "icon": "cloud",
         "high": 83,
         "low": 74,
-        "precip": 46,
+        "precip": 26,
         "uv": 8,
         "sunrise": "07:12",
         "sunset": "19:23"
@@ -123,19 +123,19 @@
         "label": "Drizzle",
         "icon": "drizzle",
         "high": 93,
-        "low": 75,
-        "precip": 81,
+        "low": 73,
+        "precip": 83,
         "uv": 8,
         "sunrise": "07:12",
         "sunset": "19:22"
       },
       {
         "date": "2026-09-22",
-        "label": "Thunderstorms",
-        "icon": "storm",
+        "label": "Showers",
+        "icon": "rain",
         "high": 94,
         "low": 75,
-        "precip": 78,
+        "precip": 85,
         "uv": 8,
         "sunrise": "07:13",
         "sunset": "19:21"
@@ -157,7 +157,7 @@
         "icon": "drizzle",
         "high": 86,
         "low": 75,
-        "precip": 52,
+        "precip": 51,
         "uv": 6,
         "sunrise": "07:14",
         "sunset": "19:18"
@@ -175,9 +175,9 @@
       }
     ],
     "air": {
-      "aqi": 40,
+      "aqi": 39,
       "label": "Good",
-      "pm25": 6.7
+      "pm25": 5.6
     }
   },
   "severe": [],
@@ -330,7 +330,7 @@
       "start": "14:00",
       "end": "16:00",
       "blurb": "Come join us from 2:00&ndash;4:00 PM for Meet the Presidents! Stop by Menchie&rsquo;s @ Plaza to hang out with the BMC leadership team, get to know us, and ask ",
-      "rsvps": 2,
+      "rsvps": 3,
       "image": "https://se-images.campuslabs.com/clink/images/ebd02b6c-12c5-46a8-8001-97062023216dc480e02a-fa36-44de-b5ca-ab61c39d702c.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12767708"
     },
@@ -372,7 +372,7 @@
       "start": "19:00",
       "end": "23:45",
       "blurb": "Knight nation will be together on September 19th at 7pm. Charge on!",
-      "rsvps": 2,
+      "rsvps": 3,
       "image": "https://se-images.campuslabs.com/clink/images/cbf6d7bd-7f38-4656-8535-25d6fadf322b71ab7683-0d49-4d02-ad24-7cf9ebb90845.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12755098"
     },
@@ -769,20 +769,6 @@
       "url": "https://ucf.campuslabs.com/engage/event/12744543"
     },
     {
-      "id": "12767062",
-      "name": "Spark with Hope",
-      "org": "LGBTQ+ Services",
-      "theme": "CommunityService",
-      "location": "Student Union 221",
-      "date": "2026-09-22",
-      "start": "10:00",
-      "end": "15:00",
-      "blurb": "Join us for an interactive leadership experience where emerging leaders will build real-life organizing skills, connect with the community, and discover new way",
-      "rsvps": 0,
-      "image": "https://se-images.campuslabs.com/clink/images/57b71bd1-1860-4007-b98e-06b5acff02ee4f028a2c-ecb9-4ad1-9528-fa2b289982c2.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12767062"
-    },
-    {
       "id": "12591498",
       "name": "Student Lounge ",
       "org": "Wesley at UCF",
@@ -795,6 +781,20 @@
       "rsvps": 0,
       "image": "https://se-images.campuslabs.com/clink/images/280042fb-d64c-43b3-8a8c-77ad638bbea130ecec0c-ad66-4f65-b675-4b9e06f7664f.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12591498"
+    },
+    {
+      "id": "12767062",
+      "name": "Spark with Hope",
+      "org": "LGBTQ+ Services",
+      "theme": "CommunityService",
+      "location": "Student Union 221",
+      "date": "2026-09-22",
+      "start": "10:00",
+      "end": "15:00",
+      "blurb": "Join us for an interactive leadership experience where emerging leaders will build real-life organizing skills, connect with the community, and discover new way",
+      "rsvps": 0,
+      "image": "https://se-images.campuslabs.com/clink/images/57b71bd1-1860-4007-b98e-06b5acff02ee4f028a2c-ecb9-4ad1-9528-fa2b289982c2.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12767062"
     },
     {
       "id": "12569799",
@@ -946,7 +946,7 @@
       "start": "17:00",
       "end": "18:45",
       "blurb": "Join The Beauty Med Collective for our second meeting of the semester! This meeting will focus on professional headshots and building your professional image as",
-      "rsvps": 6,
+      "rsvps": 7,
       "image": "https://se-images.campuslabs.com/clink/images/de11272c-dca2-4262-871d-423e4a766834128fa8fb-8d67-4ba3-b3f8-28595321436a.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12767609"
     },
@@ -1581,20 +1581,6 @@
       "url": "https://ucf.campuslabs.com/engage/event/12787279"
     },
     {
-      "id": "12588746",
-      "name": "Volleyball vs Kansas State",
-      "org": "UCF Athletics",
-      "theme": "Athletics",
-      "location": "The Venue",
-      "date": "2026-09-24",
-      "start": "18:00",
-      "end": "20:00",
-      "blurb": "Come out and see the Volleyball team take on Kansas State for Greek Knight!",
-      "rsvps": 1,
-      "image": "https://se-images.campuslabs.com/clink/images/ad67420e-b778-4846-89a4-36cc00f51ebbb036527c-0275-4c23-a404-ccefe35f1404.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12588746"
-    },
-    {
       "id": "12632470",
       "name": "Back-to-SOMA Social",
       "org": "Pre-Student Osteopathic Medical Association",
@@ -1607,6 +1593,20 @@
       "rsvps": 0,
       "image": "https://se-images.campuslabs.com/clink/images/ecf8b035-462a-4272-9c4f-5e41c2edab2f12bef1e9-415a-430d-a2c8-be3866988476.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12632470"
+    },
+    {
+      "id": "12588746",
+      "name": "Volleyball vs Kansas State",
+      "org": "UCF Athletics",
+      "theme": "Athletics",
+      "location": "The Venue",
+      "date": "2026-09-24",
+      "start": "18:00",
+      "end": "20:00",
+      "blurb": "Come out and see the Volleyball team take on Kansas State for Greek Knight!",
+      "rsvps": 1,
+      "image": "https://se-images.campuslabs.com/clink/images/ad67420e-b778-4846-89a4-36cc00f51ebbb036527c-0275-4c23-a404-ccefe35f1404.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12588746"
     },
     {
       "id": "12692876",
@@ -2936,9 +2936,9 @@
       "title": "PHY 2048L Laboratory",
       "url": null,
       "weather": {
-        "temp": 82,
+        "temp": 83,
         "precip": 4,
-        "label": "Clear",
+        "label": "Mostly clear",
         "icon": "sun"
       },
       "courseTitle": "Physics Lab"
@@ -2959,7 +2959,7 @@
       "url": null,
       "weather": {
         "temp": 79,
-        "precip": 13,
+        "precip": 14,
         "label": "Overcast",
         "icon": "cloud"
       },
@@ -2981,7 +2981,7 @@
       "url": null,
       "weather": {
         "temp": 93,
-        "precip": 81,
+        "precip": 83,
         "label": "Light drizzle",
         "icon": "drizzle"
       },
@@ -3003,7 +3003,7 @@
       "url": null,
       "weather": {
         "temp": 76,
-        "precip": 3,
+        "precip": 2,
         "label": "Clear",
         "icon": "sun"
       },
@@ -3069,7 +3069,7 @@
       "url": null,
       "weather": {
         "temp": 93,
-        "precip": 78,
+        "precip": 85,
         "label": "Light drizzle",
         "icon": "drizzle"
       },
@@ -3091,7 +3091,7 @@
       "url": null,
       "weather": {
         "temp": 87,
-        "precip": 78,
+        "precip": 85,
         "label": "Light drizzle",
         "icon": "drizzle"
       },
@@ -3113,9 +3113,9 @@
       "url": null,
       "weather": {
         "temp": 81,
-        "precip": 78,
-        "label": "Thunderstorms",
-        "icon": "storm"
+        "precip": 85,
+        "label": "Showers",
+        "icon": "rain"
       },
       "courseTitle": "Honors Symposium"
     },
@@ -3157,7 +3157,7 @@
       "url": null,
       "weather": {
         "temp": 83,
-        "precip": 26,
+        "precip": 23,
         "label": "Clear",
         "icon": "sun"
       },
@@ -3179,7 +3179,7 @@
       "url": null,
       "weather": {
         "temp": 86,
-        "precip": 26,
+        "precip": 23,
         "label": "Mostly clear",
         "icon": "sun"
       },
@@ -3201,7 +3201,7 @@
       "url": null,
       "weather": {
         "temp": 85,
-        "precip": 52,
+        "precip": 51,
         "label": "Light drizzle",
         "icon": "drizzle"
       },
@@ -3223,7 +3223,7 @@
       "url": null,
       "weather": {
         "temp": 74,
-        "precip": 3,
+        "precip": 1,
         "label": "Partly cloudy",
         "icon": "cloud"
       },
@@ -3245,7 +3245,7 @@
       "url": null,
       "weather": {
         "temp": 87,
-        "precip": 18,
+        "precip": 15,
         "label": "Overcast",
         "icon": "cloud"
       },
