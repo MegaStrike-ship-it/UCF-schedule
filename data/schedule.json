@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T15:16:29.088104-04:00",
+  "generatedAt": "2026-09-19T18:06:32.143639-04:00",
   "term": {
     "name": "Fall 2026",
     "start": "2026-08-24",
@@ -89,10 +89,10 @@
   "weather": {
     "place": "UCF Orlando",
     "current": {
-      "temp": 87,
-      "feelsLike": 93,
-      "label": "Partly cloudy",
-      "icon": "cloud",
+      "temp": 84,
+      "feelsLike": 89,
+      "label": "Clear",
+      "icon": "sun",
       "isDay": true
     },
     "days": [
@@ -100,20 +100,20 @@
         "date": "2026-09-19",
         "label": "Overcast",
         "icon": "cloud",
-        "high": 88,
+        "high": 90,
         "low": 74,
-        "precip": 21,
+        "precip": 30,
         "uv": 7,
         "sunrise": "07:11",
         "sunset": "19:24"
       },
       {
         "date": "2026-09-20",
-        "label": "Light drizzle",
-        "icon": "drizzle",
-        "high": 83,
+        "label": "Heavy showers",
+        "icon": "rain",
+        "high": 85,
         "low": 74,
-        "precip": 39,
+        "precip": 44,
         "uv": 7,
         "sunrise": "07:12",
         "sunset": "19:23"
@@ -124,7 +124,7 @@
         "icon": "storm",
         "high": 95,
         "low": 73,
-        "precip": 83,
+        "precip": 72,
         "uv": 8,
         "sunrise": "07:12",
         "sunset": "19:22"
@@ -157,7 +157,7 @@
         "icon": "drizzle",
         "high": 88,
         "low": 75,
-        "precip": 51,
+        "precip": 48,
         "uv": 7,
         "sunrise": "07:14",
         "sunset": "19:18"
@@ -168,16 +168,16 @@
         "icon": "drizzle",
         "high": 84,
         "low": 74,
-        "precip": 48,
+        "precip": 41,
         "uv": 4,
         "sunrise": "07:14",
         "sunset": "19:17"
       }
     ],
     "air": {
-      "aqi": 38,
+      "aqi": 37,
       "label": "Good",
-      "pm25": 6.4
+      "pm25": 7.0
     }
   },
   "severe": [],
@@ -307,34 +307,6 @@
       "url": "https://ucf.campuslabs.com/engage/event/12589161"
     },
     {
-      "id": "12767708",
-      "name": "The Beauty Med Collective + Menchies + Meet the President Event!",
-      "org": "The Beauty Med Collective",
-      "theme": "Fundraising",
-      "location": "Menchie's Frozen Yogurt",
-      "date": "2026-09-19",
-      "start": "14:00",
-      "end": "16:00",
-      "blurb": "Come join us from 2:00&ndash;4:00 PM for Meet the Presidents! Stop by Menchie&rsquo;s @ Plaza to hang out with the BMC leadership team, get to know us, and ask ",
-      "rsvps": 3,
-      "image": "https://se-images.campuslabs.com/clink/images/ebd02b6c-12c5-46a8-8001-97062023216dc480e02a-fa36-44de-b5ca-ab61c39d702c.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12767708"
-    },
-    {
-      "id": "12554018",
-      "name": "Tailgate #2 - Georgia State ft. HDR",
-      "org": "American Society of Civil Engineers at the University of Central Florida",
-      "theme": "Social",
-      "location": "Memory Mall",
-      "date": "2026-09-19",
-      "start": "15:00",
-      "end": "18:00",
-      "blurb": "Join us for a fun tailgate before the game! We&rsquo;ll have food, drinks, and games like cornhole. Feel free to bring anything extra!",
-      "rsvps": 0,
-      "image": "https://se-images.campuslabs.com/clink/images/7f8a3b26-01e1-4283-b82c-c75bef055d9d1b318c34-f9a7-44b6-b80a-94c2031bae61.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12554018"
-    },
-    {
       "id": "12708856",
       "name": "Share-A-Meal",
       "org": "Volunteer UCF",
@@ -442,7 +414,7 @@
       "start": "19:00",
       "end": "22:00",
       "blurb": "UCF's Contemporary A Cappella Society presents Acapalooza! This is a musical event that you don&rsquo;t want to miss! With performances from our award-winning a",
-      "rsvps": 41,
+      "rsvps": 43,
       "image": "https://se-images.campuslabs.com/clink/images/eaf8021a-d7f8-4119-aab2-ce10bad21e7f79e39d6e-1704-4955-8e9b-77c2d41f336f.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12732336"
     },
@@ -638,7 +610,7 @@
       "start": "18:30",
       "end": "19:30",
       "blurb": "Join us for our first NBA CBA Workshop of the semester. Learn everything you need to know about the NBA's collective bargaining agreement and how to use it to y",
-      "rsvps": 8,
+      "rsvps": 9,
       "image": "https://se-images.campuslabs.com/clink/images/31a451d0-e13e-4567-8740-5eb5179f4e486a2d2b34-df1a-42aa-a81b-d93213b5ca1b.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12756119"
     },
@@ -708,7 +680,7 @@
       "start": "19:30",
       "end": "20:30",
       "blurb": "Ready to level up your networking skills? Join us this Monday for a special speaker meeting with Cloey Trachtenberg, a University Recruiter in Sales at Gartner!",
-      "rsvps": 5,
+      "rsvps": 8,
       "image": "https://se-images.campuslabs.com/clink/images/baa0389c-50c4-4561-8727-7a3293e19a186c3ff32c-a97a-43d9-8531-06123d272b34.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12781381"
     },
@@ -755,20 +727,6 @@
       "url": "https://ucf.campuslabs.com/engage/event/12744543"
     },
     {
-      "id": "12767062",
-      "name": "Spark with Hope",
-      "org": "LGBTQ+ Services",
-      "theme": "CommunityService",
-      "location": "Student Union 221",
-      "date": "2026-09-22",
-      "start": "10:00",
-      "end": "15:00",
-      "blurb": "Join us for an interactive leadership experience where emerging leaders will build real-life organizing skills, connect with the community, and discover new way",
-      "rsvps": 0,
-      "image": "https://se-images.campuslabs.com/clink/images/57b71bd1-1860-4007-b98e-06b5acff02ee4f028a2c-ecb9-4ad1-9528-fa2b289982c2.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12767062"
-    },
-    {
       "id": "12591498",
       "name": "Student Lounge ",
       "org": "Wesley at UCF",
@@ -781,6 +739,20 @@
       "rsvps": 0,
       "image": "https://se-images.campuslabs.com/clink/images/280042fb-d64c-43b3-8a8c-77ad638bbea130ecec0c-ad66-4f65-b675-4b9e06f7664f.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12591498"
+    },
+    {
+      "id": "12767062",
+      "name": "Spark with Hope",
+      "org": "LGBTQ+ Services",
+      "theme": "CommunityService",
+      "location": "Student Union 221",
+      "date": "2026-09-22",
+      "start": "10:00",
+      "end": "15:00",
+      "blurb": "Join us for an interactive leadership experience where emerging leaders will build real-life organizing skills, connect with the community, and discover new way",
+      "rsvps": 0,
+      "image": "https://se-images.campuslabs.com/clink/images/57b71bd1-1860-4007-b98e-06b5acff02ee4f028a2c-ecb9-4ad1-9528-fa2b289982c2.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12767062"
     },
     {
       "id": "12569799",
@@ -1539,6 +1511,20 @@
       "url": "https://ucf.campuslabs.com/engage/event/12551135"
     },
     {
+      "id": "12788349",
+      "name": "Green Assembly",
+      "org": "UCF Arboretum",
+      "theme": "ThoughtfulLearning",
+      "location": "Student Union Room 223",
+      "date": "2026-09-24",
+      "start": "16:00",
+      "end": "17:00",
+      "blurb": "Join the UCF Arboretum's Outreach and Engagement team for this month's Green Assembly to talk about the environmental and health benefits of plant-based meals !",
+      "rsvps": 0,
+      "image": null,
+      "url": "https://ucf.campuslabs.com/engage/event/12788349"
+    },
+    {
       "id": "12551191",
       "name": "LJR Committee Meeting",
       "org": "Student Government Legislative Branch (Senate)",
@@ -1971,6 +1957,20 @@
       "rsvps": 3,
       "image": "https://se-images.campuslabs.com/clink/images/397b780f-197c-4f32-9459-3daac2cb30d43746a9a6-54cc-47b5-9aba-a4e494865005.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12738514"
+    },
+    {
+      "id": "12550930",
+      "name": "FAO Committee Meeting",
+      "org": "Student Government Legislative Branch (Senate)",
+      "theme": "CommunityService",
+      "location": "Charge On Chamber, Student Union",
+      "date": "2026-09-28",
+      "start": "14:00",
+      "end": "15:30",
+      "blurb": "Weekly FAO Committee Meeting Email: sga_fao@ucf.edu Chair: Madalyn Phillips Vice Chair: Aaron Wacker",
+      "rsvps": 0,
+      "image": "https://se-images.campuslabs.com/clink/images/97bde8d7-8871-4389-adfd-f3e0c2f5b06e8b1ffc72-febc-46f4-bb4b-237b7fd10a8e.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12550930"
     }
   ],
   "keyDates": [
@@ -2958,10 +2958,10 @@
       "title": "EGS 1006C Laboratory",
       "url": null,
       "weather": {
-        "temp": 80,
-        "precip": 14,
-        "label": "Clear",
-        "icon": "sun"
+        "temp": 77,
+        "precip": 15,
+        "label": "Overcast",
+        "icon": "cloud"
       },
       "courseTitle": "Intro to Engineering"
     },
@@ -2981,7 +2981,7 @@
       "url": null,
       "weather": {
         "temp": 95,
-        "precip": 83,
+        "precip": 72,
         "label": "Clear",
         "icon": "sun"
       },
@@ -3025,7 +3025,7 @@
       "url": null,
       "weather": {
         "temp": 82,
-        "precip": 8,
+        "precip": 7,
         "label": "Clear",
         "icon": "sun"
       },
@@ -3047,7 +3047,7 @@
       "url": null,
       "weather": {
         "temp": 89,
-        "precip": 8,
+        "precip": 7,
         "label": "Clear",
         "icon": "sun"
       },
@@ -3157,7 +3157,7 @@
       "url": null,
       "weather": {
         "temp": 82,
-        "precip": 23,
+        "precip": 27,
         "label": "Clear",
         "icon": "sun"
       },
@@ -3179,7 +3179,7 @@
       "url": null,
       "weather": {
         "temp": 87,
-        "precip": 23,
+        "precip": 27,
         "label": "Light drizzle",
         "icon": "drizzle"
       },
@@ -3201,7 +3201,7 @@
       "url": null,
       "weather": {
         "temp": 88,
-        "precip": 51,
+        "precip": 48,
         "label": "Mostly clear",
         "icon": "sun"
       },
@@ -3223,7 +3223,7 @@
       "url": null,
       "weather": {
         "temp": 75,
-        "precip": 1,
+        "precip": 2,
         "label": "Overcast",
         "icon": "cloud"
       },
@@ -3245,7 +3245,7 @@
       "url": null,
       "weather": {
         "temp": 84,
-        "precip": 15,
+        "precip": 9,
         "label": "Overcast",
         "icon": "cloud"
       },
