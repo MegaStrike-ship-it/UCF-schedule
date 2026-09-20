@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T13:19:25.318273-04:00",
+  "generatedAt": "2026-09-20T16:19:19.799209-04:00",
   "term": {
     "name": "Fall 2026",
     "start": "2026-08-24",
@@ -89,8 +89,8 @@
   "weather": {
     "place": "UCF Orlando",
     "current": {
-      "temp": 82,
-      "feelsLike": 88,
+      "temp": 83,
+      "feelsLike": 92,
       "label": "Overcast",
       "icon": "cloud",
       "isDay": true
@@ -98,22 +98,22 @@
     "days": [
       {
         "date": "2026-09-20",
-        "label": "Overcast",
-        "icon": "cloud",
+        "label": "Heavy rain",
+        "icon": "rain",
         "high": 84,
-        "low": 75,
-        "precip": 35,
+        "low": 73,
+        "precip": 55,
         "uv": 7,
         "sunrise": "07:12",
         "sunset": "19:23"
       },
       {
         "date": "2026-09-21",
-        "label": "Showers",
-        "icon": "rain",
-        "high": 87,
+        "label": "Overcast",
+        "icon": "cloud",
+        "high": 84,
         "low": 73,
-        "precip": 30,
+        "precip": 29,
         "uv": 7,
         "sunrise": "07:12",
         "sunset": "19:22"
@@ -122,7 +122,7 @@
         "date": "2026-09-22",
         "label": "Thunderstorms",
         "icon": "storm",
-        "high": 93,
+        "high": 92,
         "low": 72,
         "precip": 74,
         "uv": 8,
@@ -131,9 +131,9 @@
       },
       {
         "date": "2026-09-23",
-        "label": "Light drizzle",
-        "icon": "drizzle",
-        "high": 92,
+        "label": "Thunderstorms",
+        "icon": "storm",
+        "high": 90,
         "low": 76,
         "precip": 72,
         "uv": 7,
@@ -142,10 +142,10 @@
       },
       {
         "date": "2026-09-24",
-        "label": "Heavy drizzle",
-        "icon": "drizzle",
-        "high": 88,
-        "low": 74,
+        "label": "Thunderstorms",
+        "icon": "storm",
+        "high": 89,
+        "low": 75,
         "precip": 63,
         "uv": 7,
         "sunrise": "07:14",
@@ -155,18 +155,18 @@
         "date": "2026-09-25",
         "label": "Overcast",
         "icon": "cloud",
-        "high": 86,
-        "low": 72,
+        "high": 83,
+        "low": 74,
         "precip": 30,
-        "uv": 7,
+        "uv": 4,
         "sunrise": "07:14",
         "sunset": "19:17"
       },
       {
         "date": "2026-09-26",
-        "label": "Light drizzle",
-        "icon": "drizzle",
-        "high": 88,
+        "label": "Overcast",
+        "icon": "cloud",
+        "high": 86,
         "low": 70,
         "precip": 28,
         "uv": 7,
@@ -175,9 +175,9 @@
       }
     ],
     "air": {
-      "aqi": 51,
+      "aqi": 52,
       "label": "Moderate",
-      "pm25": 6.9
+      "pm25": 5.2
     }
   },
   "severe": [],
@@ -330,7 +330,7 @@
       "start": "09:00",
       "end": "10:30",
       "blurb": "Join the Natural Resources team in an invasive plant removal shift! We will meet at the Smoothie King across from the College of Sciences building before headin",
-      "rsvps": 13,
+      "rsvps": 12,
       "image": "https://se-images.campuslabs.com/clink/images/14445c5a-dae6-4e0a-a648-3b1ff008a32da58bfbf0-2f6c-45d7-94d2-055f2ffe01e0.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12689807"
     },
@@ -428,7 +428,7 @@
       "start": "17:00",
       "end": "18:45",
       "blurb": "Join Transfer Knights (TK) next Monday for a night of connection and community! We'll kick things off with an introduction to who we are as an organization, fol",
-      "rsvps": 9,
+      "rsvps": 10,
       "image": "https://se-images.campuslabs.com/clink/images/2291e8c9-6017-4b53-8d8b-95730308790a2365ce2a-0de7-4476-a458-264c09caee60.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12766904"
     },
@@ -582,7 +582,7 @@
       "start": "19:30",
       "end": "20:30",
       "blurb": "Ready to level up your networking skills? Join us this Monday for a special speaker meeting with Cloey Trachtenberg, a University Recruiter in Sales at Gartner!",
-      "rsvps": 8,
+      "rsvps": 11,
       "image": "https://se-images.campuslabs.com/clink/images/baa0389c-50c4-4561-8727-7a3293e19a186c3ff32c-a97a-43d9-8531-06123d272b34.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12781381"
     },
@@ -1198,7 +1198,7 @@
       "start": "19:00",
       "end": "20:30",
       "blurb": "Come join us for a fun lesson full of dancing and music! Each week we learn something new and end with a fun dance social. Make new friends and have fun trying ",
-      "rsvps": 2,
+      "rsvps": 3,
       "image": "https://se-images.campuslabs.com/clink/images/114f237c-d506-490d-bb23-1f8a140a5071ab4fde55-1970-4dbc-9ad1-f9fad65876fb.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12719597"
     },
@@ -2952,8 +2952,8 @@
       "title": "EGS 1006C Laboratory",
       "url": null,
       "weather": {
-        "temp": 77,
-        "precip": 2,
+        "temp": 76,
+        "precip": 8,
         "label": "Clear",
         "icon": "sun"
       },
@@ -2974,9 +2974,9 @@
       "title": "ISC 2054 Seminar",
       "url": null,
       "weather": {
-        "temp": 86,
+        "temp": 84,
         "precip": 27,
-        "label": "Clear",
+        "label": "Mostly clear",
         "icon": "sun"
       },
       "courseTitle": "STEM Seminar"
@@ -2996,10 +2996,10 @@
       "title": "PHY 2048 Discussion",
       "url": null,
       "weather": {
-        "temp": 73,
+        "temp": 72,
         "precip": 1,
-        "label": "Overcast",
-        "icon": "cloud"
+        "label": "Clear",
+        "icon": "sun"
       },
       "courseTitle": "Physics: Mechanics"
     },
@@ -3018,10 +3018,10 @@
       "title": "ENC 1101 Lecture",
       "url": null,
       "weather": {
-        "temp": 83,
+        "temp": 78,
         "precip": 4,
-        "label": "Clear",
-        "icon": "sun"
+        "label": "Overcast",
+        "icon": "cloud"
       },
       "courseTitle": "Writing & Composition"
     },
@@ -3040,7 +3040,7 @@
       "title": "MAC 2312 Lecture",
       "url": null,
       "weather": {
-        "temp": 89,
+        "temp": 84,
         "precip": 4,
         "label": "Clear",
         "icon": "sun"
@@ -3062,7 +3062,7 @@
       "title": "PHY 2048 Lecture",
       "url": null,
       "weather": {
-        "temp": 93,
+        "temp": 92,
         "precip": 74,
         "label": "Light drizzle",
         "icon": "drizzle"
@@ -3084,7 +3084,7 @@
       "title": "IDH 1920H Lecture",
       "url": null,
       "weather": {
-        "temp": 91,
+        "temp": 90,
         "precip": 74,
         "label": "Light drizzle",
         "icon": "drizzle"
@@ -3106,10 +3106,10 @@
       "title": "IDH 1920H Lecture",
       "url": null,
       "weather": {
-        "temp": 83,
+        "temp": 82,
         "precip": 74,
-        "label": "Drizzle",
-        "icon": "drizzle"
+        "label": "Thunderstorms",
+        "icon": "storm"
       },
       "courseTitle": "Honors Symposium"
     },
@@ -3128,7 +3128,7 @@
       "title": "ISC 2054 Seminar",
       "url": null,
       "weather": {
-        "temp": 87,
+        "temp": 89,
         "precip": 72,
         "label": "Light drizzle",
         "icon": "drizzle"
@@ -3150,10 +3150,10 @@
       "title": "ENC 1101 Lecture",
       "url": null,
       "weather": {
-        "temp": 82,
+        "temp": 81,
         "precip": 23,
-        "label": "Light drizzle",
-        "icon": "drizzle"
+        "label": "Overcast",
+        "icon": "cloud"
       },
       "courseTitle": "Writing & Composition"
     },
@@ -3172,10 +3172,10 @@
       "title": "MAC 2312 Lecture",
       "url": null,
       "weather": {
-        "temp": 88,
+        "temp": 87,
         "precip": 23,
-        "label": "Light drizzle",
-        "icon": "drizzle"
+        "label": "Overcast",
+        "icon": "cloud"
       },
       "courseTitle": "Calculus 2"
     },
@@ -3194,7 +3194,7 @@
       "title": "PHY 2048 Lecture",
       "url": null,
       "weather": {
-        "temp": 86,
+        "temp": 84,
         "precip": 63,
         "label": "Light drizzle",
         "icon": "drizzle"
@@ -3240,7 +3240,7 @@
       "weather": {
         "temp": 83,
         "precip": 16,
-        "label": "Overcast",
+        "label": "Partly cloudy",
         "icon": "cloud"
       },
       "courseTitle": "Calculus 2"
