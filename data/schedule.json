@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T20:38:22.097968-04:00",
+  "generatedAt": "2026-09-20T09:56:25.790917-04:00",
   "term": {
     "name": "Fall 2026",
     "start": "2026-08-24",
@@ -90,52 +90,41 @@
     "place": "UCF Orlando",
     "current": {
       "temp": 80,
-      "feelsLike": 89,
+      "feelsLike": 88,
       "label": "Overcast",
       "icon": "cloud",
-      "isDay": false
+      "isDay": true
     },
     "days": [
-      {
-        "date": "2026-09-19",
-        "label": "Overcast",
-        "icon": "cloud",
-        "high": 90,
-        "low": 74,
-        "precip": 30,
-        "uv": 7,
-        "sunrise": "07:11",
-        "sunset": "19:24"
-      },
       {
         "date": "2026-09-20",
         "label": "Heavy showers",
         "icon": "rain",
         "high": 85,
         "low": 75,
-        "precip": 37,
+        "precip": 29,
         "uv": 7,
         "sunrise": "07:12",
         "sunset": "19:23"
       },
       {
         "date": "2026-09-21",
-        "label": "Drizzle",
-        "icon": "drizzle",
-        "high": 93,
-        "low": 73,
-        "precip": 72,
-        "uv": 8,
+        "label": "Overcast",
+        "icon": "cloud",
+        "high": 83,
+        "low": 74,
+        "precip": 29,
+        "uv": 7,
         "sunrise": "07:12",
         "sunset": "19:22"
       },
       {
         "date": "2026-09-22",
-        "label": "Showers",
-        "icon": "rain",
-        "high": 94,
-        "low": 76,
-        "precip": 85,
+        "label": "Thunderstorms",
+        "icon": "storm",
+        "high": 93,
+        "low": 75,
+        "precip": 75,
         "uv": 8,
         "sunrise": "07:13",
         "sunset": "19:21"
@@ -144,10 +133,10 @@
         "date": "2026-09-23",
         "label": "Light drizzle",
         "icon": "drizzle",
-        "high": 93,
-        "low": 75,
-        "precip": 65,
-        "uv": 8,
+        "high": 92,
+        "low": 76,
+        "precip": 70,
+        "uv": 7,
         "sunrise": "07:13",
         "sunset": "19:19"
       },
@@ -155,29 +144,40 @@
         "date": "2026-09-24",
         "label": "Heavy drizzle",
         "icon": "drizzle",
-        "high": 93,
-        "low": 75,
-        "precip": 48,
+        "high": 88,
+        "low": 74,
+        "precip": 55,
         "uv": 7,
         "sunrise": "07:14",
         "sunset": "19:18"
       },
       {
         "date": "2026-09-25",
-        "label": "Light drizzle",
-        "icon": "drizzle",
+        "label": "Overcast",
+        "icon": "cloud",
         "high": 86,
-        "low": 75,
-        "precip": 41,
-        "uv": 6,
+        "low": 72,
+        "precip": 38,
+        "uv": 7,
         "sunrise": "07:14",
         "sunset": "19:17"
+      },
+      {
+        "date": "2026-09-26",
+        "label": "Light drizzle",
+        "icon": "drizzle",
+        "high": 88,
+        "low": 70,
+        "precip": 31,
+        "uv": 7,
+        "sunrise": "07:15",
+        "sunset": "19:16"
       }
     ],
     "air": {
-      "aqi": 36,
+      "aqi": 49,
       "label": "Good",
-      "pm25": 11.2
+      "pm25": 10.4
     }
   },
   "severe": [],
@@ -206,8 +206,8 @@
       "opponent": "Georgia State Panthers",
       "home": true,
       "venue": "Acrisure Bounce House",
-      "state": "in",
-      "detail": "15:00 - 3rd"
+      "state": "post",
+      "detail": "Final"
     },
     {
       "date": "2026-09-26",
@@ -293,34 +293,6 @@
   ],
   "events": [
     {
-      "id": "12589161",
-      "name": "ACEing Autism Fall Session Sign-Ups",
-      "org": "National Student Speech Language Hearing Association (NSSLHA) - Orlando",
-      "theme": "CommunityService",
-      "location": "UCF Tennis Complex",
-      "date": "2026-09-19",
-      "start": "12:00",
-      "end": "13:00",
-      "blurb": "The Fall Session for ACEing Autism will run from September 20th to November 8th, with clinics held every Sunday from 11 a.m. to 12 p.m. This is a wonderful oppo",
-      "rsvps": 8,
-      "image": "https://se-images.campuslabs.com/clink/images/8e83055b-ad11-4169-b23d-2a8ea284ab07ce4fffed-7ad1-499c-8829-6b8e2d717591.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12589161"
-    },
-    {
-      "id": "12755098",
-      "name": "UCF Football vs Georgia State",
-      "org": "UCF Athletics",
-      "theme": "Athletics",
-      "location": "Acrisure Bounce House",
-      "date": "2026-09-19",
-      "start": "19:00",
-      "end": "23:45",
-      "blurb": "Knight nation will be together on September 19th at 7pm. Charge on!",
-      "rsvps": 3,
-      "image": "https://se-images.campuslabs.com/clink/images/cbf6d7bd-7f38-4656-8535-25d6fadf322b71ab7683-0d49-4d02-ad24-7cf9ebb90845.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12755098"
-    },
-    {
       "id": "12769232",
       "name": "Habitat For Humanity @ UCF Pond Clean Up",
       "org": "Habitat for Humanity @ UCF",
@@ -330,7 +302,7 @@
       "start": "10:00",
       "end": "11:00",
       "blurb": "This is our first Habitat for Humanity @ UCF pond clean up! There will be warm bagels. Come hang out and clean up UCF! More details will be posted in the discor",
-      "rsvps": 5,
+      "rsvps": 6,
       "image": "https://se-images.campuslabs.com/clink/images/940f39ce-8092-4630-b4f8-00a92096187c4fa8b3a6-27b2-4ab6-8f7d-0353e6c8a438.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12769232"
     },
@@ -372,7 +344,7 @@
       "start": "12:00",
       "end": "13:15",
       "blurb": "Mass is the center of our Catholic Faith. It's where we come together as a Church to worship God through Christ's offering of Himself to the Father and for us i",
-      "rsvps": 0,
+      "rsvps": 1,
       "image": "https://se-images.campuslabs.com/clink/images/7bec9bf7-6aac-4901-aa49-f48e5f8c8199850bb3df-d7d7-4934-b073-9f92cadbdd9d.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12755507"
     },
@@ -400,7 +372,7 @@
       "start": "19:00",
       "end": "22:00",
       "blurb": "UCF's Contemporary A Cappella Society presents Acapalooza! This is a musical event that you don&rsquo;t want to miss! With performances from our award-winning a",
-      "rsvps": 43,
+      "rsvps": 44,
       "image": "https://se-images.campuslabs.com/clink/images/eaf8021a-d7f8-4119-aab2-ce10bad21e7f79e39d6e-1704-4955-8e9b-77c2d41f336f.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12732336"
     },
@@ -713,20 +685,6 @@
       "url": "https://ucf.campuslabs.com/engage/event/12744543"
     },
     {
-      "id": "12767062",
-      "name": "Spark with Hope",
-      "org": "LGBTQ+ Services",
-      "theme": "CommunityService",
-      "location": "Student Union 221",
-      "date": "2026-09-22",
-      "start": "10:00",
-      "end": "15:00",
-      "blurb": "Join us for an interactive leadership experience where emerging leaders will build real-life organizing skills, connect with the community, and discover new way",
-      "rsvps": 0,
-      "image": "https://se-images.campuslabs.com/clink/images/57b71bd1-1860-4007-b98e-06b5acff02ee4f028a2c-ecb9-4ad1-9528-fa2b289982c2.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12767062"
-    },
-    {
       "id": "12591498",
       "name": "Student Lounge ",
       "org": "Wesley at UCF",
@@ -739,6 +697,20 @@
       "rsvps": 0,
       "image": "https://se-images.campuslabs.com/clink/images/280042fb-d64c-43b3-8a8c-77ad638bbea130ecec0c-ad66-4f65-b675-4b9e06f7664f.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12591498"
+    },
+    {
+      "id": "12767062",
+      "name": "Spark with Hope",
+      "org": "LGBTQ+ Services",
+      "theme": "CommunityService",
+      "location": "Student Union 221",
+      "date": "2026-09-22",
+      "start": "10:00",
+      "end": "15:00",
+      "blurb": "Join us for an interactive leadership experience where emerging leaders will build real-life organizing skills, connect with the community, and discover new way",
+      "rsvps": 0,
+      "image": "https://se-images.campuslabs.com/clink/images/57b71bd1-1860-4007-b98e-06b5acff02ee4f028a2c-ecb9-4ad1-9528-fa2b289982c2.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12767062"
     },
     {
       "id": "12569799",
@@ -820,7 +792,7 @@
       "start": "16:00",
       "end": "18:00",
       "blurb": "Come join the New Mutants and make a presentation about your favorite ships! Max of 2 are allowed.",
-      "rsvps": 5,
+      "rsvps": 7,
       "image": "https://se-images.campuslabs.com/clink/images/056fe433-436a-48f8-8ec0-92c7e785f75f17ff6a57-591d-4f2b-bea3-534075cd9abf.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12785064"
     },
@@ -1971,6 +1943,34 @@
       "rsvps": 0,
       "image": "https://se-images.campuslabs.com/clink/images/97bde8d7-8871-4389-adfd-f3e0c2f5b06e8b1ffc72-febc-46f4-bb4b-237b7fd10a8e.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12550930"
+    },
+    {
+      "id": "12550851",
+      "name": "SBA Committee Meeting",
+      "org": "Student Government Legislative Branch (Senate)",
+      "theme": "CommunityService",
+      "location": "SG Conference Room",
+      "date": "2026-09-28",
+      "start": "15:00",
+      "end": "16:00",
+      "blurb": "Weekly SBA Committee Meeting. Email: sgasba@ucf.edu Chair: Veronica Perez Vice Chair: Mariah Simmons",
+      "rsvps": 0,
+      "image": "https://se-images.campuslabs.com/clink/images/484ded41-e1f8-46ad-bdc3-02ee205ea515f6b14e3f-50f0-4721-b8de-74eea0f92e1b.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12550851"
+    },
+    {
+      "id": "12616539",
+      "name": "Judicial Experience Committee",
+      "org": "Student Government Judicial Branch",
+      "theme": "Social",
+      "location": "UCF SG Conference Room - Student Union Room 350",
+      "date": "2026-09-28",
+      "start": "17:00",
+      "end": "18:00",
+      "blurb": "The Judicial Experience Committee (JEC) works to ensure high morale and cooperation between the Justices. They plan team building activities and experiences to ",
+      "rsvps": 0,
+      "image": "https://se-images.campuslabs.com/clink/images/4ab49632-c0e0-4102-9463-f5c5ccde398197956345-85ea-44a6-9223-8a4e958bc31c.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12616539"
     }
   ],
   "keyDates": [
@@ -2935,12 +2935,6 @@
       "changes": {},
       "title": "PHY 2048L Laboratory",
       "url": null,
-      "weather": {
-        "temp": 83,
-        "precip": 4,
-        "label": "Mostly clear",
-        "icon": "sun"
-      },
       "courseTitle": "Physics Lab"
     },
     {
@@ -2958,8 +2952,8 @@
       "title": "EGS 1006C Laboratory",
       "url": null,
       "weather": {
-        "temp": 77,
-        "precip": 15,
+        "temp": 78,
+        "precip": 2,
         "label": "Overcast",
         "icon": "cloud"
       },
@@ -2980,10 +2974,10 @@
       "title": "ISC 2054 Seminar",
       "url": null,
       "weather": {
-        "temp": 93,
-        "precip": 72,
-        "label": "Light drizzle",
-        "icon": "drizzle"
+        "temp": 80,
+        "precip": 25,
+        "label": "Overcast",
+        "icon": "cloud"
       },
       "courseTitle": "STEM Seminar"
     },
@@ -3002,8 +2996,8 @@
       "title": "PHY 2048 Discussion",
       "url": null,
       "weather": {
-        "temp": 76,
-        "precip": 2,
+        "temp": 75,
+        "precip": 1,
         "label": "Clear",
         "icon": "sun"
       },
@@ -3024,8 +3018,8 @@
       "title": "ENC 1101 Lecture",
       "url": null,
       "weather": {
-        "temp": 84,
-        "precip": 7,
+        "temp": 83,
+        "precip": 9,
         "label": "Clear",
         "icon": "sun"
       },
@@ -3046,8 +3040,8 @@
       "title": "MAC 2312 Lecture",
       "url": null,
       "weather": {
-        "temp": 90,
-        "precip": 7,
+        "temp": 89,
+        "precip": 9,
         "label": "Clear",
         "icon": "sun"
       },
@@ -3069,7 +3063,7 @@
       "url": null,
       "weather": {
         "temp": 93,
-        "precip": 85,
+        "precip": 75,
         "label": "Light drizzle",
         "icon": "drizzle"
       },
@@ -3090,8 +3084,8 @@
       "title": "IDH 1920H Lecture",
       "url": null,
       "weather": {
-        "temp": 88,
-        "precip": 85,
+        "temp": 91,
+        "precip": 75,
         "label": "Light drizzle",
         "icon": "drizzle"
       },
@@ -3112,9 +3106,9 @@
       "title": "IDH 1920H Lecture",
       "url": null,
       "weather": {
-        "temp": 81,
-        "precip": 85,
-        "label": "Light drizzle",
+        "temp": 83,
+        "precip": 75,
+        "label": "Drizzle",
         "icon": "drizzle"
       },
       "courseTitle": "Honors Symposium"
@@ -3134,8 +3128,8 @@
       "title": "ISC 2054 Seminar",
       "url": null,
       "weather": {
-        "temp": 93,
-        "precip": 65,
+        "temp": 87,
+        "precip": 70,
         "label": "Light drizzle",
         "icon": "drizzle"
       },
@@ -3156,10 +3150,10 @@
       "title": "ENC 1101 Lecture",
       "url": null,
       "weather": {
-        "temp": 83,
-        "precip": 27,
-        "label": "Clear",
-        "icon": "sun"
+        "temp": 82,
+        "precip": 14,
+        "label": "Light drizzle",
+        "icon": "drizzle"
       },
       "courseTitle": "Writing & Composition"
     },
@@ -3179,9 +3173,9 @@
       "url": null,
       "weather": {
         "temp": 88,
-        "precip": 27,
-        "label": "Clear",
-        "icon": "sun"
+        "precip": 14,
+        "label": "Light drizzle",
+        "icon": "drizzle"
       },
       "courseTitle": "Calculus 2"
     },
@@ -3200,10 +3194,10 @@
       "title": "PHY 2048 Lecture",
       "url": null,
       "weather": {
-        "temp": 92,
-        "precip": 48,
-        "label": "Partly cloudy",
-        "icon": "cloud"
+        "temp": 86,
+        "precip": 55,
+        "label": "Light drizzle",
+        "icon": "drizzle"
       },
       "courseTitle": "Physics: Mechanics"
     },
@@ -3222,10 +3216,10 @@
       "title": "EGS 1006C Lecture",
       "url": null,
       "weather": {
-        "temp": 76,
-        "precip": 2,
-        "label": "Light drizzle",
-        "icon": "drizzle"
+        "temp": 75,
+        "precip": 1,
+        "label": "Mostly clear",
+        "icon": "sun"
       },
       "courseTitle": "Intro to Engineering"
     },
@@ -3244,8 +3238,8 @@
       "title": "MAC 2312 Friday Lecture",
       "url": null,
       "weather": {
-        "temp": 86,
-        "precip": 9,
+        "temp": 83,
+        "precip": 6,
         "label": "Overcast",
         "icon": "cloud"
       },
@@ -3265,6 +3259,12 @@
       "changes": {},
       "title": "PHY 2048L Laboratory",
       "url": null,
+      "weather": {
+        "temp": 81,
+        "precip": 9,
+        "label": "Partly cloudy",
+        "icon": "cloud"
+      },
       "courseTitle": "Physics Lab"
     },
     {
