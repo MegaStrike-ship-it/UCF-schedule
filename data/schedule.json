@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T09:56:25.790917-04:00",
+  "generatedAt": "2026-09-20T13:19:25.318273-04:00",
   "term": {
     "name": "Fall 2026",
     "start": "2026-08-24",
@@ -89,7 +89,7 @@
   "weather": {
     "place": "UCF Orlando",
     "current": {
-      "temp": 80,
+      "temp": 82,
       "feelsLike": 88,
       "label": "Overcast",
       "icon": "cloud",
@@ -98,22 +98,22 @@
     "days": [
       {
         "date": "2026-09-20",
-        "label": "Heavy showers",
-        "icon": "rain",
-        "high": 85,
+        "label": "Overcast",
+        "icon": "cloud",
+        "high": 84,
         "low": 75,
-        "precip": 29,
+        "precip": 35,
         "uv": 7,
         "sunrise": "07:12",
         "sunset": "19:23"
       },
       {
         "date": "2026-09-21",
-        "label": "Overcast",
-        "icon": "cloud",
-        "high": 83,
-        "low": 74,
-        "precip": 29,
+        "label": "Showers",
+        "icon": "rain",
+        "high": 87,
+        "low": 73,
+        "precip": 30,
         "uv": 7,
         "sunrise": "07:12",
         "sunset": "19:22"
@@ -123,8 +123,8 @@
         "label": "Thunderstorms",
         "icon": "storm",
         "high": 93,
-        "low": 75,
-        "precip": 75,
+        "low": 72,
+        "precip": 74,
         "uv": 8,
         "sunrise": "07:13",
         "sunset": "19:21"
@@ -135,7 +135,7 @@
         "icon": "drizzle",
         "high": 92,
         "low": 76,
-        "precip": 70,
+        "precip": 72,
         "uv": 7,
         "sunrise": "07:13",
         "sunset": "19:19"
@@ -146,7 +146,7 @@
         "icon": "drizzle",
         "high": 88,
         "low": 74,
-        "precip": 55,
+        "precip": 63,
         "uv": 7,
         "sunrise": "07:14",
         "sunset": "19:18"
@@ -157,7 +157,7 @@
         "icon": "cloud",
         "high": 86,
         "low": 72,
-        "precip": 38,
+        "precip": 30,
         "uv": 7,
         "sunrise": "07:14",
         "sunset": "19:17"
@@ -168,16 +168,16 @@
         "icon": "drizzle",
         "high": 88,
         "low": 70,
-        "precip": 31,
+        "precip": 28,
         "uv": 7,
         "sunrise": "07:15",
         "sunset": "19:16"
       }
     ],
     "air": {
-      "aqi": 49,
-      "label": "Good",
-      "pm25": 10.4
+      "aqi": 51,
+      "label": "Moderate",
+      "pm25": 6.9
     }
   },
   "severe": [],
@@ -293,62 +293,6 @@
   ],
   "events": [
     {
-      "id": "12769232",
-      "name": "Habitat For Humanity @ UCF Pond Clean Up",
-      "org": "Habitat for Humanity @ UCF",
-      "theme": "CommunityService",
-      "location": "The pond beside the softball field",
-      "date": "2026-09-20",
-      "start": "10:00",
-      "end": "11:00",
-      "blurb": "This is our first Habitat for Humanity @ UCF pond clean up! There will be warm bagels. Come hang out and clean up UCF! More details will be posted in the discor",
-      "rsvps": 6,
-      "image": "https://se-images.campuslabs.com/clink/images/940f39ce-8092-4630-b4f8-00a92096187c4fa8b3a6-27b2-4ab6-8f7d-0353e6c8a438.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12769232"
-    },
-    {
-      "id": "12614728",
-      "name": "Sunday Worship with Wesley at UCF",
-      "org": "Wesley at UCF",
-      "theme": "Spirituality",
-      "location": "Faith UMC",
-      "date": "2026-09-20",
-      "start": "10:00",
-      "end": "11:30",
-      "blurb": "Join us for Faith UMC's Weekly church service every sunday at 10:00 am! Our director Erwin Lopez serves as the pastor, and all are welcome. If you are looking f",
-      "rsvps": 0,
-      "image": "https://se-images.campuslabs.com/clink/images/05ce9c70-ef83-4a92-8492-d16465dbddd6f719d2b3-18d8-4499-922b-f4f29e66b693.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12614728"
-    },
-    {
-      "id": "12738894",
-      "name": "ACEing Autism Tennis Clinic",
-      "org": "Best Buddies at UCF",
-      "theme": "Social",
-      "location": "RWC Tennis Courts",
-      "date": "2026-09-20",
-      "start": "11:00",
-      "end": "13:00",
-      "blurb": "These clinics are welcoming, structured, and fun for all! Each participant is paired with a friendly, trained volunteer and encouraged to participate and grow a",
-      "rsvps": 1,
-      "image": "https://se-images.campuslabs.com/clink/images/2e0cc744-a897-42dd-84ba-b459d97f598c0301ddce-0d37-4557-872f-db72e90135aa.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12738894"
-    },
-    {
-      "id": "12755507",
-      "name": "Sunday Mass",
-      "org": "Catholic Campus Ministry",
-      "theme": "Spirituality",
-      "location": "The Catholic Center at Northview ",
-      "date": "2026-09-20",
-      "start": "12:00",
-      "end": "13:15",
-      "blurb": "Mass is the center of our Catholic Faith. It's where we come together as a Church to worship God through Christ's offering of Himself to the Father and for us i",
-      "rsvps": 1,
-      "image": "https://se-images.campuslabs.com/clink/images/7bec9bf7-6aac-4901-aa49-f48e5f8c8199850bb3df-d7d7-4934-b073-9f92cadbdd9d.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12755507"
-    },
-    {
       "id": "12751130",
       "name": "Sports @ RWC Fields!",
       "org": "Christians on Campus",
@@ -428,7 +372,7 @@
       "start": "14:00",
       "end": "15:30",
       "blurb": "Weekly FAO Committee Meeting Email: sga_fao@ucf.edu Chair: Madalyn Phillips Vice Chair: Aaron Wacker",
-      "rsvps": 2,
+      "rsvps": 1,
       "image": "https://se-images.campuslabs.com/clink/images/97bde8d7-8871-4389-adfd-f3e0c2f5b06e8b1ffc72-febc-46f4-bb4b-237b7fd10a8e.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12550929"
     },
@@ -1971,6 +1915,62 @@
       "rsvps": 0,
       "image": "https://se-images.campuslabs.com/clink/images/4ab49632-c0e0-4102-9463-f5c5ccde398197956345-85ea-44a6-9223-8a4e958bc31c.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12616539"
+    },
+    {
+      "id": "12788631",
+      "name": "Stop the Bleed Training",
+      "org": "Lighthouse Haven",
+      "theme": "ThoughtfulLearning",
+      "location": "Orlando Health",
+      "date": "2026-09-28",
+      "start": "17:00",
+      "end": "19:00",
+      "blurb": "Register to attend a free course and learn how to manage life-threatening bleeding emergencies before professionals arrive!",
+      "rsvps": 0,
+      "image": "https://se-images.campuslabs.com/clink/images/d54bce4a-856c-4ce4-9a99-6d106db0a7dcd770fce6-e4e7-44b7-a4bb-7b50f9fadfed.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12788631"
+    },
+    {
+      "id": "12615248",
+      "name": "Judicial Outreach Committee",
+      "org": "Student Government Judicial Branch",
+      "theme": "CommunityService",
+      "location": "UCF SG Conference Room - Student Union Room 350",
+      "date": "2026-09-28",
+      "start": "18:00",
+      "end": "19:00",
+      "blurb": "The Judicial Outreach Committee (JOC) works to expand the reach of the Judicial Branch across campus and raise awareness of the services the branch offers. JOC ",
+      "rsvps": 0,
+      "image": "https://se-images.campuslabs.com/clink/images/8002885d-8d19-4c61-8e25-3988da235073c0b13fc2-23b1-493b-b0f5-a2033171d9a8.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12615248"
+    },
+    {
+      "id": "12752312",
+      "name": "Silent Disco ",
+      "org": "Campus Activities Board",
+      "theme": "Arts",
+      "location": "Cape Florida Ballroom ",
+      "date": "2026-09-28",
+      "start": "18:30",
+      "end": "22:00",
+      "blurb": "CAB Presents: Silent Disco \ud83e\udea9 ft. @djc4rio @hannahrush.k @tracyhamptoe Grab your headphones, pick your channel, and join us for a night of dancing fun! \ud83e\udeaaPhysical",
+      "rsvps": 0,
+      "image": "https://se-images.campuslabs.com/clink/images/c8e7b42c-9942-45da-9b81-f6f7242688ca56680fab-d5ea-4b7a-b255-0e08ae173244.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12752312"
+    },
+    {
+      "id": "12677750",
+      "name": "Movie Dubs",
+      "org": "Voice Acting Knights",
+      "theme": "Arts",
+      "location": "Online",
+      "date": "2026-09-28",
+      "start": "18:30",
+      "end": "21:00",
+      "blurb": "Improvised fandubs of movies/tv shows over discord!",
+      "rsvps": 1,
+      "image": null,
+      "url": "https://ucf.campuslabs.com/engage/event/12677750"
     }
   ],
   "keyDates": [
@@ -2952,10 +2952,10 @@
       "title": "EGS 1006C Laboratory",
       "url": null,
       "weather": {
-        "temp": 78,
+        "temp": 77,
         "precip": 2,
-        "label": "Overcast",
-        "icon": "cloud"
+        "label": "Clear",
+        "icon": "sun"
       },
       "courseTitle": "Intro to Engineering"
     },
@@ -2974,10 +2974,10 @@
       "title": "ISC 2054 Seminar",
       "url": null,
       "weather": {
-        "temp": 80,
-        "precip": 25,
-        "label": "Overcast",
-        "icon": "cloud"
+        "temp": 86,
+        "precip": 27,
+        "label": "Clear",
+        "icon": "sun"
       },
       "courseTitle": "STEM Seminar"
     },
@@ -2996,10 +2996,10 @@
       "title": "PHY 2048 Discussion",
       "url": null,
       "weather": {
-        "temp": 75,
+        "temp": 73,
         "precip": 1,
-        "label": "Clear",
-        "icon": "sun"
+        "label": "Overcast",
+        "icon": "cloud"
       },
       "courseTitle": "Physics: Mechanics"
     },
@@ -3019,7 +3019,7 @@
       "url": null,
       "weather": {
         "temp": 83,
-        "precip": 9,
+        "precip": 4,
         "label": "Clear",
         "icon": "sun"
       },
@@ -3041,7 +3041,7 @@
       "url": null,
       "weather": {
         "temp": 89,
-        "precip": 9,
+        "precip": 4,
         "label": "Clear",
         "icon": "sun"
       },
@@ -3063,7 +3063,7 @@
       "url": null,
       "weather": {
         "temp": 93,
-        "precip": 75,
+        "precip": 74,
         "label": "Light drizzle",
         "icon": "drizzle"
       },
@@ -3085,7 +3085,7 @@
       "url": null,
       "weather": {
         "temp": 91,
-        "precip": 75,
+        "precip": 74,
         "label": "Light drizzle",
         "icon": "drizzle"
       },
@@ -3107,7 +3107,7 @@
       "url": null,
       "weather": {
         "temp": 83,
-        "precip": 75,
+        "precip": 74,
         "label": "Drizzle",
         "icon": "drizzle"
       },
@@ -3129,7 +3129,7 @@
       "url": null,
       "weather": {
         "temp": 87,
-        "precip": 70,
+        "precip": 72,
         "label": "Light drizzle",
         "icon": "drizzle"
       },
@@ -3151,7 +3151,7 @@
       "url": null,
       "weather": {
         "temp": 82,
-        "precip": 14,
+        "precip": 23,
         "label": "Light drizzle",
         "icon": "drizzle"
       },
@@ -3173,7 +3173,7 @@
       "url": null,
       "weather": {
         "temp": 88,
-        "precip": 14,
+        "precip": 23,
         "label": "Light drizzle",
         "icon": "drizzle"
       },
@@ -3195,7 +3195,7 @@
       "url": null,
       "weather": {
         "temp": 86,
-        "precip": 55,
+        "precip": 63,
         "label": "Light drizzle",
         "icon": "drizzle"
       },
@@ -3239,7 +3239,7 @@
       "url": null,
       "weather": {
         "temp": 83,
-        "precip": 6,
+        "precip": 16,
         "label": "Overcast",
         "icon": "cloud"
       },
@@ -3261,7 +3261,7 @@
       "url": null,
       "weather": {
         "temp": 81,
-        "precip": 9,
+        "precip": 6,
         "label": "Partly cloudy",
         "icon": "cloud"
       },
