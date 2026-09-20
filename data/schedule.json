@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T16:19:19.799209-04:00",
+  "generatedAt": "2026-09-20T18:58:03.045746-04:00",
   "term": {
     "name": "Fall 2026",
     "start": "2026-08-24",
@@ -89,8 +89,8 @@
   "weather": {
     "place": "UCF Orlando",
     "current": {
-      "temp": 83,
-      "feelsLike": 92,
+      "temp": 78,
+      "feelsLike": 85,
       "label": "Overcast",
       "icon": "cloud",
       "isDay": true
@@ -98,10 +98,10 @@
     "days": [
       {
         "date": "2026-09-20",
-        "label": "Heavy rain",
-        "icon": "rain",
+        "label": "Heavy drizzle",
+        "icon": "drizzle",
         "high": 84,
-        "low": 73,
+        "low": 75,
         "precip": 55,
         "uv": 7,
         "sunrise": "07:12",
@@ -112,8 +112,8 @@
         "label": "Overcast",
         "icon": "cloud",
         "high": 84,
-        "low": 73,
-        "precip": 29,
+        "low": 74,
+        "precip": 25,
         "uv": 7,
         "sunrise": "07:12",
         "sunset": "19:22"
@@ -124,7 +124,7 @@
         "icon": "storm",
         "high": 92,
         "low": 72,
-        "precip": 74,
+        "precip": 63,
         "uv": 8,
         "sunrise": "07:13",
         "sunset": "19:21"
@@ -135,7 +135,7 @@
         "icon": "storm",
         "high": 90,
         "low": 76,
-        "precip": 72,
+        "precip": 76,
         "uv": 7,
         "sunrise": "07:13",
         "sunset": "19:19"
@@ -146,7 +146,7 @@
         "icon": "storm",
         "high": 89,
         "low": 75,
-        "precip": 63,
+        "precip": 51,
         "uv": 7,
         "sunrise": "07:14",
         "sunset": "19:18"
@@ -157,7 +157,7 @@
         "icon": "cloud",
         "high": 83,
         "low": 74,
-        "precip": 30,
+        "precip": 34,
         "uv": 4,
         "sunrise": "07:14",
         "sunset": "19:17"
@@ -168,7 +168,7 @@
         "icon": "cloud",
         "high": 86,
         "low": 70,
-        "precip": 28,
+        "precip": 32,
         "uv": 7,
         "sunrise": "07:15",
         "sunset": "19:16"
@@ -177,7 +177,7 @@
     "air": {
       "aqi": 52,
       "label": "Moderate",
-      "pm25": 5.2
+      "pm25": 5.8
     }
   },
   "severe": [],
@@ -316,7 +316,7 @@
       "start": "19:00",
       "end": "22:00",
       "blurb": "UCF's Contemporary A Cappella Society presents Acapalooza! This is a musical event that you don&rsquo;t want to miss! With performances from our award-winning a",
-      "rsvps": 44,
+      "rsvps": 59,
       "image": "https://se-images.campuslabs.com/clink/images/eaf8021a-d7f8-4119-aab2-ce10bad21e7f79e39d6e-1704-4955-8e9b-77c2d41f336f.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12732336"
     },
@@ -456,7 +456,7 @@
       "start": "17:45",
       "end": "20:00",
       "blurb": "Film screening of &ldquo;The Forgotten Occupation&rdquo; a recent documentary by Alain Martin, executive produced by Roxane Gay, about the U.S. Marine occupatio",
-      "rsvps": 3,
+      "rsvps": 4,
       "image": "https://se-images.campuslabs.com/clink/images/25d55705-a921-4b40-a79d-852f9f09e53aa4407a43-a1c9-4c58-abf4-affdfb486f2a.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12751181"
     },
@@ -498,7 +498,7 @@
       "start": "18:30",
       "end": "20:00",
       "blurb": "Learn how to find research, shadowing, and faculty opportunities - plus tips for cold emailing, introducing yourself, and building connections!",
-      "rsvps": 0,
+      "rsvps": 1,
       "image": "https://se-images.campuslabs.com/clink/images/4e6c9413-26ec-41a1-91e6-450ee786ad7db3901ba0-f908-4079-b529-b31182c00dc4.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12787792"
     },
@@ -820,7 +820,7 @@
       "start": "17:00",
       "end": "18:45",
       "blurb": "Join The Beauty Med Collective for our second meeting of the semester! This meeting will focus on professional headshots and building your professional image as",
-      "rsvps": 7,
+      "rsvps": 8,
       "image": "https://se-images.campuslabs.com/clink/images/de11272c-dca2-4262-871d-423e4a766834128fa8fb-8d67-4ba3-b3f8-28595321436a.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12767609"
     },
@@ -865,6 +865,20 @@
       "rsvps": 1,
       "image": "https://se-images.campuslabs.com/clink/images/d87a7006-1c8e-4f7b-9373-e351eb78f76e4a2c2ad8-837b-4357-9f94-55b6aa63b3fe.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12732156"
+    },
+    {
+      "id": "12767612",
+      "name": "Research Meeting #1",
+      "org": "Sport Law and Negotiation Society",
+      "theme": "ThoughtfulLearning",
+      "location": "John C. Hitt Library (Study Room # 371)",
+      "date": "2026-09-22",
+      "start": "18:30",
+      "end": "19:30",
+      "blurb": "Come join us for our first research meeting of the semester! In this introductory meeting, we will discuss: How often articles should be released. Who will writ",
+      "rsvps": 4,
+      "image": "https://se-images.campuslabs.com/clink/images/ace4cda4-1712-4c7c-85b8-119b9b85be5bca4f8e8e-a256-4169-ab45-e14725be1b3d.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12767612"
     },
     {
       "id": "12682845",
@@ -932,23 +946,9 @@
       "start": "19:00",
       "end": "20:30",
       "blurb": "Join us for an Options & Derivatives Workshop with guest speaker Shashank Mishra, SAP S/4 Treasury Lead. We&rsquo;ll explore options and derivatives, how they w",
-      "rsvps": 5,
+      "rsvps": 6,
       "image": "https://se-images.campuslabs.com/clink/images/448e1486-312e-4df8-8134-72226376d94e2ebe247f-d5fe-4ccd-890f-0c8a64c3ace3.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12784686"
-    },
-    {
-      "id": "12767612",
-      "name": "Research Meeting #1",
-      "org": "Sport Law and Negotiation Society",
-      "theme": "ThoughtfulLearning",
-      "location": "John C. Hitt Library (Study Room # TBA)",
-      "date": "2026-09-22",
-      "start": "20:00",
-      "end": "21:00",
-      "blurb": "Come join us for our first research meeting of the semester! In this introductory meeting, we will discuss: How often articles should be released. Who will writ",
-      "rsvps": 4,
-      "image": "https://se-images.campuslabs.com/clink/images/3f8ec8a0-566e-4328-8b77-df510485ca286aa6040a-c3fa-4da6-b212-b94da6f97230.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12767612"
     },
     {
       "id": "12614645",
@@ -1173,6 +1173,34 @@
       "rsvps": 0,
       "image": "https://se-images.campuslabs.com/clink/images/2ed9a78d-91e7-48ca-9aa3-9cf4b9a83a786b065de9-de33-40f4-82cb-87449a808799.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12617332"
+    },
+    {
+      "id": "12788959",
+      "name": "Meet the Officers General Body Meeting",
+      "org": "Material Advantage",
+      "theme": "GroupBusiness",
+      "location": "Trevor Colbourn Hall 211",
+      "date": "2026-09-23",
+      "start": "18:30",
+      "end": "19:30",
+      "blurb": "Are you interested in materials science and engineering? Join us in TCH room 211 at 6:30 PM to meet this year's officers and learn about some of the resources a",
+      "rsvps": 1,
+      "image": "https://se-images.campuslabs.com/clink/images/ea7b7eba-7281-444d-8b38-b06b9ad198bea66eb305-ead0-46cc-b408-9bab50f1a0c4.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12788959"
+    },
+    {
+      "id": "12788971",
+      "name": "FES Fall Resume Workshop",
+      "org": "Florida Engineering Society",
+      "theme": "ThoughtfulLearning",
+      "location": "TBA",
+      "date": "2026-09-23",
+      "start": "19:00",
+      "end": "20:00",
+      "blurb": "With the UCF Career Fair coming up, it's time to dust off those resumes and brush up on interviewing skills! The UCF Chapter of the Florida Engineering Society ",
+      "rsvps": 0,
+      "image": "https://se-images.campuslabs.com/clink/images/35d64634-71c6-487d-ab47-98487b79b364763eb02a-a3a7-4d50-9842-056db63dad3b.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12788971"
     },
     {
       "id": "12778081",
@@ -1814,7 +1842,7 @@
       "start": "15:30",
       "end": "18:00",
       "blurb": "The Healthy Kids Running Series was created to motivate kids to lead a healthy, active lifestyle through running. They offer a 5-week program each season with v",
-      "rsvps": 21,
+      "rsvps": 22,
       "image": "https://se-images.campuslabs.com/clink/images/0a52b6c8-e61f-44e1-8195-7e6ec98cf331e4539da2-312c-450c-be59-7f598f13b2c9.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12709315"
     },
@@ -1856,7 +1884,7 @@
       "start": "12:00",
       "end": "14:00",
       "blurb": "file:///C:/Users/rajan/Downloads/ABP - Showcase Flyer/ABP Fall Showcase Flyer.png Hi everyone, Are you ready to make an impact, travel with purpose, and create ",
-      "rsvps": 7,
+      "rsvps": 8,
       "image": "https://se-images.campuslabs.com/clink/images/e8386259-c5e4-45d4-8955-ae379b2d1db8604b740a-d90e-456e-b933-ae1a3a8a3dd5.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12775250"
     },
@@ -1943,34 +1971,6 @@
       "rsvps": 0,
       "image": "https://se-images.campuslabs.com/clink/images/8002885d-8d19-4c61-8e25-3988da235073c0b13fc2-23b1-493b-b0f5-a2033171d9a8.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12615248"
-    },
-    {
-      "id": "12752312",
-      "name": "Silent Disco ",
-      "org": "Campus Activities Board",
-      "theme": "Arts",
-      "location": "Cape Florida Ballroom ",
-      "date": "2026-09-28",
-      "start": "18:30",
-      "end": "22:00",
-      "blurb": "CAB Presents: Silent Disco \ud83e\udea9 ft. @djc4rio @hannahrush.k @tracyhamptoe Grab your headphones, pick your channel, and join us for a night of dancing fun! \ud83e\udeaaPhysical",
-      "rsvps": 0,
-      "image": "https://se-images.campuslabs.com/clink/images/c8e7b42c-9942-45da-9b81-f6f7242688ca56680fab-d5ea-4b7a-b255-0e08ae173244.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12752312"
-    },
-    {
-      "id": "12677750",
-      "name": "Movie Dubs",
-      "org": "Voice Acting Knights",
-      "theme": "Arts",
-      "location": "Online",
-      "date": "2026-09-28",
-      "start": "18:30",
-      "end": "21:00",
-      "blurb": "Improvised fandubs of movies/tv shows over discord!",
-      "rsvps": 1,
-      "image": null,
-      "url": "https://ucf.campuslabs.com/engage/event/12677750"
     }
   ],
   "keyDates": [
@@ -2952,8 +2952,8 @@
       "title": "EGS 1006C Laboratory",
       "url": null,
       "weather": {
-        "temp": 76,
-        "precip": 8,
+        "temp": 78,
+        "precip": 5,
         "label": "Clear",
         "icon": "sun"
       },
@@ -2975,7 +2975,7 @@
       "url": null,
       "weather": {
         "temp": 84,
-        "precip": 27,
+        "precip": 23,
         "label": "Mostly clear",
         "icon": "sun"
       },
@@ -3063,7 +3063,7 @@
       "url": null,
       "weather": {
         "temp": 92,
-        "precip": 74,
+        "precip": 63,
         "label": "Light drizzle",
         "icon": "drizzle"
       },
@@ -3085,7 +3085,7 @@
       "url": null,
       "weather": {
         "temp": 90,
-        "precip": 74,
+        "precip": 63,
         "label": "Light drizzle",
         "icon": "drizzle"
       },
@@ -3107,7 +3107,7 @@
       "url": null,
       "weather": {
         "temp": 82,
-        "precip": 74,
+        "precip": 63,
         "label": "Thunderstorms",
         "icon": "storm"
       },
@@ -3129,7 +3129,7 @@
       "url": null,
       "weather": {
         "temp": 89,
-        "precip": 72,
+        "precip": 76,
         "label": "Light drizzle",
         "icon": "drizzle"
       },
@@ -3151,7 +3151,7 @@
       "url": null,
       "weather": {
         "temp": 81,
-        "precip": 23,
+        "precip": 10,
         "label": "Overcast",
         "icon": "cloud"
       },
@@ -3173,7 +3173,7 @@
       "url": null,
       "weather": {
         "temp": 87,
-        "precip": 23,
+        "precip": 10,
         "label": "Overcast",
         "icon": "cloud"
       },
@@ -3195,7 +3195,7 @@
       "url": null,
       "weather": {
         "temp": 84,
-        "precip": 63,
+        "precip": 51,
         "label": "Light drizzle",
         "icon": "drizzle"
       },
@@ -3217,7 +3217,7 @@
       "url": null,
       "weather": {
         "temp": 75,
-        "precip": 1,
+        "precip": 0,
         "label": "Mostly clear",
         "icon": "sun"
       },
@@ -3239,7 +3239,7 @@
       "url": null,
       "weather": {
         "temp": 83,
-        "precip": 16,
+        "precip": 6,
         "label": "Partly cloudy",
         "icon": "cloud"
       },
@@ -3261,7 +3261,7 @@
       "url": null,
       "weather": {
         "temp": 81,
-        "precip": 6,
+        "precip": 9,
         "label": "Partly cloudy",
         "icon": "cloud"
       },
