@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T15:12:18.536459-04:00",
+  "generatedAt": "2026-09-25T19:04:26.744607-04:00",
   "term": {
     "name": "Fall 2026",
     "start": "2026-08-24",
@@ -89,8 +89,8 @@
   "weather": {
     "place": "UCF Orlando",
     "current": {
-      "temp": 80,
-      "feelsLike": 82,
+      "temp": 75,
+      "feelsLike": 78,
       "label": "Mostly clear",
       "icon": "sun",
       "isDay": true
@@ -100,7 +100,7 @@
         "date": "2026-09-25",
         "label": "Overcast",
         "icon": "cloud",
-        "high": 80,
+        "high": 81,
         "low": 70,
         "precip": 4,
         "uv": 6,
@@ -109,10 +109,10 @@
       },
       {
         "date": "2026-09-26",
-        "label": "Overcast",
-        "icon": "cloud",
+        "label": "Clear",
+        "icon": "sun",
         "high": 82,
-        "low": 64,
+        "low": 65,
         "precip": 0,
         "uv": 7,
         "sunrise": "07:15",
@@ -123,7 +123,7 @@
         "label": "Overcast",
         "icon": "cloud",
         "high": 88,
-        "low": 62,
+        "low": 60,
         "precip": 0,
         "uv": 7,
         "sunrise": "07:15",
@@ -135,7 +135,7 @@
         "icon": "cloud",
         "high": 89,
         "low": 70,
-        "precip": 3,
+        "precip": 2,
         "uv": 7,
         "sunrise": "07:16",
         "sunset": "19:13"
@@ -146,7 +146,7 @@
         "icon": "cloud",
         "high": 90,
         "low": 72,
-        "precip": 29,
+        "precip": 17,
         "uv": 7,
         "sunrise": "07:16",
         "sunset": "19:12"
@@ -157,7 +157,7 @@
         "icon": "cloud",
         "high": 90,
         "low": 71,
-        "precip": 46,
+        "precip": 31,
         "uv": 7,
         "sunrise": "07:17",
         "sunset": "19:11"
@@ -168,16 +168,16 @@
         "icon": "cloud",
         "high": 90,
         "low": 75,
-        "precip": 49,
+        "precip": 52,
         "uv": 6,
         "sunrise": "07:17",
         "sunset": "19:10"
       }
     ],
     "air": {
-      "aqi": 34,
+      "aqi": 40,
       "label": "Good",
-      "pm25": 6.2
+      "pm25": 6.4
     }
   },
   "severe": [],
@@ -307,20 +307,6 @@
       "url": "https://ucf.campuslabs.com/engage/event/12792438"
     },
     {
-      "id": "12794584",
-      "name": "Stitch N' Chat",
-      "org": "Crocheting Knights",
-      "theme": "Arts",
-      "location": "Classroom Building 2 - room 204",
-      "date": "2026-09-25",
-      "start": "15:00",
-      "end": "17:00",
-      "blurb": "- Bring your own project to work on or come empty handed! - All levels of crochet are welcome - All materials and supplies will be provided",
-      "rsvps": 10,
-      "image": "https://se-images.campuslabs.com/clink/images/7c5eb987-c7a7-4f78-96a3-870fc282a9d96d1bb51d-7b9e-4f2e-825e-aae6b30edab4.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12794584"
-    },
-    {
       "id": "12729181",
       "name": "Pasaporte a la Cultura",
       "org": "Rotaract Club ",
@@ -330,37 +316,9 @@
       "start": "17:00",
       "end": "21:00",
       "blurb": "Join UCF Rotaract Club for Pasaporte a la Cultura, a vibrant celebration of Hispanic Heritage Month highlighting the diverse cultures, traditions, music, and co",
-      "rsvps": 5,
+      "rsvps": 6,
       "image": "https://se-images.campuslabs.com/clink/images/ab9b6d4e-dac2-4599-ace3-a8621c2319013958ac5e-6889-4dbc-b5de-c8739221d9e6.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12729181"
-    },
-    {
-      "id": "12809373",
-      "name": "\ud83d\udcdd GBM - Pass the Paper",
-      "org": "Art Club",
-      "theme": "Arts",
-      "location": "Teaching Academy Room 110",
-      "date": "2026-09-25",
-      "start": "17:00",
-      "end": "18:20",
-      "blurb": "Come join us on Friday 9/25 in Teaching Academy Room 110 from 5-6:20 PM for our weekly GBM! This week, we&rsquo;ll be playing a game of Pass the Paper where we ",
-      "rsvps": 21,
-      "image": "https://se-images.campuslabs.com/clink/images/9bafb7a6-0eee-4763-8e8e-1e438a23257eb5727429-c667-47b5-ba24-b1099c8a8f05.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12809373"
-    },
-    {
-      "id": "12748125",
-      "name": "Pride Pond Orientation",
-      "org": "Pride Student Association",
-      "theme": "Social",
-      "location": "UCF Teaching Academy ROOM 322",
-      "date": "2026-09-25",
-      "start": "17:00",
-      "end": "19:00",
-      "blurb": "Learn more about the Pride Student Association&rsquo;s Pride Pond Program, an initiative designed to pair up FTIC and new transfer students with experienced mem",
-      "rsvps": 5,
-      "image": "https://se-images.campuslabs.com/clink/images/033551ba-2664-4ce3-adc7-214cf3d3a2865dbd270a-1bb6-4f6a-9f3d-6ffbaf68511d.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12748125"
     },
     {
       "id": "12814164",
@@ -414,7 +372,7 @@
       "start": "18:00",
       "end": "20:00",
       "blurb": "\ud83c\udf91 Join us to celebrate Otsukimi&mdash;the Autumn Moon Festival! \ud83c\udf15 \ud83d\udcfd\ufe0f Watch a Studio Ghibli classic: The Tale of Princess Kaguya! \ud83c\udf58 Taste some Japanese autumn sn",
-      "rsvps": 8,
+      "rsvps": 11,
       "image": "https://se-images.campuslabs.com/clink/images/c123364f-8f48-4cc3-8471-129a1e741883d1622d16-c3b5-4d37-a939-155ec1b7b1f0.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12796633"
     },
@@ -456,7 +414,7 @@
       "start": "20:00",
       "end": "22:00",
       "blurb": "Unwind and get creative at Knights and Crafts ! Join Late Knights for a relaxed evening of hands on crafts, creativity, and fun with fellow Knights. Whether you",
-      "rsvps": 3,
+      "rsvps": 4,
       "image": "https://se-images.campuslabs.com/clink/images/8abf4f90-ba6a-4df3-9218-1da910afa56d94a54c14-2a51-4d40-8c3b-bdc038e7f13d.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12800788"
     },
@@ -643,20 +601,6 @@
       "url": "https://ucf.campuslabs.com/engage/event/12591666"
     },
     {
-      "id": "12775250",
-      "name": "ABP Fall Showcase ",
-      "org": "Volunteer UCF Alternative Break Program",
-      "theme": "Social",
-      "location": "Student Union, Atrium ",
-      "date": "2026-09-28",
-      "start": "12:00",
-      "end": "14:00",
-      "blurb": "file:///C:/Users/rajan/Downloads/ABP - Showcase Flyer/ABP Fall Showcase Flyer.png Hi everyone, Are you ready to make an impact, travel with purpose, and create ",
-      "rsvps": 10,
-      "image": "https://se-images.campuslabs.com/clink/images/e8386259-c5e4-45d4-8955-ae379b2d1db8604b740a-d90e-456e-b933-ae1a3a8a3dd5.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12775250"
-    },
-    {
       "id": "12819066",
       "name": "A&SF Budget Committee Meeting",
       "org": "Student Government Legislative Branch (Senate)",
@@ -669,6 +613,20 @@
       "rsvps": 0,
       "image": "https://se-images.campuslabs.com/clink/images/e84d3914-bde9-4bee-a698-d4b84b2023c8f9f4407f-6226-4523-8b98-73c28d1ee934.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12819066"
+    },
+    {
+      "id": "12775250",
+      "name": "ABP Fall Showcase ",
+      "org": "Volunteer UCF Alternative Break Program",
+      "theme": "Social",
+      "location": "Student Union, Atrium ",
+      "date": "2026-09-28",
+      "start": "12:00",
+      "end": "14:00",
+      "blurb": "file:///C:/Users/rajan/Downloads/ABP - Showcase Flyer/ABP Fall Showcase Flyer.png Hi everyone, Are you ready to make an impact, travel with purpose, and create ",
+      "rsvps": 10,
+      "image": "https://se-images.campuslabs.com/clink/images/e8386259-c5e4-45d4-8955-ae379b2d1db8604b740a-d90e-456e-b933-ae1a3a8a3dd5.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12775250"
     },
     {
       "id": "12738514",
@@ -694,7 +652,7 @@
       "start": "14:00",
       "end": "15:30",
       "blurb": "Weekly FAO Committee Meeting Email: sga_fao@ucf.edu Chair: Madalyn Phillips Vice Chair: Aaron Wacker",
-      "rsvps": 1,
+      "rsvps": 2,
       "image": "https://se-images.campuslabs.com/clink/images/97bde8d7-8871-4389-adfd-f3e0c2f5b06e8b1ffc72-febc-46f4-bb4b-237b7fd10a8e.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12550930"
     },
@@ -890,7 +848,7 @@
       "start": "19:30",
       "end": "20:30",
       "blurb": "Ready to build your personal brand? Join us this Monday for an inspiring conversation with Esperanza Perez, Alpha Chief Innovation & Technology Officer! She&rsq",
-      "rsvps": 19,
+      "rsvps": 20,
       "image": "https://se-images.campuslabs.com/clink/images/0cf1ad24-46bc-4bd6-9d25-34e70788b3236628e9d1-2c00-491b-af1a-09837d5bc96b.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12815509"
     },
@@ -918,7 +876,7 @@
       "start": "09:00",
       "end": "10:00",
       "blurb": "Join the Arboretum Public Garden Management team in our beautiful Arboretum Public Garden, maintaining the various gardens by weeding, mulching, propagating, pl",
-      "rsvps": 0,
+      "rsvps": 1,
       "image": "https://se-images.campuslabs.com/clink/images/0578275a-7dc3-42b6-9ec6-5f076dc10385a38cacb4-f7d1-450a-9589-f1ca5303933c.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12816550"
     },
@@ -1072,7 +1030,7 @@
       "start": "18:00",
       "end": "21:00",
       "blurb": "Join the Multicultural Student Center and Lambda Theta Phi Latin Fraternity Inc. for a night celebrating the rich cultures and traditions of the Hispanic and La",
-      "rsvps": 2,
+      "rsvps": 3,
       "image": "https://se-images.campuslabs.com/clink/images/c49c8c43-029b-4aa4-95ce-ca27c296e02d4f336af9-3718-491a-ac50-837d35a4a570.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12734113"
     },
@@ -1184,7 +1142,7 @@
       "start": "10:00",
       "end": "11:00",
       "blurb": "When: Wednesday, September 30th, 10:00AM-11:00AM Where: Health Sciences I Room 304 Accessibility Option: Take the UCF Shuttle (Knights Express, Pegasus Express,",
-      "rsvps": 4,
+      "rsvps": 5,
       "image": "https://se-images.campuslabs.com/clink/images/677f4efa-1fbc-4ba1-aba4-a26baa42f759d5af5ecd-f042-47d2-b314-082d506fc543.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12748120"
     },
@@ -1226,7 +1184,7 @@
       "start": "12:15",
       "end": "13:15",
       "blurb": "Join the Arboretum Public Garden Management team in our beautiful Arboretum Public Garden, maintaining the various gardens by weeding, mulching, propagating, pl",
-      "rsvps": 2,
+      "rsvps": 4,
       "image": "https://se-images.campuslabs.com/clink/images/0578275a-7dc3-42b6-9ec6-5f076dc10385a38cacb4-f7d1-450a-9589-f1ca5303933c.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12816551"
     },
@@ -1394,7 +1352,7 @@
       "start": "19:00",
       "end": "20:30",
       "blurb": "Come join us for a fun lesson full of dancing and music! Each week we learn something new and end with a fun dance social. Make new friends and have fun trying ",
-      "rsvps": 1,
+      "rsvps": 2,
       "image": "https://se-images.campuslabs.com/clink/images/114f237c-d506-490d-bb23-1f8a140a5071ab4fde55-1970-4dbc-9ad1-f9fad65876fb.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12719598"
     },
@@ -1453,6 +1411,20 @@
       "rsvps": 1,
       "image": "https://se-images.campuslabs.com/clink/images/02de425e-9b21-4f31-b54e-f7aca67af4a89d04957a-0a69-4fa1-a88c-b67747b0a3c7.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12754303"
+    },
+    {
+      "id": "12819763",
+      "name": "College Roadmap Event",
+      "org": "Sigma Lambda Beta International Fraternity, Inc.",
+      "theme": "ThoughtfulLearning",
+      "location": "NSC",
+      "date": "2026-09-30",
+      "start": "20:30",
+      "end": "21:30",
+      "blurb": "Join ASCE UCF and Sigma Lambda Beta for a collaborative presentation focused on preparing for career success at every stage of your college journey! \ud83e\udd1d Hear firs",
+      "rsvps": 0,
+      "image": "https://se-images.campuslabs.com/clink/images/56afc030-b201-4c6d-abb2-306e17a42054f714c38c-ab09-4fe8-93b7-0b08f909c1e1.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12819763"
     },
     {
       "id": "12614648",
@@ -1651,20 +1623,6 @@
       "url": "https://ucf.campuslabs.com/engage/event/12550740"
     },
     {
-      "id": "12797923",
-      "name": "Suture Workshop with Health Link Society",
-      "org": " Health-Link Society",
-      "theme": "ThoughtfulLearning",
-      "location": "Health Sciences 1, Room 246",
-      "date": "2026-10-01",
-      "start": "18:00",
-      "end": "19:30",
-      "blurb": "Join Health Link Society for our Suture Workshop! Come gain hands-on experience, learn the basics of suturing, and develop a valuable clinical skill in a welcom",
-      "rsvps": 14,
-      "image": "https://se-images.campuslabs.com/clink/images/429c7262-4584-419b-9a6c-7ad75fc95b453d9328f3-f72d-4287-86af-c8933e7a4880.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12797923"
-    },
-    {
       "id": "12517273",
       "name": "Movie Knight",
       "org": "LGBTQ+ Services",
@@ -1677,6 +1635,34 @@
       "rsvps": 10,
       "image": "https://se-images.campuslabs.com/clink/images/9aad4b09-cfe7-4599-a850-592c0aa4b3ac3f584836-82c5-4afa-9e56-9e7cff9d4531.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12517273"
+    },
+    {
+      "id": "12797923",
+      "name": "Suture Workshop with Health Link Society",
+      "org": " Health-Link Society",
+      "theme": "ThoughtfulLearning",
+      "location": "Health Sciences 1, Room 246",
+      "date": "2026-10-01",
+      "start": "18:00",
+      "end": "19:30",
+      "blurb": "Join Health Link Society for our Suture Workshop! Come gain hands-on experience, learn the basics of suturing, and develop a valuable clinical skill in a welcom",
+      "rsvps": 16,
+      "image": "https://se-images.campuslabs.com/clink/images/429c7262-4584-419b-9a6c-7ad75fc95b453d9328f3-f72d-4287-86af-c8933e7a4880.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12797923"
+    },
+    {
+      "id": "12819911",
+      "name": "Florida Reptile and Amphibian Identification Workshop (Fall '26)",
+      "org": "Herpetological Society",
+      "theme": "ThoughtfulLearning",
+      "location": "UCF Biology Field Research Center, room 102 12724 Ara Drive, Orlando, FL",
+      "date": "2026-10-01",
+      "start": "18:00",
+      "end": "20:00",
+      "blurb": "Get ready for our flagship event of the year, the Florida Herpetofauna Identification Workshop! Using UCF's wet specimen collection, you will have the opportuni",
+      "rsvps": 1,
+      "image": "https://se-images.campuslabs.com/clink/images/f8d48724-53e0-4f59-94e8-d2ca26d28849edfb1633-6d03-429e-8fd9-4ecbdda2803d.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12819911"
     },
     {
       "id": "12815041",
@@ -1971,6 +1957,20 @@
       "rsvps": 0,
       "image": "https://se-images.campuslabs.com/clink/images/fb41c6df-4194-485c-9e1c-f3b8d220275e7307cb4c-729d-4973-86c2-02f5e19557a2.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12544896"
+    },
+    {
+      "id": "12805164",
+      "name": "ABP Fall Info Session ",
+      "org": "Volunteer UCF Alternative Break Program",
+      "theme": "CommunityService",
+      "location": "Office of Student Involvement ",
+      "date": "2026-10-05",
+      "start": "13:00",
+      "end": "15:00",
+      "blurb": "Ready to turn your break into an unforgettable experience of service, leadership, and community? Join the Alternative Break Program (ABP) for our upcoming Info ",
+      "rsvps": 4,
+      "image": "https://se-images.campuslabs.com/clink/images/7897ad35-eb6c-412e-90b5-e820c1cb6b6507777b53-1a33-46c3-8285-2b79a579cd86.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12805164"
     }
   ],
   "keyDates": [
@@ -3188,7 +3188,7 @@
       "title": "PHY 2048L Laboratory",
       "url": null,
       "weather": {
-        "temp": 75,
+        "temp": 76,
         "precip": 0,
         "label": "Clear",
         "icon": "sun"
@@ -3233,7 +3233,7 @@
       "url": null,
       "weather": {
         "temp": 89,
-        "precip": 3,
+        "precip": 2,
         "label": "Clear",
         "icon": "sun"
       },
@@ -3277,7 +3277,7 @@
       "url": null,
       "weather": {
         "temp": 80,
-        "precip": 3,
+        "precip": 1,
         "label": "Overcast",
         "icon": "cloud"
       },
@@ -3299,7 +3299,7 @@
       "url": null,
       "weather": {
         "temp": 87,
-        "precip": 3,
+        "precip": 1,
         "label": "Overcast",
         "icon": "cloud"
       },
@@ -3321,7 +3321,7 @@
       "url": null,
       "weather": {
         "temp": 90,
-        "precip": 29,
+        "precip": 17,
         "label": "Overcast",
         "icon": "cloud"
       },
@@ -3343,7 +3343,7 @@
       "url": null,
       "weather": {
         "temp": 88,
-        "precip": 29,
+        "precip": 17,
         "label": "Overcast",
         "icon": "cloud"
       },
@@ -3365,7 +3365,7 @@
       "url": null,
       "weather": {
         "temp": 83,
-        "precip": 29,
+        "precip": 17,
         "label": "Overcast",
         "icon": "cloud"
       },
@@ -3387,7 +3387,7 @@
       "url": null,
       "weather": {
         "temp": 90,
-        "precip": 46,
+        "precip": 31,
         "label": "Clear",
         "icon": "sun"
       },
@@ -3409,7 +3409,7 @@
       "url": null,
       "weather": {
         "temp": 83,
-        "precip": 12,
+        "precip": 13,
         "label": "Overcast",
         "icon": "cloud"
       },
@@ -3431,7 +3431,7 @@
       "url": null,
       "weather": {
         "temp": 88,
-        "precip": 12,
+        "precip": 13,
         "label": "Overcast",
         "icon": "cloud"
       },
@@ -3453,7 +3453,7 @@
       "url": null,
       "weather": {
         "temp": 89,
-        "precip": 49,
+        "precip": 52,
         "label": "Overcast",
         "icon": "cloud"
       },
