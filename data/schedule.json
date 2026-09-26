@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-26T14:18:55.902809-04:00",
+  "generatedAt": "2026-09-26T17:49:14.229456-04:00",
   "term": {
     "name": "Fall 2026",
     "start": "2026-08-24",
@@ -90,7 +90,7 @@
     "place": "UCF Orlando",
     "current": {
       "temp": 81,
-      "feelsLike": 86,
+      "feelsLike": 80,
       "label": "Clear",
       "icon": "sun",
       "isDay": true
@@ -98,7 +98,7 @@
     "days": [
       {
         "date": "2026-09-26",
-        "label": "Clear",
+        "label": "Mostly clear",
         "icon": "sun",
         "high": 83,
         "low": 65,
@@ -123,7 +123,7 @@
         "label": "Overcast",
         "icon": "cloud",
         "high": 88,
-        "low": 63,
+        "low": 64,
         "precip": 1,
         "uv": 7,
         "sunrise": "07:16",
@@ -135,7 +135,7 @@
         "icon": "cloud",
         "high": 88,
         "low": 71,
-        "precip": 14,
+        "precip": 9,
         "uv": 7,
         "sunrise": "07:16",
         "sunset": "19:12"
@@ -146,7 +146,7 @@
         "icon": "storm",
         "high": 88,
         "low": 73,
-        "precip": 43,
+        "precip": 46,
         "uv": 7,
         "sunrise": "07:17",
         "sunset": "19:11"
@@ -157,7 +157,7 @@
         "icon": "rain",
         "high": 88,
         "low": 73,
-        "precip": 36,
+        "precip": 35,
         "uv": 6,
         "sunrise": "07:17",
         "sunset": "19:10"
@@ -168,16 +168,16 @@
         "icon": "drizzle",
         "high": 92,
         "low": 76,
-        "precip": 55,
+        "precip": 52,
         "uv": 7,
         "sunrise": "07:18",
         "sunset": "19:09"
       }
     ],
     "air": {
-      "aqi": 39,
+      "aqi": 50,
       "label": "Good",
-      "pm25": 6.3
+      "pm25": 6.4
     }
   },
   "severe": [],
@@ -215,8 +215,8 @@
       "opponent": "TCU Horned Frogs",
       "home": true,
       "venue": "Acrisure Bounce House",
-      "state": "pre",
-      "detail": "9/26 - 3:30 PM EDT"
+      "state": "in",
+      "detail": "3:25 - 3rd"
     },
     {
       "date": "2026-10-03",
@@ -372,7 +372,7 @@
       "start": "10:30",
       "end": "12:00",
       "blurb": "Volunteer UCF welcomes you to join us at ACEing Autism&rsquo;s tennis lessons! We would love to have your support as ACEing Autism helps children with autism gr",
-      "rsvps": 9,
+      "rsvps": 5,
       "image": "https://se-images.campuslabs.com/clink/images/456a7e05-a623-466f-81f7-e86db7bcbc8ac380bed7-b6a8-4c76-8dff-fc27ceb21f2f.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12714430"
     },
@@ -834,7 +834,7 @@
       "start": "17:00",
       "end": "19:00",
       "blurb": "Come join us to work on whatever fiber-related project you'd like to bring! Join us in the Pyschology Building Atrium (location availability permitting) for a p",
-      "rsvps": 5,
+      "rsvps": 7,
       "image": "https://se-images.campuslabs.com/clink/images/49d90773-68e4-4b22-99f1-7084afc653b9f79ad327-2c14-438e-b67f-5fe87666b935.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12814945"
     },
@@ -974,7 +974,7 @@
       "start": "10:00",
       "end": "11:00",
       "blurb": "When: Wednesday, September 30th, 10:00AM-11:00AM Where: Health Sciences I Room 304 Accessibility Option: Take the UCF Shuttle (Knights Express, Pegasus Express,",
-      "rsvps": 5,
+      "rsvps": 6,
       "image": "https://se-images.campuslabs.com/clink/images/677f4efa-1fbc-4ba1-aba4-a26baa42f759d5af5ecd-f042-47d2-b314-082d506fc543.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12748120"
     },
@@ -3198,7 +3198,7 @@
       "title": "EGS 1006C Laboratory",
       "url": null,
       "weather": {
-        "temp": 74,
+        "temp": 73,
         "precip": 0,
         "label": "Overcast",
         "icon": "cloud"
@@ -3309,7 +3309,7 @@
       "url": null,
       "weather": {
         "temp": 88,
-        "precip": 14,
+        "precip": 9,
         "label": "Overcast",
         "icon": "cloud"
       },
@@ -3331,7 +3331,7 @@
       "url": null,
       "weather": {
         "temp": 88,
-        "precip": 14,
+        "precip": 9,
         "label": "Overcast",
         "icon": "cloud"
       },
@@ -3353,7 +3353,7 @@
       "url": null,
       "weather": {
         "temp": 84,
-        "precip": 14,
+        "precip": 9,
         "label": "Overcast",
         "icon": "cloud"
       },
@@ -3375,7 +3375,7 @@
       "url": null,
       "weather": {
         "temp": 88,
-        "precip": 43,
+        "precip": 46,
         "label": "Overcast",
         "icon": "cloud"
       },
@@ -3397,7 +3397,7 @@
       "url": null,
       "weather": {
         "temp": 81,
-        "precip": 9,
+        "precip": 13,
         "label": "Drizzle",
         "icon": "drizzle"
       },
@@ -3419,7 +3419,7 @@
       "url": null,
       "weather": {
         "temp": 86,
-        "precip": 9,
+        "precip": 13,
         "label": "Light drizzle",
         "icon": "drizzle"
       },
@@ -3441,7 +3441,7 @@
       "url": null,
       "weather": {
         "temp": 88,
-        "precip": 36,
+        "precip": 35,
         "label": "Overcast",
         "icon": "cloud"
       },
@@ -3463,7 +3463,7 @@
       "url": null,
       "weather": {
         "temp": 77,
-        "precip": 2,
+        "precip": 1,
         "label": "Light drizzle",
         "icon": "drizzle"
       },
@@ -3485,7 +3485,7 @@
       "url": null,
       "weather": {
         "temp": 90,
-        "precip": 7,
+        "precip": 6,
         "label": "Partly cloudy",
         "icon": "cloud"
       },
