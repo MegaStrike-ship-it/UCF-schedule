@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T17:55:50.408439-04:00",
+  "generatedAt": "2026-09-27T20:18:37.442172-04:00",
   "term": {
     "name": "Fall 2026",
     "start": "2026-08-24",
@@ -89,11 +89,11 @@
   "weather": {
     "place": "UCF Orlando",
     "current": {
-      "temp": 82,
-      "feelsLike": 81,
+      "temp": 75,
+      "feelsLike": 74,
       "label": "Clear",
       "icon": "sun",
-      "isDay": true
+      "isDay": false
     },
     "days": [
       {
@@ -122,29 +122,29 @@
         "date": "2026-09-29",
         "label": "Light drizzle",
         "icon": "drizzle",
-        "high": 89,
+        "high": 88,
         "low": 69,
         "precip": 13,
-        "uv": 6,
+        "uv": 7,
         "sunrise": "07:16",
         "sunset": "19:12"
       },
       {
         "date": "2026-09-30",
-        "label": "Heavy drizzle",
-        "icon": "drizzle",
-        "high": 85,
-        "low": 74,
+        "label": "Showers",
+        "icon": "rain",
+        "high": 80,
+        "low": 73,
         "precip": 62,
-        "uv": 5,
+        "uv": 3,
         "sunrise": "07:17",
         "sunset": "19:11"
       },
       {
         "date": "2026-10-01",
-        "label": "Drizzle",
-        "icon": "drizzle",
-        "high": 90,
+        "label": "Showers",
+        "icon": "rain",
+        "high": 88,
         "low": 73,
         "precip": 53,
         "uv": 7,
@@ -153,10 +153,10 @@
       },
       {
         "date": "2026-10-02",
-        "label": "Heavy drizzle",
-        "icon": "drizzle",
-        "high": 92,
-        "low": 74,
+        "label": "Thunderstorms",
+        "icon": "storm",
+        "high": 90,
+        "low": 75,
         "precip": 56,
         "uv": 7,
         "sunrise": "07:18",
@@ -164,20 +164,20 @@
       },
       {
         "date": "2026-10-03",
-        "label": "Drizzle",
-        "icon": "drizzle",
-        "high": 91,
+        "label": "Showers",
+        "icon": "rain",
+        "high": 90,
         "low": 76,
         "precip": 57,
-        "uv": 7,
+        "uv": 6,
         "sunrise": "07:18",
         "sunset": "19:08"
       }
     ],
     "air": {
-      "aqi": 49,
-      "label": "Good",
-      "pm25": 3.0
+      "aqi": 64,
+      "label": "Moderate",
+      "pm25": 9.4
     }
   },
   "severe": [],
@@ -293,34 +293,6 @@
   ],
   "events": [
     {
-      "id": "12709315",
-      "name": "Healthy Kids Running Series: Week 1",
-      "org": "Volunteer UCF",
-      "theme": "CommunityService",
-      "location": "Long Lake Park",
-      "date": "2026-09-27",
-      "start": "15:30",
-      "end": "18:00",
-      "blurb": "The Healthy Kids Running Series was created to motivate kids to lead a healthy, active lifestyle through running. They offer a 5-week program each season with v",
-      "rsvps": 20,
-      "image": "https://se-images.campuslabs.com/clink/images/0a52b6c8-e61f-44e1-8195-7e6ec98cf331e4539da2-312c-450c-be59-7f598f13b2c9.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12709315"
-    },
-    {
-      "id": "12795205",
-      "name": " Sports @ RWC Fields!",
-      "org": "Christians on Campus",
-      "theme": "Athletics",
-      "location": "UCF RWC Fields",
-      "date": "2026-09-27",
-      "start": "18:00",
-      "end": "19:00",
-      "blurb": "Join us at 6:00 pm, September 20th, for Ultimate Frisbee at the RWC Turf Fields!",
-      "rsvps": 0,
-      "image": "https://se-images.campuslabs.com/clink/images/5e808a18-3e8a-40b3-9138-dc4b6321600f51596184-9189-43b4-ae83-d2fa65703f2a.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12795205"
-    },
-    {
       "id": "12591622",
       "name": "Student Lounge",
       "org": "Wesley at UCF",
@@ -400,7 +372,7 @@
       "start": "14:00",
       "end": "15:30",
       "blurb": "Weekly FAO Committee Meeting Email: sga_fao@ucf.edu Chair: Madalyn Phillips Vice Chair: Aaron Wacker",
-      "rsvps": 2,
+      "rsvps": 1,
       "image": "https://se-images.campuslabs.com/clink/images/97bde8d7-8871-4389-adfd-f3e0c2f5b06e8b1ffc72-febc-46f4-bb4b-237b7fd10a8e.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12550930"
     },
@@ -610,7 +582,7 @@
       "start": "19:30",
       "end": "20:30",
       "blurb": "Ready to build your personal brand? Join us this Monday for an inspiring conversation with Esperanza Perez, Alpha Chief Innovation & Technology Officer! She&rsq",
-      "rsvps": 29,
+      "rsvps": 30,
       "image": "https://se-images.campuslabs.com/clink/images/0cf1ad24-46bc-4bd6-9d25-34e70788b3236628e9d1-2c00-491b-af1a-09837d5bc96b.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12815509"
     },
@@ -909,6 +881,20 @@
       "url": "https://ucf.campuslabs.com/engage/event/12630665"
     },
     {
+      "id": "12821508",
+      "name": "9/30 Art Market",
+      "org": "Art Club",
+      "theme": "Arts",
+      "location": "Outside the Visual Arts Building",
+      "date": "2026-09-30",
+      "start": "09:30",
+      "end": "16:00",
+      "blurb": "Stop by the Visual Arts Building this Wednesday (9/30) for this week&rsquo;s art market. Prints, stickers, keychains, crochet, and tons of other handmade art ar",
+      "rsvps": 1,
+      "image": "https://se-images.campuslabs.com/clink/images/d823bf10-c8ef-41f3-8f58-5de783a6cbfd78e6031d-bc91-4a1d-ba70-9a6e5a27a8e2.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12821508"
+    },
+    {
       "id": "12748120",
       "name": "Coffee and Cultivate CHPS Network Cafe",
       "org": "National Student Speech Language Hearing Association (NSSLHA) - Orlando",
@@ -1128,7 +1114,7 @@
       "start": "18:30",
       "end": "19:45",
       "blurb": "Join us for Talk Saves Lives , a presentation developed by the American Foundation for Suicide Prevention (AFSP). Talk Saves Lives is an evidence-based program ",
-      "rsvps": 0,
+      "rsvps": 3,
       "image": "https://se-images.campuslabs.com/clink/images/eccbe229-27d5-440f-8247-ab3f52708aa207cb1fd2-c460-4d54-bf86-853c795f90e4.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12812396"
     },
@@ -1142,7 +1128,7 @@
       "start": "18:30",
       "end": "20:30",
       "blurb": "Attend a workshop with some of the department's most experienced MSE undegraduates!",
-      "rsvps": 1,
+      "rsvps": 2,
       "image": "https://se-images.campuslabs.com/clink/images/9f2cd065-8595-4ee5-b83e-999b08db19e7732eacc3-4533-40b0-a3dd-0c076ec3f6f2.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12821154"
     },
@@ -1441,20 +1427,6 @@
       "url": "https://ucf.campuslabs.com/engage/event/12550740"
     },
     {
-      "id": "12517273",
-      "name": "Movie Knight",
-      "org": "LGBTQ+ Services",
-      "theme": "Social",
-      "location": "Student Union 221",
-      "date": "2026-10-01",
-      "start": "18:00",
-      "end": "20:00",
-      "blurb": "Enjoy a free LGBTQ+ movie at this chill event.",
-      "rsvps": 10,
-      "image": "https://se-images.campuslabs.com/clink/images/9aad4b09-cfe7-4599-a850-592c0aa4b3ac3f584836-82c5-4afa-9e56-9e7cff9d4531.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12517273"
-    },
-    {
       "id": "12797923",
       "name": "Suture Workshop with Health Link Society",
       "org": " Health-Link Society",
@@ -1467,6 +1439,20 @@
       "rsvps": 16,
       "image": "https://se-images.campuslabs.com/clink/images/429c7262-4584-419b-9a6c-7ad75fc95b453d9328f3-f72d-4287-86af-c8933e7a4880.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12797923"
+    },
+    {
+      "id": "12517273",
+      "name": "Movie Knight",
+      "org": "LGBTQ+ Services",
+      "theme": "Social",
+      "location": "Student Union 221",
+      "date": "2026-10-01",
+      "start": "18:00",
+      "end": "20:00",
+      "blurb": "Enjoy a free LGBTQ+ movie at this chill event.",
+      "rsvps": 10,
+      "image": "https://se-images.campuslabs.com/clink/images/9aad4b09-cfe7-4599-a850-592c0aa4b3ac3f584836-82c5-4afa-9e56-9e7cff9d4531.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12517273"
     },
     {
       "id": "12819911",
@@ -1971,6 +1957,20 @@
       "rsvps": 1,
       "image": "https://se-images.campuslabs.com/clink/images/2a348e23-5afa-4435-9881-3cf5d2e0fcf9d119ad82-7c19-4653-b960-ea17a6d6b131.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12578732"
+    },
+    {
+      "id": "12817354",
+      "name": "Food Cart Chats",
+      "org": "Tower IV Apartments",
+      "theme": "Social",
+      "location": "Tower IV - 2nd Floor Hallway",
+      "date": "2026-10-05",
+      "start": "20:00",
+      "end": "21:00",
+      "blurb": "Come chat with RA Sho in the Tower 4 Floor 2 Hallway over brownies, cookies, and other treats!",
+      "rsvps": 0,
+      "image": "https://se-images.campuslabs.com/clink/images/3a851a26-9d63-4766-a3b6-a10ad73d1ae5030ca931-9844-4b7e-b85e-e13b8a778cf4.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12817354"
     }
   ],
   "keyDates": [
@@ -3192,9 +3192,9 @@
       "title": "EGS 1006C Laboratory",
       "url": null,
       "weather": {
-        "temp": 71,
+        "temp": 70,
         "precip": 0,
-        "label": "Partly cloudy",
+        "label": "Overcast",
         "icon": "cloud"
       },
       "courseTitle": "Intro to Engineering"
@@ -3237,7 +3237,7 @@
       "url": null,
       "weather": {
         "temp": 69,
-        "precip": 0,
+        "precip": 1,
         "label": "Overcast",
         "icon": "cloud"
       },
@@ -3302,7 +3302,7 @@
       "title": "PHY 2048 Lecture",
       "url": null,
       "weather": {
-        "temp": 89,
+        "temp": 88,
         "precip": 13,
         "label": "Overcast",
         "icon": "cloud"
@@ -3324,7 +3324,7 @@
       "title": "IDH 1920H Lecture",
       "url": null,
       "weather": {
-        "temp": 89,
+        "temp": 88,
         "precip": 13,
         "label": "Overcast",
         "icon": "cloud"
@@ -3346,7 +3346,7 @@
       "title": "IDH 1920H Lecture",
       "url": null,
       "weather": {
-        "temp": 83,
+        "temp": 84,
         "precip": 13,
         "label": "Overcast",
         "icon": "cloud"
@@ -3368,7 +3368,7 @@
       "title": "ISC 2054 Seminar",
       "url": null,
       "weather": {
-        "temp": 80,
+        "temp": 79,
         "precip": 62,
         "label": "Overcast",
         "icon": "cloud"
@@ -3392,8 +3392,8 @@
       "weather": {
         "temp": 78,
         "precip": 25,
-        "label": "Overcast",
-        "icon": "cloud"
+        "label": "Light drizzle",
+        "icon": "drizzle"
       },
       "courseTitle": "Writing & Composition"
     },
@@ -3412,10 +3412,10 @@
       "title": "MAC 2312 Lecture",
       "url": null,
       "weather": {
-        "temp": 88,
+        "temp": 84,
         "precip": 25,
-        "label": "Partly cloudy",
-        "icon": "cloud"
+        "label": "Light drizzle",
+        "icon": "drizzle"
       },
       "courseTitle": "Calculus 2"
     },
@@ -3434,7 +3434,7 @@
       "title": "PHY 2048 Lecture",
       "url": null,
       "weather": {
-        "temp": 89,
+        "temp": 88,
         "precip": 53,
         "label": "Overcast",
         "icon": "cloud"
@@ -3456,7 +3456,7 @@
       "title": "EGS 1006C Lecture",
       "url": null,
       "weather": {
-        "temp": 76,
+        "temp": 77,
         "precip": 3,
         "label": "Overcast",
         "icon": "cloud"
@@ -3478,10 +3478,10 @@
       "title": "MAC 2312 Friday Lecture",
       "url": null,
       "weather": {
-        "temp": 89,
+        "temp": 86,
         "precip": 29,
-        "label": "Overcast",
-        "icon": "cloud"
+        "label": "Thunderstorms",
+        "icon": "storm"
       },
       "courseTitle": "Calculus 2"
     },
