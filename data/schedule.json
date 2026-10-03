@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T14:31:59.917211-04:00",
+  "generatedAt": "2026-10-03T17:58:14.780025-04:00",
   "term": {
     "name": "Fall 2026",
     "start": "2026-08-24",
@@ -89,31 +89,31 @@
   "weather": {
     "place": "UCF Orlando",
     "current": {
-      "temp": 85,
-      "feelsLike": 91,
-      "label": "Partly cloudy",
+      "temp": 78,
+      "feelsLike": 87,
+      "label": "Overcast",
       "icon": "cloud",
       "isDay": true
     },
     "days": [
       {
         "date": "2026-10-03",
-        "label": "Showers",
+        "label": "Heavy showers",
         "icon": "rain",
-        "high": 87,
+        "high": 90,
         "low": 76,
-        "precip": 41,
+        "precip": 63,
         "uv": 7,
         "sunrise": "07:18",
         "sunset": "19:08"
       },
       {
         "date": "2026-10-04",
-        "label": "Overcast",
-        "icon": "cloud",
-        "high": 89,
-        "low": 75,
-        "precip": 41,
+        "label": "Heavy drizzle",
+        "icon": "drizzle",
+        "high": 90,
+        "low": 76,
+        "precip": 33,
         "uv": 7,
         "sunrise": "07:19",
         "sunset": "19:06"
@@ -124,7 +124,7 @@
         "icon": "rain",
         "high": 85,
         "low": 73,
-        "precip": 79,
+        "precip": 66,
         "uv": 5,
         "sunrise": "07:19",
         "sunset": "19:05"
@@ -135,7 +135,7 @@
         "icon": "rain",
         "high": 84,
         "low": 73,
-        "precip": 88,
+        "precip": 89,
         "uv": 7,
         "sunrise": "07:20",
         "sunset": "19:04"
@@ -146,7 +146,7 @@
         "icon": "drizzle",
         "high": 87,
         "low": 73,
-        "precip": 74,
+        "precip": 73,
         "uv": 6,
         "sunrise": "07:21",
         "sunset": "19:03"
@@ -157,7 +157,7 @@
         "icon": "drizzle",
         "high": 82,
         "low": 73,
-        "precip": 72,
+        "precip": 71,
         "uv": 4,
         "sunrise": "07:21",
         "sunset": "19:02"
@@ -177,7 +177,7 @@
     "air": {
       "aqi": 33,
       "label": "Good",
-      "pm25": 6.8
+      "pm25": 6.3
     }
   },
   "severe": [],
@@ -224,8 +224,8 @@
       "opponent": "Houston Cougars",
       "home": false,
       "venue": "TDECU Stadium",
-      "state": "in",
-      "detail": "2:47 - 3rd"
+      "state": "post",
+      "detail": "Final"
     },
     {
       "date": "2026-10-10",
@@ -302,23 +302,9 @@
       "start": "12:30",
       "end": "19:00",
       "blurb": "\u2728 Join us at Filo Fest! \ud83c\udf89 \ud83d\uddd3\ufe0f When: Saturday, October 3rd \u23f0 Time: 2 PM &ndash; 7 PM \ud83d\udccd Where: Trevor Colbourn Hall Lawn The Multicultural Student Center and Filip",
-      "rsvps": 22,
+      "rsvps": 34,
       "image": "https://se-images.campuslabs.com/clink/images/790a07d7-d048-4631-863e-339524486607b15284cc-b76b-44e1-81fa-2c672468ed5a.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12845258"
-    },
-    {
-      "id": "12748038",
-      "name": "Runway to Hope's Family Fall Festival",
-      "org": "Lighthouse Haven",
-      "theme": "CommunityService",
-      "location": "Osceola Heritage Park",
-      "date": "2026-10-03",
-      "start": "12:30",
-      "end": "17:30",
-      "blurb": "Volunteers will help create a fun and welcoming experience by assisting with activities such as trunk-or-treating, carnival games, arts & crafts, event setup an",
-      "rsvps": 0,
-      "image": "https://se-images.campuslabs.com/clink/images/19b338a8-7917-4977-97a0-af475813190857198413-13b6-4fa0-8eaf-1b0c999313f1.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12748038"
     },
     {
       "id": "12834365",
@@ -344,7 +330,7 @@
       "start": "17:00",
       "end": "18:20",
       "blurb": "Come join us on Friday 10/3 in Teaching Academy Room 110 from 5-6:20 PM for our weekly GBM! This week, we&rsquo;ll be making trading cards based off of whatever",
-      "rsvps": 11,
+      "rsvps": 21,
       "image": "https://se-images.campuslabs.com/clink/images/552c573f-9dbe-4f38-a4f4-64c806944b2ec699bf70-0d6f-4c3b-bc04-4bb992771d18.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12842941"
     },
@@ -386,7 +372,7 @@
       "start": "09:00",
       "end": "11:00",
       "blurb": "Come bake at Ronald McDonald house with us! Carpool is available if you need a ride. Service hours will be provided. Dm us on instagram if you need a ride.",
-      "rsvps": 1,
+      "rsvps": 2,
       "image": "https://se-images.campuslabs.com/clink/images/a8d07e6f-d54d-4c33-b42a-6dcb060e4895b003d237-770d-4ee1-ab9a-394add75db48.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12739235"
     },
@@ -806,9 +792,23 @@
       "start": "19:30",
       "end": "21:30",
       "blurb": "\ud83c\udfa2 THEME PARK KNIGHTS &mdash; FIRST MEETING! \ud83c\udfa2 It&rsquo;s finally happening! Join us for the first on-campus meeting of Theme Park Knights! \ud83c\udf9f\ufe0f\u2728 This meeting is a",
-      "rsvps": 2,
+      "rsvps": 3,
       "image": "https://se-images.campuslabs.com/clink/images/544bfdfc-f726-48ae-b1b3-99f2271bef02ee6d031a-4ec7-4c9e-9e34-ece1bd6ce57c.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12848086"
+    },
+    {
+      "id": "12850726",
+      "name": "NFL CBA Workshop #3",
+      "org": "Sport Law and Negotiation Society",
+      "theme": "ThoughtfulLearning",
+      "location": "Room TCH 0101",
+      "date": "2026-10-05",
+      "start": "19:30",
+      "end": "20:30",
+      "blurb": "NFL Player Contracts Key Topics Base salary and signing bonuses Guaranteed and non-guaranteed compensation Roster, option, workout, and reporting bonuses Likely",
+      "rsvps": 0,
+      "image": "https://se-images.campuslabs.com/clink/images/b0d66653-086e-43c9-a0d0-d735eaf1faa480462b31-e7c0-4f2b-be29-9b45d65ef7f4.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12850726"
     },
     {
       "id": "12817354",
@@ -1016,7 +1016,7 @@
       "start": "18:00",
       "end": "19:45",
       "blurb": "Join some of your Lake Claire RAs and enjoy some fall-inspired drinks and snacks while watching some Halloween classics!",
-      "rsvps": 6,
+      "rsvps": 7,
       "image": "https://se-images.campuslabs.com/clink/images/da7dc359-c99c-44c7-8823-16135496945748887f1b-6441-496e-8c15-900d732c3837.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12830023"
     },
@@ -1917,6 +1917,20 @@
       "url": "https://ucf.campuslabs.com/engage/event/12850579"
     },
     {
+      "id": "12844571",
+      "name": "NFL COMP PREP NO. 1 \u2014 TEAM-SIDE STRATEGY",
+      "org": "Sport Law and Negotiation Society",
+      "theme": "ThoughtfulLearning",
+      "location": "Student union room 222 Pensacola Board Room",
+      "date": "2026-10-08",
+      "start": "19:30",
+      "end": "20:30",
+      "blurb": "What Should This NFL Team Do? Establishing a Front-Office Direction Introduce students to the team and general-manager perspective. Before an NFL front office s",
+      "rsvps": 0,
+      "image": "https://se-images.campuslabs.com/clink/images/1f009c4d-3d91-41a6-9f66-d25ace7c67322b9b7fd6-acf4-4684-8915-cbdc50d6abd2.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12844571"
+    },
+    {
       "id": "12847596",
       "name": "ASME GBM #2 with WSP",
       "org": "American Society of Mechanical Engineers",
@@ -1957,20 +1971,6 @@
       "rsvps": 0,
       "image": "https://se-images.campuslabs.com/clink/images/45570b60-d61d-4796-9a41-e19ebc1c1f8d010b3c1f-fa73-403d-b25f-c9ccbb5cde62.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12801762"
-    },
-    {
-      "id": "12629905",
-      "name": "OCOM Open House with UCF Pre-SOMA",
-      "org": "Pre-Student Osteopathic Medical Association",
-      "theme": "Social",
-      "location": "Orlando College of Osteopathic Medicine",
-      "date": "2026-10-09",
-      "start": "12:00",
-      "end": "14:00",
-      "blurb": "Join us at the Orlando College of Osteopathic Medicine (OCOM) Open House from 12:00 PM - 2:00 PM on October 9th! This is a great opportunity for students intere",
-      "rsvps": 0,
-      "image": "https://se-images.campuslabs.com/clink/images/d207e610-f08a-4924-9242-6d8c879b845670f60763-8dc2-49d2-947b-8d147e57e62a.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12629905"
     }
   ],
   "keyDates": [
@@ -3438,7 +3438,7 @@
       "title": "EGS 1006C Laboratory",
       "url": null,
       "weather": {
-        "temp": 77,
+        "temp": 78,
         "precip": 6,
         "label": "Overcast",
         "icon": "cloud"
@@ -3461,7 +3461,7 @@
       "url": null,
       "weather": {
         "temp": 85,
-        "precip": 79,
+        "precip": 66,
         "label": "Drizzle",
         "icon": "drizzle"
       },
@@ -3483,7 +3483,7 @@
       "url": null,
       "weather": {
         "temp": 73,
-        "precip": 22,
+        "precip": 37,
         "label": "Overcast",
         "icon": "cloud"
       },
@@ -3505,7 +3505,7 @@
       "url": null,
       "weather": {
         "temp": 75,
-        "precip": 52,
+        "precip": 59,
         "label": "Light drizzle",
         "icon": "drizzle"
       },
@@ -3527,7 +3527,7 @@
       "url": null,
       "weather": {
         "temp": 78,
-        "precip": 52,
+        "precip": 59,
         "label": "Light drizzle",
         "icon": "drizzle"
       },
@@ -3549,7 +3549,7 @@
       "url": null,
       "weather": {
         "temp": 84,
-        "precip": 88,
+        "precip": 89,
         "label": "Drizzle",
         "icon": "drizzle"
       },
@@ -3571,7 +3571,7 @@
       "url": null,
       "weather": {
         "temp": 81,
-        "precip": 88,
+        "precip": 89,
         "label": "Drizzle",
         "icon": "drizzle"
       },
@@ -3593,7 +3593,7 @@
       "url": null,
       "weather": {
         "temp": 74,
-        "precip": 88,
+        "precip": 89,
         "label": "Showers",
         "icon": "rain"
       },
@@ -3615,7 +3615,7 @@
       "url": null,
       "weather": {
         "temp": 86,
-        "precip": 74,
+        "precip": 73,
         "label": "Light drizzle",
         "icon": "drizzle"
       },
@@ -3637,7 +3637,7 @@
       "url": null,
       "weather": {
         "temp": 80,
-        "precip": 45,
+        "precip": 42,
         "label": "Overcast",
         "icon": "cloud"
       },
@@ -3659,7 +3659,7 @@
       "url": null,
       "weather": {
         "temp": 82,
-        "precip": 45,
+        "precip": 42,
         "label": "Drizzle",
         "icon": "drizzle"
       },
@@ -3681,7 +3681,7 @@
       "url": null,
       "weather": {
         "temp": 82,
-        "precip": 72,
+        "precip": 71,
         "label": "Drizzle",
         "icon": "drizzle"
       },
@@ -3703,7 +3703,7 @@
       "url": null,
       "weather": {
         "temp": 76,
-        "precip": 14,
+        "precip": 11,
         "label": "Overcast",
         "icon": "cloud"
       },
@@ -3725,7 +3725,7 @@
       "url": null,
       "weather": {
         "temp": 79,
-        "precip": 35,
+        "precip": 33,
         "label": "Light drizzle",
         "icon": "drizzle"
       },
