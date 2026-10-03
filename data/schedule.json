@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T10:33:30.599906-04:00",
+  "generatedAt": "2026-10-03T14:31:59.917211-04:00",
   "term": {
     "name": "Fall 2026",
     "start": "2026-08-24",
@@ -89,9 +89,9 @@
   "weather": {
     "place": "UCF Orlando",
     "current": {
-      "temp": 80,
-      "feelsLike": 88,
-      "label": "Overcast",
+      "temp": 85,
+      "feelsLike": 91,
+      "label": "Partly cloudy",
       "icon": "cloud",
       "isDay": true
     },
@@ -100,9 +100,9 @@
         "date": "2026-10-03",
         "label": "Showers",
         "icon": "rain",
-        "high": 88,
+        "high": 87,
         "low": 76,
-        "precip": 26,
+        "precip": 41,
         "uv": 7,
         "sunrise": "07:18",
         "sunset": "19:08"
@@ -113,41 +113,41 @@
         "icon": "cloud",
         "high": 89,
         "low": 75,
-        "precip": 32,
+        "precip": 41,
         "uv": 7,
         "sunrise": "07:19",
         "sunset": "19:06"
       },
       {
         "date": "2026-10-05",
-        "label": "Thunderstorms",
-        "icon": "storm",
-        "high": 90,
-        "low": 75,
-        "precip": 81,
-        "uv": 6,
+        "label": "Showers",
+        "icon": "rain",
+        "high": 85,
+        "low": 73,
+        "precip": 79,
+        "uv": 5,
         "sunrise": "07:19",
         "sunset": "19:05"
       },
       {
         "date": "2026-10-06",
-        "label": "Light drizzle",
-        "icon": "drizzle",
-        "high": 80,
-        "low": 74,
-        "precip": 90,
-        "uv": 4,
+        "label": "Showers",
+        "icon": "rain",
+        "high": 84,
+        "low": 73,
+        "precip": 88,
+        "uv": 7,
         "sunrise": "07:20",
         "sunset": "19:04"
       },
       {
         "date": "2026-10-07",
-        "label": "Light drizzle",
+        "label": "Drizzle",
         "icon": "drizzle",
-        "high": 85,
-        "low": 74,
+        "high": 87,
+        "low": 73,
         "precip": 74,
-        "uv": 5,
+        "uv": 6,
         "sunrise": "07:21",
         "sunset": "19:03"
       },
@@ -155,29 +155,29 @@
         "date": "2026-10-08",
         "label": "Drizzle",
         "icon": "drizzle",
-        "high": 81,
+        "high": 82,
         "low": 73,
-        "precip": 71,
-        "uv": 5,
+        "precip": 72,
+        "uv": 4,
         "sunrise": "07:21",
         "sunset": "19:02"
       },
       {
         "date": "2026-10-09",
-        "label": "Light drizzle",
-        "icon": "drizzle",
+        "label": "Thunderstorms",
+        "icon": "storm",
         "high": 86,
-        "low": 73,
-        "precip": 66,
-        "uv": 4,
+        "low": 75,
+        "precip": 68,
+        "uv": 6,
         "sunrise": "07:22",
         "sunset": "19:01"
       }
     ],
     "air": {
-      "aqi": 29,
+      "aqi": 33,
       "label": "Good",
-      "pm25": 8.0
+      "pm25": 6.8
     }
   },
   "severe": [],
@@ -224,8 +224,8 @@
       "opponent": "Houston Cougars",
       "home": false,
       "venue": "TDECU Stadium",
-      "state": "pre",
-      "detail": "10/3 - 12:00 PM EDT"
+      "state": "in",
+      "detail": "2:47 - 3rd"
     },
     {
       "date": "2026-10-10",
@@ -293,60 +293,18 @@
   ],
   "events": [
     {
-      "id": "12833594",
-      "name": "FES Build a Bed Volunteering",
-      "org": "Florida Engineering Society",
-      "theme": "CommunityService",
-      "location": "Off-Campus (Details sent upon Registration) ",
+      "id": "12845258",
+      "name": "Filo Fest - MSC x FSA",
+      "org": "Multicultural Student Center",
+      "theme": "Cultural",
+      "location": "Trevor Colbourn Hall Lawn",
       "date": "2026-10-03",
-      "start": "07:30",
-      "end": "13:00",
-      "blurb": "Join FES as we partner with Sleep in Heavenly Peace (SHP) to build beds for children and families in need! No prior woodworking or construction experience is re",
-      "rsvps": 0,
-      "image": "https://se-images.campuslabs.com/clink/images/91c89884-bc18-4e1a-a1bd-e17d7d9b21a00079599e-1b07-4b1c-a54e-8f1948bb1e54.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12833594"
-    },
-    {
-      "id": "12791315",
-      "name": "Tour of Orange County Landfill",
-      "org": "Society of Environmental Engineers",
-      "theme": "ThoughtfulLearning",
-      "location": "Orange County Landfill Administration Building",
-      "date": "2026-10-03",
-      "start": "09:00",
-      "end": "11:30",
-      "blurb": "Join the Society of Environmental Engineers for a tour of the Orange County Landfill and Solid Waste Facilities on Saturday, October 3rd, beginning at 9 AM. Thi",
-      "rsvps": 0,
-      "image": "https://se-images.campuslabs.com/clink/images/fad5c371-d1ef-46f9-83df-d95eab1a42a503431c73-2f99-41ff-aa0a-81156cae7a14.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12791315"
-    },
-    {
-      "id": "12791316",
-      "name": "Tour of Orange County Landfill",
-      "org": "Society of Environmental Engineers",
-      "theme": "ThoughtfulLearning",
-      "location": "Orange County Landfill Administration Building",
-      "date": "2026-10-03",
-      "start": "09:00",
-      "end": "11:30",
-      "blurb": "Join the Society of Environmental Engineers for a tour of the Orange County Landfill and Solid Waste Facilities on Saturday, October 3rd, beginning at 9 AM. Thi",
-      "rsvps": 0,
-      "image": "https://se-images.campuslabs.com/clink/images/fad5c371-d1ef-46f9-83df-d95eab1a42a503431c73-2f99-41ff-aa0a-81156cae7a14.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12791316"
-    },
-    {
-      "id": "12759059",
-      "name": "Runway to Hope: Family Fall Festival",
-      "org": "Volunteer UCF",
-      "theme": "CommunityService",
-      "location": "Osceola Heritage Park",
-      "date": "2026-10-03",
-      "start": "09:30",
-      "end": "14:30",
-      "blurb": "This event is an annual fall celebration that provides a fun, family-centered day for children and families impacted by pediatric cancer to enjoy time together ",
-      "rsvps": 30,
-      "image": "https://se-images.campuslabs.com/clink/images/f5a2a414-418e-4287-ac47-e9f5c0fb0dd28e041ba7-a5b1-4c20-b623-a95e18d5bebc.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12759059"
+      "start": "12:30",
+      "end": "19:00",
+      "blurb": "\u2728 Join us at Filo Fest! \ud83c\udf89 \ud83d\uddd3\ufe0f When: Saturday, October 3rd \u23f0 Time: 2 PM &ndash; 7 PM \ud83d\udccd Where: Trevor Colbourn Hall Lawn The Multicultural Student Center and Filip",
+      "rsvps": 22,
+      "image": "https://se-images.campuslabs.com/clink/images/790a07d7-d048-4631-863e-339524486607b15284cc-b76b-44e1-81fa-2c672468ed5a.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12845258"
     },
     {
       "id": "12748038",
@@ -361,20 +319,6 @@
       "rsvps": 0,
       "image": "https://se-images.campuslabs.com/clink/images/19b338a8-7917-4977-97a0-af475813190857198413-13b6-4fa0-8eaf-1b0c999313f1.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12748038"
-    },
-    {
-      "id": "12845258",
-      "name": "Filo Fest - MSC x FSA",
-      "org": "Multicultural Student Center",
-      "theme": "Cultural",
-      "location": "Trevor Colbourn Hall Lawn",
-      "date": "2026-10-03",
-      "start": "14:00",
-      "end": "19:00",
-      "blurb": "\u2728 Join us at Filo Fest! \ud83c\udf89 \ud83d\uddd3\ufe0f When: Saturday, October 3rd \u23f0 Time: 2 PM &ndash; 7 PM \ud83d\udccd Where: Trevor Colbourn Hall Lawn The Multicultural Student Center and Filip",
-      "rsvps": 10,
-      "image": "https://se-images.campuslabs.com/clink/images/790a07d7-d048-4631-863e-339524486607b15284cc-b76b-44e1-81fa-2c672468ed5a.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12845258"
     },
     {
       "id": "12834365",
@@ -736,7 +680,7 @@
       "start": "18:00",
       "end": "19:00",
       "blurb": "Join us for an exciting BNY Speaker Event featuring Karina Gonzalez and Lauren V&aacute;zquez! They&rsquo;ll be sharing their experiences at BNY, insights into ",
-      "rsvps": 18,
+      "rsvps": 19,
       "image": "https://se-images.campuslabs.com/clink/images/3b662080-719e-431b-bacd-31d8ff37dc5d8d548bf2-c0f6-42f0-8d21-822779a3d4d4.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12845838"
     },
@@ -795,6 +739,20 @@
       "rsvps": 0,
       "image": "https://se-images.campuslabs.com/clink/images/f9daf11b-5730-4751-9f68-9ade016f4346bedeb7f7-b218-457c-a450-b7a5237fdf8a.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12846859"
+    },
+    {
+      "id": "12850611",
+      "name": "NBA CBA Workshop #3",
+      "org": "Sport Law and Negotiation Society",
+      "theme": "ThoughtfulLearning",
+      "location": "Trevor Colbourn Hall 101",
+      "date": "2026-10-05",
+      "start": "18:30",
+      "end": "19:30",
+      "blurb": "Join us for our third NBA CBA Workshop of the semester. Understanding Player Contracts, From Rookie Deals to Superstar Contracts. Main topics will include: Rook",
+      "rsvps": 0,
+      "image": "https://se-images.campuslabs.com/clink/images/e4e5acf0-3ff8-41e1-8cb3-d42be7a0feea8f926346-d3c6-48b8-9008-b364f60bc34e.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12850611"
     },
     {
       "id": "12677778",
@@ -1147,6 +1105,20 @@
       "url": "https://ucf.campuslabs.com/engage/event/12844975"
     },
     {
+      "id": "12850576",
+      "name": "Knightfire ",
+      "org": "Catholic Campus Ministry",
+      "theme": "Spirituality",
+      "location": "The Catholic Center at Northview ",
+      "date": "2026-10-06",
+      "start": "19:30",
+      "end": "21:00",
+      "blurb": "Knightfire is a worship-night style event that provides an opportunity for people to come together as a community to seek out and worship God. We'll begin the n",
+      "rsvps": 0,
+      "image": "https://se-images.campuslabs.com/clink/images/bb6c98df-6233-489d-b8ff-1a4a16f17a0b63c03058-e24c-479c-8e81-fa895eab246b.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12850576"
+    },
+    {
       "id": "12833737",
       "name": "General Meetings",
       "org": "Voice Acting Knights",
@@ -1273,6 +1245,20 @@
       "url": "https://ucf.campuslabs.com/engage/event/12816553"
     },
     {
+      "id": "12850577",
+      "name": "Post Up ",
+      "org": "Catholic Campus Ministry",
+      "theme": "Spirituality",
+      "location": "Memory Mall ",
+      "date": "2026-10-07",
+      "start": "12:30",
+      "end": "14:30",
+      "blurb": "Post Up is where we bring the love that's cultivated in the Chapel and at the Catholic Center out onto UCF's Campus. We set up a table, serve water and lemonade",
+      "rsvps": 0,
+      "image": "https://se-images.campuslabs.com/clink/images/bc6bc896-1118-43ae-b8e7-2955065e896679ce25fb-ab01-4c00-b343-bea97b776ea8.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12850577"
+    },
+    {
       "id": "12802860",
       "name": "From  Awareness to Action Mental Health Forum ",
       "org": "The Last Secret",
@@ -1352,7 +1338,7 @@
       "start": "16:00",
       "end": "17:30",
       "blurb": "Come out to our first Calisthenics & Yoga Knights meeting at Knights Plaza (grassy area in front of addition financial arena)! \ud83d\udcaa This will be an intro meeting w",
-      "rsvps": 10,
+      "rsvps": 11,
       "image": "https://se-images.campuslabs.com/clink/images/966cc4d9-1375-4ccf-81fc-35d55888b0cc30bc100c-fabf-4155-bf64-70f6b8103d40.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12837025"
     },
@@ -1903,6 +1889,34 @@
       "url": "https://ucf.campuslabs.com/engage/event/12550716"
     },
     {
+      "id": "12850578",
+      "name": "Men's Night ",
+      "org": "Catholic Campus Ministry",
+      "theme": "Spirituality",
+      "location": "The Brotherhood of Hope ",
+      "date": "2026-10-08",
+      "start": "19:30",
+      "end": "21:00",
+      "blurb": "Men's night is a space for men to come together as brothers and chase after Christ. The nights usually consist of a game, a talk on how to truly live as a Catho",
+      "rsvps": 0,
+      "image": "https://se-images.campuslabs.com/clink/images/865e4d5d-6a38-418d-b8b7-5c595d76c1351f87611a-0633-4f83-84b4-e283b46bb583.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12850578"
+    },
+    {
+      "id": "12850579",
+      "name": "Women's Night ",
+      "org": "Catholic Campus Ministry",
+      "theme": "Spirituality",
+      "location": "The Catholic Center at Northview ",
+      "date": "2026-10-08",
+      "start": "19:30",
+      "end": "21:00",
+      "blurb": "Women's night is an opportunity to step away from college life and chase after the Lord with other women who are seeking the exact same thing. The night will us",
+      "rsvps": 0,
+      "image": "https://se-images.campuslabs.com/clink/images/20728516-f360-4070-a3ae-ae463b6abeae14a08879-19cf-42f1-8ca6-0673ee60e99d.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12850579"
+    },
+    {
       "id": "12847596",
       "name": "ASME GBM #2 with WSP",
       "org": "American Society of Mechanical Engineers",
@@ -1957,20 +1971,6 @@
       "rsvps": 0,
       "image": "https://se-images.campuslabs.com/clink/images/d207e610-f08a-4924-9242-6d8c879b845670f60763-8dc2-49d2-947b-8d147e57e62a.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12629905"
-    },
-    {
-      "id": "12507319",
-      "name": "Knight Hacks IX",
-      "org": "Knight Hacks",
-      "theme": "ThoughtfulLearning",
-      "location": "Engineering II Atrium",
-      "date": "2026-10-09",
-      "start": "16:00",
-      "end": "19:30",
-      "blurb": "KNIGHT HACKS IX REGISTRATIONS ARE LIVE, ENTER THE ENCHANTED FOREST \u2728\ud83c\udf32\ud83d\udc09 \ud83d\uddd3\ufe0fOctober 9th - 11th, 2026 \ud83d\udccdUCF Main Campus \ud83d\udd17 https://2026.knighthacks.org/ The Forest Is",
-      "rsvps": 10,
-      "image": "https://se-images.campuslabs.com/clink/images/6d9a6078-758f-4ddb-bcef-9a5e0f5a0fbc2ca13e99-7664-4bb8-89b7-e727c33e8b15.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12507319"
     }
   ],
   "keyDates": [
@@ -3417,7 +3417,7 @@
       "url": null,
       "weather": {
         "temp": 81,
-        "precip": 6,
+        "precip": 4,
         "label": "Overcast",
         "icon": "cloud"
       },
@@ -3438,8 +3438,8 @@
       "title": "EGS 1006C Laboratory",
       "url": null,
       "weather": {
-        "temp": 79,
-        "precip": 9,
+        "temp": 77,
+        "precip": 6,
         "label": "Overcast",
         "icon": "cloud"
       },
@@ -3460,9 +3460,9 @@
       "title": "ISC 2054 Seminar",
       "url": null,
       "weather": {
-        "temp": 89,
-        "precip": 81,
-        "label": "Heavy drizzle",
+        "temp": 85,
+        "precip": 79,
+        "label": "Drizzle",
         "icon": "drizzle"
       },
       "courseTitle": "STEM Seminar"
@@ -3482,10 +3482,10 @@
       "title": "PHY 2048 Discussion",
       "url": null,
       "weather": {
-        "temp": 74,
-        "precip": 30,
-        "label": "Light drizzle",
-        "icon": "drizzle"
+        "temp": 73,
+        "precip": 22,
+        "label": "Overcast",
+        "icon": "cloud"
       },
       "courseTitle": "Physics: Mechanics"
     },
@@ -3504,8 +3504,8 @@
       "title": "ENC 1101 Lecture",
       "url": null,
       "weather": {
-        "temp": 76,
-        "precip": 65,
+        "temp": 75,
+        "precip": 52,
         "label": "Light drizzle",
         "icon": "drizzle"
       },
@@ -3526,8 +3526,8 @@
       "title": "MAC 2312 Lecture",
       "url": null,
       "weather": {
-        "temp": 79,
-        "precip": 65,
+        "temp": 78,
+        "precip": 52,
         "label": "Light drizzle",
         "icon": "drizzle"
       },
@@ -3548,10 +3548,10 @@
       "title": "PHY 2048 Lecture",
       "url": null,
       "weather": {
-        "temp": 79,
-        "precip": 90,
-        "label": "Overcast",
-        "icon": "cloud"
+        "temp": 84,
+        "precip": 88,
+        "label": "Drizzle",
+        "icon": "drizzle"
       },
       "courseTitle": "Physics: Mechanics"
     },
@@ -3570,10 +3570,10 @@
       "title": "IDH 1920H Lecture",
       "url": null,
       "weather": {
-        "temp": 79,
-        "precip": 90,
-        "label": "Overcast",
-        "icon": "cloud"
+        "temp": 81,
+        "precip": 88,
+        "label": "Drizzle",
+        "icon": "drizzle"
       },
       "courseTitle": "Honors Symposium"
     },
@@ -3592,10 +3592,10 @@
       "title": "IDH 1920H Lecture",
       "url": null,
       "weather": {
-        "temp": 78,
-        "precip": 90,
-        "label": "Overcast",
-        "icon": "cloud"
+        "temp": 74,
+        "precip": 88,
+        "label": "Showers",
+        "icon": "rain"
       },
       "courseTitle": "Honors Symposium"
     },
@@ -3614,7 +3614,7 @@
       "title": "ISC 2054 Seminar",
       "url": null,
       "weather": {
-        "temp": 79,
+        "temp": 86,
         "precip": 74,
         "label": "Light drizzle",
         "icon": "drizzle"
@@ -3636,8 +3636,8 @@
       "title": "ENC 1101 Lecture",
       "url": null,
       "weather": {
-        "temp": 77,
-        "precip": 40,
+        "temp": 80,
+        "precip": 45,
         "label": "Overcast",
         "icon": "cloud"
       },
@@ -3658,8 +3658,8 @@
       "title": "MAC 2312 Lecture",
       "url": null,
       "weather": {
-        "temp": 80,
-        "precip": 40,
+        "temp": 82,
+        "precip": 45,
         "label": "Drizzle",
         "icon": "drizzle"
       },
@@ -3680,8 +3680,8 @@
       "title": "PHY 2048 Lecture",
       "url": null,
       "weather": {
-        "temp": 81,
-        "precip": 71,
+        "temp": 82,
+        "precip": 72,
         "label": "Drizzle",
         "icon": "drizzle"
       },
@@ -3702,8 +3702,8 @@
       "title": "EGS 1006C Lecture",
       "url": null,
       "weather": {
-        "temp": 74,
-        "precip": 12,
+        "temp": 76,
+        "precip": 14,
         "label": "Overcast",
         "icon": "cloud"
       },
@@ -3724,8 +3724,8 @@
       "title": "MAC 2312 Friday Lecture",
       "url": null,
       "weather": {
-        "temp": 85,
-        "precip": 37,
+        "temp": 79,
+        "precip": 35,
         "label": "Light drizzle",
         "icon": "drizzle"
       },
