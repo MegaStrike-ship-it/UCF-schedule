@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T17:58:14.780025-04:00",
+  "generatedAt": "2026-10-03T20:26:15.470424-04:00",
   "term": {
     "name": "Fall 2026",
     "start": "2026-08-24",
@@ -89,16 +89,16 @@
   "weather": {
     "place": "UCF Orlando",
     "current": {
-      "temp": 78,
+      "temp": 77,
       "feelsLike": 87,
       "label": "Overcast",
       "icon": "cloud",
-      "isDay": true
+      "isDay": false
     },
     "days": [
       {
         "date": "2026-10-03",
-        "label": "Heavy showers",
+        "label": "Showers",
         "icon": "rain",
         "high": 90,
         "low": 76,
@@ -113,52 +113,52 @@
         "icon": "drizzle",
         "high": 90,
         "low": 76,
-        "precip": 33,
+        "precip": 39,
         "uv": 7,
         "sunrise": "07:19",
         "sunset": "19:06"
       },
       {
         "date": "2026-10-05",
-        "label": "Showers",
-        "icon": "rain",
-        "high": 85,
-        "low": 73,
+        "label": "Drizzle",
+        "icon": "drizzle",
+        "high": 88,
+        "low": 75,
         "precip": 66,
-        "uv": 5,
+        "uv": 7,
         "sunrise": "07:19",
         "sunset": "19:05"
       },
       {
         "date": "2026-10-06",
-        "label": "Showers",
-        "icon": "rain",
-        "high": 84,
-        "low": 73,
+        "label": "Heavy drizzle",
+        "icon": "drizzle",
+        "high": 86,
+        "low": 75,
         "precip": 89,
-        "uv": 7,
+        "uv": 6,
         "sunrise": "07:20",
         "sunset": "19:04"
       },
       {
         "date": "2026-10-07",
-        "label": "Drizzle",
-        "icon": "drizzle",
-        "high": 87,
-        "low": 73,
+        "label": "Thunderstorms",
+        "icon": "storm",
+        "high": 82,
+        "low": 74,
         "precip": 73,
-        "uv": 6,
+        "uv": 7,
         "sunrise": "07:21",
         "sunset": "19:03"
       },
       {
         "date": "2026-10-08",
-        "label": "Drizzle",
+        "label": "Light drizzle",
         "icon": "drizzle",
-        "high": 82,
+        "high": 84,
         "low": 73,
         "precip": 71,
-        "uv": 4,
+        "uv": 6,
         "sunrise": "07:21",
         "sunset": "19:02"
       },
@@ -166,8 +166,8 @@
         "date": "2026-10-09",
         "label": "Thunderstorms",
         "icon": "storm",
-        "high": 86,
-        "low": 75,
+        "high": 84,
+        "low": 73,
         "precip": 68,
         "uv": 6,
         "sunrise": "07:22",
@@ -177,7 +177,7 @@
     "air": {
       "aqi": 33,
       "label": "Good",
-      "pm25": 6.3
+      "pm25": 5.2
     }
   },
   "severe": [],
@@ -292,48 +292,6 @@
     }
   ],
   "events": [
-    {
-      "id": "12845258",
-      "name": "Filo Fest - MSC x FSA",
-      "org": "Multicultural Student Center",
-      "theme": "Cultural",
-      "location": "Trevor Colbourn Hall Lawn",
-      "date": "2026-10-03",
-      "start": "12:30",
-      "end": "19:00",
-      "blurb": "\u2728 Join us at Filo Fest! \ud83c\udf89 \ud83d\uddd3\ufe0f When: Saturday, October 3rd \u23f0 Time: 2 PM &ndash; 7 PM \ud83d\udccd Where: Trevor Colbourn Hall Lawn The Multicultural Student Center and Filip",
-      "rsvps": 34,
-      "image": "https://se-images.campuslabs.com/clink/images/790a07d7-d048-4631-863e-339524486607b15284cc-b76b-44e1-81fa-2c672468ed5a.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12845258"
-    },
-    {
-      "id": "12834365",
-      "name": "UCF Motorcycle Club Photoshoot!",
-      "org": "The Knights Photography Studio",
-      "theme": "Arts",
-      "location": "McLaren Dealership",
-      "date": "2026-10-03",
-      "start": "16:00",
-      "end": "18:00",
-      "blurb": "From the UCF Motorcycle Club: Hello! Good news&mdash;Media Day is officially set for next Saturday, Oct 3rd! This is going to be a really fun event and a great ",
-      "rsvps": 4,
-      "image": "https://se-images.campuslabs.com/clink/images/82987a44-f11a-4ae1-84c1-24b493408ddf9ebcfb62-4c44-4be1-8a33-bac2b3bfa132.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12834365"
-    },
-    {
-      "id": "12842941",
-      "name": "\u2660\ufe0f GBM - Trading Cards!",
-      "org": "Art Club",
-      "theme": "Arts",
-      "location": "Teaching Academy 110",
-      "date": "2026-10-03",
-      "start": "17:00",
-      "end": "18:20",
-      "blurb": "Come join us on Friday 10/3 in Teaching Academy Room 110 from 5-6:20 PM for our weekly GBM! This week, we&rsquo;ll be making trading cards based off of whatever",
-      "rsvps": 21,
-      "image": "https://se-images.campuslabs.com/clink/images/552c573f-9dbe-4f38-a4f4-64c806944b2ec699bf70-0d6f-4c3b-bc04-4bb992771d18.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12842941"
-    },
     {
       "id": "12780879",
       "name": "PAN x Human Appeal x PBMF The Biggest Comedy Show Volunteering",
@@ -610,7 +568,7 @@
       "start": "17:00",
       "end": "18:00",
       "blurb": "Amanda Weissberg graduated from California State University, Northbridge in Los Angeles with her bachelor's and her masters. She is an ASHA ACE Award recipient ",
-      "rsvps": 5,
+      "rsvps": 6,
       "image": "https://se-images.campuslabs.com/clink/images/0e44c297-5959-4b21-a43f-17ea8994174af040363a-3636-428c-a827-1ba2bfa4744e.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12833748"
     },
@@ -652,7 +610,7 @@
       "start": "18:00",
       "end": "19:00",
       "blurb": "Come and create bracelets and buttons while snacking on Halloween treats! Celebrate fall while connecting with other residents and students!",
-      "rsvps": 0,
+      "rsvps": 1,
       "image": "https://se-images.campuslabs.com/clink/images/348d9582-36d4-44fd-9b6e-e2590bd3a7b197388805-c691-4b75-b391-0b60ddc83c42.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12828790"
     },
@@ -1310,7 +1268,7 @@
       "start": "15:30",
       "end": "18:00",
       "blurb": "Join Volunteer UCF in our very first general body meeting of the year! Topic: T urning a passion for public service into a career Location: L3 Harris Engineerin",
-      "rsvps": 28,
+      "rsvps": 29,
       "image": "https://se-images.campuslabs.com/clink/images/d838a0a2-8819-4f37-877e-275a7a3b44a5f5d9da3e-0845-493c-963a-5618631511d0.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12786673"
     },
@@ -1716,7 +1674,7 @@
       "start": "15:00",
       "end": "16:00",
       "blurb": "When: Thursday, October 8th, 3:00pm-4:00pm Where: Trevor Colbourn Hall, Room 0102 About: \ud83c\udf83 Let&rsquo;s Get Ready for Fall! \ud83c\udf42 Come hang out with us for a fun and",
-      "rsvps": 12,
+      "rsvps": 13,
       "image": "https://se-images.campuslabs.com/clink/images/82197f16-1e2f-4a2e-87a9-4c5196e42c9734925478-597a-4a38-9d76-bd11ba8f8e04.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12821153"
     },
@@ -1971,6 +1929,48 @@
       "rsvps": 0,
       "image": "https://se-images.campuslabs.com/clink/images/45570b60-d61d-4796-9a41-e19ebc1c1f8d010b3c1f-fa73-403d-b25f-c9ccbb5cde62.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12801762"
+    },
+    {
+      "id": "12629905",
+      "name": "OCOM Open House with UCF Pre-SOMA",
+      "org": "Pre-Student Osteopathic Medical Association",
+      "theme": "Social",
+      "location": "Orlando College of Osteopathic Medicine",
+      "date": "2026-10-09",
+      "start": "12:00",
+      "end": "14:00",
+      "blurb": "Join us at the Orlando College of Osteopathic Medicine (OCOM) Open House from 12:00 PM - 2:00 PM on October 9th! This is a great opportunity for students intere",
+      "rsvps": 0,
+      "image": "https://se-images.campuslabs.com/clink/images/d207e610-f08a-4924-9242-6d8c879b845670f60763-8dc2-49d2-947b-8d147e57e62a.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12629905"
+    },
+    {
+      "id": "12850603",
+      "name": "Let's Talk About Voting!",
+      "org": "Pride Student Association",
+      "theme": "ThoughtfulLearning",
+      "location": "Trevor Colbourn Hall Room 203",
+      "date": "2026-10-09",
+      "start": "16:00",
+      "end": "17:00",
+      "blurb": "Join PSA and learn more about our current democratic voting system from a moderated discussion with Representative Anna Eskamani! Feel free to also ask about wh",
+      "rsvps": 0,
+      "image": "https://se-images.campuslabs.com/clink/images/3c08efe1-efb2-4d6b-96b6-e14ac6fbc38ced8dcec3-5f94-4261-98cc-b0335085fc44.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12850603"
+    },
+    {
+      "id": "12507319",
+      "name": "Knight Hacks IX",
+      "org": "Knight Hacks",
+      "theme": "ThoughtfulLearning",
+      "location": "Engineering II Atrium",
+      "date": "2026-10-09",
+      "start": "16:00",
+      "end": "19:30",
+      "blurb": "KNIGHT HACKS IX REGISTRATIONS ARE LIVE, ENTER THE ENCHANTED FOREST \u2728\ud83c\udf32\ud83d\udc09 \ud83d\uddd3\ufe0fOctober 9th - 11th, 2026 \ud83d\udccdUCF Main Campus \ud83d\udd17 https://2026.knighthacks.org/ The Forest Is",
+      "rsvps": 10,
+      "image": "https://se-images.campuslabs.com/clink/images/6d9a6078-758f-4ddb-bcef-9a5e0f5a0fbc2ca13e99-7664-4bb8-89b7-e727c33e8b15.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12507319"
     }
   ],
   "keyDates": [
@@ -3460,7 +3460,7 @@
       "title": "ISC 2054 Seminar",
       "url": null,
       "weather": {
-        "temp": 85,
+        "temp": 87,
         "precip": 66,
         "label": "Drizzle",
         "icon": "drizzle"
@@ -3482,7 +3482,7 @@
       "title": "PHY 2048 Discussion",
       "url": null,
       "weather": {
-        "temp": 73,
+        "temp": 76,
         "precip": 37,
         "label": "Overcast",
         "icon": "cloud"
@@ -3504,10 +3504,10 @@
       "title": "ENC 1101 Lecture",
       "url": null,
       "weather": {
-        "temp": 75,
+        "temp": 81,
         "precip": 59,
-        "label": "Light drizzle",
-        "icon": "drizzle"
+        "label": "Overcast",
+        "icon": "cloud"
       },
       "courseTitle": "Writing & Composition"
     },
@@ -3526,10 +3526,10 @@
       "title": "MAC 2312 Lecture",
       "url": null,
       "weather": {
-        "temp": 78,
+        "temp": 86,
         "precip": 59,
-        "label": "Light drizzle",
-        "icon": "drizzle"
+        "label": "Partly cloudy",
+        "icon": "cloud"
       },
       "courseTitle": "Calculus 2"
     },
@@ -3548,9 +3548,9 @@
       "title": "PHY 2048 Lecture",
       "url": null,
       "weather": {
-        "temp": 84,
+        "temp": 82,
         "precip": 89,
-        "label": "Drizzle",
+        "label": "Heavy drizzle",
         "icon": "drizzle"
       },
       "courseTitle": "Physics: Mechanics"
@@ -3570,7 +3570,7 @@
       "title": "IDH 1920H Lecture",
       "url": null,
       "weather": {
-        "temp": 81,
+        "temp": 82,
         "precip": 89,
         "label": "Drizzle",
         "icon": "drizzle"
@@ -3592,10 +3592,10 @@
       "title": "IDH 1920H Lecture",
       "url": null,
       "weather": {
-        "temp": 74,
+        "temp": 79,
         "precip": 89,
-        "label": "Showers",
-        "icon": "rain"
+        "label": "Overcast",
+        "icon": "cloud"
       },
       "courseTitle": "Honors Symposium"
     },
@@ -3614,7 +3614,7 @@
       "title": "ISC 2054 Seminar",
       "url": null,
       "weather": {
-        "temp": 86,
+        "temp": 80,
         "precip": 73,
         "label": "Light drizzle",
         "icon": "drizzle"
@@ -3636,7 +3636,7 @@
       "title": "ENC 1101 Lecture",
       "url": null,
       "weather": {
-        "temp": 80,
+        "temp": 76,
         "precip": 42,
         "label": "Overcast",
         "icon": "cloud"
@@ -3658,10 +3658,10 @@
       "title": "MAC 2312 Lecture",
       "url": null,
       "weather": {
-        "temp": 82,
+        "temp": 78,
         "precip": 42,
-        "label": "Drizzle",
-        "icon": "drizzle"
+        "label": "Overcast",
+        "icon": "cloud"
       },
       "courseTitle": "Calculus 2"
     },
@@ -3682,7 +3682,7 @@
       "weather": {
         "temp": 82,
         "precip": 71,
-        "label": "Drizzle",
+        "label": "Light drizzle",
         "icon": "drizzle"
       },
       "courseTitle": "Physics: Mechanics"
@@ -3702,10 +3702,10 @@
       "title": "EGS 1006C Lecture",
       "url": null,
       "weather": {
-        "temp": 76,
+        "temp": 74,
         "precip": 11,
-        "label": "Overcast",
-        "icon": "cloud"
+        "label": "Drizzle",
+        "icon": "drizzle"
       },
       "courseTitle": "Intro to Engineering"
     },
@@ -3724,10 +3724,10 @@
       "title": "MAC 2312 Friday Lecture",
       "url": null,
       "weather": {
-        "temp": 79,
+        "temp": 83,
         "precip": 33,
-        "label": "Light drizzle",
-        "icon": "drizzle"
+        "label": "Thunderstorms",
+        "icon": "storm"
       },
       "courseTitle": "Calculus 2"
     },
