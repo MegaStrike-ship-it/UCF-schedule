@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-04T18:43:39.934444-04:00",
+  "generatedAt": "2026-10-04T21:35:24.570941-04:00",
   "term": {
     "name": "Fall 2026",
     "start": "2026-08-24",
@@ -89,20 +89,20 @@
   "weather": {
     "place": "UCF Orlando",
     "current": {
-      "temp": 81,
-      "feelsLike": 87,
-      "label": "Heavy showers",
+      "temp": 75,
+      "feelsLike": 80,
+      "label": "Showers",
       "icon": "rain",
-      "isDay": true
+      "isDay": false
     },
     "days": [
       {
         "date": "2026-10-04",
-        "label": "Heavy rain",
+        "label": "Rain",
         "icon": "rain",
         "high": 91,
         "low": 75,
-        "precip": 48,
+        "precip": 62,
         "uv": 7,
         "sunrise": "07:19",
         "sunset": "19:06"
@@ -113,41 +113,41 @@
         "icon": "drizzle",
         "high": 87,
         "low": 75,
-        "precip": 56,
-        "uv": 6,
+        "precip": 52,
+        "uv": 4,
         "sunrise": "07:19",
         "sunset": "19:05"
       },
       {
         "date": "2026-10-06",
-        "label": "Showers",
-        "icon": "rain",
-        "high": 83,
-        "low": 73,
+        "label": "Light drizzle",
+        "icon": "drizzle",
+        "high": 80,
+        "low": 74,
         "precip": 85,
-        "uv": 7,
+        "uv": 5,
         "sunrise": "07:20",
         "sunset": "19:04"
       },
       {
         "date": "2026-10-07",
-        "label": "Light drizzle",
+        "label": "Drizzle",
         "icon": "drizzle",
-        "high": 85,
-        "low": 72,
+        "high": 83,
+        "low": 73,
         "precip": 69,
-        "uv": 7,
+        "uv": 6,
         "sunrise": "07:21",
         "sunset": "19:03"
       },
       {
         "date": "2026-10-08",
-        "label": "Light drizzle",
-        "icon": "drizzle",
-        "high": 84,
+        "label": "Showers",
+        "icon": "rain",
+        "high": 80,
         "low": 74,
         "precip": 58,
-        "uv": 5,
+        "uv": 3,
         "sunrise": "07:21",
         "sunset": "19:02"
       },
@@ -156,20 +156,20 @@
         "label": "Showers",
         "icon": "rain",
         "high": 85,
-        "low": 74,
+        "low": 73,
         "precip": 70,
-        "uv": 5,
+        "uv": 6,
         "sunrise": "07:22",
         "sunset": "19:01"
       },
       {
         "date": "2026-10-10",
-        "label": "Heavy drizzle",
-        "icon": "drizzle",
-        "high": 89,
+        "label": "Showers",
+        "icon": "rain",
+        "high": 86,
         "low": 74,
         "precip": 60,
-        "uv": 6,
+        "uv": 4,
         "sunrise": "07:22",
         "sunset": "19:00"
       }
@@ -177,7 +177,7 @@
     "air": {
       "aqi": 28,
       "label": "Good",
-      "pm25": 4.8
+      "pm25": 5.9
     }
   },
   "severe": [],
@@ -293,20 +293,6 @@
   ],
   "events": [
     {
-      "id": "12828192",
-      "name": "Sports @ RWC Fields!",
-      "org": "Christians on Campus",
-      "theme": "Athletics",
-      "location": "UCF RWC Fields",
-      "date": "2026-10-04",
-      "start": "18:00",
-      "end": "19:00",
-      "blurb": "Join us at 6:00 pm, October 4th, for Ultimate Frisbee at the RWC Turf Fields!",
-      "rsvps": 0,
-      "image": "https://se-images.campuslabs.com/clink/images/c1be5f9f-aafa-4083-bd42-fad4d3ed7eec7deec3cf-ddd4-4af9-bfa2-fefa8ee2ae07.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12828192"
-    },
-    {
       "id": "12834713",
       "name": "Move your Way ",
       "org": "Exercise is Medicine at UCF",
@@ -400,7 +386,7 @@
       "start": "13:00",
       "end": "15:00",
       "blurb": "Ready to turn your break into an unforgettable experience of service, leadership, and community? Join the Alternative Break Program (ABP) for our upcoming Info ",
-      "rsvps": 15,
+      "rsvps": 13,
       "image": "https://se-images.campuslabs.com/clink/images/7897ad35-eb6c-412e-90b5-e820c1cb6b6507777b53-1a33-46c3-8285-2b79a579cd86.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12805164"
     },
@@ -484,7 +470,7 @@
       "start": "17:00",
       "end": "18:00",
       "blurb": "Amanda Weissberg graduated from California State University, Northbridge in Los Angeles with her bachelor's and her masters. She is an ASHA ACE Award recipient ",
-      "rsvps": 6,
+      "rsvps": 7,
       "image": "https://se-images.campuslabs.com/clink/images/0e44c297-5959-4b21-a43f-17ea8994174af040363a-3636-428c-a827-1ba2bfa4744e.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12833748"
     },
@@ -540,7 +526,7 @@
       "start": "18:00",
       "end": "19:00",
       "blurb": "Join us for an exciting BNY Speaker Event featuring Karina Gonzalez and Lauren V&aacute;zquez! They&rsquo;ll be sharing their experiences at BNY, insights into ",
-      "rsvps": 28,
+      "rsvps": 30,
       "image": "https://se-images.campuslabs.com/clink/images/3b662080-719e-431b-bacd-31d8ff37dc5d8d548bf2-c0f6-42f0-8d21-822779a3d4d4.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12845838"
     },
@@ -834,7 +820,7 @@
       "start": "16:30",
       "end": "18:00",
       "blurb": "Description \ud83d\udd8c\ufe0f Join us to practice shod\u014d &mdash;the art of Japanese calligraphy! \ud83d\udc55 Only wear clothes you don't mind getting stained! \ud83e\ude99 Priority will be given to",
-      "rsvps": 4,
+      "rsvps": 5,
       "image": "https://se-images.campuslabs.com/clink/images/106d6b98-387f-4fbe-95a6-d3f9e90709a4687e69cd-7457-441b-8580-3c0bed9b7cd2.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12843742"
     },
@@ -876,7 +862,7 @@
       "start": "17:00",
       "end": "18:45",
       "blurb": "BMC Self-Care Night Take a break from studying and join The Beauty Med Collective for a relaxing night of skincare, self-care, and good vibes! \ud83e\udd0d Come hang out w",
-      "rsvps": 11,
+      "rsvps": 12,
       "image": "https://se-images.campuslabs.com/clink/images/7770add1-9b9c-408d-ba30-91b035b33f48b9dbb23c-b6c8-455d-ac84-c9f44910c492.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12838398"
     },
@@ -932,7 +918,7 @@
       "start": "18:00",
       "end": "20:00",
       "blurb": "We&rsquo;re teaming up with SHRM UCF, student chapter for the Society for Human Resource Management, for a networking workshop! Join us for an evening where mem",
-      "rsvps": 4,
+      "rsvps": 6,
       "image": "https://se-images.campuslabs.com/clink/images/ff7da16f-e92e-41c4-b51e-71c47698ce60dac062e6-f070-430a-9a4b-26a954cf7b4b.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12850974"
     },
@@ -1441,6 +1427,20 @@
       "url": "https://ucf.campuslabs.com/engage/event/12708956"
     },
     {
+      "id": "12851057",
+      "name": "General Women's Meeting",
+      "org": "Beach Volleyball Club @ UCF",
+      "theme": "Athletics",
+      "location": "RWC sand courts",
+      "date": "2026-10-07",
+      "start": "19:30",
+      "end": "20:30",
+      "blurb": "Post women's practice full team meeting to go over club dues.",
+      "rsvps": 2,
+      "image": null,
+      "url": "https://ucf.campuslabs.com/engage/event/12851057"
+    },
+    {
       "id": "12754374",
       "name": "Pumpkin Painting",
       "org": "Up All Knight Book Club",
@@ -1450,7 +1450,7 @@
       "start": "20:30",
       "end": "22:30",
       "blurb": "We will be painting pumpkins for the spooky month!",
-      "rsvps": 2,
+      "rsvps": 3,
       "image": "https://se-images.campuslabs.com/clink/images/26cd61f2-64b5-4e27-b9c5-205d2782a4e7b28780e8-cf3c-4458-b299-4020fd9ddb41.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12754374"
     },
@@ -1702,7 +1702,7 @@
       "start": "18:00",
       "end": "19:30",
       "blurb": "Join Health Link Society and WizePrep on Thursday, October 8 at 8 p.m. for a conversation with Dr. Morty Razavi about choosing meaningful extracurriculars and s",
-      "rsvps": 3,
+      "rsvps": 5,
       "image": "https://se-images.campuslabs.com/clink/images/c08b6a3a-b028-4141-bc74-9617c5368202b5ed0f7e-1972-4203-8555-eb83a60c2554.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12824915"
     },
@@ -1870,7 +1870,7 @@
       "start": "09:00",
       "end": "10:00",
       "blurb": "When: Friday, October 9th, 9:00AM-10:00AM Where: L3Harris Corporation Engineering Building (HEC), Room 110 Accessibility Option: Ride the UCF Shuttle, get off a",
-      "rsvps": 14,
+      "rsvps": 0,
       "image": "https://se-images.campuslabs.com/clink/images/908b230d-1624-429e-8a12-c5f0cbc5ce3a56187ebc-b466-474e-8976-e9d21685b2a2.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12821380"
     },
@@ -3433,7 +3433,7 @@
       "url": null,
       "weather": {
         "temp": 79,
-        "precip": 8,
+        "precip": 4,
         "label": "Overcast",
         "icon": "cloud"
       },
@@ -3455,7 +3455,7 @@
       "url": null,
       "weather": {
         "temp": 87,
-        "precip": 31,
+        "precip": 27,
         "label": "Overcast",
         "icon": "cloud"
       },
@@ -3477,7 +3477,7 @@
       "url": null,
       "weather": {
         "temp": 74,
-        "precip": 18,
+        "precip": 8,
         "label": "Overcast",
         "icon": "cloud"
       },
@@ -3520,7 +3520,7 @@
       "title": "MAC 2312 Lecture",
       "url": null,
       "weather": {
-        "temp": 80,
+        "temp": 79,
         "precip": 42,
         "label": "Overcast",
         "icon": "cloud"
@@ -3542,10 +3542,10 @@
       "title": "PHY 2048 Lecture",
       "url": null,
       "weather": {
-        "temp": 82,
+        "temp": 80,
         "precip": 85,
-        "label": "Light drizzle",
-        "icon": "drizzle"
+        "label": "Overcast",
+        "icon": "cloud"
       },
       "courseTitle": "Physics: Mechanics"
     },
@@ -3564,10 +3564,10 @@
       "title": "IDH 1920H Lecture",
       "url": null,
       "weather": {
-        "temp": 79,
+        "temp": 75,
         "precip": 85,
-        "label": "Heavy drizzle",
-        "icon": "drizzle"
+        "label": "Overcast",
+        "icon": "cloud"
       },
       "courseTitle": "Honors Symposium"
     },
@@ -3586,10 +3586,10 @@
       "title": "IDH 1920H Lecture",
       "url": null,
       "weather": {
-        "temp": 75,
+        "temp": 74,
         "precip": 85,
-        "label": "Showers",
-        "icon": "rain"
+        "label": "Light drizzle",
+        "icon": "drizzle"
       },
       "courseTitle": "Honors Symposium"
     },
@@ -3608,10 +3608,10 @@
       "title": "ISC 2054 Seminar",
       "url": null,
       "weather": {
-        "temp": 85,
+        "temp": 81,
         "precip": 69,
-        "label": "Overcast",
-        "icon": "cloud"
+        "label": "Drizzle",
+        "icon": "drizzle"
       },
       "courseTitle": "STEM Seminar"
     },
@@ -3630,10 +3630,10 @@
       "title": "ENC 1101 Lecture",
       "url": null,
       "weather": {
-        "temp": 77,
+        "temp": 75,
         "precip": 37,
-        "label": "Overcast",
-        "icon": "cloud"
+        "label": "Light drizzle",
+        "icon": "drizzle"
       },
       "courseTitle": "Writing & Composition"
     },
@@ -3652,10 +3652,10 @@
       "title": "MAC 2312 Lecture",
       "url": null,
       "weather": {
-        "temp": 84,
+        "temp": 76,
         "precip": 37,
-        "label": "Overcast",
-        "icon": "cloud"
+        "label": "Light drizzle",
+        "icon": "drizzle"
       },
       "courseTitle": "Calculus 2"
     },
@@ -3674,10 +3674,10 @@
       "title": "PHY 2048 Lecture",
       "url": null,
       "weather": {
-        "temp": 84,
+        "temp": 79,
         "precip": 58,
-        "label": "Light drizzle",
-        "icon": "drizzle"
+        "label": "Overcast",
+        "icon": "cloud"
       },
       "courseTitle": "Physics: Mechanics"
     },
@@ -3696,7 +3696,7 @@
       "title": "EGS 1006C Lecture",
       "url": null,
       "weather": {
-        "temp": 75,
+        "temp": 74,
         "precip": 12,
         "label": "Overcast",
         "icon": "cloud"
@@ -3718,9 +3718,9 @@
       "title": "MAC 2312 Friday Lecture",
       "url": null,
       "weather": {
-        "temp": 85,
+        "temp": 83,
         "precip": 38,
-        "label": "Drizzle",
+        "label": "Light drizzle",
         "icon": "drizzle"
       },
       "courseTitle": "Calculus 2"
@@ -3740,7 +3740,7 @@
       "title": "PHY 2048L Laboratory",
       "url": null,
       "weather": {
-        "temp": 85,
+        "temp": 86,
         "precip": 29,
         "label": "Overcast",
         "icon": "cloud"
