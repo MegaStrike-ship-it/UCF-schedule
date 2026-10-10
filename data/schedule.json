@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T11:41:42.925304-04:00",
+  "generatedAt": "2026-10-10T15:44:29.081132-04:00",
   "term": {
     "name": "Fall 2026",
     "start": "2026-08-24",
@@ -89,10 +89,10 @@
   "weather": {
     "place": "UCF Orlando",
     "current": {
-      "temp": 85,
+      "temp": 88,
       "feelsLike": 96,
-      "label": "Overcast",
-      "icon": "cloud",
+      "label": "Clear",
+      "icon": "sun",
       "isDay": true
     },
     "days": [
@@ -100,9 +100,9 @@
         "date": "2026-10-10",
         "label": "Showers",
         "icon": "rain",
-        "high": 89,
-        "low": 77,
-        "precip": 43,
+        "high": 90,
+        "low": 76,
+        "precip": 51,
         "uv": 7,
         "sunrise": "07:22",
         "sunset": "19:00"
@@ -113,7 +113,7 @@
         "icon": "rain",
         "high": 84,
         "low": 76,
-        "precip": 32,
+        "precip": 33,
         "uv": 6,
         "sunrise": "07:23",
         "sunset": "18:59"
@@ -123,8 +123,8 @@
         "label": "Overcast",
         "icon": "cloud",
         "high": 89,
-        "low": 68,
-        "precip": 1,
+        "low": 69,
+        "precip": 3,
         "uv": 7,
         "sunrise": "07:23",
         "sunset": "18:58"
@@ -133,8 +133,8 @@
         "date": "2026-10-13",
         "label": "Clear",
         "icon": "sun",
-        "high": 89,
-        "low": 69,
+        "high": 88,
+        "low": 70,
         "precip": 1,
         "uv": 7,
         "sunrise": "07:24",
@@ -142,21 +142,21 @@
       },
       {
         "date": "2026-10-14",
-        "label": "Clear",
-        "icon": "sun",
-        "high": 87,
-        "low": 69,
+        "label": "Light drizzle",
+        "icon": "drizzle",
+        "high": 84,
+        "low": 70,
         "precip": 7,
-        "uv": 7,
+        "uv": 5,
         "sunrise": "07:25",
         "sunset": "18:56"
       },
       {
         "date": "2026-10-15",
-        "label": "Partly cloudy",
-        "icon": "cloud",
-        "high": 88,
-        "low": 72,
+        "label": "Light drizzle",
+        "icon": "drizzle",
+        "high": 87,
+        "low": 71,
         "precip": 17,
         "uv": 6,
         "sunrise": "07:25",
@@ -164,10 +164,10 @@
       },
       {
         "date": "2026-10-16",
-        "label": "Clear",
-        "icon": "sun",
+        "label": "Light drizzle",
+        "icon": "drizzle",
         "high": 90,
-        "low": 72,
+        "low": 74,
         "precip": 20,
         "uv": 6,
         "sunrise": "07:26",
@@ -175,9 +175,9 @@
       }
     ],
     "air": {
-      "aqi": 40,
+      "aqi": 35,
       "label": "Good",
-      "pm25": 4.6
+      "pm25": 4.2
     }
   },
   "severe": [],
@@ -233,8 +233,8 @@
       "opponent": "Oklahoma State Cowboys",
       "home": false,
       "venue": "Boone Pickens Stadium",
-      "state": "pre",
-      "detail": "10/10 - 12:00 PM EDT"
+      "state": "post",
+      "detail": "Final"
     },
     {
       "date": "2026-10-24",
@@ -321,20 +321,6 @@
       "url": "https://ucf.campuslabs.com/engage/event/12851071"
     },
     {
-      "id": "12847968",
-      "name": "Step Up for Down Syndrome Walk Volunteering",
-      "org": "National Student Speech Language Hearing Association (NSSLHA) - Orlando",
-      "theme": "CommunityService",
-      "location": "Lake Eola Park",
-      "date": "2026-10-10",
-      "start": "08:00",
-      "end": "12:00",
-      "blurb": "The Step Up for Down Syndrome Walk is such an important volunteering opportunity. This walk is the Down Syndrome Association of Central Florida&rsquo;s largest ",
-      "rsvps": 5,
-      "image": "https://se-images.campuslabs.com/clink/images/e1b01fcf-059f-4b23-96e8-d7b5325fb78074a4ab2b-30f7-4bc6-9e1e-9b9f536a64c5.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12847968"
-    },
-    {
       "id": "12851076",
       "name": "FCVA Beach Volleyball Tournament ",
       "org": "Beach Volleyball Club @ UCF",
@@ -347,76 +333,6 @@
       "rsvps": 0,
       "image": null,
       "url": "https://ucf.campuslabs.com/engage/event/12851076"
-    },
-    {
-      "id": "12851953",
-      "name": "Habitat For Humanity @ UCF Build #2",
-      "org": "Habitat for Humanity @ UCF",
-      "theme": "CommunityService",
-      "location": "Location sent via discord",
-      "date": "2026-10-10",
-      "start": "08:00",
-      "end": "12:00",
-      "blurb": "This is our second Habitat for Humanity build of the semester! Join us for an exciting day to help build affordable housing. More details will be sent out via o",
-      "rsvps": 1,
-      "image": "https://se-images.campuslabs.com/clink/images/0d55780e-9f5c-4650-9997-16ec594afc46328212c5-0d7d-4bf3-9172-be1aefda078a.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12851953"
-    },
-    {
-      "id": "12856728",
-      "name": "Mustard Seed CS Event",
-      "org": "Orthodox Christian Campus Ministries",
-      "theme": "CommunityService",
-      "location": "12 Mustard Seed Ln, Orlando, FL, 32810",
-      "date": "2026-10-10",
-      "start": "09:00",
-      "end": "13:00",
-      "blurb": "Come serve with us at the Mustard Seed, helping with their clothing, furniture, and toy bank! Pls sign up link down below! https://docs.google.com/forms/d/e/1FA",
-      "rsvps": 0,
-      "image": "https://se-images.campuslabs.com/clink/images/0c906b22-ede0-4035-b229-213245a064468cb4504b-f175-4910-8f61-cdeb98f59c11.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12856728"
-    },
-    {
-      "id": "12857229",
-      "name": "Parrot Pals",
-      "org": "Volunteer UCF",
-      "theme": "CommunityService",
-      "location": "Seminole County Parrot Rescue and Sanctuary",
-      "date": "2026-10-10",
-      "start": "09:30",
-      "end": "13:30",
-      "blurb": "Join VUCF and Seminole County Parrot Rescue for a day of volunteering! Volunteers will help care for the resident birds and maintain a clean and comfortable env",
-      "rsvps": 7,
-      "image": "https://se-images.campuslabs.com/clink/images/48907933-0369-4172-9ecc-29274ef53deb1d197e12-c944-4720-bd47-31ddbdfa8b44.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12857229"
-    },
-    {
-      "id": "12829353",
-      "name": "Football with a View!  (UCF at Oklahoma State)",
-      "org": "Northview Apartments",
-      "theme": "Social",
-      "location": "NorthView Courtyard",
-      "date": "2026-10-10",
-      "start": "11:30",
-      "end": "15:30",
-      "blurb": "Come and watch the UCF at Oklahoma State football game on an inflatable screen by the NorthView Pool! Enjoy yard games in the courtyard and a variety of food, c",
-      "rsvps": 0,
-      "image": "https://se-images.campuslabs.com/clink/images/6c9cee50-9619-487c-8522-9e311489c9273c5df886-9177-41d2-9d22-d6bc810f4b66.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12829353"
-    },
-    {
-      "id": "12857416",
-      "name": "Theta Chi & Kappa Delta Field Day",
-      "org": "Best Buddies at UCF",
-      "theme": "Social",
-      "location": " Lake Claire at UCF",
-      "date": "2026-10-10",
-      "start": "12:00",
-      "end": "14:00",
-      "blurb": "Join Best Buddies with Theta Chi & Kappa Delta for a fun field day! We will have multiple field games to choose from (like corn hole, spike ball and volleyball)",
-      "rsvps": 0,
-      "image": null,
-      "url": "https://ucf.campuslabs.com/engage/event/12857416"
     },
     {
       "id": "12789590",
@@ -797,6 +713,20 @@
       "url": "https://ucf.campuslabs.com/engage/event/12799663"
     },
     {
+      "id": "12875958",
+      "name": "IISE GBM #4",
+      "org": "Institute of Industrial and Systems Engineers",
+      "theme": "ThoughtfulLearning",
+      "location": "HEC 101",
+      "date": "2026-10-12",
+      "start": "19:00",
+      "end": "20:00",
+      "blurb": "We will be having our 4th General Body Meeting featuring two incredible guest speakers from Orlando Health, Jacquie Maupin and Aura Soper! Get an inside look at",
+      "rsvps": 0,
+      "image": "https://se-images.campuslabs.com/clink/images/8e9cf0ce-d235-42ee-b9ca-07662f40676fc1cfe2f7-2750-4201-9c44-c4e18b6b50f6.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12875958"
+    },
+    {
       "id": "12850728",
       "name": "NFL CBA Workshop #4",
       "org": "Sport Law and Negotiation Society",
@@ -932,7 +862,7 @@
       "start": "12:00",
       "end": "13:00",
       "blurb": "Emily Glass is a Med SLP specializing in Adult Neuro, a certified brain injury specialist, a clinical instructor at USF, and graduated from UCF's Grad program! ",
-      "rsvps": 9,
+      "rsvps": 10,
       "image": "https://se-images.campuslabs.com/clink/images/26aebd2e-ec6a-48da-9e42-06e844a30f165cc1cd3d-528a-4c4f-975c-1192fb34f456.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12845839"
     },
@@ -1971,6 +1901,76 @@
       "rsvps": 1,
       "image": "https://se-images.campuslabs.com/clink/images/278f4abb-b86d-46cc-ae24-8a1ae10207ca8fb22a22-d1af-40e8-9fb3-a780c84b3005.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12847493"
+    },
+    {
+      "id": "12822833",
+      "name": "Cypress Dome Invasive Removal",
+      "org": "UCF Arboretum",
+      "theme": "CommunityService",
+      "location": "Smoothie King - Student Union Patio",
+      "date": "2026-10-16",
+      "start": "10:00",
+      "end": "11:30",
+      "blurb": "Join the Natural Resources team in an invasive plant removal shift! We will meet at the Smoothie King across from the College of Sciences building before headin",
+      "rsvps": 5,
+      "image": "https://se-images.campuslabs.com/clink/images/422cae0c-c552-4b17-a136-6a4c5c4174bc524be119-28b8-4348-a564-36790ba90500.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12822833"
+    },
+    {
+      "id": "12847509",
+      "name": "Mircosoft Workshop Day with SQL Orlando (SHIFT 2)",
+      "org": "Volunteer UCF",
+      "theme": "CommunityService",
+      "location": "Seminole State College - Sanford",
+      "date": "2026-10-16",
+      "start": "11:00",
+      "end": "13:00",
+      "blurb": "Join us to help students connect with Microsoft representatives over lunch! This event offers valuable networking and career insight opportunities, and by suppo",
+      "rsvps": 0,
+      "image": "https://se-images.campuslabs.com/clink/images/7cc0ce72-9216-4bac-8d2f-97b768a7417d39baaa1e-ef21-4d52-ad4c-540e55dff6a7.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12847509"
+    },
+    {
+      "id": "12855351",
+      "name": "Urban Agriculture Volunteer Shift",
+      "org": "UCF Arboretum",
+      "theme": "CommunityService",
+      "location": "L3Harris Engineering Building",
+      "date": "2026-10-16",
+      "start": "11:30",
+      "end": "13:00",
+      "blurb": "Come join us and get your hands dirty in our community garden! We will be doing tasks such as weeding, mulching, planting, harvesting and many other tasks that ",
+      "rsvps": 3,
+      "image": "https://se-images.campuslabs.com/clink/images/f112d625-027b-495c-8b7a-4b13eeafdc25c76e6f93-28c1-4f1b-b924-a812dba09667.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12855351"
+    },
+    {
+      "id": "12874597",
+      "name": "Interfaith Week Luncheon",
+      "org": "Civil Discourse and Engagement",
+      "theme": "Spirituality",
+      "location": "Ginsburg Center",
+      "date": "2026-10-16",
+      "start": "12:00",
+      "end": "14:00",
+      "blurb": "Wrap up Interfaith Week with a free lunch, reflection, and forward-looking discussion! Phoenix Generation will deliver a short presentation highlighting key tak",
+      "rsvps": 0,
+      "image": "https://se-images.campuslabs.com/clink/images/f1bbb664-ec07-4c73-bd3f-358c511be7d156444a9d-23a6-4819-9248-97c31f1f4b0d.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12874597"
+    },
+    {
+      "id": "12848548",
+      "name": "Pie an Officer!",
+      "org": "Lighthouse Haven",
+      "theme": "Fundraising",
+      "location": "Reflection Pond",
+      "date": "2026-10-16",
+      "start": "12:00",
+      "end": "16:30",
+      "blurb": "Fundraise with us by Pieing your Officers!",
+      "rsvps": 0,
+      "image": "https://se-images.campuslabs.com/clink/images/434c70bd-bf0c-4aeb-81db-1db37a22e2e60b0f0dc4-eef2-4cbd-9be4-f400d1eaab3f.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12848548"
     }
   ],
   "keyDates": [
@@ -3656,10 +3656,10 @@
       "title": "PHY 2048L Laboratory",
       "url": null,
       "weather": {
-        "temp": 84,
+        "temp": 86,
         "precip": 1,
-        "label": "Overcast",
-        "icon": "cloud"
+        "label": "Clear",
+        "icon": "sun"
       },
       "courseTitle": "Physics Lab"
     },
@@ -3722,7 +3722,7 @@
       "title": "PHY 2048 Discussion",
       "url": null,
       "weather": {
-        "temp": 69,
+        "temp": 70,
         "precip": 0,
         "label": "Clear",
         "icon": "sun"
@@ -3788,7 +3788,7 @@
       "title": "PHY 2048 Lecture",
       "url": null,
       "weather": {
-        "temp": 89,
+        "temp": 88,
         "precip": 1,
         "label": "Clear",
         "icon": "sun"
@@ -3810,7 +3810,7 @@
       "title": "IDH 1920H Lecture",
       "url": null,
       "weather": {
-        "temp": 88,
+        "temp": 87,
         "precip": 1,
         "label": "Clear",
         "icon": "sun"
@@ -3832,7 +3832,7 @@
       "title": "IDH 1920H Lecture",
       "url": null,
       "weather": {
-        "temp": 83,
+        "temp": 82,
         "precip": 1,
         "label": "Clear",
         "icon": "sun"
@@ -3854,10 +3854,10 @@
       "title": "ISC 2054 Seminar",
       "url": null,
       "weather": {
-        "temp": 87,
+        "temp": 81,
         "precip": 7,
-        "label": "Clear",
-        "icon": "sun"
+        "label": "Light drizzle",
+        "icon": "drizzle"
       },
       "courseTitle": "STEM Seminar"
     },
@@ -3876,7 +3876,7 @@
       "title": "ENC 1101 Lecture",
       "url": null,
       "weather": {
-        "temp": 79,
+        "temp": 80,
         "precip": 4,
         "label": "Clear",
         "icon": "sun"
@@ -3898,10 +3898,10 @@
       "title": "MAC 2312 Lecture",
       "url": null,
       "weather": {
-        "temp": 85,
+        "temp": 86,
         "precip": 4,
-        "label": "Clear",
-        "icon": "sun"
+        "label": "Light drizzle",
+        "icon": "drizzle"
       },
       "courseTitle": "Calculus 2"
     },
@@ -3920,10 +3920,10 @@
       "title": "PHY 2048 Lecture",
       "url": null,
       "weather": {
-        "temp": 87,
+        "temp": 86,
         "precip": 17,
-        "label": "Mostly clear",
-        "icon": "sun"
+        "label": "Partly cloudy",
+        "icon": "cloud"
       },
       "courseTitle": "Physics: Mechanics"
     },
@@ -3942,10 +3942,10 @@
       "title": "EGS 1006C Lecture",
       "url": null,
       "weather": {
-        "temp": 73,
+        "temp": 75,
         "precip": 1,
-        "label": "Clear",
-        "icon": "sun"
+        "label": "Light drizzle",
+        "icon": "drizzle"
       },
       "courseTitle": "Intro to Engineering"
     },
@@ -3964,7 +3964,7 @@
       "title": "MAC 2312 Friday Lecture",
       "url": null,
       "weather": {
-        "temp": 86,
+        "temp": 87,
         "precip": 7,
         "label": "Clear",
         "icon": "sun"
