@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T15:44:29.081132-04:00",
+  "generatedAt": "2026-10-10T19:13:07.605025-04:00",
   "term": {
     "name": "Fall 2026",
     "start": "2026-08-24",
@@ -89,30 +89,30 @@
   "weather": {
     "place": "UCF Orlando",
     "current": {
-      "temp": 88,
-      "feelsLike": 96,
-      "label": "Clear",
-      "icon": "sun",
+      "temp": 82,
+      "feelsLike": 93,
+      "label": "Overcast",
+      "icon": "cloud",
       "isDay": true
     },
     "days": [
       {
         "date": "2026-10-10",
-        "label": "Showers",
-        "icon": "rain",
-        "high": 90,
-        "low": 76,
-        "precip": 51,
+        "label": "Light drizzle",
+        "icon": "drizzle",
+        "high": 91,
+        "low": 78,
+        "precip": 55,
         "uv": 7,
         "sunrise": "07:22",
         "sunset": "19:00"
       },
       {
         "date": "2026-10-11",
-        "label": "Showers",
-        "icon": "rain",
+        "label": "Light drizzle",
+        "icon": "drizzle",
         "high": 84,
-        "low": 76,
+        "low": 73,
         "precip": 33,
         "uv": 6,
         "sunrise": "07:23",
@@ -123,7 +123,7 @@
         "label": "Overcast",
         "icon": "cloud",
         "high": 89,
-        "low": 69,
+        "low": 67,
         "precip": 3,
         "uv": 7,
         "sunrise": "07:23",
@@ -146,7 +146,7 @@
         "icon": "drizzle",
         "high": 84,
         "low": 70,
-        "precip": 7,
+        "precip": 4,
         "uv": 5,
         "sunrise": "07:25",
         "sunset": "18:56"
@@ -157,7 +157,7 @@
         "icon": "drizzle",
         "high": 87,
         "low": 71,
-        "precip": 17,
+        "precip": 13,
         "uv": 6,
         "sunrise": "07:25",
         "sunset": "18:54"
@@ -168,16 +168,16 @@
         "icon": "drizzle",
         "high": 90,
         "low": 74,
-        "precip": 20,
+        "precip": 22,
         "uv": 6,
         "sunrise": "07:26",
         "sunset": "18:53"
       }
     ],
     "air": {
-      "aqi": 35,
+      "aqi": 32,
       "label": "Good",
-      "pm25": 4.2
+      "pm25": 5.4
     }
   },
   "severe": [],
@@ -335,34 +335,6 @@
       "url": "https://ucf.campuslabs.com/engage/event/12851076"
     },
     {
-      "id": "12789590",
-      "name": "VUCF Presents: Dracula a Comedy of Terrors",
-      "org": "Volunteer UCF",
-      "theme": "CommunityService",
-      "location": "812 E Rollins St, Orlando, FL 32803",
-      "date": "2026-10-10",
-      "start": "13:00",
-      "end": "16:00",
-      "blurb": "Join VUCF for an impactful event with Orlando Shakes! We will be helping them out with their production of Dracula a Comedy of Terrors. The tasks you will compl",
-      "rsvps": 3,
-      "image": "https://se-images.campuslabs.com/clink/images/187df686-6877-4fc5-b87c-f10c5b599ab65a955322-c7cd-4ef7-8329-d47741f8922d.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12789590"
-    },
-    {
-      "id": "12863584",
-      "name": "Capture the Flag",
-      "org": "Chilean Student Association",
-      "theme": "Social",
-      "location": "Memory Mall",
-      "date": "2026-10-10",
-      "start": "16:30",
-      "end": "18:30",
-      "blurb": "LET THE GAMES BEGIN! Join CHISA for a game of Captura la Bandera! Bring your friends, your competitive spirit and get ready to run it out at Memory Mall. \ud83c\udfc3&zwj;",
-      "rsvps": 0,
-      "image": "https://se-images.campuslabs.com/clink/images/fda29cbc-2f69-49e1-9219-9fcc5bd8faa481620dc8-b91c-4cf9-a5af-f60675b7df39.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12863584"
-    },
-    {
       "id": "12748058",
       "name": "Hats and Heroes - Kids Beating Cancer Gala",
       "org": "Lighthouse Haven",
@@ -456,7 +428,7 @@
       "start": "15:30",
       "end": "18:00",
       "blurb": "The Healthy Kids Running Series was created to motivate kids to lead a healthy, active lifestyle through running. They offer a 5-week program each season with v",
-      "rsvps": 9,
+      "rsvps": 8,
       "image": "https://se-images.campuslabs.com/clink/images/f5e93f02-8acd-4b98-8d61-d9e4d1127ae0f61ab997-8f54-4de7-a0f1-8a60f97544cc.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12812543"
     },
@@ -1005,6 +977,20 @@
       "rsvps": 0,
       "image": "https://se-images.campuslabs.com/clink/images/c38757a0-9015-42f7-92bb-e337775d4f435eb293bf-670a-473b-9f81-507d7efee6ee.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12869811"
+    },
+    {
+      "id": "12875984",
+      "name": "Fall GBM/ Guest Speaker- Running on Empty: How to Do a  Lot Without Losing Yourself",
+      "org": "Impact Orlando",
+      "theme": "CommunityService",
+      "location": "Health Sciences 1 Room 0272",
+      "date": "2026-10-13",
+      "start": "18:00",
+      "end": "19:30",
+      "blurb": "\u2728 Running on Empty: How to Do a Lot Without Losing Yourself \u2728 Between classes, work, extracurriculars, and everything life throws our way, it&rsquo;s easy to po",
+      "rsvps": 0,
+      "image": "https://se-images.campuslabs.com/clink/images/88791180-4047-4481-a189-1d30ff4d482c73e63e9f-2f34-4664-bb15-cd5835e6101b.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12875984"
     },
     {
       "id": "12874722",
@@ -1971,6 +1957,20 @@
       "rsvps": 0,
       "image": "https://se-images.campuslabs.com/clink/images/434c70bd-bf0c-4aeb-81db-1db37a22e2e60b0f0dc4-eef2-4cbd-9be4-f400d1eaab3f.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12848548"
+    },
+    {
+      "id": "12867773",
+      "name": "Surgical Dexterity Workshop ",
+      "org": "Pursuit Beyond Medicine Foundation",
+      "theme": "ThoughtfulLearning",
+      "location": "Teaching Academy 0222",
+      "date": "2026-10-16",
+      "start": "17:00",
+      "end": "19:00",
+      "blurb": "PBMF is hosting a surgical dexterity workshop on: Friday, October 16th at 5PM in TA 0222 At this workshop, we will have different stations that test and foster ",
+      "rsvps": 0,
+      "image": "https://se-images.campuslabs.com/clink/images/a6485399-b03f-49b2-8a22-c039cb5682524e1775a5-9802-4d3b-94c5-44890b8bb5b5.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12867773"
     }
   ],
   "keyDates": [
@@ -3678,7 +3678,7 @@
       "title": "EGS 1006C Laboratory",
       "url": null,
       "weather": {
-        "temp": 72,
+        "temp": 70,
         "precip": 0,
         "label": "Clear",
         "icon": "sun"
@@ -3855,7 +3855,7 @@
       "url": null,
       "weather": {
         "temp": 81,
-        "precip": 7,
+        "precip": 4,
         "label": "Light drizzle",
         "icon": "drizzle"
       },
@@ -3877,7 +3877,7 @@
       "url": null,
       "weather": {
         "temp": 80,
-        "precip": 4,
+        "precip": 3,
         "label": "Clear",
         "icon": "sun"
       },
@@ -3899,7 +3899,7 @@
       "url": null,
       "weather": {
         "temp": 86,
-        "precip": 4,
+        "precip": 3,
         "label": "Light drizzle",
         "icon": "drizzle"
       },
@@ -3921,7 +3921,7 @@
       "url": null,
       "weather": {
         "temp": 86,
-        "precip": 17,
+        "precip": 13,
         "label": "Partly cloudy",
         "icon": "cloud"
       },
