@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-11T12:08:07.450815-04:00",
+  "generatedAt": "2026-10-11T16:47:47.874423-04:00",
   "term": {
     "name": "Fall 2026",
     "start": "2026-08-24",
@@ -89,21 +89,21 @@
   "weather": {
     "place": "UCF Orlando",
     "current": {
-      "temp": 85,
-      "feelsLike": 94,
-      "label": "Mostly clear",
-      "icon": "sun",
+      "temp": 80,
+      "feelsLike": 89,
+      "label": "Overcast",
+      "icon": "cloud",
       "isDay": true
     },
     "days": [
       {
         "date": "2026-10-11",
-        "label": "Overcast",
-        "icon": "cloud",
+        "label": "Light drizzle",
+        "icon": "drizzle",
         "high": 85,
-        "low": 74,
-        "precip": 45,
-        "uv": 5,
+        "low": 75,
+        "precip": 55,
+        "uv": 4,
         "sunrise": "07:23",
         "sunset": "18:59"
       },
@@ -112,7 +112,7 @@
         "label": "Overcast",
         "icon": "cloud",
         "high": 81,
-        "low": 67,
+        "low": 68,
         "precip": 1,
         "uv": 7,
         "sunrise": "07:23",
@@ -131,33 +131,33 @@
       },
       {
         "date": "2026-10-14",
-        "label": "Drizzle",
+        "label": "Light drizzle",
         "icon": "drizzle",
         "high": 86,
         "low": 72,
-        "precip": 10,
-        "uv": 4,
+        "precip": 2,
+        "uv": 6,
         "sunrise": "07:25",
         "sunset": "18:56"
       },
       {
         "date": "2026-10-15",
-        "label": "Drizzle",
+        "label": "Light drizzle",
         "icon": "drizzle",
-        "high": 87,
-        "low": 71,
-        "precip": 12,
+        "high": 88,
+        "low": 72,
+        "precip": 9,
         "uv": 6,
         "sunrise": "07:25",
         "sunset": "18:54"
       },
       {
         "date": "2026-10-16",
-        "label": "Thunderstorms",
-        "icon": "storm",
+        "label": "Light drizzle",
+        "icon": "drizzle",
         "high": 90,
         "low": 74,
-        "precip": 41,
+        "precip": 33,
         "uv": 6,
         "sunrise": "07:26",
         "sunset": "18:53"
@@ -166,18 +166,18 @@
         "date": "2026-10-17",
         "label": "Showers",
         "icon": "rain",
-        "high": 76,
+        "high": 77,
         "low": 68,
-        "precip": 36,
-        "uv": 1,
+        "precip": 26,
+        "uv": 3,
         "sunrise": "07:26",
         "sunset": "18:52"
       }
     ],
     "air": {
-      "aqi": 28,
+      "aqi": 27,
       "label": "Good",
-      "pm25": 4.0
+      "pm25": 2.6
     }
   },
   "severe": [],
@@ -292,34 +292,6 @@
     }
   ],
   "events": [
-    {
-      "id": "12806026",
-      "name": "Trick or Treat Safe Zone",
-      "org": "Volunteer UCF",
-      "theme": "CommunityService",
-      "location": "Orange County Regional History Center",
-      "date": "2026-10-11",
-      "start": "11:30",
-      "end": "16:30",
-      "blurb": "Join us in creating a safe and welcoming Halloween experience for local families at the History Center and Orlando Public Library. This event gives children and",
-      "rsvps": 12,
-      "image": "https://se-images.campuslabs.com/clink/images/2744850e-eee7-4b0c-93d0-17f54155bdc5d2b597a3-9a00-4dbc-8db4-1d5129f401a3.pdf?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12806026"
-    },
-    {
-      "id": "12850580",
-      "name": "Sunday Mass",
-      "org": "Catholic Campus Ministry",
-      "theme": "Spirituality",
-      "location": "The Catholic Center at Northview",
-      "date": "2026-10-11",
-      "start": "12:00",
-      "end": "13:15",
-      "blurb": "Mass is the center of our Catholic Faith. It's where we come together as a Church to worship God through Christ's offering of Himself to the Father and for us i",
-      "rsvps": 1,
-      "image": "https://se-images.campuslabs.com/clink/images/52b086de-2f3a-4bee-be24-e2d43341dd45cc92b54e-ed0d-46d4-84c9-a5112354cee5.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12850580"
-    },
     {
       "id": "12812543",
       "name": "Healthy Kids Running Series: Week 3",
@@ -456,7 +428,7 @@
       "start": "17:00",
       "end": "19:00",
       "blurb": "Get crafty with us at our D.I.Y. Felt Flag Social + Iced Coffee Bar! Come make your own felt flag, enjoy an iced coffee, and spend the evening connecting with y",
-      "rsvps": 13,
+      "rsvps": 15,
       "image": "https://se-images.campuslabs.com/clink/images/7e0112d9-5cdb-495a-a785-2dd73ca2928b7713e069-fc99-4ff4-8ff3-8ef9ea189de0.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12869860"
     },
@@ -582,7 +554,7 @@
       "start": "19:00",
       "end": "22:00",
       "blurb": "Join Knights of the Round Table, Campus Activities Board, & Late Knights for a night of spooky tabling and get ready for Fright Night\ud83d\udc7b There will be free food, ",
-      "rsvps": 6,
+      "rsvps": 7,
       "image": "https://se-images.campuslabs.com/clink/images/abf92431-98b0-49f7-982a-7f1e69fefbe4c2d94141-dfef-43b4-95a0-4686f16419b9.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12799663"
     },
@@ -792,7 +764,7 @@
       "start": "14:00",
       "end": "15:00",
       "blurb": "Join us for a great opportunity to connect with Teach for America and boost your career readiness! Teach for America gets to connect with motivated UCF students",
-      "rsvps": 3,
+      "rsvps": 4,
       "image": "https://se-images.campuslabs.com/clink/images/6875467e-076f-44b4-970e-befd25eff736b4c7e9a2-224e-4e99-8b70-71bed5b43135.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12838756"
     },
@@ -1380,7 +1352,7 @@
       "start": "19:00",
       "end": "20:30",
       "blurb": "Come out to our first Calisthenics & Yoga Knights meeting at Knights Plaza (grassy area in front of addition financial arena)! \ud83d\udcaa This will be an intro meeting w",
-      "rsvps": 1,
+      "rsvps": 2,
       "image": "https://se-images.campuslabs.com/clink/images/c0e16cb9-22ad-45bc-8fed-adea92fae25aeac2b4de-838f-41d1-8642-d8f58aaca842.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12867641"
     },
@@ -1688,7 +1660,7 @@
       "start": "18:30",
       "end": "20:30",
       "blurb": "GBM 2: Dr. Michael Tracey, Johnson & Johnson MedTech Curious about where biomedical engineering can take you? Our second general body meeting of the semester is",
-      "rsvps": 1,
+      "rsvps": 2,
       "image": "https://se-images.campuslabs.com/clink/images/12263146-678b-432d-8c26-49c2a20a9530ca9b045f-f5e5-480a-9c5e-8115e51a8c23.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12876038"
     },
@@ -1828,7 +1800,7 @@
       "start": "07:30",
       "end": "09:30",
       "blurb": "Join us to help create a professional and welcoming experience for students connecting with Microsoft representatives! This event offers valuable networking and",
-      "rsvps": 1,
+      "rsvps": 2,
       "image": "https://se-images.campuslabs.com/clink/images/278f4abb-b86d-46cc-ae24-8a1ae10207ca8fb22a22-d1af-40e8-9fb3-a780c84b3005.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12847493"
     },
@@ -1971,6 +1943,34 @@
       "rsvps": 0,
       "image": "https://se-images.campuslabs.com/clink/images/04eb6234-a57c-4040-bb26-5df67f68852295f7cf4b-0a53-4682-8272-38b882ed6438.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12853399"
+    },
+    {
+      "id": "12865262",
+      "name": "Fright Knight",
+      "org": "Late Knights",
+      "theme": "Social",
+      "location": "Lake Claire",
+      "date": "2026-10-16",
+      "start": "20:00",
+      "end": "23:00",
+      "blurb": "Dare to enter? Join Late Knights & CAB for Fright Knight , our annual haunted trail experience! Venture into the darkness, encounter terrifying characters, and ",
+      "rsvps": 0,
+      "image": "https://se-images.campuslabs.com/clink/images/f5531a99-2be8-4947-863d-93d16e625073da2fc3ff-0881-4cf0-96ec-08e826f17ea3.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12865262"
+    },
+    {
+      "id": "12799540",
+      "name": "Knights Give Back",
+      "org": "Volunteer UCF",
+      "theme": "CommunityService",
+      "location": "UCF Student Union",
+      "date": "2026-10-17",
+      "start": "07:30",
+      "end": "13:30",
+      "blurb": "Join Volunteer UCF (VUCF) in giving back to our Orlando community! Volunteers will select one volunteer site to serve at during the breakout session. Site selec",
+      "rsvps": 36,
+      "image": "https://se-images.campuslabs.com/clink/images/fdf68a60-8209-466c-b50e-6fd2c9105ee0bdddac48-c346-49fa-8fc5-3e7c875fd73e.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12799540"
     }
   ],
   "keyDates": [
@@ -3738,7 +3738,7 @@
       "title": "ENC 1101 Lecture",
       "url": null,
       "weather": {
-        "temp": 78,
+        "temp": 75,
         "precip": 0,
         "label": "Clear",
         "icon": "sun"
@@ -3760,7 +3760,7 @@
       "title": "MAC 2312 Lecture",
       "url": null,
       "weather": {
-        "temp": 84,
+        "temp": 80,
         "precip": 0,
         "label": "Mostly clear",
         "icon": "sun"
@@ -3828,7 +3828,7 @@
       "weather": {
         "temp": 82,
         "precip": 1,
-        "label": "Mostly clear",
+        "label": "Clear",
         "icon": "sun"
       },
       "courseTitle": "Honors Symposium"
@@ -3848,10 +3848,10 @@
       "title": "ISC 2054 Seminar",
       "url": null,
       "weather": {
-        "temp": 83,
-        "precip": 3,
-        "label": "Light drizzle",
-        "icon": "drizzle"
+        "temp": 85,
+        "precip": 2,
+        "label": "Partly cloudy",
+        "icon": "cloud"
       },
       "courseTitle": "STEM Seminar"
     },
@@ -3871,7 +3871,7 @@
       "url": null,
       "weather": {
         "temp": 80,
-        "precip": 3,
+        "precip": 1,
         "label": "Clear",
         "icon": "sun"
       },
@@ -3892,10 +3892,10 @@
       "title": "MAC 2312 Lecture",
       "url": null,
       "weather": {
-        "temp": 86,
-        "precip": 3,
-        "label": "Light drizzle",
-        "icon": "drizzle"
+        "temp": 85,
+        "precip": 1,
+        "label": "Clear",
+        "icon": "sun"
       },
       "courseTitle": "Calculus 2"
     },
@@ -3915,9 +3915,9 @@
       "url": null,
       "weather": {
         "temp": 84,
-        "precip": 12,
-        "label": "Light drizzle",
-        "icon": "drizzle"
+        "precip": 9,
+        "label": "Overcast",
+        "icon": "cloud"
       },
       "courseTitle": "Physics: Mechanics"
     },
@@ -3936,7 +3936,7 @@
       "title": "EGS 1006C Lecture",
       "url": null,
       "weather": {
-        "temp": 74,
+        "temp": 75,
         "precip": 1,
         "label": "Clear",
         "icon": "sun"
@@ -3958,8 +3958,8 @@
       "title": "MAC 2312 Friday Lecture",
       "url": null,
       "weather": {
-        "temp": 86,
-        "precip": 7,
+        "temp": 87,
+        "precip": 4,
         "label": "Mostly clear",
         "icon": "sun"
       },
@@ -3980,10 +3980,10 @@
       "title": "PHY 2048L Laboratory",
       "url": null,
       "weather": {
-        "temp": 73,
-        "precip": 18,
-        "label": "Showers",
-        "icon": "rain"
+        "temp": 72,
+        "precip": 17,
+        "label": "Light drizzle",
+        "icon": "drizzle"
       },
       "courseTitle": "Physics Lab"
     },
