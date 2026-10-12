@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-11T16:47:47.874423-04:00",
+  "generatedAt": "2026-10-11T20:13:18.838195-04:00",
   "term": {
     "name": "Fall 2026",
     "start": "2026-08-24",
@@ -89,11 +89,11 @@
   "weather": {
     "place": "UCF Orlando",
     "current": {
-      "temp": 80,
-      "feelsLike": 89,
+      "temp": 77,
+      "feelsLike": 84,
       "label": "Overcast",
       "icon": "cloud",
-      "isDay": true
+      "isDay": false
     },
     "days": [
       {
@@ -101,7 +101,7 @@
         "label": "Light drizzle",
         "icon": "drizzle",
         "high": 85,
-        "low": 75,
+        "low": 73,
         "precip": 55,
         "uv": 4,
         "sunrise": "07:23",
@@ -109,10 +109,10 @@
       },
       {
         "date": "2026-10-12",
-        "label": "Overcast",
-        "icon": "cloud",
+        "label": "Clear",
+        "icon": "sun",
         "high": 81,
-        "low": 68,
+        "low": 67,
         "precip": 1,
         "uv": 7,
         "sunrise": "07:23",
@@ -122,7 +122,7 @@
         "date": "2026-10-13",
         "label": "Partly cloudy",
         "icon": "cloud",
-        "high": 87,
+        "high": 86,
         "low": 68,
         "precip": 1,
         "uv": 7,
@@ -131,12 +131,12 @@
       },
       {
         "date": "2026-10-14",
-        "label": "Light drizzle",
+        "label": "Drizzle",
         "icon": "drizzle",
-        "high": 86,
+        "high": 87,
         "low": 72,
         "precip": 2,
-        "uv": 6,
+        "uv": 7,
         "sunrise": "07:25",
         "sunset": "18:56"
       },
@@ -144,7 +144,7 @@
         "date": "2026-10-15",
         "label": "Light drizzle",
         "icon": "drizzle",
-        "high": 88,
+        "high": 89,
         "low": 72,
         "precip": 9,
         "uv": 6,
@@ -164,20 +164,20 @@
       },
       {
         "date": "2026-10-17",
-        "label": "Showers",
-        "icon": "rain",
-        "high": 77,
-        "low": 68,
+        "label": "Light drizzle",
+        "icon": "drizzle",
+        "high": 81,
+        "low": 72,
         "precip": 26,
-        "uv": 3,
+        "uv": 4,
         "sunrise": "07:26",
         "sunset": "18:52"
       }
     ],
     "air": {
-      "aqi": 27,
+      "aqi": 30,
       "label": "Good",
-      "pm25": 2.6
+      "pm25": 8.3
     }
   },
   "severe": [],
@@ -293,20 +293,6 @@
   ],
   "events": [
     {
-      "id": "12812543",
-      "name": "Healthy Kids Running Series: Week 3",
-      "org": "Volunteer UCF",
-      "theme": "CommunityService",
-      "location": "Long Lake Park",
-      "date": "2026-10-11",
-      "start": "15:30",
-      "end": "18:00",
-      "blurb": "The Healthy Kids Running Series was created to motivate kids to lead a healthy, active lifestyle through running. They offer a 5-week program each season with v",
-      "rsvps": 8,
-      "image": "https://se-images.campuslabs.com/clink/images/f5e93f02-8acd-4b98-8d61-d9e4d1127ae0f61ab997-8f54-4de7-a0f1-8a60f97544cc.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12812543"
-    },
-    {
       "id": "12852814",
       "name": "Nintendo Game Night",
       "org": "Libra Community",
@@ -316,7 +302,7 @@
       "start": "19:00",
       "end": "21:00",
       "blurb": "Residents will be able to go back to the 2000s and early 2010s with the Nintendo Wii U, playing games such as Super Mario Bros U, Mario Kart 8, Just Dance, Wii ",
-      "rsvps": 1,
+      "rsvps": 2,
       "image": "https://se-images.campuslabs.com/clink/images/49f647ba-2252-4e2b-90b2-2a77be8b3f4c76025322-8b9c-42c8-9f41-c13dec800783.pdf?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12852814"
     },
@@ -428,7 +414,7 @@
       "start": "17:00",
       "end": "19:00",
       "blurb": "Get crafty with us at our D.I.Y. Felt Flag Social + Iced Coffee Bar! Come make your own felt flag, enjoy an iced coffee, and spend the evening connecting with y",
-      "rsvps": 15,
+      "rsvps": 17,
       "image": "https://se-images.campuslabs.com/clink/images/7e0112d9-5cdb-495a-a785-2dd73ca2928b7713e069-fc99-4ff4-8ff3-8ef9ea189de0.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12869860"
     },
@@ -442,7 +428,7 @@
       "start": "17:00",
       "end": "19:00",
       "blurb": "Come hang out with genCLEO UCF x AEP for an afternoon of creativity, community, and sustainability! Paint your own reusable bag, meet new people, and enjoy some",
-      "rsvps": 6,
+      "rsvps": 7,
       "image": "https://se-images.campuslabs.com/clink/images/d039166c-b048-4698-98e9-4b7d96c4bd803d45aa21-7491-44d9-8a53-9cf58a491258.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12861706"
     },
@@ -554,7 +540,7 @@
       "start": "19:00",
       "end": "22:00",
       "blurb": "Join Knights of the Round Table, Campus Activities Board, & Late Knights for a night of spooky tabling and get ready for Fright Night\ud83d\udc7b There will be free food, ",
-      "rsvps": 7,
+      "rsvps": 8,
       "image": "https://se-images.campuslabs.com/clink/images/abf92431-98b0-49f7-982a-7f1e69fefbe4c2d94141-dfef-43b4-95a0-4686f16419b9.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12799663"
     },
@@ -1058,7 +1044,7 @@
       "start": "11:00",
       "end": "14:00",
       "blurb": "Transfer Knights, we're SO happy you're here! Join us in the Student Union as we celebrate YOU in honor of National Transfer Student Week! This event is designe",
-      "rsvps": 4,
+      "rsvps": 6,
       "image": "https://se-images.campuslabs.com/clink/images/32059237-46ed-4b4d-a5e5-7a5401c51940afd24cf7-e7e5-477f-a728-16e018474b34.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12779823"
     },
@@ -1142,7 +1128,7 @@
       "start": "15:00",
       "end": "16:00",
       "blurb": "When: Wednesday, October 14th, 3:00pm-4:00pm Where: Innovation Center, Room 105 About: Gilmore Girls & Friendship Bracelets! \u2728\u2615\ufe0f Come hang out, get crafty, and ",
-      "rsvps": 13,
+      "rsvps": 14,
       "image": "https://se-images.campuslabs.com/clink/images/88054945-fe49-45b9-9391-6f8d67160acc4be9ef3f-3a87-45bc-944a-c64701c52524.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12859134"
     },
@@ -1170,7 +1156,7 @@
       "start": "16:00",
       "end": "18:00",
       "blurb": "About: Treat yourself and support UCF NSSLHA at our Candy Salad Bar Fundraiser! \ud83c\udf6c\u2728 Create your own custom candy bag with your choice of different candies and tr",
-      "rsvps": 9,
+      "rsvps": 10,
       "image": "https://se-images.campuslabs.com/clink/images/976ec060-9011-47a6-ac68-b1a46d8ea8a93de61a35-36f7-48e3-9aef-b1be824b6308.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12864293"
     },
@@ -1842,7 +1828,7 @@
       "start": "11:30",
       "end": "13:00",
       "blurb": "Come join us and get your hands dirty in our community garden! We will be doing tasks such as weeding, mulching, planting, harvesting and many other tasks that ",
-      "rsvps": 3,
+      "rsvps": 4,
       "image": "https://se-images.campuslabs.com/clink/images/f112d625-027b-495c-8b7a-4b13eeafdc25c76e6f93-28c1-4f1b-b924-a812dba09667.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12855351"
     },
@@ -1954,7 +1940,7 @@
       "start": "20:00",
       "end": "23:00",
       "blurb": "Dare to enter? Join Late Knights & CAB for Fright Knight , our annual haunted trail experience! Venture into the darkness, encounter terrifying characters, and ",
-      "rsvps": 0,
+      "rsvps": 1,
       "image": "https://se-images.campuslabs.com/clink/images/f5531a99-2be8-4947-863d-93d16e625073da2fc3ff-0881-4cf0-96ec-08e826f17ea3.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12865262"
     },
@@ -1968,9 +1954,23 @@
       "start": "07:30",
       "end": "13:30",
       "blurb": "Join Volunteer UCF (VUCF) in giving back to our Orlando community! Volunteers will select one volunteer site to serve at during the breakout session. Site selec",
-      "rsvps": 36,
+      "rsvps": 37,
       "image": "https://se-images.campuslabs.com/clink/images/fdf68a60-8209-466c-b50e-6fd2c9105ee0bdddac48-c346-49fa-8fc5-3e7c875fd73e.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12799540"
+    },
+    {
+      "id": "12623363",
+      "name": "Zoo Boo Bash @ Central Florida Zoo",
+      "org": "Volunteer UCF",
+      "theme": "CommunityService",
+      "location": "Central Florida Zoo",
+      "date": "2026-10-17",
+      "start": "08:00",
+      "end": "16:30",
+      "blurb": "Join VUCF and the Central Florida Zoo in a spooky day of service! Volunteers will help greet visitors, set up for the event, hand out sweet treats, and operate ",
+      "rsvps": 20,
+      "image": "https://se-images.campuslabs.com/clink/images/7fcfe463-17ad-42e6-8d07-7e6be48ba4b0093b57b3-3100-4c59-aae7-ea7814ed1794.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12623363"
     }
   ],
   "keyDates": [
@@ -3672,7 +3672,7 @@
       "title": "EGS 1006C Laboratory",
       "url": null,
       "weather": {
-        "temp": 71,
+        "temp": 72,
         "precip": 0,
         "label": "Clear",
         "icon": "sun"
@@ -3782,7 +3782,7 @@
       "title": "PHY 2048 Lecture",
       "url": null,
       "weather": {
-        "temp": 87,
+        "temp": 86,
         "precip": 1,
         "label": "Clear",
         "icon": "sun"
@@ -3804,7 +3804,7 @@
       "title": "IDH 1920H Lecture",
       "url": null,
       "weather": {
-        "temp": 87,
+        "temp": 86,
         "precip": 1,
         "label": "Clear",
         "icon": "sun"
@@ -3826,7 +3826,7 @@
       "title": "IDH 1920H Lecture",
       "url": null,
       "weather": {
-        "temp": 82,
+        "temp": 81,
         "precip": 1,
         "label": "Clear",
         "icon": "sun"
@@ -3848,9 +3848,9 @@
       "title": "ISC 2054 Seminar",
       "url": null,
       "weather": {
-        "temp": 85,
+        "temp": 87,
         "precip": 2,
-        "label": "Partly cloudy",
+        "label": "Overcast",
         "icon": "cloud"
       },
       "courseTitle": "STEM Seminar"
@@ -3870,7 +3870,7 @@
       "title": "ENC 1101 Lecture",
       "url": null,
       "weather": {
-        "temp": 80,
+        "temp": 81,
         "precip": 1,
         "label": "Clear",
         "icon": "sun"
@@ -3892,7 +3892,7 @@
       "title": "MAC 2312 Lecture",
       "url": null,
       "weather": {
-        "temp": 85,
+        "temp": 86,
         "precip": 1,
         "label": "Clear",
         "icon": "sun"
@@ -3914,7 +3914,7 @@
       "title": "PHY 2048 Lecture",
       "url": null,
       "weather": {
-        "temp": 84,
+        "temp": 85,
         "precip": 9,
         "label": "Overcast",
         "icon": "cloud"
@@ -3938,8 +3938,8 @@
       "weather": {
         "temp": 75,
         "precip": 1,
-        "label": "Clear",
-        "icon": "sun"
+        "label": "Overcast",
+        "icon": "cloud"
       },
       "courseTitle": "Intro to Engineering"
     },
@@ -3958,10 +3958,10 @@
       "title": "MAC 2312 Friday Lecture",
       "url": null,
       "weather": {
-        "temp": 87,
+        "temp": 86,
         "precip": 4,
-        "label": "Mostly clear",
-        "icon": "sun"
+        "label": "Overcast",
+        "icon": "cloud"
       },
       "courseTitle": "Calculus 2"
     },
@@ -3980,10 +3980,10 @@
       "title": "PHY 2048L Laboratory",
       "url": null,
       "weather": {
-        "temp": 72,
+        "temp": 80,
         "precip": 17,
-        "label": "Light drizzle",
-        "icon": "drizzle"
+        "label": "Overcast",
+        "icon": "cloud"
       },
       "courseTitle": "Physics Lab"
     },
