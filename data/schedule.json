@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T21:21:16.951343-04:00",
+  "generatedAt": "2026-10-15T10:39:24.282219-04:00",
   "term": {
     "name": "Fall 2026",
     "start": "2026-08-24",
@@ -89,64 +89,53 @@
   "weather": {
     "place": "UCF Orlando",
     "current": {
-      "temp": 79,
-      "feelsLike": 85,
+      "temp": 83,
+      "feelsLike": 90,
       "label": "Clear",
       "icon": "sun",
-      "isDay": false
+      "isDay": true
     },
     "days": [
-      {
-        "date": "2026-10-14",
-        "label": "Overcast",
-        "icon": "cloud",
-        "high": 92,
-        "low": 72,
-        "precip": 4,
-        "uv": 6,
-        "sunrise": "07:25",
-        "sunset": "18:56"
-      },
       {
         "date": "2026-10-15",
         "label": "Overcast",
         "icon": "cloud",
         "high": 87,
-        "low": 72,
-        "precip": 5,
+        "low": 70,
+        "precip": 3,
         "uv": 7,
         "sunrise": "07:25",
         "sunset": "18:54"
       },
       {
         "date": "2026-10-16",
-        "label": "Thunderstorms",
-        "icon": "storm",
-        "high": 88,
-        "low": 69,
-        "precip": 68,
+        "label": "Heavy showers",
+        "icon": "rain",
+        "high": 86,
+        "low": 72,
+        "precip": 42,
         "uv": 6,
         "sunrise": "07:26",
         "sunset": "18:53"
       },
       {
         "date": "2026-10-17",
-        "label": "Heavy drizzle",
+        "label": "Light drizzle",
         "icon": "drizzle",
-        "high": 79,
+        "high": 78,
         "low": 70,
-        "precip": 35,
+        "precip": 45,
         "uv": 6,
         "sunrise": "07:26",
         "sunset": "18:52"
       },
       {
         "date": "2026-10-18",
-        "label": "Overcast",
-        "icon": "cloud",
+        "label": "Light drizzle",
+        "icon": "drizzle",
         "high": 78,
-        "low": 71,
-        "precip": 28,
+        "low": 69,
+        "precip": 24,
         "uv": 5,
         "sunrise": "07:27",
         "sunset": "18:51"
@@ -155,9 +144,9 @@
         "date": "2026-10-19",
         "label": "Light drizzle",
         "icon": "drizzle",
-        "high": 82,
-        "low": 74,
-        "precip": 22,
+        "high": 83,
+        "low": 73,
+        "precip": 12,
         "uv": 6,
         "sunrise": "07:28",
         "sunset": "18:50"
@@ -166,18 +155,29 @@
         "date": "2026-10-20",
         "label": "Light drizzle",
         "icon": "drizzle",
-        "high": 84,
-        "low": 76,
-        "precip": 23,
-        "uv": 4,
+        "high": 82,
+        "low": 73,
+        "precip": 11,
+        "uv": 6,
         "sunrise": "07:28",
         "sunset": "18:49"
+      },
+      {
+        "date": "2026-10-21",
+        "label": "Overcast",
+        "icon": "cloud",
+        "high": 84,
+        "low": 73,
+        "precip": 12,
+        "uv": 6,
+        "sunrise": "07:29",
+        "sunset": "18:48"
       }
     ],
     "air": {
-      "aqi": 37,
+      "aqi": 30,
       "label": "Good",
-      "pm25": 5.5
+      "pm25": 7.4
     }
   },
   "severe": [],
@@ -292,34 +292,6 @@
     }
   ],
   "events": [
-    {
-      "id": "12886758",
-      "name": "HOSA Regional Competition Dues",
-      "org": "Health Occupations Students of America @ UCF (HOSA @ UCF)",
-      "theme": "GroupBusiness",
-      "location": "Online",
-      "date": "2026-10-14",
-      "start": "12:00",
-      "end": "23:59",
-      "blurb": "What is HOSA? HOSA&ndash;Future Health Professionals is an international organization that prepares students for careers in healthcare through leadership, servi",
-      "rsvps": 3,
-      "image": "https://se-images.campuslabs.com/clink/images/adc5f55c-b3c2-4eea-a5ec-0209eb96bddb8b3dc9c5-29b5-49ff-99cd-49c2d39aaf8e.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12886758"
-    },
-    {
-      "id": "12613232",
-      "name": "Riichi Mahjong Knights GBM",
-      "org": "Riichi Mahjong Knights",
-      "theme": "Social",
-      "location": "Student Union Second Floor Seating",
-      "date": "2026-10-14",
-      "start": "19:00",
-      "end": "23:45",
-      "blurb": "We host weekly GBM meetings where we get together and play Riichi Mahjong. Everyone is welcome, and no previous experience is needed. We have beginner tables to",
-      "rsvps": 1,
-      "image": "https://se-images.campuslabs.com/clink/images/af9e0aa0-b1b3-4344-a23c-a8504330f37f3e7b3aa0-6b67-4dca-8fc8-2078c5223437.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12613232"
-    },
     {
       "id": "12614652",
       "name": "Volunteering with Wesley at UCF",
@@ -456,7 +428,7 @@
       "start": "15:00",
       "end": "17:00",
       "blurb": "\ud83c\udf83 Pumpkin Patch & Cocoa! \u2615\ud83c\udf42\u2728 Get into the fall spirit with us! Join us on October 15th from 3:00 PM &ndash; 5:00 PM at DPAC 169 for an afternoon of pumpkins, cr",
-      "rsvps": 3,
+      "rsvps": 5,
       "image": "https://se-images.campuslabs.com/clink/images/f8aa370d-4073-4760-9c2c-0082c2659e05be9b9e42-1680-4039-a6a7-0cb088535347.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12824177"
     },
@@ -512,7 +484,7 @@
       "start": "17:00",
       "end": "18:30",
       "blurb": "\ud83c\udf31\ud83c\udfa8 PAINT, PLANT & GROW! \ud83c\udfa8\ud83c\udf31 Come hang out with AEP for a fun and creative social where you can decorate your own pot and plant something to take home! \ud83e\udeb4\u2728 If you ",
-      "rsvps": 14,
+      "rsvps": 15,
       "image": "https://se-images.campuslabs.com/clink/images/7582a2c4-a138-483d-adc1-39e987ac83bd02b6cc6c-439d-4865-a995-e6272c6d612f.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12801306"
     },
@@ -531,6 +503,20 @@
       "url": "https://ucf.campuslabs.com/engage/event/12871021"
     },
     {
+      "id": "12891132",
+      "name": "Bingo Knight",
+      "org": "Entrepreneurship Club",
+      "theme": "Social",
+      "location": "Nicholson School of Communication and Media",
+      "date": "2026-10-15",
+      "start": "17:00",
+      "end": "18:30",
+      "blurb": "Get ready for Bingo Knight! \ud83d\ude80\u2728 Join the UCF Entrepreneurship Club for an exciting evening of Business Bingo, networking, and prizes! Connect with fellow student",
+      "rsvps": 0,
+      "image": "https://se-images.campuslabs.com/clink/images/c997ae94-7b26-4b94-b46a-deea36f449c779edcd98-ff2f-4a70-a8cb-828116f6e021.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12891132"
+    },
+    {
       "id": "12820795",
       "name": "Student Spotlight",
       "org": "Association of Physics Students at University of Central Florida",
@@ -540,7 +526,7 @@
       "start": "17:00",
       "end": "18:00",
       "blurb": "Get to know the students behind APS! Each Student Spotlight highlights an APS member and their interests, experiences, research, and journey through physics. Co",
-      "rsvps": 0,
+      "rsvps": 2,
       "image": null,
       "url": "https://ucf.campuslabs.com/engage/event/12820795"
     },
@@ -601,20 +587,6 @@
       "url": "https://ucf.campuslabs.com/engage/event/12829654"
     },
     {
-      "id": "12845532",
-      "name": "Chalk It out ",
-      "org": "Towers I Apartments",
-      "theme": "Social",
-      "location": "Tower 1",
-      "date": "2026-10-15",
-      "start": "18:00",
-      "end": "19:00",
-      "blurb": "Enjoy drinks and ice pops while putting your creative touch on our sidewalks!",
-      "rsvps": 2,
-      "image": "https://se-images.campuslabs.com/clink/images/1d23d3b7-67b2-4a1c-b97a-445598ea6aebc5502671-3a67-4782-ae2d-3083445f0b03.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12845532"
-    },
-    {
       "id": "12550742",
       "name": "Senate Executive Committee Meeting",
       "org": "Student Government Legislative Branch (Senate)",
@@ -638,7 +610,7 @@
       "start": "18:00",
       "end": "19:00",
       "blurb": "Join us and experience a live concert while dining on fine noodles!",
-      "rsvps": 2,
+      "rsvps": 3,
       "image": "https://se-images.campuslabs.com/clink/images/79afc44a-76b7-470b-a5ed-92de2122176cba9a1f31-0abc-4266-8124-be27ac20dd01.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12824540"
     },
@@ -680,7 +652,7 @@
       "start": "18:30",
       "end": "19:30",
       "blurb": "We will be joined by our guest speaker, Rachel King, who works for the Indian River Lagoon with restoration. We will be diving into the world of restoration and",
-      "rsvps": 3,
+      "rsvps": 4,
       "image": "https://se-images.campuslabs.com/clink/images/287bbf05-e748-479a-834f-b12cbe3cf184d9f86bc6-045d-41d6-b16f-dfccd9b8741c.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12888668"
     },
@@ -834,7 +806,7 @@
       "start": "20:00",
       "end": "21:30",
       "blurb": "Join some of your Lake Claire RAs for a fun evening of Just Dance under the stars! Come prepared for a night of meeting new friends and dancing the night away!",
-      "rsvps": 9,
+      "rsvps": 10,
       "image": "https://se-images.campuslabs.com/clink/images/7d2ec8e9-bd24-45ed-a39b-8cafbad94e8ce6848c12-1b6b-44e2-83b4-09e35efb3d56.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12830313"
     },
@@ -848,7 +820,7 @@
       "start": "20:00",
       "end": "21:00",
       "blurb": "Hey everyone! \ud83c\udfb2\u2728 Join us for our Phi Eta Sigma Board Game Social on October 15 at 8:00 PM in NSC 117! Come hang out, play some games, and earn 1 attendance poin",
-      "rsvps": 4,
+      "rsvps": 5,
       "image": "https://se-images.campuslabs.com/clink/images/e720d6ad-7d45-4ea3-9b8d-cfc503588b3396815c07-aba8-4172-b380-88fe8c9bd455.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12872625"
     },
@@ -890,7 +862,7 @@
       "start": "07:30",
       "end": "09:30",
       "blurb": "Join us to help create a professional and welcoming experience for students connecting with Microsoft representatives! This event offers valuable networking and",
-      "rsvps": 5,
+      "rsvps": 6,
       "image": "https://se-images.campuslabs.com/clink/images/278f4abb-b86d-46cc-ae24-8a1ae10207ca8fb22a22-d1af-40e8-9fb3-a780c84b3005.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12847493"
     },
@@ -918,7 +890,7 @@
       "start": "11:00",
       "end": "13:00",
       "blurb": "Join us to help students connect with Microsoft representatives over lunch! This event offers valuable networking and career insight opportunities, and by suppo",
-      "rsvps": 0,
+      "rsvps": 1,
       "image": "https://se-images.campuslabs.com/clink/images/7cc0ce72-9216-4bac-8d2f-97b768a7417d39baaa1e-ef21-4d52-ad4c-540e55dff6a7.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12847509"
     },
@@ -974,7 +946,7 @@
       "start": "12:00",
       "end": "15:00",
       "blurb": "Grab your friends and join us for a fall afternoon of pumpkin carving, networking, and fun! WIB is collaborating with SAS/BAP at UCF to bring you the perfect op",
-      "rsvps": 12,
+      "rsvps": 13,
       "image": "https://se-images.campuslabs.com/clink/images/e0471811-df46-40e2-921b-05725cf84ca38b08201b-3059-4896-ba86-9a70b8320947.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12883254"
     },
@@ -988,9 +960,23 @@
       "start": "14:00",
       "end": "16:00",
       "blurb": "Come join New Mutants at UCF for a picnic meeting on October 16th from 2-4 at the UCF Reflection pond. Bring your own comics, snacks, games, and blankets or jus",
-      "rsvps": 5,
+      "rsvps": 6,
       "image": "https://se-images.campuslabs.com/clink/images/a3b7a5ef-170f-4c7b-ac21-a99516d24c222889f62f-c286-4f4d-a157-94be37a707ec.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12883440"
+    },
+    {
+      "id": "12891771",
+      "name": "Crocheting Knights X Sanrio Appreciation Club",
+      "org": "Crocheting Knights",
+      "theme": "Social",
+      "location": "Teaching Academy  room 202A",
+      "date": "2026-10-16",
+      "start": "15:00",
+      "end": "17:00",
+      "blurb": "Join the Crocheting Knights and Sanrio Appreciation club for their first collab! Come learn more about crocheting by following a cute Sanrio pattern!",
+      "rsvps": 0,
+      "image": "https://se-images.campuslabs.com/clink/images/6f84ef77-e1c2-4ce3-a289-83e5f453a2050bb9e2a2-fa56-42fa-b61b-a7b5a3193ae9.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12891771"
     },
     {
       "id": "12867773",
@@ -1019,6 +1005,20 @@
       "rsvps": 1,
       "image": "https://se-images.campuslabs.com/clink/images/c08653fb-ee25-4874-8242-09b1645001a31cd10ade-2266-444f-b1da-f1b7222e2413.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12883743"
+    },
+    {
+      "id": "12891140",
+      "name": "\ud83c\udfa8 GBM - Character Gauntlet",
+      "org": "Art Club",
+      "theme": "Arts",
+      "location": "Teaching Academy 110",
+      "date": "2026-10-16",
+      "start": "17:00",
+      "end": "18:20",
+      "blurb": "Join us this Friday 10/16 in Teaching Academy Room 110 for our very special CHARACTER GAUNTLET MEETING! Submit your character of choice on the form in our Disco",
+      "rsvps": 8,
+      "image": "https://se-images.campuslabs.com/clink/images/6c362d84-1161-4933-a98c-32ca3d728cf703bb0fe7-cbbf-475c-8734-63fc38ba4f8b.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12891140"
     },
     {
       "id": "12883931",
@@ -1142,7 +1142,7 @@
       "start": "20:00",
       "end": "23:00",
       "blurb": "Dare to enter? Join Late Knights & CAB for Fright Knight , our annual haunted trail experience! Venture into the darkness, encounter terrifying characters, and ",
-      "rsvps": 14,
+      "rsvps": 18,
       "image": "https://se-images.campuslabs.com/clink/images/f5531a99-2be8-4947-863d-93d16e625073da2fc3ff-0881-4cf0-96ec-08e826f17ea3.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12865262"
     },
@@ -1170,7 +1170,7 @@
       "start": "07:30",
       "end": "13:30",
       "blurb": "Join Volunteer UCF (VUCF) in giving back to our Orlando community! Volunteers will select one volunteer site to serve at during the breakout session. Site selec",
-      "rsvps": 50,
+      "rsvps": 51,
       "image": "https://se-images.campuslabs.com/clink/images/fdf68a60-8209-466c-b50e-6fd2c9105ee0bdddac48-c346-49fa-8fc5-3e7c875fd73e.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12799540"
     },
@@ -1397,6 +1397,20 @@
       "rsvps": 0,
       "image": "https://se-images.campuslabs.com/clink/images/bfd2f801-a57f-43ba-9a02-b252394466d69431818d-76c6-4c1f-87a8-880ce255170f.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12877994"
+    },
+    {
+      "id": "12845532",
+      "name": "Chalk it Out",
+      "org": "Towers I Apartments",
+      "theme": "Social",
+      "location": "Tower 1",
+      "date": "2026-10-18",
+      "start": "18:15",
+      "end": "19:45",
+      "blurb": "Enjoy drinks and ice pops while putting your creative touch on our sidewalks!",
+      "rsvps": 2,
+      "image": "https://se-images.campuslabs.com/clink/images/81d5be09-5ea0-443d-a6e0-06930b2e5de2ac6df821-ce4b-4dad-95aa-0ed3a8ea508b.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12845532"
     },
     {
       "id": "12591634",
@@ -1767,11 +1781,11 @@
       "name": "3rd GBM | Teru Teru B\u014dzu",
       "org": "Japanese Culture Club",
       "theme": "Cultural",
-      "location": "Student union ",
+      "location": "Student Union Room 225",
       "date": "2026-10-20",
       "start": "16:30",
       "end": "18:00",
-      "blurb": "Event Date, Time, & Location 10/20/26 04:30 PM - 06:00 PM Student Union Room 225 12715 Pegasus Dr, Orlando, FL 32816 Description \ud83d\udc7b Join us to make Teru Teru B\u014dz",
+      "blurb": "\ud83d\udc7b Join us to make Teru Teru B\u014dzu !\ud83d\udc7b These ghastly fiends are actually weather talisman praying for good weather! Get creative and design your own using a variet",
       "rsvps": 2,
       "image": "https://se-images.campuslabs.com/clink/images/f82d1b55-635a-434b-960b-bd52ef601c3079562fb6-23c7-49d3-9285-758d1c22714f.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12888061"
@@ -1954,23 +1968,9 @@
       "start": "19:00",
       "end": "20:30",
       "blurb": "Leaders of Central FL such as Congressman Frost, Senate candidate Rep. Angie Nixon, and Rep Anna Eskamani will be joining us to speak with UCF students and hear",
-      "rsvps": 12,
+      "rsvps": 14,
       "image": "https://se-images.campuslabs.com/clink/images/0d3e7564-84fa-47c2-abaf-c7427e575629ae8973f9-11ab-4b45-9c75-d75cebb5c581.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12845437"
-    },
-    {
-      "id": "12794230",
-      "name": "Spooky Spelling Bee",
-      "org": "Libra Community",
-      "theme": "Social",
-      "location": "Libra Community Center ",
-      "date": "2026-10-20",
-      "start": "19:00",
-      "end": "21:00",
-      "blurb": "We are going to invite students to participate in a recreational spelling be. This will allow them to show off their strengths and be vulnerable with their weak",
-      "rsvps": 0,
-      "image": "https://se-images.campuslabs.com/clink/images/2a8297bd-3b50-41c7-9eb5-526072d59d9c05a69412-21c9-4eb1-ae00-1dcc2bd96ba7.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12794230"
     }
   ],
   "keyDates": [
@@ -3799,12 +3799,6 @@
       "changes": {},
       "title": "ISC 2054 Seminar",
       "url": null,
-      "weather": {
-        "temp": 89,
-        "precip": 0,
-        "label": "Mostly clear",
-        "icon": "sun"
-      },
       "courseTitle": "STEM Seminar"
     },
     {
@@ -3822,7 +3816,7 @@
       "title": "ENC 1101 Lecture",
       "url": null,
       "weather": {
-        "temp": 82,
+        "temp": 81,
         "precip": 0,
         "label": "Clear",
         "icon": "sun"
@@ -3844,7 +3838,7 @@
       "title": "MAC 2312 Lecture",
       "url": null,
       "weather": {
-        "temp": 86,
+        "temp": 85,
         "precip": 0,
         "label": "Mostly clear",
         "icon": "sun"
@@ -3866,9 +3860,9 @@
       "title": "PHY 2048 Lecture",
       "url": null,
       "weather": {
-        "temp": 87,
-        "precip": 4,
-        "label": "Clear",
+        "temp": 86,
+        "precip": 1,
+        "label": "Mostly clear",
         "icon": "sun"
       },
       "courseTitle": "Physics: Mechanics"
@@ -3888,9 +3882,9 @@
       "title": "EGS 1006C Lecture",
       "url": null,
       "weather": {
-        "temp": 70,
+        "temp": 73,
         "precip": 3,
-        "label": "Clear",
+        "label": "Mostly clear",
         "icon": "sun"
       },
       "courseTitle": "Intro to Engineering"
@@ -3910,9 +3904,9 @@
       "title": "MAC 2312 Friday Lecture",
       "url": null,
       "weather": {
-        "temp": 86,
-        "precip": 16,
-        "label": "Clear",
+        "temp": 85,
+        "precip": 7,
+        "label": "Mostly clear",
         "icon": "sun"
       },
       "courseTitle": "Calculus 2"
@@ -3932,8 +3926,8 @@
       "title": "PHY 2048L Laboratory",
       "url": null,
       "weather": {
-        "temp": 72,
-        "precip": 21,
+        "temp": 71,
+        "precip": 26,
         "label": "Overcast",
         "icon": "cloud"
       },
@@ -3954,9 +3948,9 @@
       "title": "EGS 1006C Laboratory",
       "url": null,
       "weather": {
-        "temp": 77,
-        "precip": 22,
-        "label": "Partly cloudy",
+        "temp": 75,
+        "precip": 10,
+        "label": "Overcast",
         "icon": "cloud"
       },
       "courseTitle": "Intro to Engineering"
@@ -3977,9 +3971,9 @@
       "url": null,
       "weather": {
         "temp": 82,
-        "precip": 21,
-        "label": "Partly cloudy",
-        "icon": "cloud"
+        "precip": 12,
+        "label": "Clear",
+        "icon": "sun"
       },
       "courseTitle": "STEM Seminar"
     },
@@ -3998,10 +3992,10 @@
       "title": "PHY 2048 Discussion",
       "url": null,
       "weather": {
-        "temp": 77,
-        "precip": 3,
-        "label": "Partly cloudy",
-        "icon": "cloud"
+        "temp": 75,
+        "precip": 1,
+        "label": "Light drizzle",
+        "icon": "drizzle"
       },
       "courseTitle": "Physics: Mechanics"
     },
@@ -4020,9 +4014,9 @@
       "title": "ENC 1101 Lecture",
       "url": null,
       "weather": {
-        "temp": 79,
-        "precip": 16,
-        "label": "Partly cloudy",
+        "temp": 77,
+        "precip": 10,
+        "label": "Overcast",
         "icon": "cloud"
       },
       "courseTitle": "Writing & Composition"
@@ -4042,9 +4036,9 @@
       "title": "MAC 2312 Lecture",
       "url": null,
       "weather": {
-        "temp": 82,
-        "precip": 16,
-        "label": "Partly cloudy",
+        "temp": 80,
+        "precip": 10,
+        "label": "Overcast",
         "icon": "cloud"
       },
       "courseTitle": "Calculus 2"
@@ -4064,10 +4058,10 @@
       "title": "PHY 2048 Lecture",
       "url": null,
       "weather": {
-        "temp": 83,
-        "precip": 23,
-        "label": "Overcast",
-        "icon": "cloud"
+        "temp": 81,
+        "precip": 11,
+        "label": "Light drizzle",
+        "icon": "drizzle"
       },
       "courseTitle": "Physics: Mechanics"
     },
@@ -4086,10 +4080,10 @@
       "title": "IDH 1920H Lecture",
       "url": null,
       "weather": {
-        "temp": 81,
-        "precip": 23,
-        "label": "Overcast",
-        "icon": "cloud"
+        "temp": 79,
+        "precip": 11,
+        "label": "Light drizzle",
+        "icon": "drizzle"
       },
       "courseTitle": "Honors Symposium"
     },
@@ -4108,10 +4102,10 @@
       "title": "IDH 1920H Lecture",
       "url": null,
       "weather": {
-        "temp": 79,
-        "precip": 23,
-        "label": "Partly cloudy",
-        "icon": "cloud"
+        "temp": 76,
+        "precip": 11,
+        "label": "Light drizzle",
+        "icon": "drizzle"
       },
       "courseTitle": "Honors Symposium"
     },
@@ -4129,6 +4123,12 @@
       "changes": {},
       "title": "ISC 2054 Seminar",
       "url": null,
+      "weather": {
+        "temp": 83,
+        "precip": 12,
+        "label": "Mostly clear",
+        "icon": "sun"
+      },
       "courseTitle": "STEM Seminar"
     },
     {
@@ -5383,24 +5383,6 @@
   "alerts": [],
   "assignments": [
     {
-      "course": "EGS 1006C",
-      "courseTitle": "Intro to Engineering",
-      "title": "Lab Excel Assignment - Weekly Schedule",
-      "dueAt": "2026-09-14T00:00:00-04:00",
-      "points": null,
-      "overdue": true,
-      "url": "https://webcourses.ucf.edu/calendar?include_contexts=course_1519779&month=09&year=2026#assignment_9671399"
-    },
-    {
-      "course": "EGS 1006C",
-      "courseTitle": "Intro to Engineering",
-      "title": "Pegasus Path",
-      "dueAt": "2026-09-14T00:00:00-04:00",
-      "points": null,
-      "overdue": true,
-      "url": "https://webcourses.ucf.edu/calendar?include_contexts=course_1519779&month=09&year=2026#assignment_9671391"
-    },
-    {
       "course": "MAC 2312",
       "courseTitle": "Calculus 2",
       "title": "Calculating Arc Length Section 2.4",
@@ -5741,6 +5723,24 @@
       "points": null,
       "overdue": true,
       "url": "https://webcourses.ucf.edu/calendar?include_contexts=course_1514288&month=10&year=2026#assignment_9597091"
+    },
+    {
+      "course": "EGS 1006C",
+      "courseTitle": "Intro to Engineering",
+      "title": "Trajectory Planning Activity Submission",
+      "dueAt": "2026-10-05T00:00:00-04:00",
+      "points": null,
+      "overdue": true,
+      "url": "https://webcourses.ucf.edu/calendar?include_contexts=course_1519779&month=10&year=2026#assignment_9671398"
+    },
+    {
+      "course": "EGS 1006C",
+      "courseTitle": "Intro to Engineering",
+      "title": "Lab 6 Entry Attendance",
+      "dueAt": "2026-10-05T09:10:00-04:00",
+      "points": null,
+      "overdue": true,
+      "url": "https://webcourses.ucf.edu/calendar?include_contexts=course_1519779&month=10&year=2026#assignment_9708999"
     }
   ],
   "recentChanges": []
