@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T10:31:23.423930-04:00",
+  "generatedAt": "2026-10-16T14:36:31.306703-04:00",
   "term": {
     "name": "Fall 2026",
     "start": "2026-08-24",
@@ -89,8 +89,8 @@
   "weather": {
     "place": "UCF Orlando",
     "current": {
-      "temp": 84,
-      "feelsLike": 95,
+      "temp": 88,
+      "feelsLike": 96,
       "label": "Partly cloudy",
       "icon": "cloud",
       "isDay": true
@@ -98,33 +98,33 @@
     "days": [
       {
         "date": "2026-10-16",
-        "label": "Showers",
+        "label": "Heavy showers",
         "icon": "rain",
-        "high": 87,
+        "high": 91,
         "low": 73,
-        "precip": 50,
+        "precip": 53,
         "uv": 6,
         "sunrise": "07:26",
         "sunset": "18:53"
       },
       {
         "date": "2026-10-17",
-        "label": "Drizzle",
-        "icon": "drizzle",
+        "label": "Overcast",
+        "icon": "cloud",
         "high": 77,
         "low": 64,
-        "precip": 38,
-        "uv": 2,
+        "precip": 30,
+        "uv": 1,
         "sunrise": "07:26",
         "sunset": "18:52"
       },
       {
         "date": "2026-10-18",
-        "label": "Overcast",
-        "icon": "cloud",
-        "high": 73,
+        "label": "Light drizzle",
+        "icon": "drizzle",
+        "high": 74,
         "low": 64,
-        "precip": 14,
+        "precip": 12,
         "uv": 6,
         "sunrise": "07:27",
         "sunset": "18:51"
@@ -134,20 +134,20 @@
         "label": "Light drizzle",
         "icon": "drizzle",
         "high": 77,
-        "low": 64,
-        "precip": 9,
-        "uv": 6,
+        "low": 66,
+        "precip": 6,
+        "uv": 5,
         "sunrise": "07:28",
         "sunset": "18:50"
       },
       {
         "date": "2026-10-20",
-        "label": "Overcast",
-        "icon": "cloud",
-        "high": 80,
-        "low": 60,
-        "precip": 6,
-        "uv": 6,
+        "label": "Light drizzle",
+        "icon": "drizzle",
+        "high": 79,
+        "low": 65,
+        "precip": 3,
+        "uv": 5,
         "sunrise": "07:28",
         "sunset": "18:49"
       },
@@ -155,10 +155,10 @@
         "date": "2026-10-21",
         "label": "Overcast",
         "icon": "cloud",
-        "high": 79,
+        "high": 81,
         "low": 64,
-        "precip": 6,
-        "uv": 4,
+        "precip": 4,
+        "uv": 6,
         "sunrise": "07:29",
         "sunset": "18:48"
       },
@@ -166,10 +166,10 @@
         "date": "2026-10-22",
         "label": "Overcast",
         "icon": "cloud",
-        "high": 79,
-        "low": 64,
-        "precip": 13,
-        "uv": 5,
+        "high": 78,
+        "low": 70,
+        "precip": 7,
+        "uv": 4,
         "sunrise": "07:30",
         "sunset": "18:47"
       }
@@ -177,7 +177,7 @@
     "air": {
       "aqi": 37,
       "label": "Good",
-      "pm25": 8.1
+      "pm25": 6.1
     }
   },
   "severe": [],
@@ -305,48 +305,6 @@
       "rsvps": 0,
       "image": "https://se-images.campuslabs.com/clink/images/d180d180-9fdc-4cab-a718-f5c992220649777cbaaf-3328-4b64-b5d0-be792b371931.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12879240"
-    },
-    {
-      "id": "12822833",
-      "name": "Cypress Dome Invasive Removal",
-      "org": "UCF Arboretum",
-      "theme": "CommunityService",
-      "location": "Smoothie King - Student Union Patio",
-      "date": "2026-10-16",
-      "start": "10:00",
-      "end": "11:30",
-      "blurb": "Join the Natural Resources team in an invasive plant removal shift! We will meet at the Smoothie King across from the College of Sciences building before headin",
-      "rsvps": 3,
-      "image": "https://se-images.campuslabs.com/clink/images/422cae0c-c552-4b17-a136-6a4c5c4174bc524be119-28b8-4348-a564-36790ba90500.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12822833"
-    },
-    {
-      "id": "12855351",
-      "name": "Urban Agriculture Volunteer Shift",
-      "org": "UCF Arboretum",
-      "theme": "CommunityService",
-      "location": "L3Harris Engineering Building",
-      "date": "2026-10-16",
-      "start": "11:30",
-      "end": "13:00",
-      "blurb": "Come join us and get your hands dirty in our community garden! We will be doing tasks such as weeding, mulching, planting, harvesting and many other tasks that ",
-      "rsvps": 3,
-      "image": "https://se-images.campuslabs.com/clink/images/f112d625-027b-495c-8b7a-4b13eeafdc25c76e6f93-28c1-4f1b-b924-a812dba09667.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12855351"
-    },
-    {
-      "id": "12874597",
-      "name": "Interfaith Week Luncheon",
-      "org": "Civil Discourse and Engagement",
-      "theme": "Spirituality",
-      "location": "Ginsburg Center",
-      "date": "2026-10-16",
-      "start": "12:00",
-      "end": "14:00",
-      "blurb": "Wrap up Interfaith Week with a free lunch, reflection, and forward-looking discussion! Phoenix Generation will deliver a short presentation highlighting key tak",
-      "rsvps": 1,
-      "image": "https://se-images.campuslabs.com/clink/images/f1bbb664-ec07-4c73-bd3f-358c511be7d156444a9d-23a6-4819-9248-97c31f1f4b0d.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12874597"
     },
     {
       "id": "12848548",
@@ -512,7 +470,7 @@
       "start": "18:00",
       "end": "20:00",
       "blurb": "Join us for a relaxing fall craft while connecting with other AMA UCF members! \ud83c\udf42\ud83d\udc9b\ud83d\udc99 \ud83d\udccd Location:UCF Reflecting Pond \ud83d\uddd3 Date: Friday, Oct 16th \u23f0 Time: 6:00 PM - 8:0",
-      "rsvps": 2,
+      "rsvps": 3,
       "image": "https://se-images.campuslabs.com/clink/images/a3d1faa1-3bb8-4bb5-ba00-9f84cb831ec687fd5bff-36ed-4b51-b922-17a7af2eb805.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12877968"
     },
@@ -596,7 +554,7 @@
       "start": "18:30",
       "end": "20:00",
       "blurb": "We understand that not everyfurry is down for a high-energy, quick-paced event, which is why on FRIDAY, October 16th, we'll be COLORING WITH CRITTERS! Color, dr",
-      "rsvps": 1,
+      "rsvps": 2,
       "image": "https://se-images.campuslabs.com/clink/images/17b1d75d-32d5-4660-9b92-5c2305086285d3be6728-0511-4595-8aed-4727ae4393f2.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12890890"
     },
@@ -657,20 +615,6 @@
       "url": "https://ucf.campuslabs.com/engage/event/12880467"
     },
     {
-      "id": "12865262",
-      "name": "Fright Knight",
-      "org": "Late Knights",
-      "theme": "Social",
-      "location": "Lake Claire",
-      "date": "2026-10-16",
-      "start": "20:00",
-      "end": "23:00",
-      "blurb": "Dare to enter? Join Late Knights & CAB for Fright Knight , our annual haunted trail experience! Venture into the darkness, encounter terrifying characters, and ",
-      "rsvps": 22,
-      "image": "https://se-images.campuslabs.com/clink/images/f5531a99-2be8-4947-863d-93d16e625073da2fc3ff-0881-4cf0-96ec-08e826f17ea3.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12865262"
-    },
-    {
       "id": "12877977",
       "name": "AMA UCF Volunteer Event: OCA Monster Dash 5K Event",
       "org": "American Marketing Association at UCF",
@@ -694,7 +638,7 @@
       "start": "07:30",
       "end": "13:30",
       "blurb": "Join Volunteer UCF (VUCF) in giving back to our Orlando community! Volunteers will select one volunteer site to serve at during the breakout session. Site selec",
-      "rsvps": 58,
+      "rsvps": 63,
       "image": "https://se-images.campuslabs.com/clink/images/fdf68a60-8209-466c-b50e-6fd2c9105ee0bdddac48-c346-49fa-8fc5-3e7c875fd73e.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12799540"
     },
@@ -923,6 +867,20 @@
       "url": "https://ucf.campuslabs.com/engage/event/12845532"
     },
     {
+      "id": "12897751",
+      "name": "MSWSA x The Umbrella Brigade Donation Drive",
+      "org": "Master of Social Work Student Association",
+      "theme": "CommunityService",
+      "location": "Health Sciences II",
+      "date": "2026-10-19",
+      "start": "09:00",
+      "end": "18:00",
+      "blurb": "Hello to all School of Social Work Knights! As we know, service is one of the major tenets of social work's philosophy. We work to assist and provide aid to tho",
+      "rsvps": 0,
+      "image": "https://se-images.campuslabs.com/clink/images/922ccbf8-a4b6-407c-b85b-781402e793f9d0c24013-693a-4c84-b0ae-c68299d8793f.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12897751"
+    },
+    {
       "id": "12591634",
       "name": "Student Lounge",
       "org": "Wesley at UCF",
@@ -1086,7 +1044,7 @@
       "start": "18:30",
       "end": "19:30",
       "blurb": "When: Monday, October 19th, 6:30pm - 7:30pm Where: Trevor Colbourn Hall, Room 0203 About: Curious about the different settings where Speech-Language Pathologist",
-      "rsvps": 16,
+      "rsvps": 17,
       "image": "https://se-images.campuslabs.com/clink/images/f1b18cc4-e18b-4621-b518-35504bfb97794e83bbea-11d7-4c22-8325-ea6e0a81bce4.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12847665"
     },
@@ -1352,7 +1310,7 @@
       "start": "17:00",
       "end": "19:00",
       "blurb": "Come join us at Memory Mall (weather and location availability permitting) to learn to make an intermediate crochet project! All are welcome, but we recommend h",
-      "rsvps": 0,
+      "rsvps": 2,
       "image": "https://se-images.campuslabs.com/clink/images/5325ac7b-9d13-45ec-ab0c-7231ed82249240076678-246d-452d-af05-85fcd85b9540.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12895607"
     },
@@ -1464,7 +1422,7 @@
       "start": "18:00",
       "end": "20:00",
       "blurb": "Fun and engaging Bingo with prizes. Allow students to play a game with their community that also allows them to socialized and earn prizes.",
-      "rsvps": 1,
+      "rsvps": 2,
       "image": "https://se-images.campuslabs.com/clink/images/c61ce30b-e971-4c77-8c1f-c664e7b356db4b5cea28-a94a-465f-b28f-cef845d98e64.pdf?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12826721"
     },
@@ -1971,6 +1929,48 @@
       "rsvps": 2,
       "image": "https://se-images.campuslabs.com/clink/images/cedb6099-28e2-4229-a408-aae226f41dcfac43e47c-3be1-400c-a23d-2a9b948f000e.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12894656"
+    },
+    {
+      "id": "12754448",
+      "name": "At The Mountains of Madness book discussion",
+      "org": "Up All Knight Book Club",
+      "theme": "Social",
+      "location": "Math Science Building 0306",
+      "date": "2026-10-21",
+      "start": "20:30",
+      "end": "21:30",
+      "blurb": "We will be discussing our second book of the semester, At The Mountains of Madness!",
+      "rsvps": 0,
+      "image": "https://se-images.campuslabs.com/clink/images/b57390f0-0c2b-42a4-897f-2bd7210f47b346244285-1c02-44e7-a65b-b754a2866df7.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12754448"
+    },
+    {
+      "id": "12895831",
+      "name": "Latin Rhythm x MexSA Collab ",
+      "org": "Mexican Student Association",
+      "theme": "Cultural",
+      "location": "Garage A 4th floor",
+      "date": "2026-10-21",
+      "start": "21:00",
+      "end": "23:00",
+      "blurb": "Collabing with Latin Rhythm on 10/21/26 at 9:00pm on the 4th floor of Garage A. We are doing a bachata dancing night! Welcome to all levels as they have a begin",
+      "rsvps": 0,
+      "image": "https://se-images.campuslabs.com/clink/images/bb5658cd-cee3-4e2d-9c06-0ccc689350e4009f4073-7365-4a30-80f3-c4eba1234733.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12895831"
+    },
+    {
+      "id": "12614654",
+      "name": "Volunteering with Wesley at UCF",
+      "org": "Wesley at UCF",
+      "theme": "CommunityService",
+      "location": "Faith UMC",
+      "date": "2026-10-22",
+      "start": "08:00",
+      "end": "13:00",
+      "blurb": "Come volunteer with us at Faith UMC! Wesley at UCF serves at the food pantry every Wednesday and Thursday between 8am- 1:00 pm. Setting up and serving food is t",
+      "rsvps": 0,
+      "image": "https://se-images.campuslabs.com/clink/images/94c980d4-1450-4a26-b4ba-cc23aa20342740b324e9-9f0e-4910-8bde-d45b6015ac62.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12614654"
     }
   ],
   "keyDates": [
@@ -3886,7 +3886,7 @@
       "title": "MAC 2312 Friday Lecture",
       "url": null,
       "weather": {
-        "temp": 85,
+        "temp": 88,
         "precip": 5,
         "label": "Partly cloudy",
         "icon": "cloud"
@@ -3909,7 +3909,7 @@
       "url": null,
       "weather": {
         "temp": 75,
-        "precip": 14,
+        "precip": 16,
         "label": "Overcast",
         "icon": "cloud"
       },
@@ -3930,10 +3930,10 @@
       "title": "EGS 1006C Laboratory",
       "url": null,
       "weather": {
-        "temp": 66,
-        "precip": 9,
-        "label": "Mostly clear",
-        "icon": "sun"
+        "temp": 68,
+        "precip": 2,
+        "label": "Overcast",
+        "icon": "cloud"
       },
       "courseTitle": "Intro to Engineering"
     },
@@ -3953,7 +3953,7 @@
       "url": null,
       "weather": {
         "temp": 75,
-        "precip": 9,
+        "precip": 6,
         "label": "Overcast",
         "icon": "cloud"
       },
@@ -3974,10 +3974,10 @@
       "title": "PHY 2048 Discussion",
       "url": null,
       "weather": {
-        "temp": 60,
+        "temp": 68,
         "precip": 1,
-        "label": "Clear",
-        "icon": "sun"
+        "label": "Overcast",
+        "icon": "cloud"
       },
       "courseTitle": "Physics: Mechanics"
     },
@@ -3997,9 +3997,9 @@
       "url": null,
       "weather": {
         "temp": 69,
-        "precip": 3,
-        "label": "Clear",
-        "icon": "sun"
+        "precip": 2,
+        "label": "Overcast",
+        "icon": "cloud"
       },
       "courseTitle": "Writing & Composition"
     },
@@ -4019,9 +4019,9 @@
       "url": null,
       "weather": {
         "temp": 77,
-        "precip": 3,
-        "label": "Clear",
-        "icon": "sun"
+        "precip": 2,
+        "label": "Overcast",
+        "icon": "cloud"
       },
       "courseTitle": "Calculus 2"
     },
@@ -4040,10 +4040,10 @@
       "title": "PHY 2048 Lecture",
       "url": null,
       "weather": {
-        "temp": 80,
-        "precip": 6,
-        "label": "Clear",
-        "icon": "sun"
+        "temp": 78,
+        "precip": 3,
+        "label": "Light drizzle",
+        "icon": "drizzle"
       },
       "courseTitle": "Physics: Mechanics"
     },
@@ -4062,10 +4062,10 @@
       "title": "IDH 1920H Lecture",
       "url": null,
       "weather": {
-        "temp": 78,
-        "precip": 6,
-        "label": "Clear",
-        "icon": "sun"
+        "temp": 76,
+        "precip": 3,
+        "label": "Light drizzle",
+        "icon": "drizzle"
       },
       "courseTitle": "Honors Symposium"
     },
@@ -4085,9 +4085,9 @@
       "url": null,
       "weather": {
         "temp": 74,
-        "precip": 6,
-        "label": "Clear",
-        "icon": "sun"
+        "precip": 3,
+        "label": "Overcast",
+        "icon": "cloud"
       },
       "courseTitle": "Honors Symposium"
     },
@@ -4106,10 +4106,10 @@
       "title": "ISC 2054 Seminar",
       "url": null,
       "weather": {
-        "temp": 78,
-        "precip": 6,
-        "label": "Overcast",
-        "icon": "cloud"
+        "temp": 80,
+        "precip": 4,
+        "label": "Mostly clear",
+        "icon": "sun"
       },
       "courseTitle": "STEM Seminar"
     },
@@ -4128,10 +4128,10 @@
       "title": "ENC 1101 Lecture",
       "url": null,
       "weather": {
-        "temp": 73,
-        "precip": 7,
-        "label": "Clear",
-        "icon": "sun"
+        "temp": 75,
+        "precip": 5,
+        "label": "Partly cloudy",
+        "icon": "cloud"
       },
       "courseTitle": "Writing & Composition"
     },
@@ -4151,9 +4151,9 @@
       "url": null,
       "weather": {
         "temp": 78,
-        "precip": 7,
-        "label": "Clear",
-        "icon": "sun"
+        "precip": 5,
+        "label": "Overcast",
+        "icon": "cloud"
       },
       "courseTitle": "Calculus 2"
     },
@@ -4172,9 +4172,9 @@
       "title": "PHY 2048 Lecture",
       "url": null,
       "weather": {
-        "temp": 77,
-        "precip": 13,
-        "label": "Partly cloudy",
+        "temp": 78,
+        "precip": 7,
+        "label": "Overcast",
         "icon": "cloud"
       },
       "courseTitle": "Physics: Mechanics"
