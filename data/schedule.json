@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T20:08:52.207160-04:00",
+  "generatedAt": "2026-10-17T09:27:20.225376-04:00",
   "term": {
     "name": "Fall 2026",
     "start": "2026-08-24",
@@ -89,42 +89,31 @@
   "weather": {
     "place": "UCF Orlando",
     "current": {
-      "temp": 82,
-      "feelsLike": 91,
+      "temp": 77,
+      "feelsLike": 84,
       "label": "Overcast",
       "icon": "cloud",
-      "isDay": false
+      "isDay": true
     },
     "days": [
-      {
-        "date": "2026-10-16",
-        "label": "Showers",
-        "icon": "rain",
-        "high": 91,
-        "low": 73,
-        "precip": 48,
-        "uv": 6,
-        "sunrise": "07:26",
-        "sunset": "18:53"
-      },
       {
         "date": "2026-10-17",
         "label": "Light rain",
         "icon": "rain",
         "high": 78,
         "low": 64,
-        "precip": 25,
-        "uv": 1,
+        "precip": 49,
+        "uv": 3,
         "sunrise": "07:26",
         "sunset": "18:52"
       },
       {
         "date": "2026-10-18",
-        "label": "Light drizzle",
-        "icon": "drizzle",
-        "high": 76,
-        "low": 63,
-        "precip": 32,
+        "label": "Overcast",
+        "icon": "cloud",
+        "high": 77,
+        "low": 61,
+        "precip": 21,
         "uv": 5,
         "sunrise": "07:27",
         "sunset": "18:51"
@@ -133,20 +122,20 @@
         "date": "2026-10-19",
         "label": "Light drizzle",
         "icon": "drizzle",
-        "high": 79,
+        "high": 78,
         "low": 68,
-        "precip": 12,
-        "uv": 5,
+        "precip": 21,
+        "uv": 6,
         "sunrise": "07:28",
         "sunset": "18:50"
       },
       {
         "date": "2026-10-20",
-        "label": "Light drizzle",
-        "icon": "drizzle",
+        "label": "Overcast",
+        "icon": "cloud",
         "high": 81,
-        "low": 65,
-        "precip": 4,
+        "low": 66,
+        "precip": 2,
         "uv": 6,
         "sunrise": "07:28",
         "sunset": "18:49"
@@ -155,10 +144,10 @@
         "date": "2026-10-21",
         "label": "Overcast",
         "icon": "cloud",
-        "high": 82,
-        "low": 65,
-        "precip": 4,
-        "uv": 6,
+        "high": 78,
+        "low": 71,
+        "precip": 2,
+        "uv": 4,
         "sunrise": "07:29",
         "sunset": "18:48"
       },
@@ -166,18 +155,29 @@
         "date": "2026-10-22",
         "label": "Overcast",
         "icon": "cloud",
-        "high": 81,
+        "high": 80,
+        "low": 66,
+        "precip": 5,
+        "uv": 6,
+        "sunrise": "07:30",
+        "sunset": "18:47"
+      },
+      {
+        "date": "2026-10-23",
+        "label": "Overcast",
+        "icon": "cloud",
+        "high": 80,
         "low": 64,
-        "precip": 6,
+        "precip": 9,
         "uv": 6,
         "sunrise": "07:30",
         "sunset": "18:47"
       }
     ],
     "air": {
-      "aqi": 37,
+      "aqi": 38,
       "label": "Good",
-      "pm25": 6.4
+      "pm25": 9.3
     }
   },
   "severe": [],
@@ -293,76 +293,6 @@
   ],
   "events": [
     {
-      "id": "12896064",
-      "name": "ICan! Work Volunteering",
-      "org": "National Student Speech Language Hearing Association (NSSLHA) - Orlando",
-      "theme": "CommunityService",
-      "location": "Kia Center",
-      "date": "2026-10-16",
-      "start": "12:00",
-      "end": "23:45",
-      "blurb": "Step Up for Down Syndrome has shared an exciting volunteer opportunity with us! Through the iCan! Work program, we have the chance to support individuals with D",
-      "rsvps": 0,
-      "image": "https://se-images.campuslabs.com/clink/images/f1461774-ff18-4102-9b1e-51c450d6bb6d5645d7ba-272b-49df-9032-b4cd7a2479b8.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12896064"
-    },
-    {
-      "id": "12893356",
-      "name": "Network and Yap",
-      "org": "Women in Electrical Engineering and Computer Science",
-      "theme": "Social",
-      "location": "Trevor Coburn Hall, Room 257",
-      "date": "2026-10-16",
-      "start": "18:30",
-      "end": "20:30",
-      "blurb": "This Friday, join us for Network and Yap ! We&rsquo;ll be hearing from a special guest from Adobe who will share insights on personal branding and hear about ti",
-      "rsvps": 1,
-      "image": "https://se-images.campuslabs.com/clink/images/c30d0a8b-ee74-45d1-9abd-a93419c77a61df394c84-46bd-4b5d-b3c2-4b8baf0b2df0.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12893356"
-    },
-    {
-      "id": "12895794",
-      "name": "Ice & Bites Fundraiser",
-      "org": "IEEE Women in Engineering at UCF",
-      "theme": "Social",
-      "location": "Ice and Bites",
-      "date": "2026-10-16",
-      "start": "18:30",
-      "end": "22:00",
-      "blurb": "Following our GBM on Friday, we will be hosting a fundraiser at Ice and Bites! The address is included on the flyer. If you're able to stop by, please show this",
-      "rsvps": 1,
-      "image": "https://se-images.campuslabs.com/clink/images/072cd6b1-17ee-415e-8ded-a86ff5b6bcb963b8d972-d2ff-453d-af25-342334ed431c.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12895794"
-    },
-    {
-      "id": "12853399",
-      "name": "KGD Spooky Movie Night",
-      "org": "Kappa Gamma Delta",
-      "theme": "Social",
-      "location": "Business Administration 1 - O214",
-      "date": "2026-10-16",
-      "start": "19:00",
-      "end": "22:00",
-      "blurb": "Come join KGD with a spooky movie night and snacks! Wear your favorite Halloween outfit. Movie: Jennifer's Body",
-      "rsvps": 0,
-      "image": "https://se-images.campuslabs.com/clink/images/04eb6234-a57c-4040-bb26-5df67f68852295f7cf4b-0a53-4682-8272-38b882ed6438.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12853399"
-    },
-    {
-      "id": "12880467",
-      "name": "UCF Pre-SOMA: Spooky Movie Night",
-      "org": "Pre-Student Osteopathic Medical Association",
-      "theme": "Social",
-      "location": "UCF Teaching Academy, Room 303",
-      "date": "2026-10-16",
-      "start": "19:00",
-      "end": "21:00",
-      "blurb": "Join UCF Pre-SOMA for a Spooky Movie Night! We will be watching a Halloween movie and doing fall activities/crafts. Concession tickets will be sold for $5 that ",
-      "rsvps": 0,
-      "image": "https://se-images.campuslabs.com/clink/images/33344e11-2390-4222-b2ed-6d9753a6113c80743486-00d9-4886-b4de-dc067f28853e.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12880467"
-    },
-    {
       "id": "12877977",
       "name": "AMA UCF Volunteer Event: OCA Monster Dash 5K Event",
       "org": "American Marketing Association at UCF",
@@ -386,7 +316,7 @@
       "start": "07:30",
       "end": "13:30",
       "blurb": "Join Volunteer UCF (VUCF) in giving back to our Orlando community! Volunteers will select one volunteer site to serve at during the breakout session. Site selec",
-      "rsvps": 67,
+      "rsvps": 69,
       "image": "https://se-images.campuslabs.com/clink/images/fdf68a60-8209-466c-b50e-6fd2c9105ee0bdddac48-c346-49fa-8fc5-3e7c875fd73e.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12799540"
     },
@@ -456,7 +386,7 @@
       "start": "14:00",
       "end": "17:30",
       "blurb": "Join us Saturday October 17th from 2-5:30 at the Orlando Pride Parade. We will meet at Lake Eola in downtown, and our chapter will march next to our Orange Coun",
-      "rsvps": 2,
+      "rsvps": 3,
       "image": "https://se-images.campuslabs.com/clink/images/97d084f4-0db6-4ece-8aaf-00544b6b147dfa3db87b-afac-4a66-98dc-9e6d0a0e5d64.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12860350"
     },
@@ -834,7 +764,7 @@
       "start": "19:00",
       "end": "21:00",
       "blurb": "Support your fellow Knights as they showcase their special talents! UCF Homecoming presents Knights Got Talent 2026. Make sure to bring your own blanket and cha",
-      "rsvps": 15,
+      "rsvps": 16,
       "image": "https://se-images.campuslabs.com/clink/images/55ed98a8-f40e-4cc6-93b8-42e3d4e9d57fd9282454-0556-461f-a044-36f5c896e2b6.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12490767"
     },
@@ -848,7 +778,7 @@
       "start": "19:30",
       "end": "20:30",
       "blurb": "Ready to turn your ambition into opportunity? Join us this coming Monday where we will be hosting Sarah Harrington, a Campus Recruiter from Withum. She will be ",
-      "rsvps": 10,
+      "rsvps": 11,
       "image": "https://se-images.campuslabs.com/clink/images/0e2d6de2-410c-4a49-a5b1-251132cc633b05b365d4-b12d-49c7-a5e1-747800a64355.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12893710"
     },
@@ -1058,7 +988,7 @@
       "start": "17:00",
       "end": "19:00",
       "blurb": "Come join us at Memory Mall (weather and location availability permitting) to learn to make an intermediate crochet project! All are welcome, but we recommend h",
-      "rsvps": 2,
+      "rsvps": 1,
       "image": "https://se-images.campuslabs.com/clink/images/5325ac7b-9d13-45ec-ab0c-7231ed82249240076678-246d-452d-af05-85fcd85b9540.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12895607"
     },
@@ -1215,6 +1145,20 @@
       "rsvps": 6,
       "image": "https://se-images.campuslabs.com/clink/images/7701a0e4-674d-453a-8327-9912dc18030d7a6aa139-5240-4aa1-9f2a-2ba57f0babec.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12708826"
+    },
+    {
+      "id": "12899219",
+      "name": "2nd GBM",
+      "org": "Arts for Hearts",
+      "theme": "Social",
+      "location": "HSC1 119",
+      "date": "2026-10-20",
+      "start": "18:30",
+      "end": "21:00",
+      "blurb": "Join Arts For Hearts UCF for our 2nd General Body Meeting! \ud83c\udfa8\u2728 We&rsquo;ll be continuing our arts and crafts projects from our first GBM, so come relax, make an ",
+      "rsvps": 1,
+      "image": "https://se-images.campuslabs.com/clink/images/9df688b1-af17-4575-ac94-ab625e5c37f985376616-8e8a-4e00-9819-7ca8ffc3470a.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12899219"
     },
     {
       "id": "12867001",
@@ -1646,7 +1590,7 @@
       "start": "19:00",
       "end": "22:00",
       "blurb": "Get ready for an unforgettable night of comedy with Jay Pharoah! Best known for his standout run on Saturday Night Live, Jay Pharoah has made a name for himself",
-      "rsvps": 6,
+      "rsvps": 7,
       "image": "https://se-images.campuslabs.com/clink/images/6a181d22-269d-4f9e-98ed-b1baeb17b4571dcfac66-dfac-42c3-9175-b4330400f08b.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12708804"
     },
@@ -1971,6 +1915,62 @@
       "rsvps": 0,
       "image": "https://se-images.campuslabs.com/clink/images/d3435513-1b03-4fee-87cf-aa7ef377ac0a13adaf26-c60e-4390-a10c-20605af34ef3.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12846618"
+    },
+    {
+      "id": "12708796",
+      "name": "UCF Homecoming Concert Knight w/Soulja Boy and Waka Flocka Flame",
+      "org": "UCF Homecoming",
+      "theme": "Arts",
+      "location": "Addition Financial Arena",
+      "date": "2026-10-22",
+      "start": "19:00",
+      "end": "22:00",
+      "blurb": "Get ready to turn up with Soulja Boy, the rapper and producer behind some of hip-hop&rsquo;s most iconic hits, including &ldquo;Crank That (Soulja Boy),&rdquo; ",
+      "rsvps": 13,
+      "image": "https://se-images.campuslabs.com/clink/images/5bce8cd1-b58c-4d87-a82e-bc590a74df99b9ef758c-08a8-494d-a32f-5c0cc60cfaf5.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12708796"
+    },
+    {
+      "id": "12550718",
+      "name": "Student Government Senate Meeting",
+      "org": "Student Government Legislative Branch (Senate)",
+      "theme": "CommunityService",
+      "location": "Charge On Chamber, Student Union",
+      "date": "2026-10-22",
+      "start": "19:00",
+      "end": "23:00",
+      "blurb": "Weekly meeting of the Student Body Senate. Watch our meetings here: https://www.youtube.com/@ucfstudentgovernment8392",
+      "rsvps": 0,
+      "image": "https://se-images.campuslabs.com/clink/images/437fb23f-ab66-495a-884f-36ee7698ac243b5f7d23-c22b-4d49-9f81-a6f23f1fdea7.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12550718"
+    },
+    {
+      "id": "12588832",
+      "name": "Women's Soccer vs Cincinnati",
+      "org": "UCF Athletics",
+      "theme": "Athletics",
+      "location": "UCF Soccer Complex",
+      "date": "2026-10-22",
+      "start": "19:00",
+      "end": "21:00",
+      "blurb": "Come out and support the Women's Soccer team as they take on Cincinnati for Fright Knight!",
+      "rsvps": 1,
+      "image": "https://se-images.campuslabs.com/clink/images/dd57cedf-5b31-4283-8e4b-c7a985bbd7fc876df242-bbaf-478c-b91b-110598411c2c.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12588832"
+    },
+    {
+      "id": "12872629",
+      "name": "Study Night!",
+      "org": "Phi Eta Sigma National Honor Society ",
+      "theme": "ThoughtfulLearning",
+      "location": "ENGINEERING II RM 203",
+      "date": "2026-10-22",
+      "start": "19:15",
+      "end": "20:15",
+      "blurb": "Hey everyone! \ud83d\udcda\u2728 Join us for a Phi Eta Sigma Study Night on October 22 at 7:15 PM in Engineering II, Room 203! \ud83d\udc99 Bring your homework, notes, or anything you nee",
+      "rsvps": 2,
+      "image": "https://se-images.campuslabs.com/clink/images/bdf43c34-2038-45d4-a082-c4f3e49fb21b5fdf0e9c-a1c2-49a0-a74e-3c03c42b43ed.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12872629"
     }
   ],
   "keyDates": [
@@ -3863,12 +3863,6 @@
       "changes": {},
       "title": "EGS 1006C Lecture",
       "url": null,
-      "weather": {
-        "temp": 73,
-        "precip": 0,
-        "label": "Clear",
-        "icon": "sun"
-      },
       "courseTitle": "Intro to Engineering"
     },
     {
@@ -3885,12 +3879,6 @@
       "changes": {},
       "title": "MAC 2312 Friday Lecture",
       "url": null,
-      "weather": {
-        "temp": 88,
-        "precip": 5,
-        "label": "Partly cloudy",
-        "icon": "cloud"
-      },
       "courseTitle": "Calculus 2"
     },
     {
@@ -3908,8 +3896,8 @@
       "title": "PHY 2048L Laboratory",
       "url": null,
       "weather": {
-        "temp": 77,
-        "precip": 14,
+        "temp": 78,
+        "precip": 19,
         "label": "Overcast",
         "icon": "cloud"
       },
@@ -3930,10 +3918,10 @@
       "title": "EGS 1006C Laboratory",
       "url": null,
       "weather": {
-        "temp": 70,
-        "precip": 2,
-        "label": "Light drizzle",
-        "icon": "drizzle"
+        "temp": 73,
+        "precip": 4,
+        "label": "Clear",
+        "icon": "sun"
       },
       "courseTitle": "Intro to Engineering"
     },
@@ -3952,10 +3940,10 @@
       "title": "ISC 2054 Seminar",
       "url": null,
       "weather": {
-        "temp": 76,
-        "precip": 5,
-        "label": "Light drizzle",
-        "icon": "drizzle"
+        "temp": 77,
+        "precip": 3,
+        "label": "Overcast",
+        "icon": "cloud"
       },
       "courseTitle": "STEM Seminar"
     },
@@ -3974,10 +3962,10 @@
       "title": "PHY 2048 Discussion",
       "url": null,
       "weather": {
-        "temp": 65,
-        "precip": 1,
-        "label": "Light drizzle",
-        "icon": "drizzle"
+        "temp": 66,
+        "precip": 0,
+        "label": "Clear",
+        "icon": "sun"
       },
       "courseTitle": "Physics: Mechanics"
     },
@@ -3996,10 +3984,10 @@
       "title": "ENC 1101 Lecture",
       "url": null,
       "weather": {
-        "temp": 72,
-        "precip": 4,
-        "label": "Overcast",
-        "icon": "cloud"
+        "temp": 75,
+        "precip": 2,
+        "label": "Clear",
+        "icon": "sun"
       },
       "courseTitle": "Writing & Composition"
     },
@@ -4018,9 +4006,9 @@
       "title": "MAC 2312 Lecture",
       "url": null,
       "weather": {
-        "temp": 80,
-        "precip": 4,
-        "label": "Mostly clear",
+        "temp": 79,
+        "precip": 2,
+        "label": "Clear",
         "icon": "sun"
       },
       "courseTitle": "Calculus 2"
@@ -4040,7 +4028,7 @@
       "title": "PHY 2048 Lecture",
       "url": null,
       "weather": {
-        "temp": 81,
+        "temp": 80,
         "precip": 1,
         "label": "Clear",
         "icon": "sun"
@@ -4062,7 +4050,7 @@
       "title": "IDH 1920H Lecture",
       "url": null,
       "weather": {
-        "temp": 79,
+        "temp": 78,
         "precip": 1,
         "label": "Clear",
         "icon": "sun"
@@ -4084,9 +4072,9 @@
       "title": "IDH 1920H Lecture",
       "url": null,
       "weather": {
-        "temp": 75,
+        "temp": 74,
         "precip": 1,
-        "label": "Partly cloudy",
+        "label": "Overcast",
         "icon": "cloud"
       },
       "courseTitle": "Honors Symposium"
@@ -4106,10 +4094,10 @@
       "title": "ISC 2054 Seminar",
       "url": null,
       "weather": {
-        "temp": 80,
-        "precip": 3,
-        "label": "Mostly clear",
-        "icon": "sun"
+        "temp": 77,
+        "precip": 2,
+        "label": "Overcast",
+        "icon": "cloud"
       },
       "courseTitle": "STEM Seminar"
     },
@@ -4128,8 +4116,8 @@
       "title": "ENC 1101 Lecture",
       "url": null,
       "weather": {
-        "temp": 71,
-        "precip": 3,
+        "temp": 73,
+        "precip": 4,
         "label": "Overcast",
         "icon": "cloud"
       },
@@ -4150,8 +4138,8 @@
       "title": "MAC 2312 Lecture",
       "url": null,
       "weather": {
-        "temp": 77,
-        "precip": 3,
+        "temp": 78,
+        "precip": 4,
         "label": "Partly cloudy",
         "icon": "cloud"
       },
@@ -4172,8 +4160,8 @@
       "title": "PHY 2048 Lecture",
       "url": null,
       "weather": {
-        "temp": 80,
-        "precip": 6,
+        "temp": 79,
+        "precip": 5,
         "label": "Clear",
         "icon": "sun"
       },
@@ -4193,6 +4181,12 @@
       "changes": {},
       "title": "EGS 1006C Lecture",
       "url": null,
+      "weather": {
+        "temp": 64,
+        "precip": 0,
+        "label": "Clear",
+        "icon": "sun"
+      },
       "courseTitle": "Intro to Engineering"
     },
     {
@@ -4209,6 +4203,12 @@
       "changes": {},
       "title": "MAC 2312 Friday Lecture",
       "url": null,
+      "weather": {
+        "temp": 79,
+        "precip": 4,
+        "label": "Clear",
+        "icon": "sun"
+      },
       "courseTitle": "Calculus 2"
     },
     {
@@ -5383,42 +5383,6 @@
   "alerts": [],
   "assignments": [
     {
-      "course": "MAC 2312",
-      "courseTitle": "Calculus 2",
-      "title": "Calculating Arc Length Section 2.4",
-      "dueAt": "2026-09-16T00:00:00-04:00",
-      "points": null,
-      "overdue": true,
-      "url": "https://webcourses.ucf.edu/calendar?include_contexts=course_1522946&month=09&year=2026#assignment_9672787"
-    },
-    {
-      "course": "MAC 2312",
-      "courseTitle": "Calculus 2",
-      "title": "Integration by Parts Section 3.1",
-      "dueAt": "2026-09-16T00:00:00-04:00",
-      "points": null,
-      "overdue": true,
-      "url": "https://webcourses.ucf.edu/calendar?include_contexts=course_1522946&month=09&year=2026#assignment_9672788"
-    },
-    {
-      "course": "ENC 1101",
-      "courseTitle": "Writing & Composition",
-      "title": "Discussion Post #4: Language Difference & Revision",
-      "dueAt": "2026-09-16T00:00:00-04:00",
-      "points": null,
-      "overdue": true,
-      "url": "https://webcourses.ucf.edu/calendar?include_contexts=course_1521509&month=09&year=2026#assignment_9701052"
-    },
-    {
-      "course": "ENC 1101",
-      "courseTitle": "Writing & Composition",
-      "title": "MA1 - Revision Plan",
-      "dueAt": "2026-09-16T00:00:00-04:00",
-      "points": null,
-      "overdue": true,
-      "url": "https://webcourses.ucf.edu/calendar?include_contexts=course_1521509&month=09&year=2026#assignment_9701077"
-    },
-    {
       "course": "ENC 1101",
       "courseTitle": "Writing & Composition",
       "title": "Major Assignment #1: Multimodal Literacy Narrative - Draft #2/Instructor Draft for 9/18",
@@ -5741,6 +5705,42 @@
       "points": null,
       "overdue": true,
       "url": "https://webcourses.ucf.edu/calendar?include_contexts=course_1519779&month=10&year=2026#assignment_9708999"
+    },
+    {
+      "course": "EGS 1006C",
+      "courseTitle": "Intro to Engineering",
+      "title": "Lab 6 Exit Attendance",
+      "dueAt": "2026-10-05T10:25:00-04:00",
+      "points": null,
+      "overdue": true,
+      "url": "https://webcourses.ucf.edu/calendar?include_contexts=course_1519779&month=10&year=2026#assignment_9709001"
+    },
+    {
+      "course": "ENC 1101",
+      "courseTitle": "Writing & Composition",
+      "title": "Discussion Post #7: Rhetorical Situations",
+      "dueAt": "2026-10-07T00:00:00-04:00",
+      "points": null,
+      "overdue": true,
+      "url": "https://webcourses.ucf.edu/calendar?include_contexts=course_1521509&month=10&year=2026#assignment_9701049"
+    },
+    {
+      "course": "MAC 2312",
+      "courseTitle": "Calculus 2",
+      "title": "Integrating a Discontinuous Integrand Section 3.7",
+      "dueAt": "2026-10-07T00:00:00-04:00",
+      "points": null,
+      "overdue": true,
+      "url": "https://webcourses.ucf.edu/calendar?include_contexts=course_1522946&month=10&year=2026#assignment_9672794"
+    },
+    {
+      "course": "ENC 1101",
+      "courseTitle": "Writing & Composition",
+      "title": "Major Assignment 2 - Revision Plan",
+      "dueAt": "2026-10-09T00:00:00-04:00",
+      "points": null,
+      "overdue": true,
+      "url": "https://webcourses.ucf.edu/calendar?include_contexts=course_1521509&month=10&year=2026#assignment_9737152"
     }
   ],
   "recentChanges": []
