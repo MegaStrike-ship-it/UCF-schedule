@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T15:01:01.750559-04:00",
+  "generatedAt": "2026-10-17T17:57:55.869456-04:00",
   "term": {
     "name": "Fall 2026",
     "start": "2026-08-24",
@@ -89,8 +89,8 @@
   "weather": {
     "place": "UCF Orlando",
     "current": {
-      "temp": 74,
-      "feelsLike": 74,
+      "temp": 70,
+      "feelsLike": 68,
       "label": "Overcast",
       "icon": "cloud",
       "isDay": true
@@ -111,9 +111,9 @@
         "date": "2026-10-18",
         "label": "Overcast",
         "icon": "cloud",
-        "high": 79,
-        "low": 63,
-        "precip": 12,
+        "high": 78,
+        "low": 62,
+        "precip": 10,
         "uv": 5,
         "sunrise": "07:27",
         "sunset": "18:51"
@@ -122,9 +122,9 @@
         "date": "2026-10-19",
         "label": "Light drizzle",
         "icon": "drizzle",
-        "high": 76,
+        "high": 77,
         "low": 66,
-        "precip": 36,
+        "precip": 26,
         "uv": 5,
         "sunrise": "07:28",
         "sunset": "18:50"
@@ -135,7 +135,7 @@
         "icon": "cloud",
         "high": 80,
         "low": 63,
-        "precip": 5,
+        "precip": 3,
         "uv": 6,
         "sunrise": "07:28",
         "sunset": "18:49"
@@ -157,7 +157,7 @@
         "icon": "cloud",
         "high": 80,
         "low": 64,
-        "precip": 3,
+        "precip": 2,
         "uv": 6,
         "sunrise": "07:30",
         "sunset": "18:47"
@@ -168,7 +168,7 @@
         "icon": "sun",
         "high": 80,
         "low": 64,
-        "precip": 8,
+        "precip": 4,
         "uv": 6,
         "sunrise": "07:30",
         "sunset": "18:47"
@@ -177,7 +177,7 @@
     "air": {
       "aqi": 41,
       "label": "Good",
-      "pm25": 11.0
+      "pm25": 7.1
     }
   },
   "severe": [],
@@ -307,20 +307,6 @@
       "url": "https://ucf.campuslabs.com/engage/event/12863061"
     },
     {
-      "id": "12860350",
-      "name": "Orlando Pride Parade",
-      "org": "League of Women Voters of UCF",
-      "theme": "Social",
-      "location": "Lake Eola Park Downtown",
-      "date": "2026-10-17",
-      "start": "14:00",
-      "end": "17:30",
-      "blurb": "Join us Saturday October 17th from 2-5:30 at the Orlando Pride Parade. We will meet at Lake Eola in downtown, and our chapter will march next to our Orange Coun",
-      "rsvps": 3,
-      "image": "https://se-images.campuslabs.com/clink/images/97d084f4-0db6-4ece-8aaf-00544b6b147dfa3db87b-afac-4a66-98dc-9e6d0a0e5d64.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12860350"
-    },
-    {
       "id": "12701164",
       "name": "Trick or Trails at D Ranch Preserve",
       "org": "Association of Environmental Professionals at the University of Central Florida",
@@ -372,7 +358,7 @@
       "start": "19:00",
       "end": "21:00",
       "blurb": "Come out for Soctober Fest and Senior Knight!",
-      "rsvps": 1,
+      "rsvps": 2,
       "image": "https://se-images.campuslabs.com/clink/images/455ab955-8e3f-48c2-aafc-4860a79e49f260ed283e-e142-4695-a095-8015a9cf1598.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12588825"
     },
@@ -694,7 +680,7 @@
       "start": "19:00",
       "end": "21:00",
       "blurb": "Support your fellow Knights as they showcase their special talents! UCF Homecoming presents Knights Got Talent 2026. Make sure to bring your own blanket and cha",
-      "rsvps": 16,
+      "rsvps": 17,
       "image": "https://se-images.campuslabs.com/clink/images/55ed98a8-f40e-4cc6-93b8-42e3d4e9d57fd9282454-0556-461f-a044-36f5c896e2b6.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12490767"
     },
@@ -1301,6 +1287,20 @@
       "url": "https://ucf.campuslabs.com/engage/event/12517300"
     },
     {
+      "id": "12899420",
+      "name": "Trick or Suite",
+      "org": "Multicultural Student Center",
+      "theme": "Cultural",
+      "location": "Cultural Center, Student Union",
+      "date": "2026-10-21",
+      "start": "15:00",
+      "end": "17:00",
+      "blurb": "\ud83c\udf83 Trick or Suite is almost here! \ud83d\udc7b Join MSC for a Scavenger Hunt at the Cultural Center, SU214! Hunt for clues, complete the challenges, and enter the raffle fo",
+      "rsvps": 0,
+      "image": "https://se-images.campuslabs.com/clink/images/df55f434-8e56-4357-ae01-5d1a78e93bc01b0c1a18-ac9e-4014-82a7-344a951ecd0c.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12899420"
+    },
+    {
       "id": "12551040",
       "name": "CRT Committee Meeting",
       "org": "Student Government Legislative Branch (Senate)",
@@ -1763,20 +1763,6 @@
       "url": "https://ucf.campuslabs.com/engage/event/12551195"
     },
     {
-      "id": "12895679",
-      "name": "Pumpkin Spice & Business Advice",
-      "org": "Entrepreneurship Club",
-      "theme": "Social",
-      "location": "Student Union | Room 223",
-      "date": "2026-10-22",
-      "start": "17:00",
-      "end": "18:30",
-      "blurb": "Join the UCF Entrepreneurship Club for Pumpkin Spice & Business Advice! \ud83c\udf83\ud83c\udf42 Enjoy an evening of sweet treats, music, networking, and meaningful conversations whi",
-      "rsvps": 0,
-      "image": "https://se-images.campuslabs.com/clink/images/8480ce68-09c3-4b0c-99b5-b8d13a79402e6b65960c-7bbe-41ca-a614-fe8a6da03104.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12895679"
-    },
-    {
       "id": "12820796",
       "name": "Professor Spotlight",
       "org": "Association of Physics Students at University of Central Florida",
@@ -1789,6 +1775,20 @@
       "rsvps": 2,
       "image": null,
       "url": "https://ucf.campuslabs.com/engage/event/12820796"
+    },
+    {
+      "id": "12895679",
+      "name": "Pumpkin Spice & Business Advice",
+      "org": "Entrepreneurship Club",
+      "theme": "Social",
+      "location": "Student Union | Room 223",
+      "date": "2026-10-22",
+      "start": "17:00",
+      "end": "18:30",
+      "blurb": "Join the UCF Entrepreneurship Club for Pumpkin Spice & Business Advice! \ud83c\udf83\ud83c\udf42 Enjoy an evening of sweet treats, music, networking, and meaningful conversations whi",
+      "rsvps": 0,
+      "image": "https://se-images.campuslabs.com/clink/images/8480ce68-09c3-4b0c-99b5-b8d13a79402e6b65960c-7bbe-41ca-a614-fe8a6da03104.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12895679"
     },
     {
       "id": "12888837",
@@ -3918,9 +3918,9 @@
       "title": "EGS 1006C Laboratory",
       "url": null,
       "weather": {
-        "temp": 71,
-        "precip": 7,
-        "label": "Partly cloudy",
+        "temp": 72,
+        "precip": 18,
+        "label": "Overcast",
         "icon": "cloud"
       },
       "courseTitle": "Intro to Engineering"
@@ -3941,7 +3941,7 @@
       "url": null,
       "weather": {
         "temp": 75,
-        "precip": 5,
+        "precip": 4,
         "label": "Light drizzle",
         "icon": "drizzle"
       },
@@ -3963,7 +3963,7 @@
       "url": null,
       "weather": {
         "temp": 63,
-        "precip": 1,
+        "precip": 0,
         "label": "Clear",
         "icon": "sun"
       },
@@ -3985,7 +3985,7 @@
       "url": null,
       "weather": {
         "temp": 68,
-        "precip": 2,
+        "precip": 1,
         "label": "Overcast",
         "icon": "cloud"
       },
@@ -4007,7 +4007,7 @@
       "url": null,
       "weather": {
         "temp": 77,
-        "precip": 2,
+        "precip": 1,
         "label": "Overcast",
         "icon": "cloud"
       },
@@ -4161,7 +4161,7 @@
       "url": null,
       "weather": {
         "temp": 80,
-        "precip": 3,
+        "precip": 2,
         "label": "Overcast",
         "icon": "cloud"
       },
