@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T17:57:55.869456-04:00",
+  "generatedAt": "2026-10-17T19:53:24.569988-04:00",
   "term": {
     "name": "Fall 2026",
     "start": "2026-08-24",
@@ -89,11 +89,11 @@
   "weather": {
     "place": "UCF Orlando",
     "current": {
-      "temp": 70,
-      "feelsLike": 68,
+      "temp": 68,
+      "feelsLike": 64,
       "label": "Overcast",
       "icon": "cloud",
-      "isDay": true
+      "isDay": false
     },
     "days": [
       {
@@ -101,7 +101,7 @@
         "label": "Drizzle",
         "icon": "drizzle",
         "high": 79,
-        "low": 65,
+        "low": 66,
         "precip": 49,
         "uv": 2,
         "sunrise": "07:26",
@@ -112,7 +112,7 @@
         "label": "Overcast",
         "icon": "cloud",
         "high": 78,
-        "low": 62,
+        "low": 63,
         "precip": 10,
         "uv": 5,
         "sunrise": "07:27",
@@ -120,12 +120,12 @@
       },
       {
         "date": "2026-10-19",
-        "label": "Light drizzle",
-        "icon": "drizzle",
-        "high": 77,
-        "low": 66,
+        "label": "Overcast",
+        "icon": "cloud",
+        "high": 78,
+        "low": 67,
         "precip": 26,
-        "uv": 5,
+        "uv": 6,
         "sunrise": "07:28",
         "sunset": "18:50"
       },
@@ -133,7 +133,7 @@
         "date": "2026-10-20",
         "label": "Overcast",
         "icon": "cloud",
-        "high": 80,
+        "high": 81,
         "low": 63,
         "precip": 3,
         "uv": 6,
@@ -144,8 +144,8 @@
         "date": "2026-10-21",
         "label": "Overcast",
         "icon": "cloud",
-        "high": 82,
-        "low": 65,
+        "high": 81,
+        "low": 64,
         "precip": 2,
         "uv": 6,
         "sunrise": "07:29",
@@ -153,10 +153,10 @@
       },
       {
         "date": "2026-10-22",
-        "label": "Overcast",
+        "label": "Partly cloudy",
         "icon": "cloud",
-        "high": 80,
-        "low": 64,
+        "high": 81,
+        "low": 63,
         "precip": 2,
         "uv": 6,
         "sunrise": "07:30",
@@ -166,8 +166,8 @@
         "date": "2026-10-23",
         "label": "Clear",
         "icon": "sun",
-        "high": 80,
-        "low": 64,
+        "high": 79,
+        "low": 62,
         "precip": 4,
         "uv": 6,
         "sunrise": "07:30",
@@ -177,7 +177,7 @@
     "air": {
       "aqi": 41,
       "label": "Good",
-      "pm25": 7.1
+      "pm25": 5.8
     }
   },
   "severe": [],
@@ -307,48 +307,6 @@
       "url": "https://ucf.campuslabs.com/engage/event/12863061"
     },
     {
-      "id": "12701164",
-      "name": "Trick or Trails at D Ranch Preserve",
-      "org": "Association of Environmental Professionals at the University of Central Florida",
-      "theme": "Social",
-      "location": "D Ranch Preserve",
-      "date": "2026-10-17",
-      "start": "16:30",
-      "end": "19:30",
-      "blurb": "Halloween Hike & Hay Rides at D Ranch Preserve with Conservation Florida & Freehand Goods. Get outside with Conservation Florida & Freehand Goods this spooky se",
-      "rsvps": 0,
-      "image": "https://se-images.campuslabs.com/clink/images/750e2954-eb6e-4847-8ba9-7adcfaf561a0c630c522-3521-4a76-8e1c-50e5dccb4765.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12701164"
-    },
-    {
-      "id": "12823624",
-      "name": "Spooky Stacks Knight",
-      "org": "Apollo Community",
-      "theme": "Social",
-      "location": "Libra Commmunity Center",
-      "date": "2026-10-17",
-      "start": "18:00",
-      "end": "19:00",
-      "blurb": "During the Spooky Stacks Knight, residents will be encouraged to interact with other residents and their RAs in a relaxed and inclusive setting. Residents will ",
-      "rsvps": 2,
-      "image": "https://se-images.campuslabs.com/clink/images/e714a468-fc2d-405b-b705-ad47b92b5589796de3db-3934-43b5-a1a4-e23a75f5cc8b.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12823624"
-    },
-    {
-      "id": "12823625",
-      "name": "Spooky Stacks Knight",
-      "org": "Apollo Community",
-      "theme": "Social",
-      "location": "Apollo/Libra",
-      "date": "2026-10-17",
-      "start": "18:00",
-      "end": "19:00",
-      "blurb": "During the Spooky Stacks Knight, residents will be encouraged to interact with other residents and their RAs in a relaxed and inclusive setting. Residents will ",
-      "rsvps": 0,
-      "image": "https://se-images.campuslabs.com/clink/images/e714a468-fc2d-405b-b705-ad47b92b5589796de3db-3934-43b5-a1a4-e23a75f5cc8b.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12823625"
-    },
-    {
       "id": "12588825",
       "name": "Men's Soccer vs Old Dominion",
       "org": "UCF Athletics",
@@ -428,7 +386,7 @@
       "start": "15:30",
       "end": "18:00",
       "blurb": "The Healthy Kids Running Series was created to motivate kids to lead a healthy, active lifestyle through running. They offer a 5-week program each season with v",
-      "rsvps": 12,
+      "rsvps": 13,
       "image": "https://se-images.campuslabs.com/clink/images/9710fcad-60aa-40e9-9dcc-1886411941651840d956-214b-4c24-aa5b-1c895f6099c5.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12827931"
     },
@@ -1971,6 +1929,48 @@
       "rsvps": 4,
       "image": "https://se-images.campuslabs.com/clink/images/b480ab24-e708-44f9-a963-f7d6a6f8dcaf2da9cef9-4067-4900-b36e-779154ae86ba.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12802534"
+    },
+    {
+      "id": "12855362",
+      "name": "Urban Agriculture Volunteer Shift",
+      "org": "UCF Arboretum",
+      "theme": "CommunityService",
+      "location": "L3Harris Engineering Building",
+      "date": "2026-10-23",
+      "start": "11:30",
+      "end": "13:00",
+      "blurb": "Come join us and get your hands dirty in our community garden! We will be doing tasks such as weeding, mulching, planting, harvesting and many other tasks that ",
+      "rsvps": 3,
+      "image": "https://se-images.campuslabs.com/clink/images/67246690-4c5c-409f-b4fa-0dd37d8d8eb9a0a98af2-5415-418a-8969-e5f65166b2c6.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12855362"
+    },
+    {
+      "id": "12708828",
+      "name": "UCF Homecoming Spirit Splash 2026",
+      "org": "UCF Homecoming",
+      "theme": "Social",
+      "location": "Reflecting Pond",
+      "date": "2026-10-23",
+      "start": "12:00",
+      "end": "14:00",
+      "blurb": "Try your luck to catch a duck in the Reflecting Pond at 12pm! Showcase your school spirit at one of the nation&rsquo;s largest Homecoming traditions.",
+      "rsvps": 10,
+      "image": "https://se-images.campuslabs.com/clink/images/fb494f31-ba4f-41de-957e-343a1cec60bc17516a5d-c79e-4953-b6b8-2c1187b2c5aa.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12708828"
+    },
+    {
+      "id": "12802565",
+      "name": "Shift Three: Playhouse Pow-Wow!",
+      "org": "Volunteer UCF",
+      "theme": "CommunityService",
+      "location": "Habitat for Humanity Site",
+      "date": "2026-10-23",
+      "start": "13:00",
+      "end": "15:00",
+      "blurb": "Habitat for Humanity builds & donates playhouses to local kids in the community. Broken down into three shifts, this event provides engaging experiences, guest ",
+      "rsvps": 2,
+      "image": "https://se-images.campuslabs.com/clink/images/c9a38d49-68a9-4026-8546-5f30e87d39b1af2b734f-8276-4e23-8d01-4f626a8f7398.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12802565"
     }
   ],
   "keyDates": [
@@ -3942,8 +3942,8 @@
       "weather": {
         "temp": 75,
         "precip": 4,
-        "label": "Light drizzle",
-        "icon": "drizzle"
+        "label": "Overcast",
+        "icon": "cloud"
       },
       "courseTitle": "STEM Seminar"
     },
@@ -3964,8 +3964,8 @@
       "weather": {
         "temp": 63,
         "precip": 0,
-        "label": "Clear",
-        "icon": "sun"
+        "label": "Partly cloudy",
+        "icon": "cloud"
       },
       "courseTitle": "Physics: Mechanics"
     },
@@ -3984,10 +3984,10 @@
       "title": "ENC 1101 Lecture",
       "url": null,
       "weather": {
-        "temp": 68,
+        "temp": 70,
         "precip": 1,
-        "label": "Overcast",
-        "icon": "cloud"
+        "label": "Clear",
+        "icon": "sun"
       },
       "courseTitle": "Writing & Composition"
     },
@@ -4006,10 +4006,10 @@
       "title": "MAC 2312 Lecture",
       "url": null,
       "weather": {
-        "temp": 77,
+        "temp": 79,
         "precip": 1,
-        "label": "Overcast",
-        "icon": "cloud"
+        "label": "Clear",
+        "icon": "sun"
       },
       "courseTitle": "Calculus 2"
     },
@@ -4028,7 +4028,7 @@
       "title": "PHY 2048 Lecture",
       "url": null,
       "weather": {
-        "temp": 80,
+        "temp": 81,
         "precip": 1,
         "label": "Clear",
         "icon": "sun"
@@ -4074,7 +4074,7 @@
       "weather": {
         "temp": 74,
         "precip": 1,
-        "label": "Mostly clear",
+        "label": "Clear",
         "icon": "sun"
       },
       "courseTitle": "Honors Symposium"
@@ -4094,9 +4094,9 @@
       "title": "ISC 2054 Seminar",
       "url": null,
       "weather": {
-        "temp": 82,
+        "temp": 81,
         "precip": 2,
-        "label": "Mostly clear",
+        "label": "Clear",
         "icon": "sun"
       },
       "courseTitle": "STEM Seminar"
@@ -4118,8 +4118,8 @@
       "weather": {
         "temp": 72,
         "precip": 1,
-        "label": "Partly cloudy",
-        "icon": "cloud"
+        "label": "Clear",
+        "icon": "sun"
       },
       "courseTitle": "Writing & Composition"
     },
@@ -4138,10 +4138,10 @@
       "title": "MAC 2312 Lecture",
       "url": null,
       "weather": {
-        "temp": 78,
+        "temp": 79,
         "precip": 1,
-        "label": "Overcast",
-        "icon": "cloud"
+        "label": "Clear",
+        "icon": "sun"
       },
       "courseTitle": "Calculus 2"
     },
@@ -4162,8 +4162,8 @@
       "weather": {
         "temp": 80,
         "precip": 2,
-        "label": "Overcast",
-        "icon": "cloud"
+        "label": "Clear",
+        "icon": "sun"
       },
       "courseTitle": "Physics: Mechanics"
     },
@@ -4182,7 +4182,7 @@
       "title": "EGS 1006C Lecture",
       "url": null,
       "weather": {
-        "temp": 65,
+        "temp": 63,
         "precip": 0,
         "label": "Clear",
         "icon": "sun"
