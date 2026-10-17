@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T09:27:20.225376-04:00",
+  "generatedAt": "2026-10-17T12:49:56.328384-04:00",
   "term": {
     "name": "Fall 2026",
     "start": "2026-08-24",
@@ -89,8 +89,8 @@
   "weather": {
     "place": "UCF Orlando",
     "current": {
-      "temp": 77,
-      "feelsLike": 84,
+      "temp": 74,
+      "feelsLike": 78,
       "label": "Overcast",
       "icon": "cloud",
       "isDay": true
@@ -98,10 +98,10 @@
     "days": [
       {
         "date": "2026-10-17",
-        "label": "Light rain",
-        "icon": "rain",
-        "high": 78,
-        "low": 64,
+        "label": "Drizzle",
+        "icon": "drizzle",
+        "high": 79,
+        "low": 66,
         "precip": 49,
         "uv": 3,
         "sunrise": "07:26",
@@ -111,9 +111,9 @@
         "date": "2026-10-18",
         "label": "Overcast",
         "icon": "cloud",
-        "high": 77,
-        "low": 61,
-        "precip": 21,
+        "high": 79,
+        "low": 64,
+        "precip": 18,
         "uv": 5,
         "sunrise": "07:27",
         "sunset": "18:51"
@@ -124,7 +124,7 @@
         "icon": "drizzle",
         "high": 78,
         "low": 68,
-        "precip": 21,
+        "precip": 36,
         "uv": 6,
         "sunrise": "07:28",
         "sunset": "18:50"
@@ -135,7 +135,7 @@
         "icon": "cloud",
         "high": 81,
         "low": 66,
-        "precip": 2,
+        "precip": 5,
         "uv": 6,
         "sunrise": "07:28",
         "sunset": "18:49"
@@ -157,7 +157,7 @@
         "icon": "cloud",
         "high": 80,
         "low": 66,
-        "precip": 5,
+        "precip": 3,
         "uv": 6,
         "sunrise": "07:30",
         "sunset": "18:47"
@@ -168,7 +168,7 @@
         "icon": "cloud",
         "high": 80,
         "low": 64,
-        "precip": 9,
+        "precip": 8,
         "uv": 6,
         "sunrise": "07:30",
         "sunset": "18:47"
@@ -177,7 +177,7 @@
     "air": {
       "aqi": 38,
       "label": "Good",
-      "pm25": 9.3
+      "pm25": 9.5
     }
   },
   "severe": [],
@@ -292,20 +292,6 @@
     }
   ],
   "events": [
-    {
-      "id": "12877977",
-      "name": "AMA UCF Volunteer Event: OCA Monster Dash 5K Event",
-      "org": "American Marketing Association at UCF",
-      "theme": "GroupBusiness",
-      "location": "Blue Jacket Park",
-      "date": "2026-10-17",
-      "start": "07:00",
-      "end": "12:00",
-      "blurb": "Help us give back at the OCA Monster Dash 5K Event at Blue Jacket Park, Orlando and be part of a great community event! \ud83d\udccd Location: Blue Jacket Park, Orlando \ud83d\uddd3 ",
-      "rsvps": 0,
-      "image": "https://se-images.campuslabs.com/clink/images/e9b9f122-b994-4675-8360-a4d153162c35b9fe03b9-4d67-4e83-a2fd-2d426c6ab63b.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12877977"
-    },
     {
       "id": "12799540",
       "name": "Knights Give Back",
@@ -778,7 +764,7 @@
       "start": "19:30",
       "end": "20:30",
       "blurb": "Ready to turn your ambition into opportunity? Join us this coming Monday where we will be hosting Sarah Harrington, a Campus Recruiter from Withum. She will be ",
-      "rsvps": 11,
+      "rsvps": 12,
       "image": "https://se-images.campuslabs.com/clink/images/0e2d6de2-410c-4a49-a5b1-251132cc633b05b365d4-b12d-49c7-a5e1-747800a64355.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12893710"
     },
@@ -848,7 +834,7 @@
       "start": "10:30",
       "end": "11:30",
       "blurb": "Juliana Schlaen, also known as @Glottisgoddess on Instagram, is an M.S., CCC-SLP working at ENT clinics across Miami! She specializes in voice, swallowing, and ",
-      "rsvps": 11,
+      "rsvps": 10,
       "image": "https://se-images.campuslabs.com/clink/images/efb9f316-6694-45b0-9858-c20f1367171ff90f4cbb-5679-40a7-8c50-3fbfe1104cf9.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12845848"
     },
@@ -1971,6 +1957,20 @@
       "rsvps": 2,
       "image": "https://se-images.campuslabs.com/clink/images/bdf43c34-2038-45d4-a082-c4f3e49fb21b5fdf0e9c-a1c2-49a0-a74e-3c03c42b43ed.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12872629"
+    },
+    {
+      "id": "12830571",
+      "name": "Pumpkin Painting",
+      "org": "Lake Claire Apartments ",
+      "theme": "Social",
+      "location": "Lake Claire Community Center",
+      "date": "2026-10-22",
+      "start": "19:30",
+      "end": "20:30",
+      "blurb": "Join some of your Lake Claire RAs for a fun night of pumpkin painting and socializing as we get in the mood for spooky season!",
+      "rsvps": 6,
+      "image": "https://se-images.campuslabs.com/clink/images/515aa126-85a0-474d-997c-0bef36e5fd9e6f816e40-418f-44f4-ba83-902fa7c75fa6.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12830571"
     }
   ],
   "keyDates": [
@@ -3897,9 +3897,9 @@
       "url": null,
       "weather": {
         "temp": 78,
-        "precip": 19,
-        "label": "Overcast",
-        "icon": "cloud"
+        "precip": 11,
+        "label": "Light drizzle",
+        "icon": "drizzle"
       },
       "courseTitle": "Physics Lab"
     },
@@ -3919,7 +3919,7 @@
       "url": null,
       "weather": {
         "temp": 73,
-        "precip": 4,
+        "precip": 7,
         "label": "Clear",
         "icon": "sun"
       },
@@ -3941,7 +3941,7 @@
       "url": null,
       "weather": {
         "temp": 77,
-        "precip": 3,
+        "precip": 5,
         "label": "Overcast",
         "icon": "cloud"
       },
@@ -3963,7 +3963,7 @@
       "url": null,
       "weather": {
         "temp": 66,
-        "precip": 0,
+        "precip": 1,
         "label": "Clear",
         "icon": "sun"
       },
@@ -4117,7 +4117,7 @@
       "url": null,
       "weather": {
         "temp": 73,
-        "precip": 4,
+        "precip": 1,
         "label": "Overcast",
         "icon": "cloud"
       },
@@ -4139,7 +4139,7 @@
       "url": null,
       "weather": {
         "temp": 78,
-        "precip": 4,
+        "precip": 1,
         "label": "Partly cloudy",
         "icon": "cloud"
       },
@@ -4161,7 +4161,7 @@
       "url": null,
       "weather": {
         "temp": 79,
-        "precip": 5,
+        "precip": 3,
         "label": "Clear",
         "icon": "sun"
       },
@@ -4205,7 +4205,7 @@
       "url": null,
       "weather": {
         "temp": 79,
-        "precip": 4,
+        "precip": 3,
         "label": "Clear",
         "icon": "sun"
       },
