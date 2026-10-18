@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T13:03:58.809342-04:00",
+  "generatedAt": "2026-10-18T16:05:40.840030-04:00",
   "term": {
     "name": "Fall 2026",
     "start": "2026-08-24",
@@ -86,7 +86,100 @@
       "url": null
     }
   ],
-  "weather": null,
+  "weather": {
+    "place": "UCF Orlando",
+    "current": {
+      "temp": 78,
+      "feelsLike": 76,
+      "label": "Mostly clear",
+      "icon": "sun",
+      "isDay": true
+    },
+    "days": [
+      {
+        "date": "2026-10-18",
+        "label": "Drizzle",
+        "icon": "drizzle",
+        "high": 81,
+        "low": 65,
+        "precip": 20,
+        "uv": 5,
+        "sunrise": "07:27",
+        "sunset": "18:51"
+      },
+      {
+        "date": "2026-10-19",
+        "label": "Drizzle",
+        "icon": "drizzle",
+        "high": 79,
+        "low": 63,
+        "precip": 20,
+        "uv": 5,
+        "sunrise": "07:28",
+        "sunset": "18:50"
+      },
+      {
+        "date": "2026-10-20",
+        "label": "Overcast",
+        "icon": "cloud",
+        "high": 80,
+        "low": 61,
+        "precip": 0,
+        "uv": 6,
+        "sunrise": "07:28",
+        "sunset": "18:49"
+      },
+      {
+        "date": "2026-10-21",
+        "label": "Overcast",
+        "icon": "cloud",
+        "high": 81,
+        "low": 63,
+        "precip": 1,
+        "uv": 6,
+        "sunrise": "07:29",
+        "sunset": "18:48"
+      },
+      {
+        "date": "2026-10-22",
+        "label": "Overcast",
+        "icon": "cloud",
+        "high": 80,
+        "low": 65,
+        "precip": 1,
+        "uv": 6,
+        "sunrise": "07:30",
+        "sunset": "18:47"
+      },
+      {
+        "date": "2026-10-23",
+        "label": "Partly cloudy",
+        "icon": "cloud",
+        "high": 80,
+        "low": 65,
+        "precip": 3,
+        "uv": 6,
+        "sunrise": "07:30",
+        "sunset": "18:47"
+      },
+      {
+        "date": "2026-10-24",
+        "label": "Light drizzle",
+        "icon": "drizzle",
+        "high": 79,
+        "low": 71,
+        "precip": 41,
+        "uv": 4,
+        "sunrise": "07:31",
+        "sunset": "18:46"
+      }
+    ],
+    "air": {
+      "aqi": 50,
+      "label": "Good",
+      "pm25": 9.9
+    }
+  },
   "severe": [],
   "football": [
     {
@@ -145,12 +238,12 @@
     },
     {
       "date": "2026-10-24",
-      "time": null,
+      "time": "15:30",
       "opponent": "BYU Cougars",
       "home": true,
       "venue": "Acrisure Bounce House",
       "state": "pre",
-      "detail": "TBD"
+      "detail": "10/24 - 3:30 PM EDT"
     },
     {
       "date": "2026-10-30",
@@ -226,20 +319,6 @@
       "rsvps": 0,
       "image": "https://se-images.campuslabs.com/clink/images/02ea1fa9-2709-469e-afe2-31e9a5d7a994c9bbc54b-ab00-4afc-9c5e-1971435d6e6b.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12850928"
-    },
-    {
-      "id": "12881088",
-      "name": "Sunday Mass ",
-      "org": "Catholic Campus Ministry",
-      "theme": "Spirituality",
-      "location": "The Live Oak Ballroom on Campus ",
-      "date": "2026-10-18",
-      "start": "12:00",
-      "end": "13:15",
-      "blurb": "Mass is the center of our Catholic Faith. It's where we come together as a Church to worship God through Christ's offering of Himself to the Father and for us i",
-      "rsvps": 2,
-      "image": "https://se-images.campuslabs.com/clink/images/9da8afc3-87b5-4216-b99e-ed15e03ac26eadb863de-29a2-44e7-a1ad-6962e2689fd5.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12881088"
     },
     {
       "id": "12827931",
@@ -727,7 +806,7 @@
       "start": "17:00",
       "end": "19:00",
       "blurb": "Come join us at Memory Mall (weather and location availability permitting) to learn to make an intermediate crochet project! All are welcome, but we recommend h",
-      "rsvps": 1,
+      "rsvps": 2,
       "image": "https://se-images.campuslabs.com/clink/images/5325ac7b-9d13-45ec-ab0c-7231ed82249240076678-246d-452d-af05-85fcd85b9540.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12895607"
     },
@@ -758,6 +837,20 @@
       "rsvps": 0,
       "image": "https://se-images.campuslabs.com/clink/images/c9c8d67b-c618-4bd1-87e1-07719238f8cff94e66fe-dba8-45f7-927a-8992c896f8d1.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12857938"
+    },
+    {
+      "id": "12899638",
+      "name": "Photo walk",
+      "org": "The Knights Photography Studio",
+      "theme": "Arts",
+      "location": "UCF Arboretum ",
+      "date": "2026-10-20",
+      "start": "17:30",
+      "end": "19:00",
+      "blurb": "Join us this Tuesday for a photowalk through the Arboretum! Meet at lot C3 near Libra Sumter and the Physical Sciences building. Bring a jacket, it might get co",
+      "rsvps": 1,
+      "image": "https://se-images.campuslabs.com/clink/images/75b2ec67-cf1a-4c6c-b292-1c34ae0ca5d8e7ea8736-9c0d-4b15-9dff-d0c586ae19f8.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12899638"
     },
     {
       "id": "12817379",
@@ -1768,6 +1861,20 @@
       "url": "https://ucf.campuslabs.com/engage/event/12830571"
     },
     {
+      "id": "12899618",
+      "name": "Worship Night",
+      "org": "Baptist Collegiate Ministries",
+      "theme": "Spirituality",
+      "location": "Cape Florida Ballroom, Student Union 3rd Floor",
+      "date": "2026-10-22",
+      "start": "19:30",
+      "end": "21:00",
+      "blurb": "Come worship with us this Thursday!! \ud83e\udef6 We can&rsquo;t wait to spend the night praising Jesus and growing together in our faith! There&rsquo;s a seat saved for y",
+      "rsvps": 0,
+      "image": "https://se-images.campuslabs.com/clink/images/1853b252-820e-4446-9a7e-d5a3907c7c9b8c544486-66a9-4f4b-8c17-5bc7ff3ac91a.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12899618"
+    },
+    {
       "id": "12819829",
       "name": "Volunteering: Color-A-Smile",
       "org": "Pre-Student Osteopathic Medical Association",
@@ -1791,7 +1898,7 @@
       "start": "08:00",
       "end": "10:30",
       "blurb": "Habitat for Humanity builds & donates playhouses to local kids in the community. Broken down into three shifts, this event provides engaging experiences, guest ",
-      "rsvps": 8,
+      "rsvps": 9,
       "image": "https://se-images.campuslabs.com/clink/images/f0a91023-9dc8-4882-82e9-5e3f36eece060590d328-3f3d-4aa1-8897-af326c2da956.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12802072"
     },
@@ -1864,20 +1971,6 @@
       "rsvps": 2,
       "image": "https://se-images.campuslabs.com/clink/images/c9a38d49-68a9-4026-8546-5f30e87d39b1af2b734f-8276-4e23-8d01-4f626a8f7398.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12802565"
-    },
-    {
-      "id": "12006004",
-      "name": "Bible Study & Prayer",
-      "org": "Youth Evangelical Fellowship at University of Central Florida",
-      "theme": "Spirituality",
-      "location": "University of Central Florida ",
-      "date": "2026-10-23",
-      "start": "14:00",
-      "end": "15:00",
-      "blurb": "We welcome everyone to join us for our weekly Bible studies. Our goal is to truly understand what it means to live as a Christian and to love as Christ does. Du",
-      "rsvps": 1,
-      "image": "https://se-images.campuslabs.com/clink/images/fb2a34bd-a20c-453e-9f65-2ee15bcef22e61afe309-3e05-459a-ab78-57f9462c3180.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12006004"
     }
   ],
   "keyDates": [
@@ -3818,6 +3911,12 @@
       "changes": {},
       "title": "EGS 1006C Laboratory",
       "url": null,
+      "weather": {
+        "temp": 72,
+        "precip": 10,
+        "label": "Overcast",
+        "icon": "cloud"
+      },
       "courseTitle": "Intro to Engineering"
     },
     {
@@ -3834,6 +3933,12 @@
       "changes": {},
       "title": "ISC 2054 Seminar",
       "url": null,
+      "weather": {
+        "temp": 78,
+        "precip": 2,
+        "label": "Clear",
+        "icon": "sun"
+      },
       "courseTitle": "STEM Seminar"
     },
     {
@@ -3850,6 +3955,12 @@
       "changes": {},
       "title": "PHY 2048 Discussion",
       "url": null,
+      "weather": {
+        "temp": 62,
+        "precip": 0,
+        "label": "Partly cloudy",
+        "icon": "cloud"
+      },
       "courseTitle": "Physics: Mechanics"
     },
     {
@@ -3866,6 +3977,12 @@
       "changes": {},
       "title": "ENC 1101 Lecture",
       "url": null,
+      "weather": {
+        "temp": 70,
+        "precip": 0,
+        "label": "Clear",
+        "icon": "sun"
+      },
       "courseTitle": "Writing & Composition"
     },
     {
@@ -3882,6 +3999,12 @@
       "changes": {},
       "title": "MAC 2312 Lecture",
       "url": null,
+      "weather": {
+        "temp": 76,
+        "precip": 0,
+        "label": "Clear",
+        "icon": "sun"
+      },
       "courseTitle": "Calculus 2"
     },
     {
@@ -3898,6 +4021,12 @@
       "changes": {},
       "title": "PHY 2048 Lecture",
       "url": null,
+      "weather": {
+        "temp": 79,
+        "precip": 0,
+        "label": "Clear",
+        "icon": "sun"
+      },
       "courseTitle": "Physics: Mechanics"
     },
     {
@@ -3914,6 +4043,12 @@
       "changes": {},
       "title": "IDH 1920H Lecture",
       "url": null,
+      "weather": {
+        "temp": 78,
+        "precip": 0,
+        "label": "Clear",
+        "icon": "sun"
+      },
       "courseTitle": "Honors Symposium"
     },
     {
@@ -3930,6 +4065,12 @@
       "changes": {},
       "title": "IDH 1920H Lecture",
       "url": null,
+      "weather": {
+        "temp": 73,
+        "precip": 0,
+        "label": "Mostly clear",
+        "icon": "sun"
+      },
       "courseTitle": "Honors Symposium"
     },
     {
@@ -3946,6 +4087,12 @@
       "changes": {},
       "title": "ISC 2054 Seminar",
       "url": null,
+      "weather": {
+        "temp": 81,
+        "precip": 1,
+        "label": "Clear",
+        "icon": "sun"
+      },
       "courseTitle": "STEM Seminar"
     },
     {
@@ -3962,6 +4109,12 @@
       "changes": {},
       "title": "ENC 1101 Lecture",
       "url": null,
+      "weather": {
+        "temp": 74,
+        "precip": 1,
+        "label": "Clear",
+        "icon": "sun"
+      },
       "courseTitle": "Writing & Composition"
     },
     {
@@ -3978,6 +4131,12 @@
       "changes": {},
       "title": "MAC 2312 Lecture",
       "url": null,
+      "weather": {
+        "temp": 79,
+        "precip": 1,
+        "label": "Clear",
+        "icon": "sun"
+      },
       "courseTitle": "Calculus 2"
     },
     {
@@ -3994,6 +4153,12 @@
       "changes": {},
       "title": "PHY 2048 Lecture",
       "url": null,
+      "weather": {
+        "temp": 80,
+        "precip": 0,
+        "label": "Clear",
+        "icon": "sun"
+      },
       "courseTitle": "Physics: Mechanics"
     },
     {
@@ -4010,6 +4175,12 @@
       "changes": {},
       "title": "EGS 1006C Lecture",
       "url": null,
+      "weather": {
+        "temp": 65,
+        "precip": 0,
+        "label": "Clear",
+        "icon": "sun"
+      },
       "courseTitle": "Intro to Engineering"
     },
     {
@@ -4026,6 +4197,12 @@
       "changes": {},
       "title": "MAC 2312 Friday Lecture",
       "url": null,
+      "weather": {
+        "temp": 80,
+        "precip": 2,
+        "label": "Clear",
+        "icon": "sun"
+      },
       "courseTitle": "Calculus 2"
     },
     {
@@ -4042,6 +4219,12 @@
       "changes": {},
       "title": "PHY 2048L Laboratory",
       "url": null,
+      "weather": {
+        "temp": 76,
+        "precip": 19,
+        "label": "Partly cloudy",
+        "icon": "cloud"
+      },
       "courseTitle": "Physics Lab"
     },
     {
