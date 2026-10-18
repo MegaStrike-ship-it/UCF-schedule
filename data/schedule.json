@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T16:05:40.840030-04:00",
+  "generatedAt": "2026-10-18T18:45:05.475207-04:00",
   "term": {
     "name": "Fall 2026",
     "start": "2026-08-24",
@@ -89,8 +89,8 @@
   "weather": {
     "place": "UCF Orlando",
     "current": {
-      "temp": 78,
-      "feelsLike": 76,
+      "temp": 73,
+      "feelsLike": 74,
       "label": "Mostly clear",
       "icon": "sun",
       "isDay": true
@@ -98,21 +98,21 @@
     "days": [
       {
         "date": "2026-10-18",
-        "label": "Drizzle",
+        "label": "Light drizzle",
         "icon": "drizzle",
         "high": 81,
-        "low": 65,
-        "precip": 20,
+        "low": 66,
+        "precip": 26,
         "uv": 5,
         "sunrise": "07:27",
         "sunset": "18:51"
       },
       {
         "date": "2026-10-19",
-        "label": "Drizzle",
-        "icon": "drizzle",
+        "label": "Rain",
+        "icon": "rain",
         "high": 79,
-        "low": 63,
+        "low": 64,
         "precip": 20,
         "uv": 5,
         "sunrise": "07:28",
@@ -122,7 +122,7 @@
         "date": "2026-10-20",
         "label": "Overcast",
         "icon": "cloud",
-        "high": 80,
+        "high": 79,
         "low": 61,
         "precip": 0,
         "uv": 6,
@@ -135,7 +135,7 @@
         "icon": "cloud",
         "high": 81,
         "low": 63,
-        "precip": 1,
+        "precip": 3,
         "uv": 6,
         "sunrise": "07:29",
         "sunset": "18:48"
@@ -146,7 +146,7 @@
         "icon": "cloud",
         "high": 80,
         "low": 65,
-        "precip": 1,
+        "precip": 2,
         "uv": 6,
         "sunrise": "07:30",
         "sunset": "18:47"
@@ -157,7 +157,7 @@
         "icon": "cloud",
         "high": 80,
         "low": 65,
-        "precip": 3,
+        "precip": 6,
         "uv": 6,
         "sunrise": "07:30",
         "sunset": "18:47"
@@ -168,16 +168,16 @@
         "icon": "drizzle",
         "high": 79,
         "low": 71,
-        "precip": 41,
+        "precip": 44,
         "uv": 4,
         "sunrise": "07:31",
         "sunset": "18:46"
       }
     ],
     "air": {
-      "aqi": 50,
-      "label": "Good",
-      "pm25": 9.9
+      "aqi": 51,
+      "label": "Moderate",
+      "pm25": 13.0
     }
   },
   "severe": [],
@@ -319,34 +319,6 @@
       "rsvps": 0,
       "image": "https://se-images.campuslabs.com/clink/images/02ea1fa9-2709-469e-afe2-31e9a5d7a994c9bbc54b-ab00-4afc-9c5e-1971435d6e6b.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12850928"
-    },
-    {
-      "id": "12827931",
-      "name": "Healthy Kids Running Series: Week 4",
-      "org": "Volunteer UCF",
-      "theme": "CommunityService",
-      "location": "Long Lake Park ",
-      "date": "2026-10-18",
-      "start": "15:30",
-      "end": "18:00",
-      "blurb": "The Healthy Kids Running Series was created to motivate kids to lead a healthy, active lifestyle through running. They offer a 5-week program each season with v",
-      "rsvps": 11,
-      "image": "https://se-images.campuslabs.com/clink/images/9710fcad-60aa-40e9-9dcc-1886411941651840d956-214b-4c24-aa5b-1c895f6099c5.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12827931"
-    },
-    {
-      "id": "12877994",
-      "name": "AMA UCF Volunteer Event: Healthy Kids Running Series Event",
-      "org": "American Marketing Association at UCF",
-      "theme": "GroupBusiness",
-      "location": "Long Lake Park",
-      "date": "2026-10-18",
-      "start": "16:00",
-      "end": "18:00",
-      "blurb": "Help us give back at the Healthy Kids Running Series Volunteer Event at Long Lake Park, Oviedo and be part of a great community event! \ud83c\udfc3\ud83d\udc99\ud83d\udc9b \ud83d\udccd Location: Long Lake",
-      "rsvps": 0,
-      "image": "https://se-images.campuslabs.com/clink/images/bfd2f801-a57f-43ba-9a02-b252394466d69431818d-76c6-4c1f-87a8-880ce255170f.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12877994"
     },
     {
       "id": "12845532",
@@ -778,7 +750,7 @@
       "start": "16:30",
       "end": "18:00",
       "blurb": "\ud83d\udc7b Join us to make Teru Teru B\u014dzu !\ud83d\udc7b These ghastly fiends are actually weather talisman praying for good weather! Get creative and design your own using a variet",
-      "rsvps": 2,
+      "rsvps": 3,
       "image": "https://se-images.campuslabs.com/clink/images/f82d1b55-635a-434b-960b-bd52ef601c3079562fb6-23c7-49d3-9285-758d1c22714f.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12888061"
     },
@@ -1002,7 +974,7 @@
       "start": "18:30",
       "end": "21:30",
       "blurb": "Come one, come all, to oSTEMs Backrooms (2026) Watch Party! \"If you're not careful and you noclip out of reality in the wrong areas, you'll end up in the STEMro",
-      "rsvps": 17,
+      "rsvps": 19,
       "image": "https://se-images.campuslabs.com/clink/images/b58d943a-be0b-4c06-b21d-3d28801d425024f75f68-b796-488c-9bf8-e0f16734abab.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12867001"
     },
@@ -1128,7 +1100,7 @@
       "start": "11:00",
       "end": "13:00",
       "blurb": "Come get your free flu shot! Professionals with the Student Health Services are bringing mobile flu shot clinics to the student body.",
-      "rsvps": 3,
+      "rsvps": 4,
       "image": "https://se-images.campuslabs.com/clink/images/f5e65223-4a20-4e84-8716-68235b97350a2868095c-bb7e-4312-8591-6954c7622ea9.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12881296"
     },
@@ -1674,7 +1646,7 @@
       "start": "16:00",
       "end": "22:00",
       "blurb": "Welcome to Geek Knight Fall 26! Geek Knight is UCF&rsquo;s celebration of gaming, internet, cosplay, and all things nerd culture! Hosted by Esports at UCF , thi",
-      "rsvps": 127,
+      "rsvps": 129,
       "image": "https://se-images.campuslabs.com/clink/images/f4d7346b-1339-4220-b863-0bf1b698e8fc56357f15-0306-41b6-91f7-c9a37368c32f.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12876326"
     },
@@ -1707,20 +1679,6 @@
       "url": "https://ucf.campuslabs.com/engage/event/12899533"
     },
     {
-      "id": "12820796",
-      "name": "Professor Spotlight",
-      "org": "Association of Physics Students at University of Central Florida",
-      "theme": "ThoughtfulLearning",
-      "location": "PSB 160/161",
-      "date": "2026-10-22",
-      "start": "17:00",
-      "end": "18:00",
-      "blurb": "Get to know the professors who make up our physics community! Professor Spotlight gives students the opportunity to learn about faculty members, their research,",
-      "rsvps": 2,
-      "image": null,
-      "url": "https://ucf.campuslabs.com/engage/event/12820796"
-    },
-    {
       "id": "12895679",
       "name": "Pumpkin Spice & Business Advice",
       "org": "Entrepreneurship Club",
@@ -1733,6 +1691,20 @@
       "rsvps": 0,
       "image": "https://se-images.campuslabs.com/clink/images/8480ce68-09c3-4b0c-99b5-b8d13a79402e6b65960c-7bbe-41ca-a614-fe8a6da03104.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12895679"
+    },
+    {
+      "id": "12820796",
+      "name": "Professor Spotlight",
+      "org": "Association of Physics Students at University of Central Florida",
+      "theme": "ThoughtfulLearning",
+      "location": "PSB 160/161",
+      "date": "2026-10-22",
+      "start": "17:00",
+      "end": "18:00",
+      "blurb": "Get to know the professors who make up our physics community! Professor Spotlight gives students the opportunity to learn about faculty members, their research,",
+      "rsvps": 2,
+      "image": null,
+      "url": "https://ucf.campuslabs.com/engage/event/12820796"
     },
     {
       "id": "12888837",
@@ -1800,7 +1772,7 @@
       "start": "19:00",
       "end": "22:00",
       "blurb": "Get ready to turn up with Soulja Boy, the rapper and producer behind some of hip-hop&rsquo;s most iconic hits, including &ldquo;Crank That (Soulja Boy),&rdquo; ",
-      "rsvps": 13,
+      "rsvps": 15,
       "image": "https://se-images.campuslabs.com/clink/images/5bce8cd1-b58c-4d87-a82e-bc590a74df99b9ef758c-08a8-494d-a32f-5c0cc60cfaf5.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12708796"
     },
@@ -1971,6 +1943,34 @@
       "rsvps": 2,
       "image": "https://se-images.campuslabs.com/clink/images/c9a38d49-68a9-4026-8546-5f30e87d39b1af2b734f-8276-4e23-8d01-4f626a8f7398.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12802565"
+    },
+    {
+      "id": "12006004",
+      "name": "Bible Study & Prayer",
+      "org": "Youth Evangelical Fellowship at University of Central Florida",
+      "theme": "Spirituality",
+      "location": "University of Central Florida ",
+      "date": "2026-10-23",
+      "start": "14:00",
+      "end": "15:00",
+      "blurb": "We welcome everyone to join us for our weekly Bible studies. Our goal is to truly understand what it means to live as a Christian and to love as Christ does. Du",
+      "rsvps": 1,
+      "image": "https://se-images.campuslabs.com/clink/images/fb2a34bd-a20c-453e-9f65-2ee15bcef22e61afe309-3e05-459a-ab78-57f9462c3180.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12006004"
+    },
+    {
+      "id": "12807835",
+      "name": "Journaling and Mindfulness Practice",
+      "org": "Tower II Apartments",
+      "theme": "Arts",
+      "location": "Tower 2",
+      "date": "2026-10-23",
+      "start": "14:30",
+      "end": "15:30",
+      "blurb": "Start the year feeling organized, motivated, and ready to reach your goals! This event will give you the opportunity to plan and prepare for the year ahead whil",
+      "rsvps": 2,
+      "image": "https://se-images.campuslabs.com/clink/images/892ea6d3-f25a-41cc-b99f-123ce008731680a4bbd1-5781-426e-a2d6-d56cd5ac0c00.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12807835"
     }
   ],
   "keyDates": [
@@ -3912,10 +3912,10 @@
       "title": "EGS 1006C Laboratory",
       "url": null,
       "weather": {
-        "temp": 72,
-        "precip": 10,
-        "label": "Overcast",
-        "icon": "cloud"
+        "temp": 70,
+        "precip": 3,
+        "label": "Light drizzle",
+        "icon": "drizzle"
       },
       "courseTitle": "Intro to Engineering"
     },
@@ -3935,7 +3935,7 @@
       "url": null,
       "weather": {
         "temp": 78,
-        "precip": 2,
+        "precip": 6,
         "label": "Clear",
         "icon": "sun"
       },
@@ -4089,7 +4089,7 @@
       "url": null,
       "weather": {
         "temp": 81,
-        "precip": 1,
+        "precip": 3,
         "label": "Clear",
         "icon": "sun"
       },
@@ -4155,7 +4155,7 @@
       "url": null,
       "weather": {
         "temp": 80,
-        "precip": 0,
+        "precip": 2,
         "label": "Clear",
         "icon": "sun"
       },
@@ -4221,7 +4221,7 @@
       "url": null,
       "weather": {
         "temp": 76,
-        "precip": 19,
+        "precip": 30,
         "label": "Partly cloudy",
         "icon": "cloud"
       },
