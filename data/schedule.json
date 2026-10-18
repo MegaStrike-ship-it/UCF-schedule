@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T19:53:24.569988-04:00",
+  "generatedAt": "2026-10-18T09:45:57.147938-04:00",
   "term": {
     "name": "Fall 2026",
     "start": "2026-08-24",
@@ -89,32 +89,21 @@
   "weather": {
     "place": "UCF Orlando",
     "current": {
-      "temp": 68,
-      "feelsLike": 64,
-      "label": "Overcast",
-      "icon": "cloud",
-      "isDay": false
+      "temp": 75,
+      "feelsLike": 73,
+      "label": "Mostly clear",
+      "icon": "sun",
+      "isDay": true
     },
     "days": [
-      {
-        "date": "2026-10-17",
-        "label": "Drizzle",
-        "icon": "drizzle",
-        "high": 79,
-        "low": 66,
-        "precip": 49,
-        "uv": 2,
-        "sunrise": "07:26",
-        "sunset": "18:52"
-      },
       {
         "date": "2026-10-18",
         "label": "Overcast",
         "icon": "cloud",
         "high": 78,
-        "low": 63,
-        "precip": 10,
-        "uv": 5,
+        "low": 66,
+        "precip": 16,
+        "uv": 6,
         "sunrise": "07:27",
         "sunset": "18:51"
       },
@@ -123,9 +112,9 @@
         "label": "Overcast",
         "icon": "cloud",
         "high": 78,
-        "low": 67,
-        "precip": 26,
-        "uv": 6,
+        "low": 64,
+        "precip": 19,
+        "uv": 5,
         "sunrise": "07:28",
         "sunset": "18:50"
       },
@@ -133,29 +122,40 @@
         "date": "2026-10-20",
         "label": "Overcast",
         "icon": "cloud",
-        "high": 81,
-        "low": 63,
-        "precip": 3,
+        "high": 79,
+        "low": 64,
+        "precip": 0,
         "uv": 6,
         "sunrise": "07:28",
         "sunset": "18:49"
       },
       {
         "date": "2026-10-21",
-        "label": "Overcast",
-        "icon": "cloud",
-        "high": 81,
-        "low": 64,
+        "label": "Light drizzle",
+        "icon": "drizzle",
+        "high": 77,
+        "low": 68,
         "precip": 2,
-        "uv": 6,
+        "uv": 3,
         "sunrise": "07:29",
         "sunset": "18:48"
       },
       {
         "date": "2026-10-22",
+        "label": "Overcast",
+        "icon": "cloud",
+        "high": 80,
+        "low": 67,
+        "precip": 1,
+        "uv": 6,
+        "sunrise": "07:30",
+        "sunset": "18:47"
+      },
+      {
+        "date": "2026-10-23",
         "label": "Partly cloudy",
         "icon": "cloud",
-        "high": 81,
+        "high": 79,
         "low": 63,
         "precip": 2,
         "uv": 6,
@@ -163,21 +163,21 @@
         "sunset": "18:47"
       },
       {
-        "date": "2026-10-23",
-        "label": "Clear",
-        "icon": "sun",
-        "high": 79,
-        "low": 62,
-        "precip": 4,
-        "uv": 6,
-        "sunrise": "07:30",
-        "sunset": "18:47"
+        "date": "2026-10-24",
+        "label": "Showers",
+        "icon": "rain",
+        "high": 78,
+        "low": 67,
+        "precip": 30,
+        "uv": 5,
+        "sunrise": "07:31",
+        "sunset": "18:46"
       }
     ],
     "air": {
-      "aqi": 41,
+      "aqi": 50,
       "label": "Good",
-      "pm25": 5.8
+      "pm25": 7.2
     }
   },
   "severe": [],
@@ -292,34 +292,6 @@
     }
   ],
   "events": [
-    {
-      "id": "12863061",
-      "name": "Horse Plinko Cyber Challenge - REGISTER NOW! ",
-      "org": "Collegiate Cyber Defense Club",
-      "theme": "ThoughtfulLearning",
-      "location": "UCF Alumni Fairwinds Center",
-      "date": "2026-10-17",
-      "start": "09:00",
-      "end": "19:00",
-      "blurb": "The Horse Plinko Cyber Challenge 4 is on Oct 17th & Oct 18th (you compete on one day) , is almost 1 week away! &gt; Pssst, if you still need a team, make or joi",
-      "rsvps": 25,
-      "image": "https://se-images.campuslabs.com/clink/images/6e73b09b-27a4-49f4-b872-e98a409123d224a55030-b81a-4cfb-bd04-e2ed0461cccd.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12863061"
-    },
-    {
-      "id": "12588825",
-      "name": "Men's Soccer vs Old Dominion",
-      "org": "UCF Athletics",
-      "theme": "Athletics",
-      "location": "UCF Soccer Complex",
-      "date": "2026-10-17",
-      "start": "19:00",
-      "end": "21:00",
-      "blurb": "Come out for Soctober Fest and Senior Knight!",
-      "rsvps": 2,
-      "image": "https://se-images.campuslabs.com/clink/images/455ab955-8e3f-48c2-aafc-4860a79e49f260ed283e-e142-4695-a095-8015a9cf1598.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12588825"
-    },
     {
       "id": "12876173",
       "name": "Dare an Officer!",
@@ -582,7 +554,7 @@
       "start": "18:00",
       "end": "19:00",
       "blurb": "Come and enjoy smores and hot chocolate while getting into the fall spirit!",
-      "rsvps": 2,
+      "rsvps": 6,
       "image": "https://se-images.campuslabs.com/clink/images/4faf7772-f5bf-4839-8c6d-1a101b036de042fdc1ea-d8c0-46d3-a52f-2482d0502fde.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12828929"
     },
@@ -596,7 +568,7 @@
       "start": "18:30",
       "end": "19:30",
       "blurb": "When: Monday, October 19th, 6:30pm - 7:30pm Where: Trevor Colbourn Hall, Room 0203 About: Curious about the different settings where Speech-Language Pathologist",
-      "rsvps": 17,
+      "rsvps": 18,
       "image": "https://se-images.campuslabs.com/clink/images/f1b18cc4-e18b-4621-b518-35504bfb97794e83bbea-11d7-4c22-8325-ea6e0a81bce4.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12847665"
     },
@@ -1231,20 +1203,6 @@
       "url": "https://ucf.campuslabs.com/engage/event/12617063"
     },
     {
-      "id": "12517300",
-      "name": "Pride Chats",
-      "org": "LGBTQ+ Services",
-      "theme": "Cultural",
-      "location": "Pride Commons",
-      "date": "2026-10-21",
-      "start": "15:00",
-      "end": "16:00",
-      "blurb": "Join us for our monthly event where we cover a variety of topics relating to the LGBTQ+ community in a discussion-based format!",
-      "rsvps": 3,
-      "image": "https://se-images.campuslabs.com/clink/images/71ead241-0365-4927-a78e-349b237ba79e42a48eda-693d-457f-a48b-bbfabcb1ed1a.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12517300"
-    },
-    {
       "id": "12899420",
       "name": "Trick or Suite",
       "org": "Multicultural Student Center",
@@ -1257,6 +1215,20 @@
       "rsvps": 0,
       "image": "https://se-images.campuslabs.com/clink/images/df55f434-8e56-4357-ae01-5d1a78e93bc01b0c1a18-ac9e-4014-82a7-344a951ecd0c.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12899420"
+    },
+    {
+      "id": "12517300",
+      "name": "Pride Chats",
+      "org": "LGBTQ+ Services",
+      "theme": "Cultural",
+      "location": "Pride Commons",
+      "date": "2026-10-21",
+      "start": "15:00",
+      "end": "16:00",
+      "blurb": "Join us for our monthly event where we cover a variety of topics relating to the LGBTQ+ community in a discussion-based format!",
+      "rsvps": 4,
+      "image": "https://se-images.campuslabs.com/clink/images/71ead241-0365-4927-a78e-349b237ba79e42a48eda-693d-457f-a48b-bbfabcb1ed1a.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12517300"
     },
     {
       "id": "12551040",
@@ -1651,6 +1623,20 @@
       "url": "https://ucf.campuslabs.com/engage/event/12617851"
     },
     {
+      "id": "12006005",
+      "name": "Bible Study & Prayer",
+      "org": "Youth Evangelical Fellowship at University of Central Florida",
+      "theme": "Spirituality",
+      "location": "University of Central Florida ",
+      "date": "2026-10-22",
+      "start": "14:00",
+      "end": "15:00",
+      "blurb": "We welcome everyone to join us for our weekly Bible studies. Our goal is to truly understand what it means to live as a Christian and to love as Christ does. Du",
+      "rsvps": 0,
+      "image": "https://se-images.campuslabs.com/clink/images/fb2a34bd-a20c-453e-9f65-2ee15bcef22e61afe309-3e05-459a-ab78-57f9462c3180.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12006005"
+    },
+    {
       "id": "12551139",
       "name": "GAP Committee Meeting",
       "org": "Student Government Legislative Branch (Senate)",
@@ -1702,7 +1688,7 @@
       "start": "16:00",
       "end": "22:00",
       "blurb": "Welcome to Geek Knight Fall 26! Geek Knight is UCF&rsquo;s celebration of gaming, internet, cosplay, and all things nerd culture! Hosted by Esports at UCF , thi",
-      "rsvps": 126,
+      "rsvps": 127,
       "image": "https://se-images.campuslabs.com/clink/images/f4d7346b-1339-4220-b863-0bf1b698e8fc56357f15-0306-41b6-91f7-c9a37368c32f.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12876326"
     },
@@ -1721,18 +1707,18 @@
       "url": "https://ucf.campuslabs.com/engage/event/12551195"
     },
     {
-      "id": "12820796",
-      "name": "Professor Spotlight",
-      "org": "Association of Physics Students at University of Central Florida",
-      "theme": "ThoughtfulLearning",
-      "location": "PSB 160/161",
+      "id": "12899533",
+      "name": "Movie Night: Prince of Egypt",
+      "org": "Youth Evangelical Fellowship at University of Central Florida",
+      "theme": "Social",
+      "location": "University of Central Florida ",
       "date": "2026-10-22",
       "start": "17:00",
       "end": "18:00",
-      "blurb": "Get to know the professors who make up our physics community! Professor Spotlight gives students the opportunity to learn about faculty members, their research,",
-      "rsvps": 2,
-      "image": null,
-      "url": "https://ucf.campuslabs.com/engage/event/12820796"
+      "blurb": "Join Youth Evangelical Fellowship (YEF) for a special movie night as we watch The Prince of Egypt ! Enjoy popcorn, fellowship, and meaningful conversations as w",
+      "rsvps": 0,
+      "image": "https://se-images.campuslabs.com/clink/images/77db7c75-27e2-43bd-b220-7cea157faff2c0bc1011-845c-45f2-8a38-1d12850ab417.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12899533"
     },
     {
       "id": "12895679",
@@ -1747,6 +1733,20 @@
       "rsvps": 0,
       "image": "https://se-images.campuslabs.com/clink/images/8480ce68-09c3-4b0c-99b5-b8d13a79402e6b65960c-7bbe-41ca-a614-fe8a6da03104.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12895679"
+    },
+    {
+      "id": "12820796",
+      "name": "Professor Spotlight",
+      "org": "Association of Physics Students at University of Central Florida",
+      "theme": "ThoughtfulLearning",
+      "location": "PSB 160/161",
+      "date": "2026-10-22",
+      "start": "17:00",
+      "end": "18:00",
+      "blurb": "Get to know the professors who make up our physics community! Professor Spotlight gives students the opportunity to learn about faculty members, their research,",
+      "rsvps": 2,
+      "image": null,
+      "url": "https://ucf.campuslabs.com/engage/event/12820796"
     },
     {
       "id": "12888837",
@@ -3895,12 +3895,6 @@
       "changes": {},
       "title": "PHY 2048L Laboratory",
       "url": null,
-      "weather": {
-        "temp": 78,
-        "precip": 11,
-        "label": "Light drizzle",
-        "icon": "drizzle"
-      },
       "courseTitle": "Physics Lab"
     },
     {
@@ -3918,10 +3912,10 @@
       "title": "EGS 1006C Laboratory",
       "url": null,
       "weather": {
-        "temp": 72,
-        "precip": 18,
-        "label": "Overcast",
-        "icon": "cloud"
+        "temp": 73,
+        "precip": 4,
+        "label": "Mostly clear",
+        "icon": "sun"
       },
       "courseTitle": "Intro to Engineering"
     },
@@ -3940,10 +3934,10 @@
       "title": "ISC 2054 Seminar",
       "url": null,
       "weather": {
-        "temp": 75,
-        "precip": 4,
-        "label": "Overcast",
-        "icon": "cloud"
+        "temp": 78,
+        "precip": 1,
+        "label": "Clear",
+        "icon": "sun"
       },
       "courseTitle": "STEM Seminar"
     },
@@ -3962,9 +3956,9 @@
       "title": "PHY 2048 Discussion",
       "url": null,
       "weather": {
-        "temp": 63,
+        "temp": 68,
         "precip": 0,
-        "label": "Partly cloudy",
+        "label": "Overcast",
         "icon": "cloud"
       },
       "courseTitle": "Physics: Mechanics"
@@ -3984,10 +3978,10 @@
       "title": "ENC 1101 Lecture",
       "url": null,
       "weather": {
-        "temp": 70,
-        "precip": 1,
-        "label": "Clear",
-        "icon": "sun"
+        "temp": 69,
+        "precip": 0,
+        "label": "Overcast",
+        "icon": "cloud"
       },
       "courseTitle": "Writing & Composition"
     },
@@ -4006,10 +4000,10 @@
       "title": "MAC 2312 Lecture",
       "url": null,
       "weather": {
-        "temp": 79,
-        "precip": 1,
-        "label": "Clear",
-        "icon": "sun"
+        "temp": 74,
+        "precip": 0,
+        "label": "Overcast",
+        "icon": "cloud"
       },
       "courseTitle": "Calculus 2"
     },
@@ -4028,10 +4022,10 @@
       "title": "PHY 2048 Lecture",
       "url": null,
       "weather": {
-        "temp": 81,
-        "precip": 1,
-        "label": "Clear",
-        "icon": "sun"
+        "temp": 79,
+        "precip": 0,
+        "label": "Partly cloudy",
+        "icon": "cloud"
       },
       "courseTitle": "Physics: Mechanics"
     },
@@ -4050,8 +4044,8 @@
       "title": "IDH 1920H Lecture",
       "url": null,
       "weather": {
-        "temp": 79,
-        "precip": 1,
+        "temp": 77,
+        "precip": 0,
         "label": "Clear",
         "icon": "sun"
       },
@@ -4072,10 +4066,10 @@
       "title": "IDH 1920H Lecture",
       "url": null,
       "weather": {
-        "temp": 74,
-        "precip": 1,
-        "label": "Clear",
-        "icon": "sun"
+        "temp": 73,
+        "precip": 0,
+        "label": "Partly cloudy",
+        "icon": "cloud"
       },
       "courseTitle": "Honors Symposium"
     },
@@ -4094,10 +4088,10 @@
       "title": "ISC 2054 Seminar",
       "url": null,
       "weather": {
-        "temp": 81,
+        "temp": 77,
         "precip": 2,
-        "label": "Clear",
-        "icon": "sun"
+        "label": "Overcast",
+        "icon": "cloud"
       },
       "courseTitle": "STEM Seminar"
     },
@@ -4116,7 +4110,7 @@
       "title": "ENC 1101 Lecture",
       "url": null,
       "weather": {
-        "temp": 72,
+        "temp": 74,
         "precip": 1,
         "label": "Clear",
         "icon": "sun"
@@ -4161,7 +4155,7 @@
       "url": null,
       "weather": {
         "temp": 80,
-        "precip": 2,
+        "precip": 0,
         "label": "Clear",
         "icon": "sun"
       },
@@ -4182,7 +4176,7 @@
       "title": "EGS 1006C Lecture",
       "url": null,
       "weather": {
-        "temp": 63,
+        "temp": 64,
         "precip": 0,
         "label": "Clear",
         "icon": "sun"
@@ -4205,7 +4199,7 @@
       "url": null,
       "weather": {
         "temp": 78,
-        "precip": 3,
+        "precip": 1,
         "label": "Clear",
         "icon": "sun"
       },
@@ -4225,6 +4219,12 @@
       "changes": {},
       "title": "PHY 2048L Laboratory",
       "url": null,
+      "weather": {
+        "temp": 76,
+        "precip": 26,
+        "label": "Light drizzle",
+        "icon": "drizzle"
+      },
       "courseTitle": "Physics Lab"
     },
     {
@@ -5401,15 +5401,6 @@
       "url": "https://webcourses.ucf.edu/calendar?include_contexts=course_1521509&month=09&year=2026#assignment_9701117"
     },
     {
-      "course": "EGS 1006C",
-      "courseTitle": "Intro to Engineering",
-      "title": "Attendance Quiz - Week 4 (9/18/26)",
-      "dueAt": "2026-09-18T09:30:00-04:00",
-      "points": null,
-      "overdue": true,
-      "url": "https://webcourses.ucf.edu/calendar?include_contexts=course_1519775&month=09&year=2026#assignment_9726825"
-    },
-    {
       "course": "ENC 1101",
       "courseTitle": "Writing & Composition",
       "title": "Week 4: Student-Instructor Conference",
@@ -5741,6 +5732,15 @@
       "points": null,
       "overdue": true,
       "url": "https://webcourses.ucf.edu/calendar?include_contexts=course_1521509&month=10&year=2026#assignment_9737152"
+    },
+    {
+      "course": "PHY 2048",
+      "courseTitle": "Physics: Mechanics",
+      "title": "Start of semester knowledge assessment - Requires Respondus LockDown Browser + Webcam",
+      "dueAt": "2026-10-09T00:00:00-04:00",
+      "points": null,
+      "overdue": true,
+      "url": "https://webcourses.ucf.edu/calendar?include_contexts=course_1523212&month=10&year=2026#assignment_9685476"
     }
   ],
   "recentChanges": []
