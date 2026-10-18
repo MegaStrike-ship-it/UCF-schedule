@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T09:45:57.147938-04:00",
+  "generatedAt": "2026-10-18T13:03:58.809342-04:00",
   "term": {
     "name": "Fall 2026",
     "start": "2026-08-24",
@@ -86,100 +86,7 @@
       "url": null
     }
   ],
-  "weather": {
-    "place": "UCF Orlando",
-    "current": {
-      "temp": 75,
-      "feelsLike": 73,
-      "label": "Mostly clear",
-      "icon": "sun",
-      "isDay": true
-    },
-    "days": [
-      {
-        "date": "2026-10-18",
-        "label": "Overcast",
-        "icon": "cloud",
-        "high": 78,
-        "low": 66,
-        "precip": 16,
-        "uv": 6,
-        "sunrise": "07:27",
-        "sunset": "18:51"
-      },
-      {
-        "date": "2026-10-19",
-        "label": "Overcast",
-        "icon": "cloud",
-        "high": 78,
-        "low": 64,
-        "precip": 19,
-        "uv": 5,
-        "sunrise": "07:28",
-        "sunset": "18:50"
-      },
-      {
-        "date": "2026-10-20",
-        "label": "Overcast",
-        "icon": "cloud",
-        "high": 79,
-        "low": 64,
-        "precip": 0,
-        "uv": 6,
-        "sunrise": "07:28",
-        "sunset": "18:49"
-      },
-      {
-        "date": "2026-10-21",
-        "label": "Light drizzle",
-        "icon": "drizzle",
-        "high": 77,
-        "low": 68,
-        "precip": 2,
-        "uv": 3,
-        "sunrise": "07:29",
-        "sunset": "18:48"
-      },
-      {
-        "date": "2026-10-22",
-        "label": "Overcast",
-        "icon": "cloud",
-        "high": 80,
-        "low": 67,
-        "precip": 1,
-        "uv": 6,
-        "sunrise": "07:30",
-        "sunset": "18:47"
-      },
-      {
-        "date": "2026-10-23",
-        "label": "Partly cloudy",
-        "icon": "cloud",
-        "high": 79,
-        "low": 63,
-        "precip": 2,
-        "uv": 6,
-        "sunrise": "07:30",
-        "sunset": "18:47"
-      },
-      {
-        "date": "2026-10-24",
-        "label": "Showers",
-        "icon": "rain",
-        "high": 78,
-        "low": 67,
-        "precip": 30,
-        "uv": 5,
-        "sunrise": "07:31",
-        "sunset": "18:46"
-      }
-    ],
-    "air": {
-      "aqi": 50,
-      "label": "Good",
-      "pm25": 7.2
-    }
-  },
+  "weather": null,
   "severe": [],
   "football": [
     {
@@ -321,20 +228,6 @@
       "url": "https://ucf.campuslabs.com/engage/event/12850928"
     },
     {
-      "id": "12614732",
-      "name": "Sunday Worship with Wesley at UCF",
-      "org": "Wesley at UCF",
-      "theme": "Spirituality",
-      "location": "Faith UMC",
-      "date": "2026-10-18",
-      "start": "10:00",
-      "end": "11:30",
-      "blurb": "Join us for Faith UMC's Weekly church service every sunday at 10:00 am! Our director Erwin Lopez serves as the pastor, and all are welcome. If you are looking f",
-      "rsvps": 0,
-      "image": "https://se-images.campuslabs.com/clink/images/05ce9c70-ef83-4a92-8492-d16465dbddd6f719d2b3-18d8-4499-922b-f4f29e66b693.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12614732"
-    },
-    {
       "id": "12881088",
       "name": "Sunday Mass ",
       "org": "Catholic Campus Ministry",
@@ -358,7 +251,7 @@
       "start": "15:30",
       "end": "18:00",
       "blurb": "The Healthy Kids Running Series was created to motivate kids to lead a healthy, active lifestyle through running. They offer a 5-week program each season with v",
-      "rsvps": 13,
+      "rsvps": 11,
       "image": "https://se-images.campuslabs.com/clink/images/9710fcad-60aa-40e9-9dcc-1886411941651840d956-214b-4c24-aa5b-1c895f6099c5.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12827931"
     },
@@ -624,7 +517,7 @@
       "start": "19:30",
       "end": "20:30",
       "blurb": "Ready to turn your ambition into opportunity? Join us this coming Monday where we will be hosting Sarah Harrington, a Campus Recruiter from Withum. She will be ",
-      "rsvps": 12,
+      "rsvps": 13,
       "image": "https://se-images.campuslabs.com/clink/images/0e2d6de2-410c-4a49-a5b1-251132cc633b05b365d4-b12d-49c7-a5e1-747800a64355.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12893710"
     },
@@ -1170,7 +1063,7 @@
       "start": "12:15",
       "end": "13:15",
       "blurb": "Join the Arboretum Public Garden Management team in our beautiful Arboretum Public Garden, maintaining the various gardens by weeding, mulching, propagating, pl",
-      "rsvps": 9,
+      "rsvps": 10,
       "image": "https://se-images.campuslabs.com/clink/images/0578275a-7dc3-42b6-9ec6-5f076dc10385a38cacb4-f7d1-450a-9589-f1ca5303933c.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12816557"
     },
@@ -1721,20 +1614,6 @@
       "url": "https://ucf.campuslabs.com/engage/event/12899533"
     },
     {
-      "id": "12895679",
-      "name": "Pumpkin Spice & Business Advice",
-      "org": "Entrepreneurship Club",
-      "theme": "Social",
-      "location": "Student Union | Room 223",
-      "date": "2026-10-22",
-      "start": "17:00",
-      "end": "18:30",
-      "blurb": "Join the UCF Entrepreneurship Club for Pumpkin Spice & Business Advice! \ud83c\udf83\ud83c\udf42 Enjoy an evening of sweet treats, music, networking, and meaningful conversations whi",
-      "rsvps": 0,
-      "image": "https://se-images.campuslabs.com/clink/images/8480ce68-09c3-4b0c-99b5-b8d13a79402e6b65960c-7bbe-41ca-a614-fe8a6da03104.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12895679"
-    },
-    {
       "id": "12820796",
       "name": "Professor Spotlight",
       "org": "Association of Physics Students at University of Central Florida",
@@ -1747,6 +1626,20 @@
       "rsvps": 2,
       "image": null,
       "url": "https://ucf.campuslabs.com/engage/event/12820796"
+    },
+    {
+      "id": "12895679",
+      "name": "Pumpkin Spice & Business Advice",
+      "org": "Entrepreneurship Club",
+      "theme": "Social",
+      "location": "Student Union | Room 223",
+      "date": "2026-10-22",
+      "start": "17:00",
+      "end": "18:30",
+      "blurb": "Join the UCF Entrepreneurship Club for Pumpkin Spice & Business Advice! \ud83c\udf83\ud83c\udf42 Enjoy an evening of sweet treats, music, networking, and meaningful conversations whi",
+      "rsvps": 0,
+      "image": "https://se-images.campuslabs.com/clink/images/8480ce68-09c3-4b0c-99b5-b8d13a79402e6b65960c-7bbe-41ca-a614-fe8a6da03104.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12895679"
     },
     {
       "id": "12888837",
@@ -1940,7 +1833,7 @@
       "start": "11:30",
       "end": "13:00",
       "blurb": "Come join us and get your hands dirty in our community garden! We will be doing tasks such as weeding, mulching, planting, harvesting and many other tasks that ",
-      "rsvps": 3,
+      "rsvps": 4,
       "image": "https://se-images.campuslabs.com/clink/images/67246690-4c5c-409f-b4fa-0dd37d8d8eb9a0a98af2-5415-418a-8969-e5f65166b2c6.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12855362"
     },
@@ -1971,6 +1864,20 @@
       "rsvps": 2,
       "image": "https://se-images.campuslabs.com/clink/images/c9a38d49-68a9-4026-8546-5f30e87d39b1af2b734f-8276-4e23-8d01-4f626a8f7398.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12802565"
+    },
+    {
+      "id": "12006004",
+      "name": "Bible Study & Prayer",
+      "org": "Youth Evangelical Fellowship at University of Central Florida",
+      "theme": "Spirituality",
+      "location": "University of Central Florida ",
+      "date": "2026-10-23",
+      "start": "14:00",
+      "end": "15:00",
+      "blurb": "We welcome everyone to join us for our weekly Bible studies. Our goal is to truly understand what it means to live as a Christian and to love as Christ does. Du",
+      "rsvps": 1,
+      "image": "https://se-images.campuslabs.com/clink/images/fb2a34bd-a20c-453e-9f65-2ee15bcef22e61afe309-3e05-459a-ab78-57f9462c3180.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12006004"
     }
   ],
   "keyDates": [
@@ -3911,12 +3818,6 @@
       "changes": {},
       "title": "EGS 1006C Laboratory",
       "url": null,
-      "weather": {
-        "temp": 73,
-        "precip": 4,
-        "label": "Mostly clear",
-        "icon": "sun"
-      },
       "courseTitle": "Intro to Engineering"
     },
     {
@@ -3933,12 +3834,6 @@
       "changes": {},
       "title": "ISC 2054 Seminar",
       "url": null,
-      "weather": {
-        "temp": 78,
-        "precip": 1,
-        "label": "Clear",
-        "icon": "sun"
-      },
       "courseTitle": "STEM Seminar"
     },
     {
@@ -3955,12 +3850,6 @@
       "changes": {},
       "title": "PHY 2048 Discussion",
       "url": null,
-      "weather": {
-        "temp": 68,
-        "precip": 0,
-        "label": "Overcast",
-        "icon": "cloud"
-      },
       "courseTitle": "Physics: Mechanics"
     },
     {
@@ -3977,12 +3866,6 @@
       "changes": {},
       "title": "ENC 1101 Lecture",
       "url": null,
-      "weather": {
-        "temp": 69,
-        "precip": 0,
-        "label": "Overcast",
-        "icon": "cloud"
-      },
       "courseTitle": "Writing & Composition"
     },
     {
@@ -3999,12 +3882,6 @@
       "changes": {},
       "title": "MAC 2312 Lecture",
       "url": null,
-      "weather": {
-        "temp": 74,
-        "precip": 0,
-        "label": "Overcast",
-        "icon": "cloud"
-      },
       "courseTitle": "Calculus 2"
     },
     {
@@ -4021,12 +3898,6 @@
       "changes": {},
       "title": "PHY 2048 Lecture",
       "url": null,
-      "weather": {
-        "temp": 79,
-        "precip": 0,
-        "label": "Partly cloudy",
-        "icon": "cloud"
-      },
       "courseTitle": "Physics: Mechanics"
     },
     {
@@ -4043,12 +3914,6 @@
       "changes": {},
       "title": "IDH 1920H Lecture",
       "url": null,
-      "weather": {
-        "temp": 77,
-        "precip": 0,
-        "label": "Clear",
-        "icon": "sun"
-      },
       "courseTitle": "Honors Symposium"
     },
     {
@@ -4065,12 +3930,6 @@
       "changes": {},
       "title": "IDH 1920H Lecture",
       "url": null,
-      "weather": {
-        "temp": 73,
-        "precip": 0,
-        "label": "Partly cloudy",
-        "icon": "cloud"
-      },
       "courseTitle": "Honors Symposium"
     },
     {
@@ -4087,12 +3946,6 @@
       "changes": {},
       "title": "ISC 2054 Seminar",
       "url": null,
-      "weather": {
-        "temp": 77,
-        "precip": 2,
-        "label": "Overcast",
-        "icon": "cloud"
-      },
       "courseTitle": "STEM Seminar"
     },
     {
@@ -4109,12 +3962,6 @@
       "changes": {},
       "title": "ENC 1101 Lecture",
       "url": null,
-      "weather": {
-        "temp": 74,
-        "precip": 1,
-        "label": "Clear",
-        "icon": "sun"
-      },
       "courseTitle": "Writing & Composition"
     },
     {
@@ -4131,12 +3978,6 @@
       "changes": {},
       "title": "MAC 2312 Lecture",
       "url": null,
-      "weather": {
-        "temp": 79,
-        "precip": 1,
-        "label": "Clear",
-        "icon": "sun"
-      },
       "courseTitle": "Calculus 2"
     },
     {
@@ -4153,12 +3994,6 @@
       "changes": {},
       "title": "PHY 2048 Lecture",
       "url": null,
-      "weather": {
-        "temp": 80,
-        "precip": 0,
-        "label": "Clear",
-        "icon": "sun"
-      },
       "courseTitle": "Physics: Mechanics"
     },
     {
@@ -4175,12 +4010,6 @@
       "changes": {},
       "title": "EGS 1006C Lecture",
       "url": null,
-      "weather": {
-        "temp": 64,
-        "precip": 0,
-        "label": "Clear",
-        "icon": "sun"
-      },
       "courseTitle": "Intro to Engineering"
     },
     {
@@ -4197,12 +4026,6 @@
       "changes": {},
       "title": "MAC 2312 Friday Lecture",
       "url": null,
-      "weather": {
-        "temp": 78,
-        "precip": 1,
-        "label": "Clear",
-        "icon": "sun"
-      },
       "courseTitle": "Calculus 2"
     },
     {
@@ -4219,12 +4042,6 @@
       "changes": {},
       "title": "PHY 2048L Laboratory",
       "url": null,
-      "weather": {
-        "temp": 76,
-        "precip": 26,
-        "label": "Light drizzle",
-        "icon": "drizzle"
-      },
       "courseTitle": "Physics Lab"
     },
     {
