@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T18:45:05.475207-04:00",
+  "generatedAt": "2026-10-18T20:47:52.793983-04:00",
   "term": {
     "name": "Fall 2026",
     "start": "2026-08-24",
@@ -89,31 +89,31 @@
   "weather": {
     "place": "UCF Orlando",
     "current": {
-      "temp": 73,
-      "feelsLike": 74,
-      "label": "Mostly clear",
-      "icon": "sun",
-      "isDay": true
+      "temp": 70,
+      "feelsLike": 73,
+      "label": "Overcast",
+      "icon": "cloud",
+      "isDay": false
     },
     "days": [
       {
         "date": "2026-10-18",
-        "label": "Light drizzle",
-        "icon": "drizzle",
+        "label": "Overcast",
+        "icon": "cloud",
         "high": 81,
-        "low": 66,
-        "precip": 26,
+        "low": 65,
+        "precip": 24,
         "uv": 5,
         "sunrise": "07:27",
         "sunset": "18:51"
       },
       {
         "date": "2026-10-19",
-        "label": "Rain",
-        "icon": "rain",
-        "high": 79,
-        "low": 64,
-        "precip": 20,
+        "label": "Drizzle",
+        "icon": "drizzle",
+        "high": 80,
+        "low": 63,
+        "precip": 27,
         "uv": 5,
         "sunrise": "07:28",
         "sunset": "18:50"
@@ -134,7 +134,7 @@
         "label": "Overcast",
         "icon": "cloud",
         "high": 81,
-        "low": 63,
+        "low": 62,
         "precip": 3,
         "uv": 6,
         "sunrise": "07:29",
@@ -142,10 +142,10 @@
       },
       {
         "date": "2026-10-22",
-        "label": "Overcast",
-        "icon": "cloud",
+        "label": "Clear",
+        "icon": "sun",
         "high": 80,
-        "low": 65,
+        "low": 64,
         "precip": 2,
         "uv": 6,
         "sunrise": "07:30",
@@ -156,7 +156,7 @@
         "label": "Partly cloudy",
         "icon": "cloud",
         "high": 80,
-        "low": 65,
+        "low": 63,
         "precip": 6,
         "uv": 6,
         "sunrise": "07:30",
@@ -164,20 +164,20 @@
       },
       {
         "date": "2026-10-24",
-        "label": "Light drizzle",
+        "label": "Drizzle",
         "icon": "drizzle",
-        "high": 79,
-        "low": 71,
+        "high": 77,
+        "low": 68,
         "precip": 44,
-        "uv": 4,
+        "uv": 5,
         "sunrise": "07:31",
         "sunset": "18:46"
       }
     ],
     "air": {
-      "aqi": 51,
+      "aqi": 52,
       "label": "Moderate",
-      "pm25": 13.0
+      "pm25": 10.8
     }
   },
   "severe": [],
@@ -305,34 +305,6 @@
       "rsvps": 0,
       "image": "https://se-images.campuslabs.com/clink/images/cf46423b-956a-48ad-a096-17661c54e499a37d64cc-48b1-46c0-8a40-789274e83a1f.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12876173"
-    },
-    {
-      "id": "12850928",
-      "name": "4th Annual Ergathon Fundraiser (2026)",
-      "org": "Rowing Club @ UCF",
-      "theme": "Fundraising",
-      "location": "Online",
-      "date": "2026-10-18",
-      "start": "08:00",
-      "end": "20:00",
-      "blurb": "We&rsquo;re excited to announce that our biggest fundraiser of the fall semester, Ergathon, is here and the donation link is open! The event will occur on Octob",
-      "rsvps": 0,
-      "image": "https://se-images.campuslabs.com/clink/images/02ea1fa9-2709-469e-afe2-31e9a5d7a994c9bbc54b-ab00-4afc-9c5e-1971435d6e6b.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12850928"
-    },
-    {
-      "id": "12845532",
-      "name": "Chalk it Out",
-      "org": "Towers I Apartments",
-      "theme": "Social",
-      "location": "Tower 1",
-      "date": "2026-10-18",
-      "start": "18:15",
-      "end": "19:45",
-      "blurb": "Enjoy drinks and ice pops while putting your creative touch on our sidewalks!",
-      "rsvps": 2,
-      "image": "https://se-images.campuslabs.com/clink/images/81d5be09-5ea0-443d-a6e0-06930b2e5de2ac6df821-ce4b-4dad-95aa-0ed3a8ea508b.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12845532"
     },
     {
       "id": "12897751",
@@ -531,6 +503,20 @@
       "url": "https://ucf.campuslabs.com/engage/event/12677823"
     },
     {
+      "id": "12899835",
+      "name": "NFL CBA MIDSEASON RECAP Workshops 1\u20133",
+      "org": "Sport Law and Negotiation Society",
+      "theme": "ThoughtfulLearning",
+      "location": "Room PSY 0111",
+      "date": "2026-10-19",
+      "start": "18:30",
+      "end": "19:30",
+      "blurb": "NFL CBA MIDSEASON RECAP Workshops 1&ndash;3 Join the UCF Sport Law & Negotiation Society for our NFL CBA Midseason Recap , bringing together the key concepts fr",
+      "rsvps": 0,
+      "image": "https://se-images.campuslabs.com/clink/images/c273713a-3b6e-49ef-8cd1-afdb66ae3b7035b38e15-1744-43af-97ef-074b31cf5fd1.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12899835"
+    },
+    {
       "id": "12578734",
       "name": "Meditation Monday",
       "org": "Bhakti Yoga Club ",
@@ -585,6 +571,20 @@
       "rsvps": 1,
       "image": "https://se-images.campuslabs.com/clink/images/bee5f377-2437-459f-8858-06f3e3ed98cac9feab6d-517d-493e-acbc-6203ad18729d.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12519684"
+    },
+    {
+      "id": "12899834",
+      "name": "NBA CBA Workshop #5 - Mid-Semester Recap!",
+      "org": "Sport Law and Negotiation Society",
+      "theme": "ThoughtfulLearning",
+      "location": "Psychology Building Room 111",
+      "date": "2026-10-19",
+      "start": "19:30",
+      "end": "20:30",
+      "blurb": "Join us for NBA Workshop #5 from 7:30&ndash;8:30 PM, Monday, October 19th, in PSYCH 111! We&rsquo;ll review everything we&rsquo;ve covered so far this semester,",
+      "rsvps": 0,
+      "image": null,
+      "url": "https://ucf.campuslabs.com/engage/event/12899834"
     },
     {
       "id": "12816556",
@@ -1357,6 +1357,20 @@
       "url": "https://ucf.campuslabs.com/engage/event/12824440"
     },
     {
+      "id": "12899828",
+      "name": "FES Fall Intern Panel",
+      "org": "Florida Engineering Society",
+      "theme": "ThoughtfulLearning",
+      "location": "ENG1 288",
+      "date": "2026-10-21",
+      "start": "18:30",
+      "end": "19:30",
+      "blurb": "Wondering how to land your first internship? Join the Florida Engineering Society for our Fall Intern Panel! Get insider advice, hear real experiences, and ask ",
+      "rsvps": 1,
+      "image": "https://se-images.campuslabs.com/clink/images/cad93991-5d70-400f-89ab-c9800ba237cce5005532-afe5-467b-a4d9-e4f535a5f248.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12899828"
+    },
+    {
       "id": "12898559",
       "name": "celebrate Dashain",
       "org": "Nepalese Student Association",
@@ -1679,20 +1693,6 @@
       "url": "https://ucf.campuslabs.com/engage/event/12899533"
     },
     {
-      "id": "12895679",
-      "name": "Pumpkin Spice & Business Advice",
-      "org": "Entrepreneurship Club",
-      "theme": "Social",
-      "location": "Student Union | Room 223",
-      "date": "2026-10-22",
-      "start": "17:00",
-      "end": "18:30",
-      "blurb": "Join the UCF Entrepreneurship Club for Pumpkin Spice & Business Advice! \ud83c\udf83\ud83c\udf42 Enjoy an evening of sweet treats, music, networking, and meaningful conversations whi",
-      "rsvps": 0,
-      "image": "https://se-images.campuslabs.com/clink/images/8480ce68-09c3-4b0c-99b5-b8d13a79402e6b65960c-7bbe-41ca-a614-fe8a6da03104.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12895679"
-    },
-    {
       "id": "12820796",
       "name": "Professor Spotlight",
       "org": "Association of Physics Students at University of Central Florida",
@@ -1705,6 +1705,20 @@
       "rsvps": 2,
       "image": null,
       "url": "https://ucf.campuslabs.com/engage/event/12820796"
+    },
+    {
+      "id": "12895679",
+      "name": "Pumpkin Spice & Business Advice",
+      "org": "Entrepreneurship Club",
+      "theme": "Social",
+      "location": "Student Union | Room 223",
+      "date": "2026-10-22",
+      "start": "17:00",
+      "end": "18:30",
+      "blurb": "Join the UCF Entrepreneurship Club for Pumpkin Spice & Business Advice! \ud83c\udf83\ud83c\udf42 Enjoy an evening of sweet treats, music, networking, and meaningful conversations whi",
+      "rsvps": 0,
+      "image": "https://se-images.campuslabs.com/clink/images/8480ce68-09c3-4b0c-99b5-b8d13a79402e6b65960c-7bbe-41ca-a614-fe8a6da03104.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12895679"
     },
     {
       "id": "12888837",
@@ -1957,20 +1971,6 @@
       "rsvps": 1,
       "image": "https://se-images.campuslabs.com/clink/images/fb2a34bd-a20c-453e-9f65-2ee15bcef22e61afe309-3e05-459a-ab78-57f9462c3180.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12006004"
-    },
-    {
-      "id": "12807835",
-      "name": "Journaling and Mindfulness Practice",
-      "org": "Tower II Apartments",
-      "theme": "Arts",
-      "location": "Tower 2",
-      "date": "2026-10-23",
-      "start": "14:30",
-      "end": "15:30",
-      "blurb": "Start the year feeling organized, motivated, and ready to reach your goals! This event will give you the opportunity to plan and prepare for the year ahead whil",
-      "rsvps": 2,
-      "image": "https://se-images.campuslabs.com/clink/images/892ea6d3-f25a-41cc-b99f-123ce008731680a4bbd1-5781-426e-a2d6-d56cd5ac0c00.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12807835"
     }
   ],
   "keyDates": [
@@ -3913,9 +3913,9 @@
       "url": null,
       "weather": {
         "temp": 70,
-        "precip": 3,
-        "label": "Light drizzle",
-        "icon": "drizzle"
+        "precip": 14,
+        "label": "Mostly clear",
+        "icon": "sun"
       },
       "courseTitle": "Intro to Engineering"
     },
@@ -3935,7 +3935,7 @@
       "url": null,
       "weather": {
         "temp": 78,
-        "precip": 6,
+        "precip": 11,
         "label": "Clear",
         "icon": "sun"
       },
@@ -4022,7 +4022,7 @@
       "title": "PHY 2048 Lecture",
       "url": null,
       "weather": {
-        "temp": 79,
+        "temp": 78,
         "precip": 0,
         "label": "Clear",
         "icon": "sun"
@@ -4044,7 +4044,7 @@
       "title": "IDH 1920H Lecture",
       "url": null,
       "weather": {
-        "temp": 78,
+        "temp": 77,
         "precip": 0,
         "label": "Clear",
         "icon": "sun"
@@ -4066,9 +4066,9 @@
       "title": "IDH 1920H Lecture",
       "url": null,
       "weather": {
-        "temp": 73,
+        "temp": 72,
         "precip": 0,
-        "label": "Mostly clear",
+        "label": "Clear",
         "icon": "sun"
       },
       "courseTitle": "Honors Symposium"
@@ -4088,10 +4088,10 @@
       "title": "ISC 2054 Seminar",
       "url": null,
       "weather": {
-        "temp": 81,
+        "temp": 79,
         "precip": 3,
-        "label": "Clear",
-        "icon": "sun"
+        "label": "Overcast",
+        "icon": "cloud"
       },
       "courseTitle": "STEM Seminar"
     },
@@ -4132,7 +4132,7 @@
       "title": "MAC 2312 Lecture",
       "url": null,
       "weather": {
-        "temp": 79,
+        "temp": 78,
         "precip": 1,
         "label": "Clear",
         "icon": "sun"
@@ -4176,7 +4176,7 @@
       "title": "EGS 1006C Lecture",
       "url": null,
       "weather": {
-        "temp": 65,
+        "temp": 63,
         "precip": 0,
         "label": "Clear",
         "icon": "sun"
@@ -4198,7 +4198,7 @@
       "title": "MAC 2312 Friday Lecture",
       "url": null,
       "weather": {
-        "temp": 80,
+        "temp": 78,
         "precip": 2,
         "label": "Clear",
         "icon": "sun"
@@ -4222,8 +4222,8 @@
       "weather": {
         "temp": 76,
         "precip": 30,
-        "label": "Partly cloudy",
-        "icon": "cloud"
+        "label": "Drizzle",
+        "icon": "drizzle"
       },
       "courseTitle": "Physics Lab"
     },
