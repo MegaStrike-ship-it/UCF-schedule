@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T09:49:35.438050-04:00",
+  "generatedAt": "2026-10-24T13:11:37.007012-04:00",
   "term": {
     "name": "Fall 2026",
     "start": "2026-08-24",
@@ -89,42 +89,42 @@
   "weather": {
     "place": "UCF Orlando",
     "current": {
-      "temp": 70,
-      "feelsLike": 70,
-      "label": "Clear",
+      "temp": 77,
+      "feelsLike": 75,
+      "label": "Mostly clear",
       "icon": "sun",
       "isDay": true
     },
     "days": [
       {
         "date": "2026-10-24",
-        "label": "Rain",
+        "label": "Light rain",
         "icon": "rain",
-        "high": 81,
+        "high": 80,
         "low": 62,
-        "precip": 34,
+        "precip": 32,
         "uv": 6,
         "sunrise": "07:31",
         "sunset": "18:46"
       },
       {
         "date": "2026-10-25",
-        "label": "Rain",
+        "label": "Heavy rain",
         "icon": "rain",
-        "high": 79,
+        "high": 80,
         "low": 66,
-        "precip": 38,
+        "precip": 40,
         "uv": 6,
         "sunrise": "07:31",
         "sunset": "18:45"
       },
       {
         "date": "2026-10-26",
-        "label": "Heavy rain",
-        "icon": "rain",
+        "label": "Drizzle",
+        "icon": "drizzle",
         "high": 81,
         "low": 69,
-        "precip": 38,
+        "precip": 48,
         "uv": 6,
         "sunrise": "07:32",
         "sunset": "18:44"
@@ -135,7 +135,7 @@
         "icon": "drizzle",
         "high": 80,
         "low": 70,
-        "precip": 4,
+        "precip": 3,
         "uv": 4,
         "sunrise": "07:33",
         "sunset": "18:43"
@@ -146,7 +146,7 @@
         "icon": "drizzle",
         "high": 80,
         "low": 65,
-        "precip": 10,
+        "precip": 12,
         "uv": 4,
         "sunrise": "07:34",
         "sunset": "18:42"
@@ -157,7 +157,7 @@
         "icon": "drizzle",
         "high": 79,
         "low": 67,
-        "precip": 16,
+        "precip": 17,
         "uv": 4,
         "sunrise": "07:34",
         "sunset": "18:41"
@@ -168,16 +168,16 @@
         "icon": "cloud",
         "high": 79,
         "low": 65,
-        "precip": 12,
+        "precip": 10,
         "uv": 6,
         "sunrise": "07:35",
         "sunset": "18:41"
       }
     ],
     "air": {
-      "aqi": 43,
+      "aqi": 45,
       "label": "Good",
-      "pm25": 9.9
+      "pm25": 9.0
     }
   },
   "severe": [],
@@ -292,62 +292,6 @@
     }
   ],
   "events": [
-    {
-      "id": "12850752",
-      "name": "Adult Down Syndrome Clinic",
-      "org": "Volunteer UCF",
-      "theme": "CommunityService",
-      "location": "Howard Phillips Center for Children",
-      "date": "2026-10-24",
-      "start": "08:00",
-      "end": "13:00",
-      "blurb": "This event supports the Down Syndrome Foundation of Florida by helping create a welcoming and supportive environment for adults with Down syndrome and their fam",
-      "rsvps": 5,
-      "image": "https://se-images.campuslabs.com/clink/images/1941a80f-2025-40b2-96c2-b3d135422bffe285db58-9d2a-45ef-9c09-870cbff9edd6.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12850752"
-    },
-    {
-      "id": "12908706",
-      "name": "Clean the World",
-      "org": "American Chemical Society",
-      "theme": "CommunityService",
-      "location": "Clean the World",
-      "date": "2026-10-24",
-      "start": "09:00",
-      "end": "12:00",
-      "blurb": "Clean the World is a non-profit that specializes in taking used bars of soap and recycling them into sanitized new ones that are then donated to communities in ",
-      "rsvps": 1,
-      "image": "https://se-images.campuslabs.com/clink/images/d29a9810-a8ff-42c3-9f29-79c320f67bd063bf6839-e147-4d0a-aa12-25eb30cab781.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12908706"
-    },
-    {
-      "id": "12921316",
-      "name": "Fleet Farming Weekly Swarm Ride",
-      "org": "Association of Environmental Professionals at the University of Central Florida",
-      "theme": "CommunityService",
-      "location": "Aubodon Church",
-      "date": "2026-10-24",
-      "start": "09:00",
-      "end": "12:00",
-      "blurb": "Get 3 Volunteer Hours with the nonprofit Fleet Farming. AEP - check in via knights connect and post a photo for volunteer hour credits! Join us Every Saturday a",
-      "rsvps": 0,
-      "image": "https://se-images.campuslabs.com/clink/images/161e1006-a419-4156-ba56-732005bdeded1e26a863-4a4e-494a-9539-7679eef44775.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12921316"
-    },
-    {
-      "id": "12921318",
-      "name": "Farm at Whisper Creek Farms",
-      "org": "Association of Environmental Professionals at the University of Central Florida",
-      "theme": "CommunityService",
-      "location": "Whisper Creek Farms",
-      "date": "2026-10-24",
-      "start": "09:00",
-      "end": "12:00",
-      "blurb": "A 3hr volunteering event open to all on our Whisper Creek Farm in Orlando, FL. AEP - check in via knights connect and post a photo for volunteer hours credit! J",
-      "rsvps": 0,
-      "image": "https://se-images.campuslabs.com/clink/images/9bfcbc06-fec0-4437-9905-73e5b18843151a9b3ab0-5520-4a10-8288-badf0c375561.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12921318"
-    },
     {
       "id": "12849966",
       "name": "Central Florida Veg Fest",
@@ -526,7 +470,7 @@
       "start": "12:30",
       "end": "15:30",
       "blurb": "Join VUCF for an impactful event with Orlando Family Stage! We will be helping them out with their production of the children's play, The Best Halloween Ever. T",
-      "rsvps": 3,
+      "rsvps": 4,
       "image": "https://se-images.campuslabs.com/clink/images/b291ce99-7256-495c-b20e-853b8582e86d5380f51e-8ebe-41d9-b8b6-f80d8efd5cb4.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12876053"
     },
@@ -1763,20 +1707,6 @@
       "url": "https://ucf.campuslabs.com/engage/event/12907823"
     },
     {
-      "id": "12826610",
-      "name": "Boo's And Brews",
-      "org": "Tower III Apartments",
-      "theme": "Social",
-      "location": "Tower III Lobby",
-      "date": "2026-10-28",
-      "start": "19:00",
-      "end": "21:00",
-      "blurb": "Residents will create Halloween-themed dirty soda mocktails while learning about safer alcohol consumption and responsible drinking practices from Wellness & He",
-      "rsvps": 2,
-      "image": "https://se-images.campuslabs.com/clink/images/439834a8-f9a9-45ef-832d-8e3e29e9e931b9e19984-3fd6-45e7-a065-67e97e7ab3b0.pdf?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12826610"
-    },
-    {
       "id": "12910023",
       "name": "Halloween Paint Night",
       "org": "Psychological Society",
@@ -1789,6 +1719,20 @@
       "rsvps": 1,
       "image": "https://se-images.campuslabs.com/clink/images/593ea3b4-797f-465e-a171-edc56ca8d3285c41ea7d-91a0-4c8e-974a-8824b7985b63.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12910023"
+    },
+    {
+      "id": "12826610",
+      "name": "Boo's And Brews",
+      "org": "Tower III Apartments",
+      "theme": "Social",
+      "location": "Tower III Lobby",
+      "date": "2026-10-28",
+      "start": "19:00",
+      "end": "21:00",
+      "blurb": "Residents will create Halloween-themed dirty soda mocktails while learning about safer alcohol consumption and responsible drinking practices from Wellness & He",
+      "rsvps": 2,
+      "image": "https://se-images.campuslabs.com/clink/images/439834a8-f9a9-45ef-832d-8e3e29e9e931b9e19984-3fd6-45e7-a065-67e97e7ab3b0.pdf?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12826610"
     },
     {
       "id": "12901539",
@@ -1971,6 +1915,62 @@
       "rsvps": 0,
       "image": "https://se-images.campuslabs.com/clink/images/bdea741b-5cf3-49a8-8881-8054b981fce704c8dff1-468d-4830-8d1f-b9c83edf3a32.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12551196"
+    },
+    {
+      "id": "12820801",
+      "name": "Movie Night",
+      "org": "Association of Physics Students at University of Central Florida",
+      "theme": "Social",
+      "location": "PSB 160/161",
+      "date": "2026-10-29",
+      "start": "17:00",
+      "end": "18:00",
+      "blurb": "Take a break from classes and join us for a relaxing movie night with your fellow physics students! Grab some snacks, get comfortable, and enjoy a movie togethe",
+      "rsvps": 3,
+      "image": null,
+      "url": "https://ucf.campuslabs.com/engage/event/12820801"
+    },
+    {
+      "id": "12909503",
+      "name": "ABC On Tap",
+      "org": "Associated Builders & Contractors",
+      "theme": "Social",
+      "location": "Oviedo Park Pub",
+      "date": "2026-10-29",
+      "start": "17:30",
+      "end": "19:00",
+      "blurb": "This is an event organized by ABC Central Florida for construction industry professionals , which the ABC UCF Student Chapter will be attending . It&rsquo;s a g",
+      "rsvps": 0,
+      "image": "https://se-images.campuslabs.com/clink/images/f3ec50e4-5996-45bb-86cb-27f689a5463f635854a6-c736-4378-ad16-ce531e479666.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12909503"
+    },
+    {
+      "id": "12913815",
+      "name": "Guys Bible Study",
+      "org": "Chi Alpha Christian Fellowship",
+      "theme": "Spirituality",
+      "location": "Foxtail",
+      "date": "2026-10-29",
+      "start": "17:30",
+      "end": "19:00",
+      "blurb": "A welcoming space where men can grow in their faith, build meaningful friendships, and explore God's Word together. Through Bible discussions, prayer, and hones",
+      "rsvps": 0,
+      "image": "https://se-images.campuslabs.com/clink/images/0fd11b6c-4aa5-446e-b326-4a26bea054eca5c1d51c-c936-4d77-811e-b6621f1773e2.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12913815"
+    },
+    {
+      "id": "12829881",
+      "name": "Disney After Dark",
+      "org": "Rosen Apartments",
+      "theme": "Social",
+      "location": "Rosen 905 Large Community Room - 9907 Universal Blvd ",
+      "date": "2026-10-29",
+      "start": "18:00",
+      "end": "19:00",
+      "blurb": "Get ready for a nostalgic Halloween movie night! Take a trip down memory lane with some of our favorite Disney Halloween classics, from spooky adventures to unf",
+      "rsvps": 1,
+      "image": "https://se-images.campuslabs.com/clink/images/49dba58b-1551-4cac-8c5e-0bd50f59e2e0b2184826-c198-406c-af48-4271ce3091e1.pdf?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12829881"
     }
   ],
   "keyDates": [
@@ -4136,8 +4136,8 @@
       "title": "PHY 2048L Laboratory",
       "url": null,
       "weather": {
-        "temp": 75,
-        "precip": 7,
+        "temp": 76,
+        "precip": 5,
         "label": "Clear",
         "icon": "sun"
       },
@@ -4159,7 +4159,7 @@
       "url": null,
       "weather": {
         "temp": 73,
-        "precip": 4,
+        "precip": 21,
         "label": "Light drizzle",
         "icon": "drizzle"
       },
@@ -4203,7 +4203,7 @@
       "url": null,
       "weather": {
         "temp": 72,
-        "precip": 1,
+        "precip": 0,
         "label": "Overcast",
         "icon": "cloud"
       },
@@ -4225,7 +4225,7 @@
       "url": null,
       "weather": {
         "temp": 76,
-        "precip": 2,
+        "precip": 3,
         "label": "Partly cloudy",
         "icon": "cloud"
       },
@@ -4247,7 +4247,7 @@
       "url": null,
       "weather": {
         "temp": 78,
-        "precip": 2,
+        "precip": 3,
         "label": "Overcast",
         "icon": "cloud"
       },
@@ -4269,7 +4269,7 @@
       "url": null,
       "weather": {
         "temp": 78,
-        "precip": 4,
+        "precip": 3,
         "label": "Overcast",
         "icon": "cloud"
       },
@@ -4291,7 +4291,7 @@
       "url": null,
       "weather": {
         "temp": 77,
-        "precip": 4,
+        "precip": 3,
         "label": "Overcast",
         "icon": "cloud"
       },
@@ -4313,7 +4313,7 @@
       "url": null,
       "weather": {
         "temp": 75,
-        "precip": 4,
+        "precip": 3,
         "label": "Mostly clear",
         "icon": "sun"
       },
@@ -4335,7 +4335,7 @@
       "url": null,
       "weather": {
         "temp": 80,
-        "precip": 10,
+        "precip": 12,
         "label": "Overcast",
         "icon": "cloud"
       },
@@ -4357,7 +4357,7 @@
       "url": null,
       "weather": {
         "temp": 76,
-        "precip": 9,
+        "precip": 17,
         "label": "Light drizzle",
         "icon": "drizzle"
       },
@@ -4379,7 +4379,7 @@
       "url": null,
       "weather": {
         "temp": 79,
-        "precip": 9,
+        "precip": 17,
         "label": "Mostly clear",
         "icon": "sun"
       },
@@ -4423,7 +4423,7 @@
       "url": null,
       "weather": {
         "temp": 67,
-        "precip": 1,
+        "precip": 0,
         "label": "Clear",
         "icon": "sun"
       },
@@ -4445,7 +4445,7 @@
       "url": null,
       "weather": {
         "temp": 77,
-        "precip": 9,
+        "precip": 7,
         "label": "Clear",
         "icon": "sun"
       },
