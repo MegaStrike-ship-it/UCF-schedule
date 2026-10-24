@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T16:12:36.696581-04:00",
+  "generatedAt": "2026-10-24T18:53:13.727564-04:00",
   "term": {
     "name": "Fall 2026",
     "start": "2026-08-24",
@@ -89,8 +89,8 @@
   "weather": {
     "place": "UCF Orlando",
     "current": {
-      "temp": 74,
-      "feelsLike": 72,
+      "temp": 73,
+      "feelsLike": 75,
       "label": "Overcast",
       "icon": "cloud",
       "isDay": true
@@ -98,11 +98,11 @@
     "days": [
       {
         "date": "2026-10-24",
-        "label": "Heavy rain",
-        "icon": "rain",
+        "label": "Drizzle",
+        "icon": "drizzle",
         "high": 80,
         "low": 62,
-        "precip": 36,
+        "precip": 39,
         "uv": 5,
         "sunrise": "07:31",
         "sunset": "18:46"
@@ -111,9 +111,9 @@
         "date": "2026-10-25",
         "label": "Heavy rain",
         "icon": "rain",
-        "high": 80,
-        "low": 65,
-        "precip": 37,
+        "high": 79,
+        "low": 66,
+        "precip": 33,
         "uv": 6,
         "sunrise": "07:31",
         "sunset": "18:45"
@@ -122,9 +122,9 @@
         "date": "2026-10-26",
         "label": "Overcast",
         "icon": "cloud",
-        "high": 81,
+        "high": 80,
         "low": 69,
-        "precip": 21,
+        "precip": 18,
         "uv": 6,
         "sunrise": "07:32",
         "sunset": "18:44"
@@ -146,7 +146,7 @@
         "icon": "drizzle",
         "high": 81,
         "low": 64,
-        "precip": 12,
+        "precip": 11,
         "uv": 5,
         "sunrise": "07:34",
         "sunset": "18:42"
@@ -157,7 +157,7 @@
         "icon": "drizzle",
         "high": 78,
         "low": 68,
-        "precip": 17,
+        "precip": 13,
         "uv": 4,
         "sunrise": "07:34",
         "sunset": "18:41"
@@ -175,9 +175,9 @@
       }
     ],
     "air": {
-      "aqi": 47,
+      "aqi": 43,
       "label": "Good",
-      "pm25": 9.3
+      "pm25": 8.1
     }
   },
   "severe": [],
@@ -243,7 +243,7 @@
       "home": true,
       "venue": "Acrisure Bounce House",
       "state": "in",
-      "detail": "15:00 - 2nd"
+      "detail": "1:42 - 4th"
     },
     {
       "date": "2026-10-30",
@@ -292,62 +292,6 @@
     }
   ],
   "events": [
-    {
-      "id": "12849966",
-      "name": "Central Florida Veg Fest",
-      "org": "Plant Based Treaty at UCF",
-      "theme": "Social",
-      "location": "Orlando Festival Park",
-      "date": "2026-10-24",
-      "start": "10:00",
-      "end": "18:00",
-      "blurb": "We are tabling at the 21st Annual Central Florida Veg Fest and it is free to attend! The event is organized by Vegetarians of Central Florida and will have 200+",
-      "rsvps": 5,
-      "image": "https://se-images.campuslabs.com/clink/images/36a35412-bab6-4358-9035-2f0fc18dc836e0f167df-833e-4f02-81fb-58108f1778e1.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12849966"
-    },
-    {
-      "id": "12899216",
-      "name": "Central Florida Veg Fest",
-      "org": "Allied Scholars for Animal Protection ",
-      "theme": "Social",
-      "location": "Orlando Festival Park",
-      "date": "2026-10-24",
-      "start": "10:00",
-      "end": "18:00",
-      "blurb": "Join us at the 21st Annual Central Florida Veg Fest! This free, family- and pet-friendly event features over 200 veg-friendly vendors, restaurant booths, food d",
-      "rsvps": 0,
-      "image": "https://se-images.campuslabs.com/clink/images/0f8d31a4-f892-41ce-8c71-3509cb7ce53734896bc1-3916-4036-886a-5fb16947a006.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12899216"
-    },
-    {
-      "id": "12800127",
-      "name": "MISSION X STUDENT COUNTDOWN: 10/24 UCF Football vs BYU",
-      "org": "UCF Athletics",
-      "theme": "Athletics",
-      "location": "Acrisure Bounce House",
-      "date": "2026-10-24",
-      "start": "14:00",
-      "end": "18:00",
-      "blurb": "Homecoming Football game!",
-      "rsvps": 7,
-      "image": "https://se-images.campuslabs.com/clink/images/13e0d086-d7da-49e0-a989-364d5e61aaccc387174f-d01b-4a6b-910d-dbf72be2dba5.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12800127"
-    },
-    {
-      "id": "12554035",
-      "name": "Tailgate #4 - BYU ft. Finfrock",
-      "org": "American Society of Civil Engineers at the University of Central Florida",
-      "theme": "Social",
-      "location": "Memory Mall",
-      "date": "2026-10-24",
-      "start": "15:00",
-      "end": "18:00",
-      "blurb": "Join us for a fun tailgate before the game! We&rsquo;ll have food, drinks, and games like cornhole. Feel free to bring anything extra!",
-      "rsvps": 0,
-      "image": "https://se-images.campuslabs.com/clink/images/b02b9e4d-29cc-456a-a34f-2b4d4c75e870edaaa551-f8f7-46dd-85be-7eeb915b7f7d.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12554035"
-    },
     {
       "id": "12710100",
       "name": "GKTW x PAN Group Volunteering",
@@ -456,7 +400,7 @@
       "start": "12:30",
       "end": "15:30",
       "blurb": "Join VUCF for an impactful event with Orlando Family Stage! We will be helping them out with their production of the children's play, The Best Halloween Ever. T",
-      "rsvps": 4,
+      "rsvps": 3,
       "image": "https://se-images.campuslabs.com/clink/images/b291ce99-7256-495c-b20e-853b8582e86d5380f51e-8ebe-41d9-b8b6-f80d8efd5cb4.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12876053"
     },
@@ -853,20 +797,6 @@
       "url": "https://ucf.campuslabs.com/engage/event/12915313"
     },
     {
-      "id": "12817434",
-      "name": "Pumpkin Spice & Paper Delights",
-      "org": "Tower IV Apartments",
-      "theme": "Social",
-      "location": "Tower IV - 1st Floor Lobby",
-      "date": "2026-10-26",
-      "start": "19:00",
-      "end": "21:00",
-      "blurb": "Join RA Caitlyn and RA Julia for a fall themed origami night with fun fall snacks and drinks!",
-      "rsvps": 1,
-      "image": "https://se-images.campuslabs.com/clink/images/3282469c-0ab8-4338-a96e-ea27905ff3820f8f26ae-c398-438d-b2a8-e74344e2e1ad.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12817434"
-    },
-    {
       "id": "12556421",
       "name": "GBM: UCF Pre-SOMA",
       "org": "Pre-Student Osteopathic Medical Association",
@@ -879,6 +809,20 @@
       "rsvps": 1,
       "image": "https://se-images.campuslabs.com/clink/images/f260630d-98f5-490c-8077-d618c2dc782597a4539a-ece6-473d-b4ac-67eab42a27b7.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12556421"
+    },
+    {
+      "id": "12817434",
+      "name": "Pumpkin Spice & Paper Delights",
+      "org": "Tower IV Apartments",
+      "theme": "Social",
+      "location": "Tower IV - 1st Floor Lobby",
+      "date": "2026-10-26",
+      "start": "19:00",
+      "end": "21:00",
+      "blurb": "Join RA Caitlyn and RA Julia for a fall themed origami night with fun fall snacks and drinks!",
+      "rsvps": 1,
+      "image": "https://se-images.campuslabs.com/clink/images/3282469c-0ab8-4338-a96e-ea27905ff3820f8f26ae-c398-438d-b2a8-e74344e2e1ad.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12817434"
     },
     {
       "id": "12824210",
@@ -907,6 +851,20 @@
       "rsvps": 0,
       "image": "https://se-images.campuslabs.com/clink/images/2a348e23-5afa-4435-9881-3cf5d2e0fcf9d119ad82-7c19-4653-b960-ea17a6d6b131.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12578735"
+    },
+    {
+      "id": "12921435",
+      "name": "Theme Park Knights General Meeting",
+      "org": "Theme Park Knights ",
+      "theme": "Social",
+      "location": "John C. Hitt Library Room 176",
+      "date": "2026-10-26",
+      "start": "19:30",
+      "end": "21:00",
+      "blurb": "\ud83c\udfa2\ud83c\udf83 Theme Park Knights Library Social! Come hang out with Theme Park Knights tomorrow for a relaxed library social! We&rsquo;ll be talking all things Halloween H",
+      "rsvps": 2,
+      "image": "https://se-images.campuslabs.com/clink/images/6d2c83e0-1394-4589-9552-1418d332d4d51ef8f27c-48dd-4977-a396-a0587600ab23.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12921435"
     },
     {
       "id": "12917882",
@@ -1971,6 +1929,48 @@
       "rsvps": 0,
       "image": "https://se-images.campuslabs.com/clink/images/0fd11b6c-4aa5-446e-b326-4a26bea054eca5c1d51c-c936-4d77-811e-b6621f1773e2.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12913815"
+    },
+    {
+      "id": "12829881",
+      "name": "Disney After Dark",
+      "org": "Rosen Apartments",
+      "theme": "Social",
+      "location": "Rosen 905 Large Community Room - 9907 Universal Blvd ",
+      "date": "2026-10-29",
+      "start": "18:00",
+      "end": "19:00",
+      "blurb": "Get ready for a nostalgic Halloween movie night! Take a trip down memory lane with some of our favorite Disney Halloween classics, from spooky adventures to unf",
+      "rsvps": 1,
+      "image": "https://se-images.campuslabs.com/clink/images/49dba58b-1551-4cac-8c5e-0bd50f59e2e0b2184826-c198-406c-af48-4271ce3091e1.pdf?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12829881"
+    },
+    {
+      "id": "12913138",
+      "name": "Second Launch ",
+      "org": "Student Government Executive Branch",
+      "theme": "Athletics",
+      "location": "Memory Mall",
+      "date": "2026-10-29",
+      "start": "18:00",
+      "end": "21:00",
+      "blurb": "A block party style event from 6:00-9:00 pm for the student body in celebration of the SpaceU football game. There are attractions set up on memory mall such as",
+      "rsvps": 0,
+      "image": null,
+      "url": "https://ucf.campuslabs.com/engage/event/12913138"
+    },
+    {
+      "id": "12550744",
+      "name": "Senate Executive Committee Meeting",
+      "org": "Student Government Legislative Branch (Senate)",
+      "theme": "CommunityService",
+      "location": "Charge On Chamber, Student Union",
+      "date": "2026-10-29",
+      "start": "18:00",
+      "end": "19:00",
+      "blurb": "Weekly meeting of the Senate Executive Committee. Chair: Senate President Sherman (sga_spkr@ucf.edu) Vice Chair: Senate President Pro Tempore Kaufman (sga_pro@u",
+      "rsvps": 0,
+      "image": "https://se-images.campuslabs.com/clink/images/98bb535c-a38f-4751-a147-7a4182c334ee2e7287c7-544e-4931-8cd0-a8cdaf583094.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12550744"
     }
   ],
   "keyDates": [
@@ -4158,10 +4158,10 @@
       "title": "EGS 1006C Laboratory",
       "url": null,
       "weather": {
-        "temp": 73,
-        "precip": 21,
-        "label": "Clear",
-        "icon": "sun"
+        "temp": 70,
+        "precip": 17,
+        "label": "Partly cloudy",
+        "icon": "cloud"
       },
       "courseTitle": "Intro to Engineering"
     },
@@ -4181,7 +4181,7 @@
       "url": null,
       "weather": {
         "temp": 80,
-        "precip": 5,
+        "precip": 18,
         "label": "Partly cloudy",
         "icon": "cloud"
       },
@@ -4225,7 +4225,7 @@
       "url": null,
       "weather": {
         "temp": 78,
-        "precip": 3,
+        "precip": 2,
         "label": "Overcast",
         "icon": "cloud"
       },
@@ -4247,7 +4247,7 @@
       "url": null,
       "weather": {
         "temp": 80,
-        "precip": 3,
+        "precip": 2,
         "label": "Overcast",
         "icon": "cloud"
       },
@@ -4335,7 +4335,7 @@
       "url": null,
       "weather": {
         "temp": 81,
-        "precip": 12,
+        "precip": 11,
         "label": "Partly cloudy",
         "icon": "cloud"
       },
@@ -4357,7 +4357,7 @@
       "url": null,
       "weather": {
         "temp": 75,
-        "precip": 17,
+        "precip": 9,
         "label": "Light drizzle",
         "icon": "drizzle"
       },
@@ -4379,7 +4379,7 @@
       "url": null,
       "weather": {
         "temp": 78,
-        "precip": 17,
+        "precip": 9,
         "label": "Light drizzle",
         "icon": "drizzle"
       },
@@ -4401,7 +4401,7 @@
       "url": null,
       "weather": {
         "temp": 77,
-        "precip": 16,
+        "precip": 13,
         "label": "Overcast",
         "icon": "cloud"
       },
@@ -4423,7 +4423,7 @@
       "url": null,
       "weather": {
         "temp": 70,
-        "precip": 0,
+        "precip": 2,
         "label": "Clear",
         "icon": "sun"
       },
@@ -4445,7 +4445,7 @@
       "url": null,
       "weather": {
         "temp": 78,
-        "precip": 7,
+        "precip": 8,
         "label": "Clear",
         "icon": "sun"
       },
