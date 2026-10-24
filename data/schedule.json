@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T13:11:37.007012-04:00",
+  "generatedAt": "2026-10-24T16:12:36.696581-04:00",
   "term": {
     "name": "Fall 2026",
     "start": "2026-08-24",
@@ -89,21 +89,21 @@
   "weather": {
     "place": "UCF Orlando",
     "current": {
-      "temp": 77,
-      "feelsLike": 75,
-      "label": "Mostly clear",
-      "icon": "sun",
+      "temp": 74,
+      "feelsLike": 72,
+      "label": "Overcast",
+      "icon": "cloud",
       "isDay": true
     },
     "days": [
       {
         "date": "2026-10-24",
-        "label": "Light rain",
+        "label": "Heavy rain",
         "icon": "rain",
         "high": 80,
         "low": 62,
-        "precip": 32,
-        "uv": 6,
+        "precip": 36,
+        "uv": 5,
         "sunrise": "07:31",
         "sunset": "18:46"
       },
@@ -112,19 +112,19 @@
         "label": "Heavy rain",
         "icon": "rain",
         "high": 80,
-        "low": 66,
-        "precip": 40,
+        "low": 65,
+        "precip": 37,
         "uv": 6,
         "sunrise": "07:31",
         "sunset": "18:45"
       },
       {
         "date": "2026-10-26",
-        "label": "Drizzle",
-        "icon": "drizzle",
+        "label": "Overcast",
+        "icon": "cloud",
         "high": 81,
         "low": 69,
-        "precip": 48,
+        "precip": 21,
         "uv": 6,
         "sunrise": "07:32",
         "sunset": "18:44"
@@ -133,10 +133,10 @@
         "date": "2026-10-27",
         "label": "Light drizzle",
         "icon": "drizzle",
-        "high": 80,
-        "low": 70,
+        "high": 82,
+        "low": 67,
         "precip": 3,
-        "uv": 4,
+        "uv": 6,
         "sunrise": "07:33",
         "sunset": "18:43"
       },
@@ -144,10 +144,10 @@
         "date": "2026-10-28",
         "label": "Light drizzle",
         "icon": "drizzle",
-        "high": 80,
-        "low": 65,
+        "high": 81,
+        "low": 64,
         "precip": 12,
-        "uv": 4,
+        "uv": 5,
         "sunrise": "07:34",
         "sunset": "18:42"
       },
@@ -155,8 +155,8 @@
         "date": "2026-10-29",
         "label": "Light drizzle",
         "icon": "drizzle",
-        "high": 79,
-        "low": 67,
+        "high": 78,
+        "low": 68,
         "precip": 17,
         "uv": 4,
         "sunrise": "07:34",
@@ -166,8 +166,8 @@
         "date": "2026-10-30",
         "label": "Overcast",
         "icon": "cloud",
-        "high": 79,
-        "low": 65,
+        "high": 80,
+        "low": 68,
         "precip": 10,
         "uv": 6,
         "sunrise": "07:35",
@@ -175,9 +175,9 @@
       }
     ],
     "air": {
-      "aqi": 45,
+      "aqi": 47,
       "label": "Good",
-      "pm25": 9.0
+      "pm25": 9.3
     }
   },
   "severe": [],
@@ -242,8 +242,8 @@
       "opponent": "BYU Cougars",
       "home": true,
       "venue": "Acrisure Bounce House",
-      "state": "pre",
-      "detail": "10/24 - 3:30 PM EDT"
+      "state": "in",
+      "detail": "15:00 - 2nd"
     },
     {
       "date": "2026-10-30",
@@ -321,20 +321,6 @@
       "url": "https://ucf.campuslabs.com/engage/event/12899216"
     },
     {
-      "id": "12914089",
-      "name": "UCF vs BYU Tailgate",
-      "org": "Reel Knights",
-      "theme": "Social",
-      "location": "Memory Mall ",
-      "date": "2026-10-24",
-      "start": "10:30",
-      "end": "14:30",
-      "blurb": "\ud83c\udfc8 REEL KNIGHTS TAILGATE | UCF vs. BYU \u2694\ufe0f Come hang out with the UCF Reel Knights as we get ready to cheer on the Knights against BYU! Whether you're a longtime ",
-      "rsvps": 1,
-      "image": "https://se-images.campuslabs.com/clink/images/6bcc3f2e-506f-48ac-a244-ddef96d46e38cbd224c5-2964-4a35-b5d3-0d1e364d4706.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12914089"
-    },
-    {
       "id": "12800127",
       "name": "MISSION X STUDENT COUNTDOWN: 10/24 UCF Football vs BYU",
       "org": "UCF Athletics",
@@ -344,7 +330,7 @@
       "start": "14:00",
       "end": "18:00",
       "blurb": "Homecoming Football game!",
-      "rsvps": 6,
+      "rsvps": 7,
       "image": "https://se-images.campuslabs.com/clink/images/13e0d086-d7da-49e0-a989-364d5e61aaccc387174f-d01b-4a6b-910d-dbf72be2dba5.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12800127"
     },
@@ -400,7 +386,7 @@
       "start": "08:00",
       "end": "15:00",
       "blurb": "Miles for Medicine was created as a collaborative event that brings together UCF's pre-health, medical, wellness, and service-oriented organizations for a morni",
-      "rsvps": 1,
+      "rsvps": 3,
       "image": "https://se-images.campuslabs.com/clink/images/cc932c6d-7659-4eee-afe4-824de483239db4a66a42-c2e6-4c1b-8f15-b0dd41be9f0a.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12853521"
     },
@@ -554,7 +540,7 @@
       "start": "09:00",
       "end": "10:30",
       "blurb": "Join the Natural Resources team in an invasive plant removal shift! We will meet at the Smoothie King across from the College of Sciences building before headin",
-      "rsvps": 7,
+      "rsvps": 8,
       "image": "https://se-images.campuslabs.com/clink/images/6ac65ad1-ce6a-4731-a2e3-cac7bd8109479a6ca0cd-8514-4ead-b107-ffaf0fb4d567.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12822863"
     },
@@ -867,20 +853,6 @@
       "url": "https://ucf.campuslabs.com/engage/event/12915313"
     },
     {
-      "id": "12556421",
-      "name": "GBM: UCF Pre-SOMA",
-      "org": "Pre-Student Osteopathic Medical Association",
-      "theme": "Social",
-      "location": "Cedar Key, Room 223 (Student Union, 2nd floor)",
-      "date": "2026-10-26",
-      "start": "19:00",
-      "end": "20:00",
-      "blurb": "Come connect with fellow members, learn more about Pre-SOMA, and get involved with upcoming events and opportunities. Whether you&rsquo;re a current member or i",
-      "rsvps": 1,
-      "image": "https://se-images.campuslabs.com/clink/images/f260630d-98f5-490c-8077-d618c2dc782597a4539a-ece6-473d-b4ac-67eab42a27b7.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12556421"
-    },
-    {
       "id": "12817434",
       "name": "Pumpkin Spice & Paper Delights",
       "org": "Tower IV Apartments",
@@ -893,6 +865,20 @@
       "rsvps": 1,
       "image": "https://se-images.campuslabs.com/clink/images/3282469c-0ab8-4338-a96e-ea27905ff3820f8f26ae-c398-438d-b2a8-e74344e2e1ad.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12817434"
+    },
+    {
+      "id": "12556421",
+      "name": "GBM: UCF Pre-SOMA",
+      "org": "Pre-Student Osteopathic Medical Association",
+      "theme": "Social",
+      "location": "Cedar Key, Room 223 (Student Union, 2nd floor)",
+      "date": "2026-10-26",
+      "start": "19:00",
+      "end": "20:00",
+      "blurb": "Come connect with fellow members, learn more about Pre-SOMA, and get involved with upcoming events and opportunities. Whether you&rsquo;re a current member or i",
+      "rsvps": 1,
+      "image": "https://se-images.campuslabs.com/clink/images/f260630d-98f5-490c-8077-d618c2dc782597a4539a-ece6-473d-b4ac-67eab42a27b7.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12556421"
     },
     {
       "id": "12824210",
@@ -946,7 +932,7 @@
       "start": "09:00",
       "end": "10:00",
       "blurb": "Join the Arboretum Public Garden Management team in our beautiful Arboretum Public Garden, maintaining the various gardens by weeding, mulching, propagating, pl",
-      "rsvps": 9,
+      "rsvps": 10,
       "image": "https://se-images.campuslabs.com/clink/images/0578275a-7dc3-42b6-9ec6-5f076dc10385a38cacb4-f7d1-450a-9589-f1ca5303933c.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12816558"
     },
@@ -1245,6 +1231,20 @@
       "url": "https://ucf.campuslabs.com/engage/event/12868383"
     },
     {
+      "id": "12921405",
+      "name": "Knightfire ",
+      "org": "Catholic Campus Ministry",
+      "theme": "Spirituality",
+      "location": "The Catholic Center at Northview ",
+      "date": "2026-10-27",
+      "start": "19:45",
+      "end": "21:00",
+      "blurb": "Knightfire is a worship-night style event that provides an opportunity for people to come together as a community to seek after God and experience genuine Chris",
+      "rsvps": 0,
+      "image": "https://se-images.campuslabs.com/clink/images/c75731ef-331c-4c19-848f-67dc55e62b3567512087-aa31-48ba-9e95-5dff988b516c.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12921405"
+    },
+    {
       "id": "12905116",
       "name": "Rocky Horror Picture Show Screening",
       "org": "Campus Activities Board",
@@ -1411,6 +1411,20 @@
       "rsvps": 10,
       "image": "https://se-images.campuslabs.com/clink/images/0578275a-7dc3-42b6-9ec6-5f076dc10385a38cacb4-f7d1-450a-9589-f1ca5303933c.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12816559"
+    },
+    {
+      "id": "12921407",
+      "name": "Post Up ",
+      "org": "Catholic Campus Ministry",
+      "theme": "Spirituality",
+      "location": "Memory Mall on Campus ",
+      "date": "2026-10-28",
+      "start": "12:30",
+      "end": "14:30",
+      "blurb": "Post Up is where we bring the love that's cultivated in the Chapel and at the Catholic Center out onto UCF's Campus. We set up a table, serve water and lemonade",
+      "rsvps": 0,
+      "image": "https://se-images.campuslabs.com/clink/images/317c9fe5-2f47-490d-afd8-d04a516ba6b83c31e0df-e816-4566-81f7-0262cf044035.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12921407"
     },
     {
       "id": "12617064",
@@ -1957,20 +1971,6 @@
       "rsvps": 0,
       "image": "https://se-images.campuslabs.com/clink/images/0fd11b6c-4aa5-446e-b326-4a26bea054eca5c1d51c-c936-4d77-811e-b6621f1773e2.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12913815"
-    },
-    {
-      "id": "12829881",
-      "name": "Disney After Dark",
-      "org": "Rosen Apartments",
-      "theme": "Social",
-      "location": "Rosen 905 Large Community Room - 9907 Universal Blvd ",
-      "date": "2026-10-29",
-      "start": "18:00",
-      "end": "19:00",
-      "blurb": "Get ready for a nostalgic Halloween movie night! Take a trip down memory lane with some of our favorite Disney Halloween classics, from spooky adventures to unf",
-      "rsvps": 1,
-      "image": "https://se-images.campuslabs.com/clink/images/49dba58b-1551-4cac-8c5e-0bd50f59e2e0b2184826-c198-406c-af48-4271ce3091e1.pdf?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12829881"
     }
   ],
   "keyDates": [
@@ -4160,8 +4160,8 @@
       "weather": {
         "temp": 73,
         "precip": 21,
-        "label": "Light drizzle",
-        "icon": "drizzle"
+        "label": "Clear",
+        "icon": "sun"
       },
       "courseTitle": "Intro to Engineering"
     },
@@ -4180,9 +4180,9 @@
       "title": "ISC 2054 Seminar",
       "url": null,
       "weather": {
-        "temp": 77,
+        "temp": 80,
         "precip": 5,
-        "label": "Overcast",
+        "label": "Partly cloudy",
         "icon": "cloud"
       },
       "courseTitle": "STEM Seminar"
@@ -4202,10 +4202,10 @@
       "title": "PHY 2048 Discussion",
       "url": null,
       "weather": {
-        "temp": 72,
+        "temp": 68,
         "precip": 0,
-        "label": "Overcast",
-        "icon": "cloud"
+        "label": "Clear",
+        "icon": "sun"
       },
       "courseTitle": "Physics: Mechanics"
     },
@@ -4224,9 +4224,9 @@
       "title": "ENC 1101 Lecture",
       "url": null,
       "weather": {
-        "temp": 76,
+        "temp": 78,
         "precip": 3,
-        "label": "Partly cloudy",
+        "label": "Overcast",
         "icon": "cloud"
       },
       "courseTitle": "Writing & Composition"
@@ -4246,7 +4246,7 @@
       "title": "MAC 2312 Lecture",
       "url": null,
       "weather": {
-        "temp": 78,
+        "temp": 80,
         "precip": 3,
         "label": "Overcast",
         "icon": "cloud"
@@ -4290,7 +4290,7 @@
       "title": "IDH 1920H Lecture",
       "url": null,
       "weather": {
-        "temp": 77,
+        "temp": 76,
         "precip": 3,
         "label": "Overcast",
         "icon": "cloud"
@@ -4312,10 +4312,10 @@
       "title": "IDH 1920H Lecture",
       "url": null,
       "weather": {
-        "temp": 75,
+        "temp": 74,
         "precip": 3,
-        "label": "Mostly clear",
-        "icon": "sun"
+        "label": "Light drizzle",
+        "icon": "drizzle"
       },
       "courseTitle": "Honors Symposium"
     },
@@ -4334,9 +4334,9 @@
       "title": "ISC 2054 Seminar",
       "url": null,
       "weather": {
-        "temp": 80,
+        "temp": 81,
         "precip": 12,
-        "label": "Overcast",
+        "label": "Partly cloudy",
         "icon": "cloud"
       },
       "courseTitle": "STEM Seminar"
@@ -4356,7 +4356,7 @@
       "title": "ENC 1101 Lecture",
       "url": null,
       "weather": {
-        "temp": 76,
+        "temp": 75,
         "precip": 17,
         "label": "Light drizzle",
         "icon": "drizzle"
@@ -4378,10 +4378,10 @@
       "title": "MAC 2312 Lecture",
       "url": null,
       "weather": {
-        "temp": 79,
+        "temp": 78,
         "precip": 17,
-        "label": "Mostly clear",
-        "icon": "sun"
+        "label": "Light drizzle",
+        "icon": "drizzle"
       },
       "courseTitle": "Calculus 2"
     },
@@ -4400,9 +4400,9 @@
       "title": "PHY 2048 Lecture",
       "url": null,
       "weather": {
-        "temp": 78,
+        "temp": 77,
         "precip": 16,
-        "label": "Partly cloudy",
+        "label": "Overcast",
         "icon": "cloud"
       },
       "courseTitle": "Physics: Mechanics"
@@ -4422,7 +4422,7 @@
       "title": "EGS 1006C Lecture",
       "url": null,
       "weather": {
-        "temp": 67,
+        "temp": 70,
         "precip": 0,
         "label": "Clear",
         "icon": "sun"
@@ -4444,7 +4444,7 @@
       "title": "MAC 2312 Friday Lecture",
       "url": null,
       "weather": {
-        "temp": 77,
+        "temp": 78,
         "precip": 7,
         "label": "Clear",
         "icon": "sun"
