@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T14:06:56.609130-04:00",
+  "generatedAt": "2026-10-25T17:25:15.689877-04:00",
   "term": {
     "name": "Fall 2026",
     "start": "2026-08-24",
@@ -89,8 +89,8 @@
   "weather": {
     "place": "UCF Orlando",
     "current": {
-      "temp": 77,
-      "feelsLike": 80,
+      "temp": 73,
+      "feelsLike": 74,
       "label": "Overcast",
       "icon": "cloud",
       "isDay": true
@@ -98,9 +98,9 @@
     "days": [
       {
         "date": "2026-10-25",
-        "label": "Rain",
-        "icon": "rain",
-        "high": 82,
+        "label": "Light drizzle",
+        "icon": "drizzle",
+        "high": 84,
         "low": 68,
         "precip": 52,
         "uv": 6,
@@ -109,10 +109,10 @@
       },
       {
         "date": "2026-10-26",
-        "label": "Drizzle",
-        "icon": "drizzle",
+        "label": "Heavy rain",
+        "icon": "rain",
         "high": 78,
-        "low": 66,
+        "low": 67,
         "precip": 22,
         "uv": 6,
         "sunrise": "07:32",
@@ -123,8 +123,8 @@
         "label": "Heavy rain",
         "icon": "rain",
         "high": 82,
-        "low": 68,
-        "precip": 21,
+        "low": 69,
+        "precip": 14,
         "uv": 6,
         "sunrise": "07:33",
         "sunset": "18:43"
@@ -135,7 +135,7 @@
         "icon": "drizzle",
         "high": 81,
         "low": 74,
-        "precip": 16,
+        "precip": 22,
         "uv": 5,
         "sunrise": "07:34",
         "sunset": "18:42"
@@ -146,7 +146,7 @@
         "icon": "drizzle",
         "high": 83,
         "low": 74,
-        "precip": 20,
+        "precip": 22,
         "uv": 6,
         "sunrise": "07:34",
         "sunset": "18:41"
@@ -157,7 +157,7 @@
         "icon": "cloud",
         "high": 83,
         "low": 71,
-        "precip": 9,
+        "precip": 12,
         "uv": 4,
         "sunrise": "07:35",
         "sunset": "18:41"
@@ -168,16 +168,16 @@
         "icon": "drizzle",
         "high": 81,
         "low": 72,
-        "precip": 18,
+        "precip": 20,
         "uv": 4,
         "sunrise": "07:36",
         "sunset": "18:40"
       }
     ],
     "air": {
-      "aqi": 41,
+      "aqi": 42,
       "label": "Good",
-      "pm25": 11.1
+      "pm25": 12.2
     }
   },
   "severe": [],
@@ -293,20 +293,6 @@
   ],
   "events": [
     {
-      "id": "12853521",
-      "name": "KGD + VMO - 5k Miles for Medicine",
-      "org": "Kappa Gamma Delta",
-      "theme": "CommunityService",
-      "location": "Memory Mall",
-      "date": "2026-10-25",
-      "start": "08:00",
-      "end": "15:00",
-      "blurb": "Miles for Medicine was created as a collaborative event that brings together UCF's pre-health, medical, wellness, and service-oriented organizations for a morni",
-      "rsvps": 3,
-      "image": "https://se-images.campuslabs.com/clink/images/cc932c6d-7659-4eee-afe4-824de483239db4a66a42-c2e6-4c1b-8f15-b0dd41be9f0a.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12853521"
-    },
-    {
       "id": "12864574",
       "name": "VA Trunk or Treat Volunteering: VMO x PBMF",
       "org": "Pursuit Beyond Medicine Foundation",
@@ -319,20 +305,6 @@
       "rsvps": 0,
       "image": "https://se-images.campuslabs.com/clink/images/27a0ae65-a332-42f8-a551-df768abe4e2002bd01d0-9072-42d9-b710-30c7c8209333.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12864574"
-    },
-    {
-      "id": "12876053",
-      "name": "VUCF Presents: The Best Halloween Ever",
-      "org": "Volunteer UCF",
-      "theme": "CommunityService",
-      "location": "Orlando Family Stage, 1001 E Princeton St, Orlando, FL 32803",
-      "date": "2026-10-25",
-      "start": "12:30",
-      "end": "15:30",
-      "blurb": "Join VUCF for an impactful event with Orlando Family Stage! We will be helping them out with their production of the children's play, The Best Halloween Ever. T",
-      "rsvps": 2,
-      "image": "https://se-images.campuslabs.com/clink/images/b291ce99-7256-495c-b20e-853b8582e86d5380f51e-8ebe-41d9-b8b6-f80d8efd5cb4.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12876053"
     },
     {
       "id": "12910239",
@@ -694,7 +666,7 @@
       "start": "18:00",
       "end": "21:00",
       "blurb": "Get ready Knights! The spookiest party of the semester is almost here! Join us for a spooktacular halloween dance party featuring non-stop music, killer dance m",
-      "rsvps": 0,
+      "rsvps": 1,
       "image": "https://se-images.campuslabs.com/clink/images/6fa6ac11-b2ea-4e24-a203-c1ff26ff022cead67408-ddee-4745-88e3-d8556910b049.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12904959"
     },
@@ -727,20 +699,6 @@
       "url": "https://ucf.campuslabs.com/engage/event/12809585"
     },
     {
-      "id": "12905996",
-      "name": "Rent 30th Anniversary Watchparty",
-      "org": "Libra Community",
-      "theme": "Social",
-      "location": "Libra Community Center",
-      "date": "2026-10-26",
-      "start": "19:00",
-      "end": "22:00",
-      "blurb": "During the event, students will engage with theatre history as they watch the 30th anniversary concert livestream of the hit musical Rent, which tackles themes ",
-      "rsvps": 2,
-      "image": "https://se-images.campuslabs.com/clink/images/b012c018-9ebe-4235-a7f0-1ca780345336495d9c18-5309-4072-9c72-705c98212feb.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12905996"
-    },
-    {
       "id": "12915313",
       "name": "IISE GBM #5",
       "org": "Institute of Industrial and Systems Engineers",
@@ -753,6 +711,20 @@
       "rsvps": 1,
       "image": "https://se-images.campuslabs.com/clink/images/48e5c25a-b851-4dc1-bb77-adb3b37e8843e4462c12-4875-40f4-a362-a468200b8823.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12915313"
+    },
+    {
+      "id": "12905996",
+      "name": "Rent 30th Anniversary Watchparty",
+      "org": "Libra Community",
+      "theme": "Social",
+      "location": "Libra Community Center",
+      "date": "2026-10-26",
+      "start": "19:00",
+      "end": "22:00",
+      "blurb": "During the event, students will engage with theatre history as they watch the 30th anniversary concert livestream of the hit musical Rent, which tackles themes ",
+      "rsvps": 4,
+      "image": "https://se-images.campuslabs.com/clink/images/b012c018-9ebe-4235-a7f0-1ca780345336495d9c18-5309-4072-9c72-705c98212feb.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12905996"
     },
     {
       "id": "12817434",
@@ -1971,6 +1943,34 @@
       "rsvps": 0,
       "image": "https://se-images.campuslabs.com/clink/images/9d9ecf0b-972e-4705-b929-34d199f69b32d3039c02-26d3-43ab-9dcc-0f25ae339f5d.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12918717"
+    },
+    {
+      "id": "12829738",
+      "name": "Brady's Halloween Extravaganza",
+      "org": "Lake Claire Apartments ",
+      "theme": "Social",
+      "location": "Lake Claire Community Center",
+      "date": "2026-10-29",
+      "start": "19:00",
+      "end": "20:30",
+      "blurb": "Join Brady, and some of your other favorite Lake Claire RA's, for an evening of mystery, costume contests, and overall spooky vibes. Be sure to bring your best ",
+      "rsvps": 8,
+      "image": "https://se-images.campuslabs.com/clink/images/2e0634bb-b34e-47d2-be46-9f6697648fe56dd61990-9ace-4e02-948d-b72ec2d1b9a5.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12829738"
+    },
+    {
+      "id": "12588858",
+      "name": "Men's Soccer vs Georgia State",
+      "org": "UCF Athletics",
+      "theme": "Athletics",
+      "location": "UCF Soccer Complex",
+      "date": "2026-10-29",
+      "start": "19:00",
+      "end": "21:00",
+      "blurb": "Come out and support the Men's Soccer team as they take on Georgia State for Fright Knight!",
+      "rsvps": 0,
+      "image": "https://se-images.campuslabs.com/clink/images/39e73dc9-ce7a-45f6-b1ce-740e76d012cbe1c7eec9-a605-495d-bde6-3c2e02c7b26d.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12588858"
     }
   ],
   "keyDates": [
@@ -4152,8 +4152,8 @@
       "title": "EGS 1006C Laboratory",
       "url": null,
       "weather": {
-        "temp": 72,
-        "precip": 5,
+        "temp": 73,
+        "precip": 4,
         "label": "Clear",
         "icon": "sun"
       },
@@ -4174,9 +4174,9 @@
       "title": "ISC 2054 Seminar",
       "url": null,
       "weather": {
-        "temp": 77,
-        "precip": 16,
-        "label": "Overcast",
+        "temp": 75,
+        "precip": 15,
+        "label": "Partly cloudy",
         "icon": "cloud"
       },
       "courseTitle": "STEM Seminar"
@@ -4196,10 +4196,10 @@
       "title": "PHY 2048 Discussion",
       "url": null,
       "weather": {
-        "temp": 70,
-        "precip": 5,
-        "label": "Clear",
-        "icon": "sun"
+        "temp": 69,
+        "precip": 10,
+        "label": "Overcast",
+        "icon": "cloud"
       },
       "courseTitle": "Physics: Mechanics"
     },
@@ -4218,7 +4218,7 @@
       "title": "ENC 1101 Lecture",
       "url": null,
       "weather": {
-        "temp": 76,
+        "temp": 72,
         "precip": 1,
         "label": "Overcast",
         "icon": "cloud"
@@ -4240,7 +4240,7 @@
       "title": "MAC 2312 Lecture",
       "url": null,
       "weather": {
-        "temp": 78,
+        "temp": 74,
         "precip": 1,
         "label": "Overcast",
         "icon": "cloud"
@@ -4263,7 +4263,7 @@
       "url": null,
       "weather": {
         "temp": 80,
-        "precip": 2,
+        "precip": 12,
         "label": "Overcast",
         "icon": "cloud"
       },
@@ -4285,7 +4285,7 @@
       "url": null,
       "weather": {
         "temp": 79,
-        "precip": 2,
+        "precip": 12,
         "label": "Overcast",
         "icon": "cloud"
       },
@@ -4307,7 +4307,7 @@
       "url": null,
       "weather": {
         "temp": 77,
-        "precip": 2,
+        "precip": 12,
         "label": "Clear",
         "icon": "sun"
       },
@@ -4329,7 +4329,7 @@
       "url": null,
       "weather": {
         "temp": 80,
-        "precip": 12,
+        "precip": 10,
         "label": "Overcast",
         "icon": "cloud"
       },
@@ -4351,7 +4351,7 @@
       "url": null,
       "weather": {
         "temp": 79,
-        "precip": 20,
+        "precip": 13,
         "label": "Partly cloudy",
         "icon": "cloud"
       },
@@ -4373,7 +4373,7 @@
       "url": null,
       "weather": {
         "temp": 80,
-        "precip": 20,
+        "precip": 13,
         "label": "Overcast",
         "icon": "cloud"
       },
@@ -4395,7 +4395,7 @@
       "url": null,
       "weather": {
         "temp": 82,
-        "precip": 18,
+        "precip": 16,
         "label": "Overcast",
         "icon": "cloud"
       },
@@ -4439,7 +4439,7 @@
       "url": null,
       "weather": {
         "temp": 83,
-        "precip": 5,
+        "precip": 6,
         "label": "Mostly clear",
         "icon": "sun"
       },
