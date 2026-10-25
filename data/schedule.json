@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T20:48:42.112842-04:00",
+  "generatedAt": "2026-10-25T10:05:35.823677-04:00",
   "term": {
     "name": "Fall 2026",
     "start": "2026-08-24",
@@ -89,64 +89,53 @@
   "weather": {
     "place": "UCF Orlando",
     "current": {
-      "temp": 71,
-      "feelsLike": 72,
-      "label": "Mostly clear",
+      "temp": 80,
+      "feelsLike": 79,
+      "label": "Clear",
       "icon": "sun",
-      "isDay": false
+      "isDay": true
     },
     "days": [
       {
-        "date": "2026-10-24",
-        "label": "Overcast",
-        "icon": "cloud",
-        "high": 80,
-        "low": 62,
-        "precip": 40,
-        "uv": 6,
-        "sunrise": "07:31",
-        "sunset": "18:46"
-      },
-      {
         "date": "2026-10-25",
-        "label": "Heavy rain",
-        "icon": "rain",
-        "high": 81,
+        "label": "Drizzle",
+        "icon": "drizzle",
+        "high": 83,
         "low": 68,
-        "precip": 32,
+        "precip": 52,
         "uv": 6,
         "sunrise": "07:31",
         "sunset": "18:45"
       },
       {
         "date": "2026-10-26",
-        "label": "Light drizzle",
+        "label": "Drizzle",
         "icon": "drizzle",
-        "high": 79,
-        "low": 69,
-        "precip": 18,
+        "high": 78,
+        "low": 66,
+        "precip": 28,
         "uv": 5,
         "sunrise": "07:32",
         "sunset": "18:44"
       },
       {
         "date": "2026-10-27",
-        "label": "Light drizzle",
-        "icon": "drizzle",
+        "label": "Heavy rain",
+        "icon": "rain",
         "high": 82,
-        "low": 72,
-        "precip": 3,
+        "low": 68,
+        "precip": 7,
         "uv": 6,
         "sunrise": "07:33",
         "sunset": "18:43"
       },
       {
         "date": "2026-10-28",
-        "label": "Light drizzle",
-        "icon": "drizzle",
-        "high": 82,
+        "label": "Overcast",
+        "icon": "cloud",
+        "high": 79,
         "low": 74,
-        "precip": 11,
+        "precip": 21,
         "uv": 6,
         "sunrise": "07:34",
         "sunset": "18:42"
@@ -156,28 +145,39 @@
         "label": "Light drizzle",
         "icon": "drizzle",
         "high": 84,
-        "low": 70,
-        "precip": 13,
+        "low": 72,
+        "precip": 20,
         "uv": 6,
         "sunrise": "07:34",
         "sunset": "18:41"
       },
       {
         "date": "2026-10-30",
-        "label": "Drizzle",
+        "label": "Light drizzle",
         "icon": "drizzle",
-        "high": 82,
+        "high": 84,
         "low": 69,
-        "precip": 10,
-        "uv": 5,
+        "precip": 16,
+        "uv": 4,
         "sunrise": "07:35",
         "sunset": "18:41"
+      },
+      {
+        "date": "2026-10-31",
+        "label": "Light drizzle",
+        "icon": "drizzle",
+        "high": 82,
+        "low": 71,
+        "precip": 16,
+        "uv": 4,
+        "sunrise": "07:36",
+        "sunset": "18:40"
       }
     ],
     "air": {
-      "aqi": 41,
+      "aqi": 39,
       "label": "Good",
-      "pm25": 3.9
+      "pm25": 11.7
     }
   },
   "severe": [],
@@ -293,20 +293,6 @@
   ],
   "events": [
     {
-      "id": "12710100",
-      "name": "GKTW x PAN Group Volunteering",
-      "org": "Pediatric Advocacy Network",
-      "theme": "CommunityService",
-      "location": "Give Kids The World Village",
-      "date": "2026-10-24",
-      "start": "16:30",
-      "end": "21:15",
-      "blurb": "Join the Pediatric Advocacy Network (PAN) for a pediatric-focused community service opportunity at Give Kids The World Village (GKTW) in Kissimmee! Volunteers w",
-      "rsvps": 3,
-      "image": "https://se-images.campuslabs.com/clink/images/d530bbce-a2b7-4788-97e1-932bc4290eda8c35c4f9-ff72-4184-892d-19844a65aa4a.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12710100"
-    },
-    {
       "id": "12853521",
       "name": "KGD + VMO - 5k Miles for Medicine",
       "org": "Kappa Gamma Delta",
@@ -386,7 +372,7 @@
       "start": "12:30",
       "end": "15:30",
       "blurb": "Join VUCF for an impactful event with Orlando Family Stage! We will be helping them out with their production of the children's play, The Best Halloween Ever. T",
-      "rsvps": 3,
+      "rsvps": 2,
       "image": "https://se-images.campuslabs.com/clink/images/b291ce99-7256-495c-b20e-853b8582e86d5380f51e-8ebe-41d9-b8b6-f80d8efd5cb4.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12876053"
     },
@@ -428,7 +414,7 @@
       "start": "15:30",
       "end": "18:00",
       "blurb": "The Healthy Kids Running Series was created to motivate kids to lead a healthy, active lifestyle through running. They offer a 5-week program each season with v",
-      "rsvps": 5,
+      "rsvps": 4,
       "image": "https://se-images.campuslabs.com/clink/images/58dba9a0-0f71-40a3-821c-ecc562e5e84f2959ac29-af49-4605-8a6d-19bcf86f8a6f.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12866334"
     },
@@ -470,7 +456,7 @@
       "start": "09:00",
       "end": "10:30",
       "blurb": "Join the Natural Resources team in an invasive plant removal shift! We will meet at the Smoothie King across from the College of Sciences building before headin",
-      "rsvps": 8,
+      "rsvps": 7,
       "image": "https://se-images.campuslabs.com/clink/images/6ac65ad1-ce6a-4731-a2e3-cac7bd8109479a6ca0cd-8514-4ead-b107-ffaf0fb4d567.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12822863"
     },
@@ -685,6 +671,20 @@
       "url": "https://ucf.campuslabs.com/engage/event/12837673"
     },
     {
+      "id": "12921549",
+      "name": "LEAPS GBM - Legal Night 101! \ud83d\udd25",
+      "org": "Legal Experience and Professional Success",
+      "theme": "Social",
+      "location": "Psychology Building",
+      "date": "2026-10-26",
+      "start": "18:00",
+      "end": "19:00",
+      "blurb": "LEAPS GBM - Legal Night 101! \ud83d\udd25 Want to learn more about applying for law school & how to prep? \ud83c\udf4e\ud83c\udf1f Ready to flex your debate skills? \ud83d\udcaa Joins us THIS Monday to le",
+      "rsvps": 0,
+      "image": "https://se-images.campuslabs.com/clink/images/934521ba-2cd5-4929-b66e-bee7be09745d4f44433f-b8f5-41a9-a72a-6fcfa664e649.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12921549"
+    },
+    {
       "id": "12910082",
       "name": "It's Scary Not to Vote! GBM #2",
       "org": "League of Women Voters of UCF",
@@ -711,6 +711,20 @@
       "rsvps": 2,
       "image": "https://se-images.campuslabs.com/clink/images/b68d8183-8f9b-4883-bc5a-dddd49740108a6181f5f-2a3e-4bf8-a425-a0a2cd83d013.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12869743"
+    },
+    {
+      "id": "12921554",
+      "name": "WORKSHOP 5: Usability Testing ",
+      "org": "Knights Design Interactive",
+      "theme": "ThoughtfulLearning",
+      "location": "BA1-239",
+      "date": "2026-10-26",
+      "start": "18:00",
+      "end": "19:00",
+      "blurb": "It's time to put your mid-fidelity prototypes to the test and determine if they are user friendly or not \ud83d\udd0d Join us for the fifth workshop in the KDI Design Lab ",
+      "rsvps": 0,
+      "image": "https://se-images.campuslabs.com/clink/images/a854debd-2316-4d5b-ad81-3d8ad9b9a3de4a0c31d2-0ffc-4f60-ac1f-5ac0d4299e03.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12921554"
     },
     {
       "id": "12904959",
@@ -862,7 +876,7 @@
       "start": "19:30",
       "end": "20:30",
       "blurb": "Communication is key to success. Join us for our next Monday Meeting featuring Kathleen Downs, Senior Recruiting Manager at Robert Half! Learn valuable tips on ",
-      "rsvps": 6,
+      "rsvps": 7,
       "image": "https://se-images.campuslabs.com/clink/images/10c38780-6054-4c01-84c9-8adab013738d6fdce5df-7558-4841-9578-97e76b0b7c75.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12917882"
     },
@@ -1646,7 +1660,7 @@
       "start": "18:30",
       "end": "02:00",
       "blurb": "\ud83c\udf83\ud83d\udc7b Theme Park Knights: Halloween Horror Nights Social! \ud83e\ude78\ud83e\udd87 Get ready for a night of screams, scares, and spooky fun! \ud83c\udfa2 Join Theme Park Knights at Universal Orlan",
-      "rsvps": 2,
+      "rsvps": 5,
       "image": "https://se-images.campuslabs.com/clink/images/2c059d07-cdac-4a59-90ad-ecf21dafe32477c5138a-66fb-44f1-ac00-41a27f6aef31.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12918992"
     },
@@ -1702,7 +1716,7 @@
       "start": "20:00",
       "end": "23:00",
       "blurb": "Dare to enter? Join Late Knights & CAB for Fright Knight , our annual haunted trail experience! Venture into the darkness, encounter terrifying characters, and ",
-      "rsvps": 3,
+      "rsvps": 7,
       "image": "https://se-images.campuslabs.com/clink/images/c65b04b3-9f4e-47f1-9d32-528ad5e47616523c1ae5-e73c-409d-b781-9582efc962c2.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12901539"
     },
@@ -1957,20 +1971,6 @@
       "rsvps": 0,
       "image": "https://se-images.campuslabs.com/clink/images/98bb535c-a38f-4751-a147-7a4182c334ee2e7287c7-544e-4931-8cd0-a8cdaf583094.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12550744"
-    },
-    {
-      "id": "12918717",
-      "name": "Herpetological Society Halloween Trivia",
-      "org": "Herpetological Society",
-      "theme": "Social",
-      "location": "UCF Student Union, Room 219",
-      "date": "2026-10-29",
-      "start": "18:00",
-      "end": "20:00",
-      "blurb": "Join us at Room 219 in the Student Union for some slithery Halloween herp trivia! Costumes are encouraged, and we will provide snacks.",
-      "rsvps": 0,
-      "image": "https://se-images.campuslabs.com/clink/images/9d9ecf0b-972e-4705-b929-34d199f69b32d3039c02-26d3-43ab-9dcc-0f25ae339f5d.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12918717"
     }
   ],
   "keyDates": [
@@ -4135,12 +4135,6 @@
       "changes": {},
       "title": "PHY 2048L Laboratory",
       "url": null,
-      "weather": {
-        "temp": 76,
-        "precip": 5,
-        "label": "Clear",
-        "icon": "sun"
-      },
       "courseTitle": "Physics Lab"
     },
     {
@@ -4158,10 +4152,10 @@
       "title": "EGS 1006C Laboratory",
       "url": null,
       "weather": {
-        "temp": 70,
-        "precip": 17,
-        "label": "Partly cloudy",
-        "icon": "cloud"
+        "temp": 72,
+        "precip": 1,
+        "label": "Clear",
+        "icon": "sun"
       },
       "courseTitle": "Intro to Engineering"
     },
@@ -4181,7 +4175,7 @@
       "url": null,
       "weather": {
         "temp": 77,
-        "precip": 18,
+        "precip": 23,
         "label": "Overcast",
         "icon": "cloud"
       },
@@ -4202,9 +4196,9 @@
       "title": "PHY 2048 Discussion",
       "url": null,
       "weather": {
-        "temp": 74,
+        "temp": 72,
         "precip": 0,
-        "label": "Mostly clear",
+        "label": "Clear",
         "icon": "sun"
       },
       "courseTitle": "Physics: Mechanics"
@@ -4224,10 +4218,10 @@
       "title": "ENC 1101 Lecture",
       "url": null,
       "weather": {
-        "temp": 78,
-        "precip": 2,
-        "label": "Clear",
-        "icon": "sun"
+        "temp": 76,
+        "precip": 1,
+        "label": "Overcast",
+        "icon": "cloud"
       },
       "courseTitle": "Writing & Composition"
     },
@@ -4246,10 +4240,10 @@
       "title": "MAC 2312 Lecture",
       "url": null,
       "weather": {
-        "temp": 81,
-        "precip": 2,
-        "label": "Mostly clear",
-        "icon": "sun"
+        "temp": 80,
+        "precip": 1,
+        "label": "Partly cloudy",
+        "icon": "cloud"
       },
       "courseTitle": "Calculus 2"
     },
@@ -4268,7 +4262,7 @@
       "title": "PHY 2048 Lecture",
       "url": null,
       "weather": {
-        "temp": 82,
+        "temp": 81,
         "precip": 3,
         "label": "Clear",
         "icon": "sun"
@@ -4290,7 +4284,7 @@
       "title": "IDH 1920H Lecture",
       "url": null,
       "weather": {
-        "temp": 81,
+        "temp": 80,
         "precip": 3,
         "label": "Clear",
         "icon": "sun"
@@ -4335,7 +4329,7 @@
       "url": null,
       "weather": {
         "temp": 78,
-        "precip": 11,
+        "precip": 21,
         "label": "Overcast",
         "icon": "cloud"
       },
@@ -4357,7 +4351,7 @@
       "url": null,
       "weather": {
         "temp": 79,
-        "precip": 9,
+        "precip": 20,
         "label": "Clear",
         "icon": "sun"
       },
@@ -4378,9 +4372,9 @@
       "title": "MAC 2312 Lecture",
       "url": null,
       "weather": {
-        "temp": 83,
-        "precip": 9,
-        "label": "Clear",
+        "temp": 82,
+        "precip": 20,
+        "label": "Mostly clear",
         "icon": "sun"
       },
       "courseTitle": "Calculus 2"
@@ -4401,8 +4395,8 @@
       "url": null,
       "weather": {
         "temp": 83,
-        "precip": 13,
-        "label": "Mostly clear",
+        "precip": 19,
+        "label": "Clear",
         "icon": "sun"
       },
       "courseTitle": "Physics: Mechanics"
@@ -4423,9 +4417,9 @@
       "url": null,
       "weather": {
         "temp": 70,
-        "precip": 2,
-        "label": "Light drizzle",
-        "icon": "drizzle"
+        "precip": 1,
+        "label": "Clear",
+        "icon": "sun"
       },
       "courseTitle": "Intro to Engineering"
     },
@@ -4444,10 +4438,10 @@
       "title": "MAC 2312 Friday Lecture",
       "url": null,
       "weather": {
-        "temp": 81,
+        "temp": 84,
         "precip": 8,
-        "label": "Drizzle",
-        "icon": "drizzle"
+        "label": "Mostly clear",
+        "icon": "sun"
       },
       "courseTitle": "Calculus 2"
     },
@@ -4465,6 +4459,12 @@
       "changes": {},
       "title": "PHY 2048L Laboratory",
       "url": null,
+      "weather": {
+        "temp": 80,
+        "precip": 12,
+        "label": "Overcast",
+        "icon": "cloud"
+      },
       "courseTitle": "Physics Lab"
     },
     {
@@ -5394,15 +5394,6 @@
     {
       "course": "EGS 1006C",
       "courseTitle": "Intro to Engineering",
-      "title": "Attendance Quiz - Week 5 (Sept. 25)",
-      "dueAt": "2026-09-25T09:30:00-04:00",
-      "points": null,
-      "overdue": true,
-      "url": "https://webcourses.ucf.edu/calendar?include_contexts=course_1519775&month=09&year=2026#assignment_9730375"
-    },
-    {
-      "course": "EGS 1006C",
-      "courseTitle": "Intro to Engineering",
       "title": "Excel - Chapter 04 - Getting and Managing Data",
       "dueAt": "2026-09-27T00:00:00-04:00",
       "points": null,
@@ -5741,6 +5732,15 @@
       "points": null,
       "overdue": true,
       "url": "https://webcourses.ucf.edu/calendar?include_contexts=course_1519775&month=10&year=2026#assignment_9745387"
+    },
+    {
+      "course": "ENC 1101",
+      "courseTitle": "Writing & Composition",
+      "title": "Sign-Up For Conferences by 10/17 @ 11:59pm",
+      "dueAt": "2026-10-17T00:00:00-04:00",
+      "points": null,
+      "overdue": true,
+      "url": "https://webcourses.ucf.edu/calendar?include_contexts=course_1521509&month=10&year=2026#assignment_9701085"
     }
   ],
   "recentChanges": []
