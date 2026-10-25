@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T18:53:13.727564-04:00",
+  "generatedAt": "2026-10-24T20:48:42.112842-04:00",
   "term": {
     "name": "Fall 2026",
     "start": "2026-08-24",
@@ -89,21 +89,21 @@
   "weather": {
     "place": "UCF Orlando",
     "current": {
-      "temp": 73,
-      "feelsLike": 75,
-      "label": "Overcast",
-      "icon": "cloud",
-      "isDay": true
+      "temp": 71,
+      "feelsLike": 72,
+      "label": "Mostly clear",
+      "icon": "sun",
+      "isDay": false
     },
     "days": [
       {
         "date": "2026-10-24",
-        "label": "Drizzle",
-        "icon": "drizzle",
+        "label": "Overcast",
+        "icon": "cloud",
         "high": 80,
         "low": 62,
-        "precip": 39,
-        "uv": 5,
+        "precip": 40,
+        "uv": 6,
         "sunrise": "07:31",
         "sunset": "18:46"
       },
@@ -111,21 +111,21 @@
         "date": "2026-10-25",
         "label": "Heavy rain",
         "icon": "rain",
-        "high": 79,
-        "low": 66,
-        "precip": 33,
+        "high": 81,
+        "low": 68,
+        "precip": 32,
         "uv": 6,
         "sunrise": "07:31",
         "sunset": "18:45"
       },
       {
         "date": "2026-10-26",
-        "label": "Overcast",
-        "icon": "cloud",
-        "high": 80,
+        "label": "Light drizzle",
+        "icon": "drizzle",
+        "high": 79,
         "low": 69,
         "precip": 18,
-        "uv": 6,
+        "uv": 5,
         "sunrise": "07:32",
         "sunset": "18:44"
       },
@@ -134,7 +134,7 @@
         "label": "Light drizzle",
         "icon": "drizzle",
         "high": 82,
-        "low": 67,
+        "low": 72,
         "precip": 3,
         "uv": 6,
         "sunrise": "07:33",
@@ -144,10 +144,10 @@
         "date": "2026-10-28",
         "label": "Light drizzle",
         "icon": "drizzle",
-        "high": 81,
-        "low": 64,
+        "high": 82,
+        "low": 74,
         "precip": 11,
-        "uv": 5,
+        "uv": 6,
         "sunrise": "07:34",
         "sunset": "18:42"
       },
@@ -155,29 +155,29 @@
         "date": "2026-10-29",
         "label": "Light drizzle",
         "icon": "drizzle",
-        "high": 78,
-        "low": 68,
+        "high": 84,
+        "low": 70,
         "precip": 13,
-        "uv": 4,
+        "uv": 6,
         "sunrise": "07:34",
         "sunset": "18:41"
       },
       {
         "date": "2026-10-30",
-        "label": "Overcast",
-        "icon": "cloud",
-        "high": 80,
-        "low": 68,
+        "label": "Drizzle",
+        "icon": "drizzle",
+        "high": 82,
+        "low": 69,
         "precip": 10,
-        "uv": 6,
+        "uv": 5,
         "sunrise": "07:35",
         "sunset": "18:41"
       }
     ],
     "air": {
-      "aqi": 43,
+      "aqi": 41,
       "label": "Good",
-      "pm25": 8.1
+      "pm25": 3.9
     }
   },
   "severe": [],
@@ -242,8 +242,8 @@
       "opponent": "BYU Cougars",
       "home": true,
       "venue": "Acrisure Bounce House",
-      "state": "in",
-      "detail": "1:42 - 4th"
+      "state": "post",
+      "detail": "Final/2OT"
     },
     {
       "date": "2026-10-30",
@@ -305,20 +305,6 @@
       "rsvps": 3,
       "image": "https://se-images.campuslabs.com/clink/images/d530bbce-a2b7-4788-97e1-932bc4290eda8c35c4f9-ff72-4184-892d-19844a65aa4a.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12710100"
-    },
-    {
-      "id": "12820799",
-      "name": "Arcade Monsters",
-      "org": "Association of Physics Students at University of Central Florida",
-      "theme": "Social",
-      "location": "Arcade Monster",
-      "date": "2026-10-24",
-      "start": "18:00",
-      "end": "19:00",
-      "blurb": "Ready to take a break from classes? Join APS for a fun night at Arcade Monsters! Come hang out with fellow physics students, play your favorite arcade games, an",
-      "rsvps": 3,
-      "image": null,
-      "url": "https://ucf.campuslabs.com/engage/event/12820799"
     },
     {
       "id": "12853521",
@@ -708,7 +694,7 @@
       "start": "18:00",
       "end": "19:00",
       "blurb": "IT'S SCARY NOT TO VOTE! Join us for our Halloween-themed GBM #2 on Monday, October 26th from 6pm to 7pm! Pizza, dessert, and drinks will be provided! Our Orange",
-      "rsvps": 0,
+      "rsvps": 1,
       "image": "https://se-images.campuslabs.com/clink/images/fa488398-b93a-49be-a3b2-7851bc3d46b7379adc2f-7556-46b2-91ae-e8926dac20b0.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12910082"
     },
@@ -1971,6 +1957,20 @@
       "rsvps": 0,
       "image": "https://se-images.campuslabs.com/clink/images/98bb535c-a38f-4751-a147-7a4182c334ee2e7287c7-544e-4931-8cd0-a8cdaf583094.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12550744"
+    },
+    {
+      "id": "12918717",
+      "name": "Herpetological Society Halloween Trivia",
+      "org": "Herpetological Society",
+      "theme": "Social",
+      "location": "UCF Student Union, Room 219",
+      "date": "2026-10-29",
+      "start": "18:00",
+      "end": "20:00",
+      "blurb": "Join us at Room 219 in the Student Union for some slithery Halloween herp trivia! Costumes are encouraged, and we will provide snacks.",
+      "rsvps": 0,
+      "image": "https://se-images.campuslabs.com/clink/images/9d9ecf0b-972e-4705-b929-34d199f69b32d3039c02-26d3-43ab-9dcc-0f25ae339f5d.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12918717"
     }
   ],
   "keyDates": [
@@ -4180,9 +4180,9 @@
       "title": "ISC 2054 Seminar",
       "url": null,
       "weather": {
-        "temp": 80,
+        "temp": 77,
         "precip": 18,
-        "label": "Partly cloudy",
+        "label": "Overcast",
         "icon": "cloud"
       },
       "courseTitle": "STEM Seminar"
@@ -4202,9 +4202,9 @@
       "title": "PHY 2048 Discussion",
       "url": null,
       "weather": {
-        "temp": 68,
+        "temp": 74,
         "precip": 0,
-        "label": "Clear",
+        "label": "Mostly clear",
         "icon": "sun"
       },
       "courseTitle": "Physics: Mechanics"
@@ -4226,8 +4226,8 @@
       "weather": {
         "temp": 78,
         "precip": 2,
-        "label": "Overcast",
-        "icon": "cloud"
+        "label": "Clear",
+        "icon": "sun"
       },
       "courseTitle": "Writing & Composition"
     },
@@ -4246,10 +4246,10 @@
       "title": "MAC 2312 Lecture",
       "url": null,
       "weather": {
-        "temp": 80,
+        "temp": 81,
         "precip": 2,
-        "label": "Overcast",
-        "icon": "cloud"
+        "label": "Mostly clear",
+        "icon": "sun"
       },
       "courseTitle": "Calculus 2"
     },
@@ -4268,10 +4268,10 @@
       "title": "PHY 2048 Lecture",
       "url": null,
       "weather": {
-        "temp": 78,
+        "temp": 82,
         "precip": 3,
-        "label": "Overcast",
-        "icon": "cloud"
+        "label": "Clear",
+        "icon": "sun"
       },
       "courseTitle": "Physics: Mechanics"
     },
@@ -4290,10 +4290,10 @@
       "title": "IDH 1920H Lecture",
       "url": null,
       "weather": {
-        "temp": 76,
+        "temp": 81,
         "precip": 3,
-        "label": "Overcast",
-        "icon": "cloud"
+        "label": "Clear",
+        "icon": "sun"
       },
       "courseTitle": "Honors Symposium"
     },
@@ -4312,10 +4312,10 @@
       "title": "IDH 1920H Lecture",
       "url": null,
       "weather": {
-        "temp": 74,
+        "temp": 77,
         "precip": 3,
-        "label": "Light drizzle",
-        "icon": "drizzle"
+        "label": "Clear",
+        "icon": "sun"
       },
       "courseTitle": "Honors Symposium"
     },
@@ -4334,9 +4334,9 @@
       "title": "ISC 2054 Seminar",
       "url": null,
       "weather": {
-        "temp": 81,
+        "temp": 78,
         "precip": 11,
-        "label": "Partly cloudy",
+        "label": "Overcast",
         "icon": "cloud"
       },
       "courseTitle": "STEM Seminar"
@@ -4356,10 +4356,10 @@
       "title": "ENC 1101 Lecture",
       "url": null,
       "weather": {
-        "temp": 75,
+        "temp": 79,
         "precip": 9,
-        "label": "Light drizzle",
-        "icon": "drizzle"
+        "label": "Clear",
+        "icon": "sun"
       },
       "courseTitle": "Writing & Composition"
     },
@@ -4378,10 +4378,10 @@
       "title": "MAC 2312 Lecture",
       "url": null,
       "weather": {
-        "temp": 78,
+        "temp": 83,
         "precip": 9,
-        "label": "Light drizzle",
-        "icon": "drizzle"
+        "label": "Clear",
+        "icon": "sun"
       },
       "courseTitle": "Calculus 2"
     },
@@ -4400,10 +4400,10 @@
       "title": "PHY 2048 Lecture",
       "url": null,
       "weather": {
-        "temp": 77,
+        "temp": 83,
         "precip": 13,
-        "label": "Overcast",
-        "icon": "cloud"
+        "label": "Mostly clear",
+        "icon": "sun"
       },
       "courseTitle": "Physics: Mechanics"
     },
@@ -4424,8 +4424,8 @@
       "weather": {
         "temp": 70,
         "precip": 2,
-        "label": "Clear",
-        "icon": "sun"
+        "label": "Light drizzle",
+        "icon": "drizzle"
       },
       "courseTitle": "Intro to Engineering"
     },
@@ -4444,10 +4444,10 @@
       "title": "MAC 2312 Friday Lecture",
       "url": null,
       "weather": {
-        "temp": 78,
+        "temp": 81,
         "precip": 8,
-        "label": "Clear",
-        "icon": "sun"
+        "label": "Drizzle",
+        "icon": "drizzle"
       },
       "courseTitle": "Calculus 2"
     },
