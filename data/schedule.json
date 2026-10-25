@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T10:05:35.823677-04:00",
+  "generatedAt": "2026-10-25T14:06:56.609130-04:00",
   "term": {
     "name": "Fall 2026",
     "start": "2026-08-24",
@@ -89,18 +89,18 @@
   "weather": {
     "place": "UCF Orlando",
     "current": {
-      "temp": 80,
-      "feelsLike": 79,
-      "label": "Clear",
-      "icon": "sun",
+      "temp": 77,
+      "feelsLike": 80,
+      "label": "Overcast",
+      "icon": "cloud",
       "isDay": true
     },
     "days": [
       {
         "date": "2026-10-25",
-        "label": "Drizzle",
-        "icon": "drizzle",
-        "high": 83,
+        "label": "Rain",
+        "icon": "rain",
+        "high": 82,
         "low": 68,
         "precip": 52,
         "uv": 6,
@@ -113,8 +113,8 @@
         "icon": "drizzle",
         "high": 78,
         "low": 66,
-        "precip": 28,
-        "uv": 5,
+        "precip": 22,
+        "uv": 6,
         "sunrise": "07:32",
         "sunset": "18:44"
       },
@@ -124,19 +124,19 @@
         "icon": "rain",
         "high": 82,
         "low": 68,
-        "precip": 7,
+        "precip": 21,
         "uv": 6,
         "sunrise": "07:33",
         "sunset": "18:43"
       },
       {
         "date": "2026-10-28",
-        "label": "Overcast",
-        "icon": "cloud",
-        "high": 79,
+        "label": "Light drizzle",
+        "icon": "drizzle",
+        "high": 81,
         "low": 74,
-        "precip": 21,
-        "uv": 6,
+        "precip": 16,
+        "uv": 5,
         "sunrise": "07:34",
         "sunset": "18:42"
       },
@@ -144,8 +144,8 @@
         "date": "2026-10-29",
         "label": "Light drizzle",
         "icon": "drizzle",
-        "high": 84,
-        "low": 72,
+        "high": 83,
+        "low": 74,
         "precip": 20,
         "uv": 6,
         "sunrise": "07:34",
@@ -153,11 +153,11 @@
       },
       {
         "date": "2026-10-30",
-        "label": "Light drizzle",
-        "icon": "drizzle",
-        "high": 84,
-        "low": 69,
-        "precip": 16,
+        "label": "Overcast",
+        "icon": "cloud",
+        "high": 83,
+        "low": 71,
+        "precip": 9,
         "uv": 4,
         "sunrise": "07:35",
         "sunset": "18:41"
@@ -166,18 +166,18 @@
         "date": "2026-10-31",
         "label": "Light drizzle",
         "icon": "drizzle",
-        "high": 82,
-        "low": 71,
-        "precip": 16,
+        "high": 81,
+        "low": 72,
+        "precip": 18,
         "uv": 4,
         "sunrise": "07:36",
         "sunset": "18:40"
       }
     ],
     "air": {
-      "aqi": 39,
+      "aqi": 41,
       "label": "Good",
-      "pm25": 11.7
+      "pm25": 11.1
     }
   },
   "severe": [],
@@ -307,20 +307,6 @@
       "url": "https://ucf.campuslabs.com/engage/event/12853521"
     },
     {
-      "id": "12827094",
-      "name": "Volunteering: Veterans Medical Outreach 5K",
-      "org": "Pre-Student Osteopathic Medical Association",
-      "theme": "CommunityService",
-      "location": "UCF Memory Mall",
-      "date": "2026-10-25",
-      "start": "08:00",
-      "end": "14:00",
-      "blurb": "oin UCF Pre-SOMA at Veterans Medical Outreach 5K event on October 25th at 8:00 AM to raise funds in support of homeless veterans. This event will take place on ",
-      "rsvps": 0,
-      "image": "https://se-images.campuslabs.com/clink/images/edf6b758-b633-4844-9c87-2899914bdb8dc4a6b41a-e306-4962-954d-d03f5bd7f13e.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12827094"
-    },
-    {
       "id": "12864574",
       "name": "VA Trunk or Treat Volunteering: VMO x PBMF",
       "org": "Pursuit Beyond Medicine Foundation",
@@ -333,34 +319,6 @@
       "rsvps": 0,
       "image": "https://se-images.campuslabs.com/clink/images/27a0ae65-a332-42f8-a551-df768abe4e2002bd01d0-9072-42d9-b710-30c7c8209333.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12864574"
-    },
-    {
-      "id": "12614733",
-      "name": "Sunday Worship with Wesley at UCF",
-      "org": "Wesley at UCF",
-      "theme": "Spirituality",
-      "location": "Faith UMC",
-      "date": "2026-10-25",
-      "start": "10:00",
-      "end": "11:30",
-      "blurb": "Join us for Faith UMC's Weekly church service every sunday at 10:00 am! Our director Erwin Lopez serves as the pastor, and all are welcome. If you are looking f",
-      "rsvps": 0,
-      "image": "https://se-images.campuslabs.com/clink/images/05ce9c70-ef83-4a92-8492-d16465dbddd6f719d2b3-18d8-4499-922b-f4f29e66b693.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12614733"
-    },
-    {
-      "id": "12911696",
-      "name": "Sunday Mass",
-      "org": "Catholic Campus Ministry",
-      "theme": "Spirituality",
-      "location": "The Live Oak Ballroom on Campus ",
-      "date": "2026-10-25",
-      "start": "12:00",
-      "end": "13:15",
-      "blurb": "Mass is the center of our Catholic Faith. It's where we come together as a Church to worship God through Christ's offering of Himself to the Father and for us i",
-      "rsvps": 3,
-      "image": "https://se-images.campuslabs.com/clink/images/e86ee83c-00d6-4442-8042-e032e96ac32987526cc9-3f8b-42b7-9aae-7ed498d953f9.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12911696"
     },
     {
       "id": "12876053",
@@ -414,7 +372,7 @@
       "start": "15:30",
       "end": "18:00",
       "blurb": "The Healthy Kids Running Series was created to motivate kids to lead a healthy, active lifestyle through running. They offer a 5-week program each season with v",
-      "rsvps": 4,
+      "rsvps": 5,
       "image": "https://se-images.campuslabs.com/clink/images/58dba9a0-0f71-40a3-821c-ecc562e5e84f2959ac29-af49-4605-8a6d-19bcf86f8a6f.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12866334"
     },
@@ -596,7 +554,7 @@
       "start": "16:00",
       "end": "17:00",
       "blurb": "Come join us in a collaborative effort with SASE and PHI in painting tote bags and creating thoughtful cards to send overseas!",
-      "rsvps": 0,
+      "rsvps": 1,
       "image": "https://se-images.campuslabs.com/clink/images/6fdbf182-4417-4738-bc8b-a74c98e838211ac48c31-81bf-4e03-99f8-886342f42e4e.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12917076"
     },
@@ -657,20 +615,6 @@
       "url": "https://ucf.campuslabs.com/engage/event/12891878"
     },
     {
-      "id": "12837673",
-      "name": "Paint and Pumpkins",
-      "org": "Hercules Community",
-      "theme": "Social",
-      "location": "Hercules Programming Center",
-      "date": "2026-10-26",
-      "start": "18:00",
-      "end": "20:00",
-      "blurb": "We want to bring residents together to bond and by decorating their own pumpkins and enjoying a sweet treat! Residents should walk out of this program with stro",
-      "rsvps": 0,
-      "image": "https://se-images.campuslabs.com/clink/images/87ba67c0-e316-4698-aee5-a7acc71e8f4496ead5b6-3431-4382-b0ad-50fe76fd92c6.pdf?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12837673"
-    },
-    {
       "id": "12921549",
       "name": "LEAPS GBM - Legal Night 101! \ud83d\udd25",
       "org": "Legal Experience and Professional Success",
@@ -683,6 +627,20 @@
       "rsvps": 0,
       "image": "https://se-images.campuslabs.com/clink/images/934521ba-2cd5-4929-b66e-bee7be09745d4f44433f-b8f5-41a9-a72a-6fcfa664e649.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12921549"
+    },
+    {
+      "id": "12837673",
+      "name": "Paint and Pumpkins",
+      "org": "Hercules Community",
+      "theme": "Social",
+      "location": "Hercules Programming Center",
+      "date": "2026-10-26",
+      "start": "18:00",
+      "end": "20:00",
+      "blurb": "We want to bring residents together to bond and by decorating their own pumpkins and enjoying a sweet treat! Residents should walk out of this program with stro",
+      "rsvps": 3,
+      "image": "https://se-images.campuslabs.com/clink/images/87ba67c0-e316-4698-aee5-a7acc71e8f4496ead5b6-3431-4382-b0ad-50fe76fd92c6.pdf?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12837673"
     },
     {
       "id": "12910082",
@@ -797,20 +755,6 @@
       "url": "https://ucf.campuslabs.com/engage/event/12915313"
     },
     {
-      "id": "12556421",
-      "name": "GBM: UCF Pre-SOMA",
-      "org": "Pre-Student Osteopathic Medical Association",
-      "theme": "Social",
-      "location": "Cedar Key, Room 223 (Student Union, 2nd floor)",
-      "date": "2026-10-26",
-      "start": "19:00",
-      "end": "20:00",
-      "blurb": "Come connect with fellow members, learn more about Pre-SOMA, and get involved with upcoming events and opportunities. Whether you&rsquo;re a current member or i",
-      "rsvps": 1,
-      "image": "https://se-images.campuslabs.com/clink/images/f260630d-98f5-490c-8077-d618c2dc782597a4539a-ece6-473d-b4ac-67eab42a27b7.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12556421"
-    },
-    {
       "id": "12817434",
       "name": "Pumpkin Spice & Paper Delights",
       "org": "Tower IV Apartments",
@@ -823,6 +767,20 @@
       "rsvps": 1,
       "image": "https://se-images.campuslabs.com/clink/images/3282469c-0ab8-4338-a96e-ea27905ff3820f8f26ae-c398-438d-b2a8-e74344e2e1ad.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12817434"
+    },
+    {
+      "id": "12556421",
+      "name": "GBM: UCF Pre-SOMA",
+      "org": "Pre-Student Osteopathic Medical Association",
+      "theme": "Social",
+      "location": "Cedar Key, Room 223 (Student Union, 2nd floor)",
+      "date": "2026-10-26",
+      "start": "19:00",
+      "end": "20:00",
+      "blurb": "Come connect with fellow members, learn more about Pre-SOMA, and get involved with upcoming events and opportunities. Whether you&rsquo;re a current member or i",
+      "rsvps": 1,
+      "image": "https://se-images.campuslabs.com/clink/images/f260630d-98f5-490c-8077-d618c2dc782597a4539a-ece6-473d-b4ac-67eab42a27b7.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12556421"
     },
     {
       "id": "12824210",
@@ -879,6 +837,20 @@
       "rsvps": 7,
       "image": "https://se-images.campuslabs.com/clink/images/10c38780-6054-4c01-84c9-8adab013738d6fdce5df-7558-4841-9578-97e76b0b7c75.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12917882"
+    },
+    {
+      "id": "12921596",
+      "name": "General Body Meeting #2",
+      "org": "The Society of PC Building at UCF",
+      "theme": "ThoughtfulLearning",
+      "location": "Classroom Building 1 - Room 320",
+      "date": "2026-10-26",
+      "start": "19:30",
+      "end": "21:00",
+      "blurb": "Join us Monday, October 26th, @ 7:30 PM in Classroom Building 1, Room 320 (A different room than usual!) Where we will announce our slate of workshops and socia",
+      "rsvps": 0,
+      "image": "https://se-images.campuslabs.com/clink/images/eb586f1c-2ca6-474e-8732-2df2c34c0f74627a3e77-f55c-45d9-b350-46e60e78cab4.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12921596"
     },
     {
       "id": "12816558",
@@ -1086,7 +1058,7 @@
       "start": "17:00",
       "end": "19:00",
       "blurb": "Come join us at Memory Mall (weather and location availability permitting) for a picnic-style hang-out to meet new people and work on any fiber-art related proj",
-      "rsvps": 4,
+      "rsvps": 5,
       "image": "https://se-images.campuslabs.com/clink/images/7e95e147-de2c-4584-bd65-f272db1935e2ef618811-2f1f-4a5a-90ea-6e380980fc91.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12917323"
     },
@@ -1187,6 +1159,20 @@
       "rsvps": 0,
       "image": "https://se-images.campuslabs.com/clink/images/56c7a4d5-beb1-46b8-a5e7-d5d3fbe71a61a3d67419-169d-455c-9bd0-66bb95de99f9.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12868383"
+    },
+    {
+      "id": "12921583",
+      "name": "Poetics of Waste",
+      "org": "Young Poets' Society",
+      "theme": "Arts",
+      "location": "Classroom Building 1",
+      "date": "2026-10-27",
+      "start": "19:00",
+      "end": "20:30",
+      "blurb": "join us at CB1 room 113 to talk about the poet's favorite muse: loss, through the lens of waste.",
+      "rsvps": 0,
+      "image": "https://se-images.campuslabs.com/clink/images/040ba4b0-d153-466d-aa9c-76409e04d0bb77fa2734-3a57-4d07-a25d-804483f99942.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12921583"
     },
     {
       "id": "12921405",
@@ -1800,7 +1786,7 @@
       "start": "12:00",
       "end": "14:00",
       "blurb": "Come out and vibe! Reconnect at UCF is throwing a vibe day, so throw a ball, do some art, bring an instrument and jam! Board games will be played, frisbees will",
-      "rsvps": 0,
+      "rsvps": 3,
       "image": "https://se-images.campuslabs.com/clink/images/389fb86e-cde4-44bb-9930-4962a73a590c86fc822b-50fe-490e-8e89-e5a9bcee17a2.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12920583"
     },
@@ -1971,6 +1957,20 @@
       "rsvps": 0,
       "image": "https://se-images.campuslabs.com/clink/images/98bb535c-a38f-4751-a147-7a4182c334ee2e7287c7-544e-4931-8cd0-a8cdaf583094.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12550744"
+    },
+    {
+      "id": "12918717",
+      "name": "Herpetological Society Halloween Trivia",
+      "org": "Herpetological Society",
+      "theme": "Social",
+      "location": "UCF Student Union, Room 219",
+      "date": "2026-10-29",
+      "start": "18:00",
+      "end": "20:00",
+      "blurb": "Join us at Room 219 in the Student Union for some slithery Halloween herp trivia! Costumes are encouraged, and we will provide snacks.",
+      "rsvps": 0,
+      "image": "https://se-images.campuslabs.com/clink/images/9d9ecf0b-972e-4705-b929-34d199f69b32d3039c02-26d3-43ab-9dcc-0f25ae339f5d.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12918717"
     }
   ],
   "keyDates": [
@@ -4153,7 +4153,7 @@
       "url": null,
       "weather": {
         "temp": 72,
-        "precip": 1,
+        "precip": 5,
         "label": "Clear",
         "icon": "sun"
       },
@@ -4175,7 +4175,7 @@
       "url": null,
       "weather": {
         "temp": 77,
-        "precip": 23,
+        "precip": 16,
         "label": "Overcast",
         "icon": "cloud"
       },
@@ -4196,8 +4196,8 @@
       "title": "PHY 2048 Discussion",
       "url": null,
       "weather": {
-        "temp": 72,
-        "precip": 0,
+        "temp": 70,
+        "precip": 5,
         "label": "Clear",
         "icon": "sun"
       },
@@ -4240,9 +4240,9 @@
       "title": "MAC 2312 Lecture",
       "url": null,
       "weather": {
-        "temp": 80,
+        "temp": 78,
         "precip": 1,
-        "label": "Partly cloudy",
+        "label": "Overcast",
         "icon": "cloud"
       },
       "courseTitle": "Calculus 2"
@@ -4262,10 +4262,10 @@
       "title": "PHY 2048 Lecture",
       "url": null,
       "weather": {
-        "temp": 81,
-        "precip": 3,
-        "label": "Clear",
-        "icon": "sun"
+        "temp": 80,
+        "precip": 2,
+        "label": "Overcast",
+        "icon": "cloud"
       },
       "courseTitle": "Physics: Mechanics"
     },
@@ -4284,10 +4284,10 @@
       "title": "IDH 1920H Lecture",
       "url": null,
       "weather": {
-        "temp": 80,
-        "precip": 3,
-        "label": "Clear",
-        "icon": "sun"
+        "temp": 79,
+        "precip": 2,
+        "label": "Overcast",
+        "icon": "cloud"
       },
       "courseTitle": "Honors Symposium"
     },
@@ -4307,7 +4307,7 @@
       "url": null,
       "weather": {
         "temp": 77,
-        "precip": 3,
+        "precip": 2,
         "label": "Clear",
         "icon": "sun"
       },
@@ -4328,8 +4328,8 @@
       "title": "ISC 2054 Seminar",
       "url": null,
       "weather": {
-        "temp": 78,
-        "precip": 21,
+        "temp": 80,
+        "precip": 12,
         "label": "Overcast",
         "icon": "cloud"
       },
@@ -4352,8 +4352,8 @@
       "weather": {
         "temp": 79,
         "precip": 20,
-        "label": "Clear",
-        "icon": "sun"
+        "label": "Partly cloudy",
+        "icon": "cloud"
       },
       "courseTitle": "Writing & Composition"
     },
@@ -4372,10 +4372,10 @@
       "title": "MAC 2312 Lecture",
       "url": null,
       "weather": {
-        "temp": 82,
+        "temp": 80,
         "precip": 20,
-        "label": "Mostly clear",
-        "icon": "sun"
+        "label": "Overcast",
+        "icon": "cloud"
       },
       "courseTitle": "Calculus 2"
     },
@@ -4394,10 +4394,10 @@
       "title": "PHY 2048 Lecture",
       "url": null,
       "weather": {
-        "temp": 83,
-        "precip": 19,
-        "label": "Clear",
-        "icon": "sun"
+        "temp": 82,
+        "precip": 18,
+        "label": "Overcast",
+        "icon": "cloud"
       },
       "courseTitle": "Physics: Mechanics"
     },
@@ -4416,8 +4416,8 @@
       "title": "EGS 1006C Lecture",
       "url": null,
       "weather": {
-        "temp": 70,
-        "precip": 1,
+        "temp": 71,
+        "precip": 0,
         "label": "Clear",
         "icon": "sun"
       },
@@ -4438,8 +4438,8 @@
       "title": "MAC 2312 Friday Lecture",
       "url": null,
       "weather": {
-        "temp": 84,
-        "precip": 8,
+        "temp": 83,
+        "precip": 5,
         "label": "Mostly clear",
         "icon": "sun"
       },
@@ -4460,8 +4460,8 @@
       "title": "PHY 2048L Laboratory",
       "url": null,
       "weather": {
-        "temp": 80,
-        "precip": 12,
+        "temp": 81,
+        "precip": 11,
         "label": "Overcast",
         "icon": "cloud"
       },
