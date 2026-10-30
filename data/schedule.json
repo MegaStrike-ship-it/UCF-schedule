@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T12:31:24.227050-04:00",
+  "generatedAt": "2026-10-30T17:22:10.584057-04:00",
   "term": {
     "name": "Fall 2026",
     "start": "2026-08-24",
@@ -90,7 +90,7 @@
     "place": "UCF Orlando",
     "current": {
       "temp": 82,
-      "feelsLike": 85,
+      "feelsLike": 84,
       "label": "Mostly clear",
       "icon": "sun",
       "isDay": true
@@ -100,20 +100,20 @@
         "date": "2026-10-30",
         "label": "Overcast",
         "icon": "cloud",
-        "high": 83,
+        "high": 84,
         "low": 72,
         "precip": 14,
-        "uv": 5,
+        "uv": 6,
         "sunrise": "07:35",
         "sunset": "18:41"
       },
       {
         "date": "2026-10-31",
-        "label": "Overcast",
-        "icon": "cloud",
+        "label": "Heavy showers",
+        "icon": "rain",
         "high": 83,
         "low": 70,
-        "precip": 10,
+        "precip": 15,
         "uv": 5,
         "sunrise": "07:36",
         "sunset": "18:40"
@@ -122,9 +122,9 @@
         "date": "2026-11-01",
         "label": "Thunderstorms",
         "icon": "storm",
-        "high": 78,
-        "low": 70,
-        "precip": 59,
+        "high": 79,
+        "low": 71,
+        "precip": 61,
         "uv": 5,
         "sunrise": "07:36",
         "sunset": "18:39"
@@ -133,51 +133,51 @@
         "date": "2026-11-02",
         "label": "Showers",
         "icon": "rain",
-        "high": 74,
-        "low": 69,
-        "precip": 55,
+        "high": 72,
+        "low": 70,
+        "precip": 61,
         "uv": 1,
         "sunrise": "07:37",
         "sunset": "18:38"
       },
       {
         "date": "2026-11-03",
-        "label": "Overcast",
-        "icon": "cloud",
-        "high": 85,
-        "low": 68,
-        "precip": 20,
-        "uv": 6,
+        "label": "Drizzle",
+        "icon": "drizzle",
+        "high": 83,
+        "low": 70,
+        "precip": 21,
+        "uv": 5,
         "sunrise": "07:38",
         "sunset": "18:38"
       },
       {
         "date": "2026-11-04",
-        "label": "Overcast",
-        "icon": "cloud",
-        "high": 85,
-        "low": 69,
-        "precip": 24,
-        "uv": 6,
+        "label": "Showers",
+        "icon": "rain",
+        "high": 81,
+        "low": 72,
+        "precip": 27,
+        "uv": 4,
         "sunrise": "07:39",
         "sunset": "18:37"
       },
       {
         "date": "2026-11-05",
-        "label": "Light drizzle",
+        "label": "Drizzle",
         "icon": "drizzle",
         "high": 80,
-        "low": 69,
-        "precip": 32,
-        "uv": 5,
+        "low": 71,
+        "precip": 28,
+        "uv": 4,
         "sunrise": "07:39",
         "sunset": "18:36"
       }
     ],
     "air": {
-      "aqi": 45,
+      "aqi": 44,
       "label": "Good",
-      "pm25": 7.2
+      "pm25": 10.6
     }
   },
   "severe": [],
@@ -344,7 +344,7 @@
       "start": "18:00",
       "end": "21:00",
       "blurb": "Get in a spooky mood and join PSA as we play the Roblox game Doors on our Discord Server! Discord link is both in our KnightConnect, and in the QR code on our b",
-      "rsvps": 4,
+      "rsvps": 5,
       "image": "https://se-images.campuslabs.com/clink/images/9ae0220a-4b96-4429-a97f-5e2bc178aacfbc4826df-435e-4657-88cf-237a54fd64e2.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12857398"
     },
@@ -657,6 +657,20 @@
       "url": "https://ucf.campuslabs.com/engage/event/12925358"
     },
     {
+      "id": "12941139",
+      "name": "Public Garden Management Volunteer Shift",
+      "org": "UCF Arboretum",
+      "theme": "CommunityService",
+      "location": "L3Harris Room 104",
+      "date": "2026-11-03",
+      "start": "09:00",
+      "end": "10:00",
+      "blurb": "Join the Arboretum Public Garden Management team in our beautiful Arboretum Public Garden, maintaining the various gardens by weeding, mulching, propagating, pl",
+      "rsvps": 0,
+      "image": "https://se-images.campuslabs.com/clink/images/631013d6-1732-44bf-896d-361244d237b740eecfde-3ac8-4347-b943-e75511014359.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12941139"
+    },
+    {
       "id": "12902957",
       "name": " L3 Harris Confetti Clean-up ",
       "org": "UCF Arboretum",
@@ -764,7 +778,7 @@
       "start": "16:30",
       "end": "18:00",
       "blurb": "\ud83e\uddf6 Join us to make temari &mdash;Japanese embroidered hand balls! \ud83e\udea1 \ud83d\udc58 These ornate artworks started as up-cycled kimono scraps given to children as gifts. \ud83d\udd30 We w",
-      "rsvps": 2,
+      "rsvps": 4,
       "image": "https://se-images.campuslabs.com/clink/images/4a29d2cc-b93b-48d7-8e03-a91483014560441181e1-9c32-4f13-a21b-87d5dca0f1da.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12937377"
     },
@@ -1380,7 +1394,7 @@
       "start": "15:30",
       "end": "17:00",
       "blurb": "Join your Lake Claire Housing staff for an afternoon of wellness, chicken, and waffles! Visit some of the wellness booths to receive a free plate of chicken and",
-      "rsvps": 2,
+      "rsvps": 3,
       "image": "https://se-images.campuslabs.com/clink/images/127821ba-c0f4-4e32-8293-72d2ccc99d88e2a7838f-66f8-48b9-880b-63c85f4677b5.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12896923"
     },
@@ -1576,7 +1590,7 @@
       "start": "11:30",
       "end": "13:00",
       "blurb": "Come join us and get your hands dirty in our community garden! We will be doing tasks such as weeding, mulching, planting, harvesting and many other tasks that ",
-      "rsvps": 9,
+      "rsvps": 10,
       "image": "https://se-images.campuslabs.com/clink/images/4cb23f54-3a43-4b65-af06-b9eda164ec3b74898b7d-e544-487d-ac29-18abfcbbc3f4.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12919681"
     },
@@ -1749,6 +1763,20 @@
       "url": "https://ucf.campuslabs.com/engage/event/12591731"
     },
     {
+      "id": "12941977",
+      "name": "TRG Lab Tour ",
+      "org": "Human Factors and Ergonomics Society - Student Chapter",
+      "theme": "ThoughtfulLearning",
+      "location": "PSY 307",
+      "date": "2026-11-09",
+      "start": "11:00",
+      "end": "12:00",
+      "blurb": "The Transportation Research Group (TRG) Lab is collaborating with HFES and Psi Chi to help undergraduate students learn about research and apply as a research a",
+      "rsvps": 0,
+      "image": "https://se-images.campuslabs.com/clink/images/990294c1-311f-48b1-a8d2-80030a98e0f76b5b636b-bca8-433f-b307-b98156581c56.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12941977"
+    },
+    {
       "id": "12913806",
       "name": "Guys Bible Study ",
       "org": "Chi Alpha Christian Fellowship",
@@ -1789,6 +1817,20 @@
       "rsvps": 0,
       "image": "https://se-images.campuslabs.com/clink/images/97bde8d7-8871-4389-adfd-f3e0c2f5b06e8b1ffc72-febc-46f4-bb4b-237b7fd10a8e.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12550936"
+    },
+    {
+      "id": "12942005",
+      "name": "Guest Speaker- Dr. William Volante (Virtual)",
+      "org": "Human Factors and Ergonomics Society - Student Chapter",
+      "theme": "ThoughtfulLearning",
+      "location": "Online",
+      "date": "2026-11-09",
+      "start": "15:00",
+      "end": "16:00",
+      "blurb": "Join us on Microsoft Teams (Link TBD)! Dr. William Volante is an Associate Lecturer in the Psychology Department at the University of Central Florida (UCF), whe",
+      "rsvps": 0,
+      "image": "https://se-images.campuslabs.com/clink/images/977d0509-a5aa-4966-9fb9-57d42c68efd8c4fdc93a-723c-4442-9e0a-4b047ec86577.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12942005"
     },
     {
       "id": "12550857",
@@ -1929,48 +1971,6 @@
       "rsvps": 5,
       "image": "https://se-images.campuslabs.com/clink/images/2fdaa9b2-ded9-4e36-a902-d9fd0761dc825824f8b8-1c17-4a34-a1bb-31e0d316a28d.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12926937"
-    },
-    {
-      "id": "12556422",
-      "name": "GBM: UCF Pre-SOMA",
-      "org": "Pre-Student Osteopathic Medical Association",
-      "theme": "Social",
-      "location": "Cedar Key, Room 223 (Student Union, 2nd floor)",
-      "date": "2026-11-09",
-      "start": "19:00",
-      "end": "20:00",
-      "blurb": "Come connect with fellow members, learn more about Pre-SOMA, and get involved with upcoming events and opportunities. Whether you&rsquo;re a current member or i",
-      "rsvps": 1,
-      "image": "https://se-images.campuslabs.com/clink/images/e238138f-e185-4131-a5fa-04353aef51d55578c423-ea51-4f47-8f57-501708eabf17.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12556422"
-    },
-    {
-      "id": "12578737",
-      "name": "Meditation Monday",
-      "org": "Bhakti Yoga Club ",
-      "theme": "Spirituality",
-      "location": "ISKCON Orlando",
-      "date": "2026-11-09",
-      "start": "19:00",
-      "end": "20:00",
-      "blurb": "Join us for Meditation Monday , a chance to slow down, step away from the busyness of college life, and reconnect with yourself in good company. Each week, we e",
-      "rsvps": 0,
-      "image": "https://se-images.campuslabs.com/clink/images/2a348e23-5afa-4435-9881-3cf5d2e0fcf9d119ad82-7c19-4653-b960-ea17a6d6b131.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12578737"
-    },
-    {
-      "id": "12519790",
-      "name": "General Body Meeting #8 - KPM Franklin",
-      "org": "American Society of Civil Engineers at the University of Central Florida",
-      "theme": "ThoughtfulLearning",
-      "location": "CB2 206",
-      "date": "2026-11-09",
-      "start": "19:30",
-      "end": "21:00",
-      "blurb": "Join us for ASCE&rsquo;s eighth General Body Meeting of the semester with KPM Franklin! Hear from representatives from KPM Franklin as they explore their servic",
-      "rsvps": 0,
-      "image": "https://se-images.campuslabs.com/clink/images/8f5e5d32-65c3-4a98-a9be-eaf5db2030676d11f346-773a-4aae-a87a-1af131749789.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12519790"
     }
   ],
   "keyDates": [
@@ -4368,8 +4368,8 @@
       "weather": {
         "temp": 82,
         "precip": 8,
-        "label": "Mostly clear",
-        "icon": "sun"
+        "label": "Overcast",
+        "icon": "cloud"
       },
       "courseTitle": "Calculus 2"
     },
@@ -4410,8 +4410,8 @@
       "title": "EGS 1006C Laboratory",
       "url": null,
       "weather": {
-        "temp": 72,
-        "precip": 55,
+        "temp": 71,
+        "precip": 57,
         "label": "Light drizzle",
         "icon": "drizzle"
       },
@@ -4432,10 +4432,10 @@
       "title": "ISC 2054 Seminar",
       "url": null,
       "weather": {
-        "temp": 72,
-        "precip": 55,
-        "label": "Heavy drizzle",
-        "icon": "drizzle"
+        "temp": 71,
+        "precip": 48,
+        "label": "Overcast",
+        "icon": "cloud"
       },
       "courseTitle": "STEM Seminar"
     },
@@ -4454,7 +4454,7 @@
       "title": "PHY 2048 Discussion",
       "url": null,
       "weather": {
-        "temp": 68,
+        "temp": 70,
         "precip": 6,
         "label": "Clear",
         "icon": "sun"
@@ -4476,10 +4476,10 @@
       "title": "ENC 1101 Lecture",
       "url": null,
       "weather": {
-        "temp": 74,
-        "precip": 9,
-        "label": "Clear",
-        "icon": "sun"
+        "temp": 78,
+        "precip": 13,
+        "label": "Light drizzle",
+        "icon": "drizzle"
       },
       "courseTitle": "Writing & Composition"
     },
@@ -4498,10 +4498,10 @@
       "title": "MAC 2312 Lecture",
       "url": null,
       "weather": {
-        "temp": 79,
-        "precip": 9,
-        "label": "Clear",
-        "icon": "sun"
+        "temp": 80,
+        "precip": 13,
+        "label": "Overcast",
+        "icon": "cloud"
       },
       "courseTitle": "Calculus 2"
     },
@@ -4520,9 +4520,9 @@
       "title": "PHY 2048 Lecture",
       "url": null,
       "weather": {
-        "temp": 85,
-        "precip": 20,
-        "label": "Mostly clear",
+        "temp": 82,
+        "precip": 21,
+        "label": "Clear",
         "icon": "sun"
       },
       "courseTitle": "Physics: Mechanics"
@@ -4542,10 +4542,10 @@
       "title": "IDH 1920H Lecture",
       "url": null,
       "weather": {
-        "temp": 84,
-        "precip": 20,
-        "label": "Overcast",
-        "icon": "cloud"
+        "temp": 83,
+        "precip": 21,
+        "label": "Light drizzle",
+        "icon": "drizzle"
       },
       "courseTitle": "Honors Symposium"
     },
@@ -4565,9 +4565,9 @@
       "url": null,
       "weather": {
         "temp": 79,
-        "precip": 20,
-        "label": "Overcast",
-        "icon": "cloud"
+        "precip": 21,
+        "label": "Mostly clear",
+        "icon": "sun"
       },
       "courseTitle": "Honors Symposium"
     },
@@ -4586,9 +4586,9 @@
       "title": "ISC 2054 Seminar",
       "url": null,
       "weather": {
-        "temp": 84,
-        "precip": 24,
-        "label": "Partly cloudy",
+        "temp": 81,
+        "precip": 27,
+        "label": "Overcast",
         "icon": "cloud"
       },
       "courseTitle": "STEM Seminar"
@@ -4608,10 +4608,10 @@
       "title": "ENC 1101 Lecture",
       "url": null,
       "weather": {
-        "temp": 75,
-        "precip": 12,
-        "label": "Light drizzle",
-        "icon": "drizzle"
+        "temp": 73,
+        "precip": 8,
+        "label": "Overcast",
+        "icon": "cloud"
       },
       "courseTitle": "Writing & Composition"
     },
@@ -4630,10 +4630,10 @@
       "title": "MAC 2312 Lecture",
       "url": null,
       "weather": {
-        "temp": 78,
-        "precip": 12,
-        "label": "Partly cloudy",
-        "icon": "cloud"
+        "temp": 76,
+        "precip": 8,
+        "label": "Drizzle",
+        "icon": "drizzle"
       },
       "courseTitle": "Calculus 2"
     },
@@ -4653,8 +4653,8 @@
       "url": null,
       "weather": {
         "temp": 80,
-        "precip": 32,
-        "label": "Partly cloudy",
+        "precip": 28,
+        "label": "Overcast",
         "icon": "cloud"
       },
       "courseTitle": "Physics: Mechanics"
