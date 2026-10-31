@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T11:35:40.561814-04:00",
+  "generatedAt": "2026-10-31T15:42:38.600931-04:00",
   "term": {
     "name": "Fall 2026",
     "start": "2026-08-24",
@@ -89,7 +89,7 @@
   "weather": {
     "place": "UCF Orlando",
     "current": {
-      "temp": 82,
+      "temp": 83,
       "feelsLike": 84,
       "label": "Partly cloudy",
       "icon": "cloud",
@@ -100,10 +100,10 @@
         "date": "2026-10-31",
         "label": "Overcast",
         "icon": "cloud",
-        "high": 84,
+        "high": 85,
         "low": 70,
-        "precip": 32,
-        "uv": 5,
+        "precip": 16,
+        "uv": 4,
         "sunrise": "07:36",
         "sunset": "18:40"
       },
@@ -113,71 +113,71 @@
         "icon": "rain",
         "high": 81,
         "low": 70,
-        "precip": 39,
-        "uv": 2,
+        "precip": 51,
+        "uv": 5,
         "sunrise": "07:36",
         "sunset": "18:39"
       },
       {
         "date": "2026-11-02",
-        "label": "Heavy rain",
+        "label": "Showers",
         "icon": "rain",
-        "high": 77,
-        "low": 69,
+        "high": 71,
+        "low": 68,
         "precip": 58,
-        "uv": 4,
+        "uv": 1,
         "sunrise": "07:37",
         "sunset": "18:38"
       },
       {
         "date": "2026-11-03",
-        "label": "Light drizzle",
-        "icon": "drizzle",
+        "label": "Thunderstorms",
+        "icon": "storm",
         "high": 81,
-        "low": 68,
+        "low": 69,
         "precip": 31,
-        "uv": 5,
+        "uv": 4,
         "sunrise": "07:38",
         "sunset": "18:38"
       },
       {
         "date": "2026-11-04",
-        "label": "Light drizzle",
-        "icon": "drizzle",
-        "high": 84,
+        "label": "Thunderstorms",
+        "icon": "storm",
+        "high": 85,
         "low": 70,
         "precip": 15,
-        "uv": 5,
+        "uv": 6,
         "sunrise": "07:39",
         "sunset": "18:37"
       },
       {
         "date": "2026-11-05",
-        "label": "Light drizzle",
-        "icon": "drizzle",
+        "label": "Overcast",
+        "icon": "cloud",
         "high": 85,
-        "low": 69,
+        "low": 70,
         "precip": 17,
-        "uv": 6,
+        "uv": 5,
         "sunrise": "07:39",
         "sunset": "18:36"
       },
       {
         "date": "2026-11-06",
-        "label": "Light drizzle",
-        "icon": "drizzle",
+        "label": "Partly cloudy",
+        "icon": "cloud",
         "high": 85,
         "low": 69,
         "precip": 10,
-        "uv": 5,
+        "uv": 6,
         "sunrise": "07:40",
         "sunset": "18:36"
       }
     ],
     "air": {
-      "aqi": 47,
+      "aqi": 50,
       "label": "Good",
-      "pm25": 13.2
+      "pm25": 11.8
     }
   },
   "severe": [],
@@ -292,20 +292,6 @@
     }
   ],
   "events": [
-    {
-      "id": "12921317",
-      "name": "Fleet Farming Weekly Swarm Ride",
-      "org": "Association of Environmental Professionals at the University of Central Florida",
-      "theme": "CommunityService",
-      "location": "Aubodon Church",
-      "date": "2026-10-31",
-      "start": "09:00",
-      "end": "12:00",
-      "blurb": "Get 3 Volunteer Hours with the nonprofit Fleet Farming. AEP - check in via knights connect and post a photo for volunteer hour credits! Join us Every Saturday a",
-      "rsvps": 0,
-      "image": "https://se-images.campuslabs.com/clink/images/161e1006-a419-4156-ba56-732005bdeded1e26a863-4a4e-494a-9539-7679eef44775.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12921317"
-    },
     {
       "id": "12872208",
       "name": "A Knight on the Nile Cultural Gala ",
@@ -1971,6 +1957,20 @@
       "rsvps": 0,
       "image": "https://se-images.campuslabs.com/clink/images/23b95ecf-d8cb-402f-8f5d-a293c08aa30add3ba64b-7615-4e2f-b627-69026db75757.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12591732"
+    },
+    {
+      "id": "12569806",
+      "name": "Lunch and Learn with Wesley at UCF",
+      "org": "Wesley at UCF",
+      "theme": "ThoughtfulLearning",
+      "location": "The Wesley Foundation at UCF",
+      "date": "2026-11-10",
+      "start": "12:00",
+      "end": "13:00",
+      "blurb": "Network and eat some free lunch while learning topics ranging from: leadership, mental health, financial literacy and growing in your faith! Everyone is welcome",
+      "rsvps": 0,
+      "image": "https://se-images.campuslabs.com/clink/images/6d00bd03-0d03-4d6d-90b0-d1e5e4cc9361fc5a1f66-25cf-4b73-97b5-0fc70cd207b2.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12569806"
     }
   ],
   "keyDates": [
@@ -4393,10 +4393,10 @@
       "title": "EGS 1006C Laboratory",
       "url": null,
       "weather": {
-        "temp": 70,
+        "temp": 69,
         "precip": 58,
-        "label": "Light drizzle",
-        "icon": "drizzle"
+        "label": "Showers",
+        "icon": "rain"
       },
       "courseTitle": "Intro to Engineering"
     },
@@ -4415,9 +4415,9 @@
       "title": "ISC 2054 Seminar",
       "url": null,
       "weather": {
-        "temp": 76,
+        "temp": 70,
         "precip": 46,
-        "label": "Light drizzle",
+        "label": "Drizzle",
         "icon": "drizzle"
       },
       "courseTitle": "STEM Seminar"
@@ -4437,10 +4437,10 @@
       "title": "PHY 2048 Discussion",
       "url": null,
       "weather": {
-        "temp": 68,
+        "temp": 70,
         "precip": 20,
-        "label": "Clear",
-        "icon": "sun"
+        "label": "Drizzle",
+        "icon": "drizzle"
       },
       "courseTitle": "Physics: Mechanics"
     },
@@ -4459,10 +4459,10 @@
       "title": "ENC 1101 Lecture",
       "url": null,
       "weather": {
-        "temp": 76,
+        "temp": 75,
         "precip": 31,
-        "label": "Clear",
-        "icon": "sun"
+        "label": "Overcast",
+        "icon": "cloud"
       },
       "courseTitle": "Writing & Composition"
     },
@@ -4481,10 +4481,10 @@
       "title": "MAC 2312 Lecture",
       "url": null,
       "weather": {
-        "temp": 80,
+        "temp": 79,
         "precip": 31,
-        "label": "Mostly clear",
-        "icon": "sun"
+        "label": "Light drizzle",
+        "icon": "drizzle"
       },
       "courseTitle": "Calculus 2"
     },
@@ -4503,10 +4503,10 @@
       "title": "PHY 2048 Lecture",
       "url": null,
       "weather": {
-        "temp": 80,
+        "temp": 81,
         "precip": 24,
-        "label": "Light drizzle",
-        "icon": "drizzle"
+        "label": "Thunderstorms",
+        "icon": "storm"
       },
       "courseTitle": "Physics: Mechanics"
     },
@@ -4525,7 +4525,7 @@
       "title": "IDH 1920H Lecture",
       "url": null,
       "weather": {
-        "temp": 80,
+        "temp": 81,
         "precip": 24,
         "label": "Light drizzle",
         "icon": "drizzle"
@@ -4549,8 +4549,8 @@
       "weather": {
         "temp": 76,
         "precip": 24,
-        "label": "Overcast",
-        "icon": "cloud"
+        "label": "Thunderstorms",
+        "icon": "storm"
       },
       "courseTitle": "Honors Symposium"
     },
@@ -4569,10 +4569,10 @@
       "title": "ISC 2054 Seminar",
       "url": null,
       "weather": {
-        "temp": 83,
+        "temp": 82,
         "precip": 15,
-        "label": "Overcast",
-        "icon": "cloud"
+        "label": "Thunderstorms",
+        "icon": "storm"
       },
       "courseTitle": "STEM Seminar"
     },
@@ -4593,8 +4593,8 @@
       "weather": {
         "temp": 76,
         "precip": 7,
-        "label": "Mostly clear",
-        "icon": "sun"
+        "label": "Partly cloudy",
+        "icon": "cloud"
       },
       "courseTitle": "Writing & Composition"
     },
@@ -4613,9 +4613,9 @@
       "title": "MAC 2312 Lecture",
       "url": null,
       "weather": {
-        "temp": 82,
+        "temp": 81,
         "precip": 7,
-        "label": "Clear",
+        "label": "Mostly clear",
         "icon": "sun"
       },
       "courseTitle": "Calculus 2"
@@ -4635,10 +4635,10 @@
       "title": "PHY 2048 Lecture",
       "url": null,
       "weather": {
-        "temp": 84,
+        "temp": 85,
         "precip": 17,
-        "label": "Light drizzle",
-        "icon": "drizzle"
+        "label": "Clear",
+        "icon": "sun"
       },
       "courseTitle": "Physics: Mechanics"
     },
