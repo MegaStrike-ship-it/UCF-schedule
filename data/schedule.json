@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T15:42:38.600931-04:00",
+  "generatedAt": "2026-10-31T19:04:23.859775-04:00",
   "term": {
     "name": "Fall 2026",
     "start": "2026-08-24",
@@ -89,20 +89,20 @@
   "weather": {
     "place": "UCF Orlando",
     "current": {
-      "temp": 83,
-      "feelsLike": 84,
-      "label": "Partly cloudy",
-      "icon": "cloud",
-      "isDay": true
+      "temp": 77,
+      "feelsLike": 81,
+      "label": "Mostly clear",
+      "icon": "sun",
+      "isDay": false
     },
     "days": [
       {
         "date": "2026-10-31",
-        "label": "Overcast",
-        "icon": "cloud",
+        "label": "Light drizzle",
+        "icon": "drizzle",
         "high": 85,
         "low": 70,
-        "precip": 16,
+        "precip": 24,
         "uv": 4,
         "sunrise": "07:36",
         "sunset": "18:40"
@@ -111,7 +111,7 @@
         "date": "2026-11-01",
         "label": "Showers",
         "icon": "rain",
-        "high": 81,
+        "high": 82,
         "low": 70,
         "precip": 51,
         "uv": 5,
@@ -120,11 +120,11 @@
       },
       {
         "date": "2026-11-02",
-        "label": "Showers",
+        "label": "Rain",
         "icon": "rain",
-        "high": 71,
-        "low": 68,
-        "precip": 58,
+        "high": 74,
+        "low": 69,
+        "precip": 67,
         "uv": 1,
         "sunrise": "07:37",
         "sunset": "18:38"
@@ -135,7 +135,7 @@
         "icon": "storm",
         "high": 81,
         "low": 69,
-        "precip": 31,
+        "precip": 41,
         "uv": 4,
         "sunrise": "07:38",
         "sunset": "18:38"
@@ -146,7 +146,7 @@
         "icon": "storm",
         "high": 85,
         "low": 70,
-        "precip": 15,
+        "precip": 31,
         "uv": 6,
         "sunrise": "07:39",
         "sunset": "18:37"
@@ -157,7 +157,7 @@
         "icon": "cloud",
         "high": 85,
         "low": 70,
-        "precip": 17,
+        "precip": 19,
         "uv": 5,
         "sunrise": "07:39",
         "sunset": "18:36"
@@ -168,7 +168,7 @@
         "icon": "cloud",
         "high": 85,
         "low": 69,
-        "precip": 10,
+        "precip": 8,
         "uv": 6,
         "sunrise": "07:40",
         "sunset": "18:36"
@@ -177,7 +177,7 @@
     "air": {
       "aqi": 50,
       "label": "Good",
-      "pm25": 11.8
+      "pm25": 8.4
     }
   },
   "severe": [],
@@ -316,7 +316,7 @@
       "start": "19:00",
       "end": "22:00",
       "blurb": "CCM is having our annual Halloween Party! There will be food, Halloween themed drinks, spooky decorations, a mini-haunted house, and a costume contest with priz",
-      "rsvps": 0,
+      "rsvps": 1,
       "image": "https://se-images.campuslabs.com/clink/images/7d63d1bb-abf8-413f-9391-1cdddf6ae57b08bce320-08f9-4d8c-979c-2c95858c9b3e.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12921412"
     },
@@ -330,7 +330,7 @@
       "start": "09:00",
       "end": "16:00",
       "blurb": "Looking for a fun way to unwind, recharge, and spend your Sunday? Join us at the Orlando Yoga Festival for a day full of wellness, good vibes, and exciting expe",
-      "rsvps": 2,
+      "rsvps": 3,
       "image": "https://se-images.campuslabs.com/clink/images/3cff4a19-b6e5-4e7e-9865-ac1cdd7bc5bec5896b22-f943-4e9d-8ae9-31885a5696f2.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12893934"
     },
@@ -442,7 +442,7 @@
       "start": "15:00",
       "end": "16:30",
       "blurb": "Get an inside look at graduate school from current and recent graduates who&rsquo;ve walked the first-generation path. Hear their experiences and advice to help",
-      "rsvps": 5,
+      "rsvps": 6,
       "image": "https://se-images.campuslabs.com/clink/images/e5363408-a7f8-49e5-a278-51b2902adbe7f163d238-8bb7-421e-b255-5aebb2bd342a.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12934858"
     },
@@ -540,7 +540,7 @@
       "start": "19:30",
       "end": "20:30",
       "blurb": "Join us this Monday for an insightful meeting with Amber Bonachi, UCF Career Coach, as we discuss the importance of keeping your tangible skills up to date! Com",
-      "rsvps": 2,
+      "rsvps": 3,
       "image": "https://se-images.campuslabs.com/clink/images/fa5aacf8-c2bf-4c70-b407-e03c221aca902b7d4f31-43b6-4008-a291-06b7f58fde6c.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12939650"
     },
@@ -1324,7 +1324,7 @@
       "start": "15:45",
       "end": "18:00",
       "blurb": "When harm occurs&mdash;a crime, a campus conflict, an institutional failure&mdash;communities must decide how to respond. Traditional justice asks what rule was",
-      "rsvps": 45,
+      "rsvps": 49,
       "image": "https://se-images.campuslabs.com/clink/images/dbde6903-b1e7-4bf8-962c-baf9d1f97e51be8fc752-7ce3-4ca7-8aa8-ccb487375562.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12819589"
     },
@@ -4393,10 +4393,10 @@
       "title": "EGS 1006C Laboratory",
       "url": null,
       "weather": {
-        "temp": 69,
-        "precip": 58,
-        "label": "Showers",
-        "icon": "rain"
+        "temp": 70,
+        "precip": 53,
+        "label": "Overcast",
+        "icon": "cloud"
       },
       "courseTitle": "Intro to Engineering"
     },
@@ -4416,7 +4416,7 @@
       "url": null,
       "weather": {
         "temp": 70,
-        "precip": 46,
+        "precip": 48,
         "label": "Drizzle",
         "icon": "drizzle"
       },
@@ -4438,7 +4438,7 @@
       "url": null,
       "weather": {
         "temp": 70,
-        "precip": 20,
+        "precip": 29,
         "label": "Drizzle",
         "icon": "drizzle"
       },
@@ -4460,7 +4460,7 @@
       "url": null,
       "weather": {
         "temp": 75,
-        "precip": 31,
+        "precip": 41,
         "label": "Overcast",
         "icon": "cloud"
       },
@@ -4482,7 +4482,7 @@
       "url": null,
       "weather": {
         "temp": 79,
-        "precip": 31,
+        "precip": 41,
         "label": "Light drizzle",
         "icon": "drizzle"
       },
@@ -4504,7 +4504,7 @@
       "url": null,
       "weather": {
         "temp": 81,
-        "precip": 24,
+        "precip": 40,
         "label": "Thunderstorms",
         "icon": "storm"
       },
@@ -4526,7 +4526,7 @@
       "url": null,
       "weather": {
         "temp": 81,
-        "precip": 24,
+        "precip": 40,
         "label": "Light drizzle",
         "icon": "drizzle"
       },
@@ -4548,7 +4548,7 @@
       "url": null,
       "weather": {
         "temp": 76,
-        "precip": 24,
+        "precip": 40,
         "label": "Thunderstorms",
         "icon": "storm"
       },
@@ -4570,7 +4570,7 @@
       "url": null,
       "weather": {
         "temp": 82,
-        "precip": 15,
+        "precip": 31,
         "label": "Thunderstorms",
         "icon": "storm"
       },
@@ -4636,7 +4636,7 @@
       "url": null,
       "weather": {
         "temp": 85,
-        "precip": 17,
+        "precip": 19,
         "label": "Clear",
         "icon": "sun"
       },
@@ -4680,7 +4680,7 @@
       "url": null,
       "weather": {
         "temp": 81,
-        "precip": 7,
+        "precip": 4,
         "label": "Clear",
         "icon": "sun"
       },
