@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T21:25:01.685316-04:00",
+  "generatedAt": "2026-10-31T11:35:40.561814-04:00",
   "term": {
     "name": "Fall 2026",
     "start": "2026-08-24",
@@ -89,31 +89,20 @@
   "weather": {
     "place": "UCF Orlando",
     "current": {
-      "temp": 75,
-      "feelsLike": 79,
-      "label": "Overcast",
+      "temp": 82,
+      "feelsLike": 84,
+      "label": "Partly cloudy",
       "icon": "cloud",
-      "isDay": false
+      "isDay": true
     },
     "days": [
       {
-        "date": "2026-10-30",
+        "date": "2026-10-31",
         "label": "Overcast",
         "icon": "cloud",
-        "high": 86,
-        "low": 71,
-        "precip": 14,
-        "uv": 6,
-        "sunrise": "07:35",
-        "sunset": "18:41"
-      },
-      {
-        "date": "2026-10-31",
-        "label": "Heavy showers",
-        "icon": "rain",
-        "high": 83,
-        "low": 69,
-        "precip": 15,
+        "high": 84,
+        "low": 70,
+        "precip": 32,
         "uv": 5,
         "sunrise": "07:36",
         "sunset": "18:40"
@@ -122,21 +111,21 @@
         "date": "2026-11-01",
         "label": "Showers",
         "icon": "rain",
-        "high": 76,
-        "low": 71,
-        "precip": 61,
+        "high": 81,
+        "low": 70,
+        "precip": 39,
         "uv": 2,
         "sunrise": "07:36",
         "sunset": "18:39"
       },
       {
         "date": "2026-11-02",
-        "label": "Showers",
+        "label": "Heavy rain",
         "icon": "rain",
-        "high": 82,
-        "low": 70,
-        "precip": 61,
-        "uv": 6,
+        "high": 77,
+        "low": 69,
+        "precip": 58,
+        "uv": 4,
         "sunrise": "07:37",
         "sunset": "18:38"
       },
@@ -144,40 +133,51 @@
         "date": "2026-11-03",
         "label": "Light drizzle",
         "icon": "drizzle",
-        "high": 85,
-        "low": 70,
-        "precip": 21,
+        "high": 81,
+        "low": 68,
+        "precip": 31,
         "uv": 5,
         "sunrise": "07:38",
         "sunset": "18:38"
       },
       {
         "date": "2026-11-04",
-        "label": "Drizzle",
+        "label": "Light drizzle",
         "icon": "drizzle",
-        "high": 83,
-        "low": 72,
-        "precip": 27,
-        "uv": 4,
+        "high": 84,
+        "low": 70,
+        "precip": 15,
+        "uv": 5,
         "sunrise": "07:39",
         "sunset": "18:37"
       },
       {
         "date": "2026-11-05",
-        "label": "Showers",
-        "icon": "rain",
-        "high": 84,
-        "low": 72,
-        "precip": 28,
-        "uv": 5,
+        "label": "Light drizzle",
+        "icon": "drizzle",
+        "high": 85,
+        "low": 69,
+        "precip": 17,
+        "uv": 6,
         "sunrise": "07:39",
+        "sunset": "18:36"
+      },
+      {
+        "date": "2026-11-06",
+        "label": "Light drizzle",
+        "icon": "drizzle",
+        "high": 85,
+        "low": 69,
+        "precip": 10,
+        "uv": 5,
+        "sunrise": "07:40",
         "sunset": "18:36"
       }
     ],
     "air": {
-      "aqi": 44,
+      "aqi": 47,
       "label": "Good",
-      "pm25": 8.0
+      "pm25": 13.2
     }
   },
   "severe": [],
@@ -251,8 +251,8 @@
       "opponent": "Baylor Bears",
       "home": true,
       "venue": "Acrisure Bounce House",
-      "state": "in",
-      "detail": "Halftime"
+      "state": "post",
+      "detail": "Final"
     },
     {
       "date": "2026-11-07",
@@ -292,20 +292,6 @@
     }
   ],
   "events": [
-    {
-      "id": "12800281",
-      "name": "MISSION X STUDENT COUNTDOWN: UCF Football vs Baylor",
-      "org": "UCF Athletics",
-      "theme": "Athletics",
-      "location": "Acrisure Bounce House",
-      "date": "2026-10-30",
-      "start": "19:30",
-      "end": "21:30",
-      "blurb": "Football Space Game!",
-      "rsvps": 6,
-      "image": "https://se-images.campuslabs.com/clink/images/8b6c74fd-3266-46a1-8aaf-14cfedef77a9fbaf6834-d213-4a61-8a3d-10f417dd80b7.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12800281"
-    },
     {
       "id": "12921317",
       "name": "Fleet Farming Weekly Swarm Ride",
@@ -694,7 +680,7 @@
       "start": "14:00",
       "end": "15:30",
       "blurb": "Everyone says to network, but what does that really mean? Join Project BASTA and learn how to identify who&rsquo;s in your network and recruit them onto your jo",
-      "rsvps": 2,
+      "rsvps": 3,
       "image": "https://se-images.campuslabs.com/clink/images/2d418c84-bff1-4ee6-b398-502f2e6dee54bda8c930-5097-4b90-8e09-78e23f42cb5d.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12934954"
     },
@@ -1352,7 +1338,7 @@
       "start": "15:45",
       "end": "18:00",
       "blurb": "When harm occurs&mdash;a crime, a campus conflict, an institutional failure&mdash;communities must decide how to respond. Traditional justice asks what rule was",
-      "rsvps": 44,
+      "rsvps": 45,
       "image": "https://se-images.campuslabs.com/clink/images/dbde6903-b1e7-4bf8-962c-baf9d1f97e51be8fc752-7ce3-4ca7-8aa8-ccb487375562.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12819589"
     },
@@ -1646,7 +1632,7 @@
       "start": "08:30",
       "end": "13:00",
       "blurb": "Volunteer UCF welcomes you to join us and the American Heart Association at the 2026 Greater Orlando Heart Walk! This annual event brings the community together",
-      "rsvps": 18,
+      "rsvps": 19,
       "image": "https://se-images.campuslabs.com/clink/images/74f9fd2d-1ec3-46a6-8b85-c59e0bc41ab428a00d39-ba5b-45f0-af69-611542d32981.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12812891"
     },
@@ -1971,14 +1957,23 @@
       "rsvps": 1,
       "image": "https://se-images.campuslabs.com/clink/images/3350a15e-c1b5-4396-885e-49235d87a47bf83d98dc-6373-47f2-9a77-97123d68ab1d.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12916651"
+    },
+    {
+      "id": "12591732",
+      "name": "Student Lounge",
+      "org": "Wesley at UCF",
+      "theme": "Social",
+      "location": "The Wesley Foundation",
+      "date": "2026-11-10",
+      "start": "10:00",
+      "end": "15:00",
+      "blurb": "Wesley's student lounge is open Mon-Thur 10:00am-3:00pm; wednesdays 11:00am-3:00pm. A perfect chill place to gather with friends, talk, study, play a game or ju",
+      "rsvps": 0,
+      "image": "https://se-images.campuslabs.com/clink/images/23b95ecf-d8cb-402f-8f5d-a293c08aa30add3ba64b-7615-4e2f-b627-69026db75757.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12591732"
     }
   ],
   "keyDates": [
-    {
-      "date": "2026-10-30",
-      "label": "Withdrawal deadline",
-      "note": "Last day to withdraw with a W"
-    },
     {
       "date": "2026-11-11",
       "label": "Veterans Day",
@@ -4343,12 +4338,6 @@
       "changes": {},
       "title": "EGS 1006C Lecture",
       "url": null,
-      "weather": {
-        "temp": 73,
-        "precip": 0,
-        "label": "Clear",
-        "icon": "sun"
-      },
       "courseTitle": "Intro to Engineering"
     },
     {
@@ -4365,12 +4354,6 @@
       "changes": {},
       "title": "MAC 2312 Friday Lecture",
       "url": null,
-      "weather": {
-        "temp": 82,
-        "precip": 8,
-        "label": "Overcast",
-        "icon": "cloud"
-      },
       "courseTitle": "Calculus 2"
     },
     {
@@ -4389,9 +4372,9 @@
       "url": null,
       "weather": {
         "temp": 82,
-        "precip": 2,
-        "label": "Overcast",
-        "icon": "cloud"
+        "precip": 1,
+        "label": "Mostly clear",
+        "icon": "sun"
       },
       "courseTitle": "Physics Lab"
     },
@@ -4410,10 +4393,10 @@
       "title": "EGS 1006C Laboratory",
       "url": null,
       "weather": {
-        "temp": 71,
-        "precip": 57,
-        "label": "Overcast",
-        "icon": "cloud"
+        "temp": 70,
+        "precip": 58,
+        "label": "Light drizzle",
+        "icon": "drizzle"
       },
       "courseTitle": "Intro to Engineering"
     },
@@ -4432,8 +4415,8 @@
       "title": "ISC 2054 Seminar",
       "url": null,
       "weather": {
-        "temp": 82,
-        "precip": 48,
+        "temp": 76,
+        "precip": 46,
         "label": "Light drizzle",
         "icon": "drizzle"
       },
@@ -4454,8 +4437,8 @@
       "title": "PHY 2048 Discussion",
       "url": null,
       "weather": {
-        "temp": 70,
-        "precip": 6,
+        "temp": 68,
+        "precip": 20,
         "label": "Clear",
         "icon": "sun"
       },
@@ -4476,8 +4459,8 @@
       "title": "ENC 1101 Lecture",
       "url": null,
       "weather": {
-        "temp": 78,
-        "precip": 13,
+        "temp": 76,
+        "precip": 31,
         "label": "Clear",
         "icon": "sun"
       },
@@ -4498,10 +4481,10 @@
       "title": "MAC 2312 Lecture",
       "url": null,
       "weather": {
-        "temp": 83,
-        "precip": 13,
-        "label": "Light drizzle",
-        "icon": "drizzle"
+        "temp": 80,
+        "precip": 31,
+        "label": "Mostly clear",
+        "icon": "sun"
       },
       "courseTitle": "Calculus 2"
     },
@@ -4520,10 +4503,10 @@
       "title": "PHY 2048 Lecture",
       "url": null,
       "weather": {
-        "temp": 83,
-        "precip": 21,
-        "label": "Overcast",
-        "icon": "cloud"
+        "temp": 80,
+        "precip": 24,
+        "label": "Light drizzle",
+        "icon": "drizzle"
       },
       "courseTitle": "Physics: Mechanics"
     },
@@ -4542,10 +4525,10 @@
       "title": "IDH 1920H Lecture",
       "url": null,
       "weather": {
-        "temp": 83,
-        "precip": 21,
-        "label": "Clear",
-        "icon": "sun"
+        "temp": 80,
+        "precip": 24,
+        "label": "Light drizzle",
+        "icon": "drizzle"
       },
       "courseTitle": "Honors Symposium"
     },
@@ -4564,10 +4547,10 @@
       "title": "IDH 1920H Lecture",
       "url": null,
       "weather": {
-        "temp": 78,
-        "precip": 21,
-        "label": "Clear",
-        "icon": "sun"
+        "temp": 76,
+        "precip": 24,
+        "label": "Overcast",
+        "icon": "cloud"
       },
       "courseTitle": "Honors Symposium"
     },
@@ -4586,10 +4569,10 @@
       "title": "ISC 2054 Seminar",
       "url": null,
       "weather": {
-        "temp": 81,
-        "precip": 27,
-        "label": "Light drizzle",
-        "icon": "drizzle"
+        "temp": 83,
+        "precip": 15,
+        "label": "Overcast",
+        "icon": "cloud"
       },
       "courseTitle": "STEM Seminar"
     },
@@ -4608,10 +4591,10 @@
       "title": "ENC 1101 Lecture",
       "url": null,
       "weather": {
-        "temp": 77,
-        "precip": 8,
-        "label": "Overcast",
-        "icon": "cloud"
+        "temp": 76,
+        "precip": 7,
+        "label": "Mostly clear",
+        "icon": "sun"
       },
       "courseTitle": "Writing & Composition"
     },
@@ -4630,10 +4613,10 @@
       "title": "MAC 2312 Lecture",
       "url": null,
       "weather": {
-        "temp": 81,
-        "precip": 8,
-        "label": "Drizzle",
-        "icon": "drizzle"
+        "temp": 82,
+        "precip": 7,
+        "label": "Clear",
+        "icon": "sun"
       },
       "courseTitle": "Calculus 2"
     },
@@ -4652,10 +4635,10 @@
       "title": "PHY 2048 Lecture",
       "url": null,
       "weather": {
-        "temp": 83,
-        "precip": 28,
-        "label": "Showers",
-        "icon": "rain"
+        "temp": 84,
+        "precip": 17,
+        "label": "Light drizzle",
+        "icon": "drizzle"
       },
       "courseTitle": "Physics: Mechanics"
     },
@@ -4673,6 +4656,12 @@
       "changes": {},
       "title": "EGS 1006C Lecture",
       "url": null,
+      "weather": {
+        "temp": 69,
+        "precip": 3,
+        "label": "Clear",
+        "icon": "sun"
+      },
       "courseTitle": "Intro to Engineering"
     },
     {
@@ -4689,6 +4678,12 @@
       "changes": {},
       "title": "MAC 2312 Friday Lecture",
       "url": null,
+      "weather": {
+        "temp": 81,
+        "precip": 7,
+        "label": "Clear",
+        "icon": "sun"
+      },
       "courseTitle": "Calculus 2"
     },
     {
@@ -5383,15 +5378,6 @@
   "alerts": [],
   "assignments": [
     {
-      "course": "ENC 1101",
-      "courseTitle": "Writing & Composition",
-      "title": "Discussion Post #6: Discourse Communities",
-      "dueAt": "2026-09-30T00:00:00-04:00",
-      "points": null,
-      "overdue": true,
-      "url": "https://webcourses.ucf.edu/calendar?include_contexts=course_1521509&month=09&year=2026#assignment_9701050"
-    },
-    {
       "course": "MAC 2312",
       "courseTitle": "Calculus 2",
       "title": "Integration Using Partial Fractions or Polynomial Division Section 3.4",
@@ -5741,6 +5727,15 @@
       "points": null,
       "overdue": true,
       "url": "https://webcourses.ucf.edu/calendar?include_contexts=course_1522946&month=10&year=2026#assignment_9672800"
+    },
+    {
+      "course": "MAC 2312",
+      "courseTitle": "Calculus 2",
+      "title": "Exam 2 Review Topics Survey",
+      "dueAt": "2026-10-21T00:00:00-04:00",
+      "points": null,
+      "overdue": true,
+      "url": "https://webcourses.ucf.edu/calendar?include_contexts=course_1522946&month=10&year=2026#assignment_9743096"
     }
   ],
   "recentChanges": []
