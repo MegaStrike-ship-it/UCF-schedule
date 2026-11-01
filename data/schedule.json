@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T11:34:29.592001-05:00",
+  "generatedAt": "2026-11-01T15:57:09.104994-05:00",
   "term": {
     "name": "Fall 2026",
     "start": "2026-08-24",
@@ -89,8 +89,8 @@
   "weather": {
     "place": "UCF Orlando",
     "current": {
-      "temp": 83,
-      "feelsLike": 84,
+      "temp": 79,
+      "feelsLike": 81,
       "label": "Overcast",
       "icon": "cloud",
       "isDay": true
@@ -98,34 +98,34 @@
     "days": [
       {
         "date": "2026-11-01",
-        "label": "Rain",
+        "label": "Light rain",
         "icon": "rain",
-        "high": 84,
+        "high": 83,
         "low": 71,
-        "precip": 51,
-        "uv": 4,
+        "precip": 67,
+        "uv": 6,
         "sunrise": "06:36",
         "sunset": "17:39"
       },
       {
         "date": "2026-11-02",
-        "label": "Showers",
+        "label": "Light rain",
         "icon": "rain",
         "high": 78,
         "low": 69,
-        "precip": 52,
-        "uv": 4,
+        "precip": 68,
+        "uv": 3,
         "sunrise": "06:37",
         "sunset": "17:38"
       },
       {
         "date": "2026-11-03",
-        "label": "Heavy rain",
-        "icon": "rain",
-        "high": 80,
-        "low": 70,
-        "precip": 44,
-        "uv": 4,
+        "label": "Thunderstorms",
+        "icon": "storm",
+        "high": 81,
+        "low": 69,
+        "precip": 53,
+        "uv": 5,
         "sunrise": "06:38",
         "sunset": "17:38"
       },
@@ -133,41 +133,41 @@
         "date": "2026-11-04",
         "label": "Showers",
         "icon": "rain",
-        "high": 84,
+        "high": 85,
         "low": 70,
         "precip": 38,
-        "uv": 5,
+        "uv": 6,
         "sunrise": "06:39",
         "sunset": "17:37"
       },
       {
         "date": "2026-11-05",
-        "label": "Showers",
-        "icon": "rain",
-        "high": 86,
-        "low": 70,
-        "precip": 15,
+        "label": "Light drizzle",
+        "icon": "drizzle",
+        "high": 87,
+        "low": 71,
+        "precip": 13,
         "uv": 6,
         "sunrise": "06:39",
         "sunset": "17:36"
       },
       {
         "date": "2026-11-06",
-        "label": "Mostly clear",
-        "icon": "sun",
+        "label": "Partly cloudy",
+        "icon": "cloud",
         "high": 85,
-        "low": 69,
-        "precip": 4,
+        "low": 70,
+        "precip": 3,
         "uv": 6,
         "sunrise": "06:40",
         "sunset": "17:36"
       },
       {
         "date": "2026-11-07",
-        "label": "Overcast",
-        "icon": "cloud",
-        "high": 83,
-        "low": 66,
+        "label": "Clear",
+        "icon": "sun",
+        "high": 82,
+        "low": 64,
         "precip": 5,
         "uv": 5,
         "sunrise": "06:41",
@@ -177,7 +177,7 @@
     "air": {
       "aqi": 52,
       "label": "Moderate",
-      "pm25": 8.8
+      "pm25": 7.4
     }
   },
   "severe": [],
@@ -305,20 +305,6 @@
       "rsvps": 3,
       "image": "https://se-images.campuslabs.com/clink/images/3cff4a19-b6e5-4e7e-9865-ac1cdd7bc5bec5896b22-f943-4e9d-8ae9-31885a5696f2.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12893934"
-    },
-    {
-      "id": "12921413",
-      "name": "Sunday Mass ",
-      "org": "Catholic Campus Ministry",
-      "theme": "Spirituality",
-      "location": "The Live Oak Ballroom on Campus ",
-      "date": "2026-11-01",
-      "start": "12:00",
-      "end": "13:15",
-      "blurb": "Mass is the center of our Catholic Faith. It's where we come together as a Church to worship God through Christ's offering of Himself to the Father and for us i",
-      "rsvps": 0,
-      "image": "https://se-images.campuslabs.com/clink/images/f560ddfe-8102-4db7-9fce-20884e1a6bca77734359-45d4-4417-8064-6aa43e06fa63.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12921413"
     },
     {
       "id": "12921418",
@@ -498,7 +484,7 @@
       "start": "19:30",
       "end": "20:30",
       "blurb": "Join us this Monday for an insightful meeting with Amber Bonachi, UCF Career Coach, as we discuss the importance of keeping your tangible skills up to date! Com",
-      "rsvps": 3,
+      "rsvps": 4,
       "image": "https://se-images.campuslabs.com/clink/images/fa5aacf8-c2bf-4c70-b407-e03c221aca902b7d4f31-43b6-4008-a291-06b7f58fde6c.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12939650"
     },
@@ -669,6 +655,20 @@
       "rsvps": 4,
       "image": "https://se-images.campuslabs.com/clink/images/ed0d34eb-3b33-459b-aec6-98575ca88df47c703a98-1614-4eed-8adb-25072898e1f1.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12939738"
+    },
+    {
+      "id": "12942724",
+      "name": "BMC Sunscreen Workshop!",
+      "org": "The Beauty Med Collective",
+      "theme": "ThoughtfulLearning",
+      "location": "Student Union Room 219",
+      "date": "2026-11-03",
+      "start": "17:30",
+      "end": "18:45",
+      "blurb": "Join BMC for an interactive sunscreen workshop where we&rsquo;ll explore the science behind sun protection and how UV rays affect our skin. Through hands-on act",
+      "rsvps": 1,
+      "image": "https://se-images.campuslabs.com/clink/images/a0a9efe3-e225-4d0d-966b-c1e2227444d077f8e89c-b325-44c1-a10c-bfaf1288ffe0.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12942724"
     },
     {
       "id": "12857940",
@@ -1231,6 +1231,20 @@
       "url": "https://ucf.campuslabs.com/engage/event/12617853"
     },
     {
+      "id": "12942722",
+      "name": "Humanity First GBM #2 ",
+      "org": "Humanity First Student Organization",
+      "theme": "CommunityService",
+      "location": "Teaching Academy Room 301",
+      "date": "2026-11-05",
+      "start": "13:30",
+      "end": "14:00",
+      "blurb": "Second GBM for Humanity First on Thursday, November 5th at 1:30 pm in the Teaching Academy Room 301.",
+      "rsvps": 0,
+      "image": "https://se-images.campuslabs.com/clink/images/35921342-e086-4de9-a564-cc361b053a12e42aaff5-6e78-4b3d-9f00-03965016dcb8.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12942722"
+    },
+    {
       "id": "12927044",
       "name": "Professional Headshot Event",
       "org": "Psychological Society",
@@ -1380,7 +1394,7 @@
       "start": "18:00",
       "end": "21:00",
       "blurb": "Join LGBTQ+ Services as we explore various arts and crafts in this chill social event.",
-      "rsvps": 11,
+      "rsvps": 10,
       "image": "https://se-images.campuslabs.com/clink/images/df1197f6-2bd4-4129-9e62-ded65e78d1149def2403-895f-4db1-b237-244245c351e1.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12517289"
     },
@@ -1957,20 +1971,6 @@
       "rsvps": 0,
       "image": "https://se-images.campuslabs.com/clink/images/50b99abe-ba7a-439e-a708-b9a9752fb12e7a8907f2-2c52-4435-ba9c-ec4a8ec850b7.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12850493"
-    },
-    {
-      "id": "12863054",
-      "name": "Furniture Bank",
-      "org": "Volunteer UCF",
-      "theme": "CommunityService",
-      "location": "The Mustard Seed of Central Florida",
-      "date": "2026-11-10",
-      "start": "13:00",
-      "end": "16:00",
-      "blurb": "Join Volunteer UCF at the Mustard Seed of Central Florida's Furniture bank, where they supply members of the community with basic furniture and appliances for t",
-      "rsvps": 3,
-      "image": "https://se-images.campuslabs.com/clink/images/48050c49-5f73-4fd0-920d-b6b66d49e8c9f556fa99-33b1-467c-aad9-1779bd073606.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12863054"
     }
   ],
   "keyDates": [
@@ -4387,8 +4387,8 @@
       "title": "EGS 1006C Laboratory",
       "url": null,
       "weather": {
-        "temp": 74,
-        "precip": 33,
+        "temp": 73,
+        "precip": 20,
         "label": "Overcast",
         "icon": "cloud"
       },
@@ -4409,10 +4409,10 @@
       "title": "ISC 2054 Seminar",
       "url": null,
       "weather": {
-        "temp": 78,
-        "precip": 19,
-        "label": "Overcast",
-        "icon": "cloud"
+        "temp": 72,
+        "precip": 21,
+        "label": "Light drizzle",
+        "icon": "drizzle"
       },
       "courseTitle": "STEM Seminar"
     },
@@ -4431,8 +4431,8 @@
       "title": "PHY 2048 Discussion",
       "url": null,
       "weather": {
-        "temp": 72,
-        "precip": 29,
+        "temp": 71,
+        "precip": 38,
         "label": "Overcast",
         "icon": "cloud"
       },
@@ -4453,10 +4453,10 @@
       "title": "ENC 1101 Lecture",
       "url": null,
       "weather": {
-        "temp": 80,
-        "precip": 24,
-        "label": "Light drizzle",
-        "icon": "drizzle"
+        "temp": 78,
+        "precip": 45,
+        "label": "Overcast",
+        "icon": "cloud"
       },
       "courseTitle": "Writing & Composition"
     },
@@ -4475,10 +4475,10 @@
       "title": "MAC 2312 Lecture",
       "url": null,
       "weather": {
-        "temp": 78,
-        "precip": 24,
-        "label": "Drizzle",
-        "icon": "drizzle"
+        "temp": 77,
+        "precip": 45,
+        "label": "Heavy rain",
+        "icon": "rain"
       },
       "courseTitle": "Calculus 2"
     },
@@ -4497,10 +4497,10 @@
       "title": "PHY 2048 Lecture",
       "url": null,
       "weather": {
-        "temp": 77,
-        "precip": 44,
-        "label": "Light drizzle",
-        "icon": "drizzle"
+        "temp": 78,
+        "precip": 53,
+        "label": "Overcast",
+        "icon": "cloud"
       },
       "courseTitle": "Physics: Mechanics"
     },
@@ -4519,8 +4519,8 @@
       "title": "IDH 1920H Lecture",
       "url": null,
       "weather": {
-        "temp": 76,
-        "precip": 44,
+        "temp": 78,
+        "precip": 53,
         "label": "Overcast",
         "icon": "cloud"
       },
@@ -4542,9 +4542,9 @@
       "url": null,
       "weather": {
         "temp": 73,
-        "precip": 44,
-        "label": "Overcast",
-        "icon": "cloud"
+        "precip": 53,
+        "label": "Thunderstorms",
+        "icon": "storm"
       },
       "courseTitle": "Honors Symposium"
     },
@@ -4565,8 +4565,8 @@
       "weather": {
         "temp": 80,
         "precip": 38,
-        "label": "Overcast",
-        "icon": "cloud"
+        "label": "Showers",
+        "icon": "rain"
       },
       "courseTitle": "STEM Seminar"
     },
@@ -4585,8 +4585,8 @@
       "title": "ENC 1101 Lecture",
       "url": null,
       "weather": {
-        "temp": 79,
-        "precip": 4,
+        "temp": 80,
+        "precip": 2,
         "label": "Clear",
         "icon": "sun"
       },
@@ -4608,9 +4608,9 @@
       "url": null,
       "weather": {
         "temp": 84,
-        "precip": 4,
-        "label": "Clear",
-        "icon": "sun"
+        "precip": 2,
+        "label": "Light drizzle",
+        "icon": "drizzle"
       },
       "courseTitle": "Calculus 2"
     },
@@ -4629,10 +4629,10 @@
       "title": "PHY 2048 Lecture",
       "url": null,
       "weather": {
-        "temp": 85,
-        "precip": 12,
-        "label": "Mostly clear",
-        "icon": "sun"
+        "temp": 87,
+        "precip": 13,
+        "label": "Overcast",
+        "icon": "cloud"
       },
       "courseTitle": "Physics: Mechanics"
     },
@@ -4673,9 +4673,9 @@
       "title": "MAC 2312 Friday Lecture",
       "url": null,
       "weather": {
-        "temp": 83,
+        "temp": 84,
         "precip": 1,
-        "label": "Mostly clear",
+        "label": "Clear",
         "icon": "sun"
       },
       "courseTitle": "Calculus 2"
@@ -4695,10 +4695,10 @@
       "title": "PHY 2048L Laboratory",
       "url": null,
       "weather": {
-        "temp": 79,
+        "temp": 77,
         "precip": 1,
-        "label": "Overcast",
-        "icon": "cloud"
+        "label": "Clear",
+        "icon": "sun"
       },
       "courseTitle": "Physics Lab"
     },
