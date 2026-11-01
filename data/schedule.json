@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T19:04:23.859775-04:00",
+  "generatedAt": "2026-11-01T11:34:29.592001-05:00",
   "term": {
     "name": "Fall 2026",
     "start": "2026-08-24",
@@ -89,95 +89,95 @@
   "weather": {
     "place": "UCF Orlando",
     "current": {
-      "temp": 77,
-      "feelsLike": 81,
-      "label": "Mostly clear",
-      "icon": "sun",
-      "isDay": false
+      "temp": 83,
+      "feelsLike": 84,
+      "label": "Overcast",
+      "icon": "cloud",
+      "isDay": true
     },
     "days": [
       {
-        "date": "2026-10-31",
-        "label": "Light drizzle",
-        "icon": "drizzle",
-        "high": 85,
-        "low": 70,
-        "precip": 24,
-        "uv": 4,
-        "sunrise": "07:36",
-        "sunset": "18:40"
-      },
-      {
         "date": "2026-11-01",
-        "label": "Showers",
+        "label": "Rain",
         "icon": "rain",
-        "high": 82,
-        "low": 70,
+        "high": 84,
+        "low": 71,
         "precip": 51,
-        "uv": 5,
-        "sunrise": "07:36",
-        "sunset": "18:39"
+        "uv": 4,
+        "sunrise": "06:36",
+        "sunset": "17:39"
       },
       {
         "date": "2026-11-02",
-        "label": "Rain",
+        "label": "Showers",
         "icon": "rain",
-        "high": 74,
+        "high": 78,
         "low": 69,
-        "precip": 67,
-        "uv": 1,
-        "sunrise": "07:37",
-        "sunset": "18:38"
+        "precip": 52,
+        "uv": 4,
+        "sunrise": "06:37",
+        "sunset": "17:38"
       },
       {
         "date": "2026-11-03",
-        "label": "Thunderstorms",
-        "icon": "storm",
-        "high": 81,
-        "low": 69,
-        "precip": 41,
+        "label": "Heavy rain",
+        "icon": "rain",
+        "high": 80,
+        "low": 70,
+        "precip": 44,
         "uv": 4,
-        "sunrise": "07:38",
-        "sunset": "18:38"
+        "sunrise": "06:38",
+        "sunset": "17:38"
       },
       {
         "date": "2026-11-04",
-        "label": "Thunderstorms",
-        "icon": "storm",
-        "high": 85,
+        "label": "Showers",
+        "icon": "rain",
+        "high": 84,
         "low": 70,
-        "precip": 31,
-        "uv": 6,
-        "sunrise": "07:39",
-        "sunset": "18:37"
+        "precip": 38,
+        "uv": 5,
+        "sunrise": "06:39",
+        "sunset": "17:37"
       },
       {
         "date": "2026-11-05",
-        "label": "Overcast",
-        "icon": "cloud",
-        "high": 85,
+        "label": "Showers",
+        "icon": "rain",
+        "high": 86,
         "low": 70,
-        "precip": 19,
-        "uv": 5,
-        "sunrise": "07:39",
-        "sunset": "18:36"
+        "precip": 15,
+        "uv": 6,
+        "sunrise": "06:39",
+        "sunset": "17:36"
       },
       {
         "date": "2026-11-06",
-        "label": "Partly cloudy",
-        "icon": "cloud",
+        "label": "Mostly clear",
+        "icon": "sun",
         "high": 85,
         "low": 69,
-        "precip": 8,
+        "precip": 4,
         "uv": 6,
-        "sunrise": "07:40",
-        "sunset": "18:36"
+        "sunrise": "06:40",
+        "sunset": "17:36"
+      },
+      {
+        "date": "2026-11-07",
+        "label": "Overcast",
+        "icon": "cloud",
+        "high": 83,
+        "low": 66,
+        "precip": 5,
+        "uv": 5,
+        "sunrise": "06:41",
+        "sunset": "17:35"
       }
     ],
     "air": {
-      "aqi": 50,
-      "label": "Good",
-      "pm25": 8.4
+      "aqi": 52,
+      "label": "Moderate",
+      "pm25": 8.8
     }
   },
   "severe": [],
@@ -256,12 +256,12 @@
     },
     {
       "date": "2026-11-07",
-      "time": null,
+      "time": "15:45",
       "opponent": "Kansas Jayhawks",
       "home": false,
       "venue": "David Booth Kansas Memorial Stadium",
       "state": "pre",
-      "detail": "TBD"
+      "detail": "11/7 - 3:45 PM EST"
     },
     {
       "date": "2026-11-14",
@@ -293,34 +293,6 @@
   ],
   "events": [
     {
-      "id": "12872208",
-      "name": "A Knight on the Nile Cultural Gala ",
-      "org": "Sudanese American Student Association",
-      "theme": "Cultural",
-      "location": "Cape Florida Ballroom",
-      "date": "2026-10-31",
-      "start": "17:30",
-      "end": "23:45",
-      "blurb": "\u2728 SASA x SSU Cultural Gala \u2728 Step into an unforgettable night celebrating Sudanese culture, community, and tradition. Come dressed to impress, making it a night",
-      "rsvps": 0,
-      "image": "https://se-images.campuslabs.com/clink/images/ac0f99c0-e3c7-48b8-96a0-31dbff408d067bef3a4e-8be1-4855-ad53-4ddd21a7a49f.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12872208"
-    },
-    {
-      "id": "12921412",
-      "name": "CCM Halloween Party ",
-      "org": "Catholic Campus Ministry",
-      "theme": "Social",
-      "location": "The Catholic Center at Northview ",
-      "date": "2026-10-31",
-      "start": "19:00",
-      "end": "22:00",
-      "blurb": "CCM is having our annual Halloween Party! There will be food, Halloween themed drinks, spooky decorations, a mini-haunted house, and a costume contest with priz",
-      "rsvps": 1,
-      "image": "https://se-images.campuslabs.com/clink/images/7d63d1bb-abf8-413f-9391-1cdddf6ae57b08bce320-08f9-4d8c-979c-2c95858c9b3e.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12921412"
-    },
-    {
       "id": "12893934",
       "name": "Orlando Yoga Festival ",
       "org": "A Heartfulness Meditation Experience",
@@ -333,20 +305,6 @@
       "rsvps": 3,
       "image": "https://se-images.campuslabs.com/clink/images/3cff4a19-b6e5-4e7e-9865-ac1cdd7bc5bec5896b22-f943-4e9d-8ae9-31885a5696f2.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12893934"
-    },
-    {
-      "id": "12614734",
-      "name": "Sunday Worship with Wesley at UCF",
-      "org": "Wesley at UCF",
-      "theme": "Spirituality",
-      "location": "Faith UMC",
-      "date": "2026-11-01",
-      "start": "10:00",
-      "end": "11:30",
-      "blurb": "Join us for Faith UMC's Weekly church service every sunday at 10:00 am! Our director Erwin Lopez serves as the pastor, and all are welcome. If you are looking f",
-      "rsvps": 0,
-      "image": "https://se-images.campuslabs.com/clink/images/05ce9c70-ef83-4a92-8492-d16465dbddd6f719d2b3-18d8-4499-922b-f4f29e66b693.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12614734"
     },
     {
       "id": "12921413",
@@ -708,7 +666,7 @@
       "start": "17:00",
       "end": "19:00",
       "blurb": "Come join us ONLINE for a surprise fiber art-related workshop led PowerPoint-style by our officers! We HIGHLY recommend attending if you are ever interested in ",
-      "rsvps": 3,
+      "rsvps": 4,
       "image": "https://se-images.campuslabs.com/clink/images/ed0d34eb-3b33-459b-aec6-98575ca88df47c703a98-1614-4eed-8adb-25072898e1f1.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12939738"
     },
@@ -1971,6 +1929,48 @@
       "rsvps": 0,
       "image": "https://se-images.campuslabs.com/clink/images/6d00bd03-0d03-4d6d-90b0-d1e5e4cc9361fc5a1f66-25cf-4b73-97b5-0fc70cd207b2.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12569806"
+    },
+    {
+      "id": "12913795",
+      "name": "Girls Bible Study ",
+      "org": "Chi Alpha Christian Fellowship",
+      "theme": "Spirituality",
+      "location": "Student Union ",
+      "date": "2026-11-10",
+      "start": "12:00",
+      "end": "13:30",
+      "blurb": "A supportive and uplifting environment where women can deepen their faith, connect with one another, and study Scripture together. Through meaningful discussion",
+      "rsvps": 0,
+      "image": "https://se-images.campuslabs.com/clink/images/5a033616-9296-4ed5-ae70-b669d34c90a8fcedb6af-7aa0-4a03-b447-01c58d2ab18d.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12913795"
+    },
+    {
+      "id": "12850493",
+      "name": "A&SF Budget Committee Meeting",
+      "org": "Student Government Legislative Branch (Senate)",
+      "theme": "CommunityService",
+      "location": "SU 225",
+      "date": "2026-11-10",
+      "start": "12:30",
+      "end": "13:30",
+      "blurb": "Weekly A&SF Budget Committee Meeting Chair: Ryan Kaufman (sga_asf@ucf.edu) Vice Chair: Matthew Gregg (sga_vasf@ucf.edu)",
+      "rsvps": 0,
+      "image": "https://se-images.campuslabs.com/clink/images/50b99abe-ba7a-439e-a708-b9a9752fb12e7a8907f2-2c52-4435-ba9c-ec4a8ec850b7.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12850493"
+    },
+    {
+      "id": "12863054",
+      "name": "Furniture Bank",
+      "org": "Volunteer UCF",
+      "theme": "CommunityService",
+      "location": "The Mustard Seed of Central Florida",
+      "date": "2026-11-10",
+      "start": "13:00",
+      "end": "16:00",
+      "blurb": "Join Volunteer UCF at the Mustard Seed of Central Florida's Furniture bank, where they supply members of the community with basic furniture and appliances for t",
+      "rsvps": 3,
+      "image": "https://se-images.campuslabs.com/clink/images/48050c49-5f73-4fd0-920d-b6b66d49e8c9f556fa99-33b1-467c-aad9-1779bd073606.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12863054"
     }
   ],
   "keyDates": [
@@ -4370,12 +4370,6 @@
       "changes": {},
       "title": "PHY 2048L Laboratory",
       "url": null,
-      "weather": {
-        "temp": 82,
-        "precip": 1,
-        "label": "Mostly clear",
-        "icon": "sun"
-      },
       "courseTitle": "Physics Lab"
     },
     {
@@ -4393,8 +4387,8 @@
       "title": "EGS 1006C Laboratory",
       "url": null,
       "weather": {
-        "temp": 70,
-        "precip": 53,
+        "temp": 74,
+        "precip": 33,
         "label": "Overcast",
         "icon": "cloud"
       },
@@ -4415,10 +4409,10 @@
       "title": "ISC 2054 Seminar",
       "url": null,
       "weather": {
-        "temp": 70,
-        "precip": 48,
-        "label": "Drizzle",
-        "icon": "drizzle"
+        "temp": 78,
+        "precip": 19,
+        "label": "Overcast",
+        "icon": "cloud"
       },
       "courseTitle": "STEM Seminar"
     },
@@ -4437,10 +4431,10 @@
       "title": "PHY 2048 Discussion",
       "url": null,
       "weather": {
-        "temp": 70,
+        "temp": 72,
         "precip": 29,
-        "label": "Drizzle",
-        "icon": "drizzle"
+        "label": "Overcast",
+        "icon": "cloud"
       },
       "courseTitle": "Physics: Mechanics"
     },
@@ -4459,10 +4453,10 @@
       "title": "ENC 1101 Lecture",
       "url": null,
       "weather": {
-        "temp": 75,
-        "precip": 41,
-        "label": "Overcast",
-        "icon": "cloud"
+        "temp": 80,
+        "precip": 24,
+        "label": "Light drizzle",
+        "icon": "drizzle"
       },
       "courseTitle": "Writing & Composition"
     },
@@ -4481,9 +4475,9 @@
       "title": "MAC 2312 Lecture",
       "url": null,
       "weather": {
-        "temp": 79,
-        "precip": 41,
-        "label": "Light drizzle",
+        "temp": 78,
+        "precip": 24,
+        "label": "Drizzle",
         "icon": "drizzle"
       },
       "courseTitle": "Calculus 2"
@@ -4503,10 +4497,10 @@
       "title": "PHY 2048 Lecture",
       "url": null,
       "weather": {
-        "temp": 81,
-        "precip": 40,
-        "label": "Thunderstorms",
-        "icon": "storm"
+        "temp": 77,
+        "precip": 44,
+        "label": "Light drizzle",
+        "icon": "drizzle"
       },
       "courseTitle": "Physics: Mechanics"
     },
@@ -4525,10 +4519,10 @@
       "title": "IDH 1920H Lecture",
       "url": null,
       "weather": {
-        "temp": 81,
-        "precip": 40,
-        "label": "Light drizzle",
-        "icon": "drizzle"
+        "temp": 76,
+        "precip": 44,
+        "label": "Overcast",
+        "icon": "cloud"
       },
       "courseTitle": "Honors Symposium"
     },
@@ -4547,10 +4541,10 @@
       "title": "IDH 1920H Lecture",
       "url": null,
       "weather": {
-        "temp": 76,
-        "precip": 40,
-        "label": "Thunderstorms",
-        "icon": "storm"
+        "temp": 73,
+        "precip": 44,
+        "label": "Overcast",
+        "icon": "cloud"
       },
       "courseTitle": "Honors Symposium"
     },
@@ -4569,10 +4563,10 @@
       "title": "ISC 2054 Seminar",
       "url": null,
       "weather": {
-        "temp": 82,
-        "precip": 31,
-        "label": "Thunderstorms",
-        "icon": "storm"
+        "temp": 80,
+        "precip": 38,
+        "label": "Overcast",
+        "icon": "cloud"
       },
       "courseTitle": "STEM Seminar"
     },
@@ -4591,10 +4585,10 @@
       "title": "ENC 1101 Lecture",
       "url": null,
       "weather": {
-        "temp": 76,
-        "precip": 7,
-        "label": "Partly cloudy",
-        "icon": "cloud"
+        "temp": 79,
+        "precip": 4,
+        "label": "Clear",
+        "icon": "sun"
       },
       "courseTitle": "Writing & Composition"
     },
@@ -4613,9 +4607,9 @@
       "title": "MAC 2312 Lecture",
       "url": null,
       "weather": {
-        "temp": 81,
-        "precip": 7,
-        "label": "Mostly clear",
+        "temp": 84,
+        "precip": 4,
+        "label": "Clear",
         "icon": "sun"
       },
       "courseTitle": "Calculus 2"
@@ -4636,8 +4630,8 @@
       "url": null,
       "weather": {
         "temp": 85,
-        "precip": 19,
-        "label": "Clear",
+        "precip": 12,
+        "label": "Mostly clear",
         "icon": "sun"
       },
       "courseTitle": "Physics: Mechanics"
@@ -4657,8 +4651,8 @@
       "title": "EGS 1006C Lecture",
       "url": null,
       "weather": {
-        "temp": 69,
-        "precip": 3,
+        "temp": 72,
+        "precip": 1,
         "label": "Clear",
         "icon": "sun"
       },
@@ -4679,9 +4673,9 @@
       "title": "MAC 2312 Friday Lecture",
       "url": null,
       "weather": {
-        "temp": 81,
-        "precip": 4,
-        "label": "Clear",
+        "temp": 83,
+        "precip": 1,
+        "label": "Mostly clear",
         "icon": "sun"
       },
       "courseTitle": "Calculus 2"
@@ -4700,6 +4694,12 @@
       "changes": {},
       "title": "PHY 2048L Laboratory",
       "url": null,
+      "weather": {
+        "temp": 79,
+        "precip": 1,
+        "label": "Overcast",
+        "icon": "cloud"
+      },
       "courseTitle": "Physics Lab"
     },
     {
@@ -5396,24 +5396,6 @@
       "url": "https://webcourses.ucf.edu/calendar?include_contexts=course_1521509&month=10&year=2026#assignment_9734284"
     },
     {
-      "course": "EGS 1006C",
-      "courseTitle": "Intro to Engineering",
-      "title": "Attendance Quiz Part 1 - Week 6 (Oct. 2)",
-      "dueAt": "2026-10-02T08:51:00-04:00",
-      "points": null,
-      "overdue": true,
-      "url": "https://webcourses.ucf.edu/calendar?include_contexts=course_1519775&month=10&year=2026#assignment_9734798"
-    },
-    {
-      "course": "EGS 1006C",
-      "courseTitle": "Intro to Engineering",
-      "title": "Attendance Quiz - Part 2 - Week 6 (Oct. 2)",
-      "dueAt": "2026-10-02T09:30:00-04:00",
-      "points": null,
-      "overdue": true,
-      "url": "https://webcourses.ucf.edu/calendar?include_contexts=course_1519775&month=10&year=2026#assignment_9734848"
-    },
-    {
       "course": "MAC 2312",
       "courseTitle": "Calculus 2",
       "title": "Integrating over an Infinite Interval Section 3.7",
@@ -5736,6 +5718,24 @@
       "points": null,
       "overdue": true,
       "url": "https://webcourses.ucf.edu/calendar?include_contexts=course_1522946&month=10&year=2026#assignment_9743096"
+    },
+    {
+      "course": "ENC 1101",
+      "courseTitle": "Writing & Composition",
+      "title": "Major Assignment #2: Textual Analysis of a Cultural Practice - Draft #2/Instructor Draft for 10/23",
+      "dueAt": "2026-10-23T00:00:00-04:00",
+      "points": null,
+      "overdue": true,
+      "url": "https://webcourses.ucf.edu/calendar?include_contexts=course_1521509&month=10&year=2026#assignment_9742585"
+    },
+    {
+      "course": "ENC 1101",
+      "courseTitle": "Writing & Composition",
+      "title": "Week 9: Student-Instructor Conference Reflection",
+      "dueAt": "2026-10-23T00:00:00-04:00",
+      "points": null,
+      "overdue": true,
+      "url": "https://webcourses.ucf.edu/calendar?include_contexts=course_1521509&month=10&year=2026#assignment_9748284"
     }
   ],
   "recentChanges": []
