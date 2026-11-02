@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T15:57:09.104994-05:00",
+  "generatedAt": "2026-11-01T19:24:24.950371-05:00",
   "term": {
     "name": "Fall 2026",
     "start": "2026-08-24",
@@ -89,63 +89,63 @@
   "weather": {
     "place": "UCF Orlando",
     "current": {
-      "temp": 79,
-      "feelsLike": 81,
+      "temp": 73,
+      "feelsLike": 78,
       "label": "Overcast",
       "icon": "cloud",
-      "isDay": true
+      "isDay": false
     },
     "days": [
       {
         "date": "2026-11-01",
-        "label": "Light rain",
+        "label": "Heavy rain",
         "icon": "rain",
         "high": 83,
-        "low": 71,
-        "precip": 67,
+        "low": 70,
+        "precip": 76,
         "uv": 6,
         "sunrise": "06:36",
         "sunset": "17:39"
       },
       {
         "date": "2026-11-02",
-        "label": "Light rain",
+        "label": "Heavy rain",
         "icon": "rain",
-        "high": 78,
-        "low": 69,
-        "precip": 68,
-        "uv": 3,
+        "high": 77,
+        "low": 68,
+        "precip": 76,
+        "uv": 5,
         "sunrise": "06:37",
         "sunset": "17:38"
       },
       {
         "date": "2026-11-03",
-        "label": "Thunderstorms",
-        "icon": "storm",
-        "high": 81,
+        "label": "Heavy rain",
+        "icon": "rain",
+        "high": 82,
         "low": 69,
         "precip": 53,
-        "uv": 5,
+        "uv": 6,
         "sunrise": "06:38",
         "sunset": "17:38"
       },
       {
         "date": "2026-11-04",
-        "label": "Showers",
-        "icon": "rain",
-        "high": 85,
-        "low": 70,
+        "label": "Thunderstorms",
+        "icon": "storm",
+        "high": 84,
+        "low": 71,
         "precip": 38,
-        "uv": 6,
+        "uv": 5,
         "sunrise": "06:39",
         "sunset": "17:37"
       },
       {
         "date": "2026-11-05",
-        "label": "Light drizzle",
-        "icon": "drizzle",
-        "high": 87,
-        "low": 71,
+        "label": "Overcast",
+        "icon": "cloud",
+        "high": 86,
+        "low": 70,
         "precip": 13,
         "uv": 6,
         "sunrise": "06:39",
@@ -153,10 +153,10 @@
       },
       {
         "date": "2026-11-06",
-        "label": "Partly cloudy",
-        "icon": "cloud",
-        "high": 85,
-        "low": 70,
+        "label": "Mostly clear",
+        "icon": "sun",
+        "high": 83,
+        "low": 65,
         "precip": 3,
         "uv": 6,
         "sunrise": "06:40",
@@ -166,8 +166,8 @@
         "date": "2026-11-07",
         "label": "Clear",
         "icon": "sun",
-        "high": 82,
-        "low": 64,
+        "high": 79,
+        "low": 58,
         "precip": 5,
         "uv": 5,
         "sunrise": "06:41",
@@ -292,34 +292,6 @@
     }
   ],
   "events": [
-    {
-      "id": "12893934",
-      "name": "Orlando Yoga Festival ",
-      "org": "A Heartfulness Meditation Experience",
-      "theme": "Social",
-      "location": "Lake Eola Park",
-      "date": "2026-11-01",
-      "start": "09:00",
-      "end": "16:00",
-      "blurb": "Looking for a fun way to unwind, recharge, and spend your Sunday? Join us at the Orlando Yoga Festival for a day full of wellness, good vibes, and exciting expe",
-      "rsvps": 3,
-      "image": "https://se-images.campuslabs.com/clink/images/3cff4a19-b6e5-4e7e-9865-ac1cdd7bc5bec5896b22-f943-4e9d-8ae9-31885a5696f2.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12893934"
-    },
-    {
-      "id": "12921418",
-      "name": "Feed the Homeless ",
-      "org": "Catholic Campus Ministry",
-      "theme": "CommunityService",
-      "location": "St. Andrew Catholic Community ",
-      "date": "2026-11-01",
-      "start": "14:45",
-      "end": "17:15",
-      "blurb": "One of our highest callings as Christians is to love our neighbor as ourself. Whether it be in Christ's parable regarding the good Samaritan or when He tells us",
-      "rsvps": 0,
-      "image": "https://se-images.campuslabs.com/clink/images/ccd4800e-ee1b-4343-af6f-96e130ecf055f02c0f95-b765-4df9-aa21-a1af72036b7c.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12921418"
-    },
     {
       "id": "12931808",
       "name": "Public Garden Management Team Volunteer Shift",
@@ -484,7 +456,7 @@
       "start": "19:30",
       "end": "20:30",
       "blurb": "Join us this Monday for an insightful meeting with Amber Bonachi, UCF Career Coach, as we discuss the importance of keeping your tangible skills up to date! Com",
-      "rsvps": 4,
+      "rsvps": 6,
       "image": "https://se-images.campuslabs.com/clink/images/fa5aacf8-c2bf-4c70-b407-e03c221aca902b7d4f31-43b6-4008-a291-06b7f58fde6c.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12939650"
     },
@@ -1413,6 +1385,20 @@
       "url": "https://ucf.campuslabs.com/engage/event/12550745"
     },
     {
+      "id": "12942794",
+      "name": "Bash Scripting Workshop",
+      "org": "Institute of Electrical and Electronics Engineers Computer Society at the University of Central Florida",
+      "theme": "ThoughtfulLearning",
+      "location": "ENG2 205",
+      "date": "2026-11-05",
+      "start": "18:30",
+      "end": "20:30",
+      "blurb": "Bash is the language of the command line, and it shows up all over software development, from build scripts to everyday tools that edit files and run code. In t",
+      "rsvps": 0,
+      "image": "https://se-images.campuslabs.com/clink/images/1bc48e99-225c-4042-af25-af69001582d9718f1348-cc61-4085-8d31-413229c12139.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12942794"
+    },
+    {
       "id": "12902917",
       "name": "A Knight at the Museum",
       "org": "Late Knights",
@@ -1537,6 +1523,20 @@
       "rsvps": 0,
       "image": "https://se-images.campuslabs.com/clink/images/c281fb5a-1084-4799-a671-e46ba727e99b28b6775f-135f-4503-abc8-e9c62aa8b9fd.pdf?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12934576"
+    },
+    {
+      "id": "12942796",
+      "name": "Intro to gem5",
+      "org": "Institute of Electrical and Electronics Engineers Computer Society at the University of Central Florida",
+      "theme": "ThoughtfulLearning",
+      "location": "TCH 151",
+      "date": "2026-11-06",
+      "start": "18:00",
+      "end": "20:30",
+      "blurb": "gem5 is an open-source simulator that lets your laptop model a CPU before the silicon exists. In this intro workshop we'll cover why architecture simulation mat",
+      "rsvps": 0,
+      "image": "https://se-images.campuslabs.com/clink/images/9d0e85cd-0d44-4980-9c9a-d8ba6f1d55cce5d28a5d-15d9-4d29-b772-322603af8c39.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12942796"
     },
     {
       "id": "12925438",
@@ -4387,10 +4387,10 @@
       "title": "EGS 1006C Laboratory",
       "url": null,
       "weather": {
-        "temp": 73,
-        "precip": 20,
-        "label": "Overcast",
-        "icon": "cloud"
+        "temp": 70,
+        "precip": 26,
+        "label": "Light drizzle",
+        "icon": "drizzle"
       },
       "courseTitle": "Intro to Engineering"
     },
@@ -4475,7 +4475,7 @@
       "title": "MAC 2312 Lecture",
       "url": null,
       "weather": {
-        "temp": 77,
+        "temp": 78,
         "precip": 45,
         "label": "Heavy rain",
         "icon": "rain"
@@ -4497,7 +4497,7 @@
       "title": "PHY 2048 Lecture",
       "url": null,
       "weather": {
-        "temp": 78,
+        "temp": 81,
         "precip": 53,
         "label": "Overcast",
         "icon": "cloud"
@@ -4519,7 +4519,7 @@
       "title": "IDH 1920H Lecture",
       "url": null,
       "weather": {
-        "temp": 78,
+        "temp": 80,
         "precip": 53,
         "label": "Overcast",
         "icon": "cloud"
@@ -4541,10 +4541,10 @@
       "title": "IDH 1920H Lecture",
       "url": null,
       "weather": {
-        "temp": 73,
+        "temp": 75,
         "precip": 53,
-        "label": "Thunderstorms",
-        "icon": "storm"
+        "label": "Overcast",
+        "icon": "cloud"
       },
       "courseTitle": "Honors Symposium"
     },
@@ -4563,10 +4563,10 @@
       "title": "ISC 2054 Seminar",
       "url": null,
       "weather": {
-        "temp": 80,
+        "temp": 82,
         "precip": 38,
-        "label": "Showers",
-        "icon": "rain"
+        "label": "Drizzle",
+        "icon": "drizzle"
       },
       "courseTitle": "STEM Seminar"
     },
@@ -4585,7 +4585,7 @@
       "title": "ENC 1101 Lecture",
       "url": null,
       "weather": {
-        "temp": 80,
+        "temp": 79,
         "precip": 2,
         "label": "Clear",
         "icon": "sun"
@@ -4609,8 +4609,8 @@
       "weather": {
         "temp": 84,
         "precip": 2,
-        "label": "Light drizzle",
-        "icon": "drizzle"
+        "label": "Mostly clear",
+        "icon": "sun"
       },
       "courseTitle": "Calculus 2"
     },
@@ -4629,10 +4629,10 @@
       "title": "PHY 2048 Lecture",
       "url": null,
       "weather": {
-        "temp": 87,
+        "temp": 86,
         "precip": 13,
-        "label": "Overcast",
-        "icon": "cloud"
+        "label": "Clear",
+        "icon": "sun"
       },
       "courseTitle": "Physics: Mechanics"
     },
@@ -4651,9 +4651,9 @@
       "title": "EGS 1006C Lecture",
       "url": null,
       "weather": {
-        "temp": 72,
+        "temp": 73,
         "precip": 1,
-        "label": "Clear",
+        "label": "Mostly clear",
         "icon": "sun"
       },
       "courseTitle": "Intro to Engineering"
@@ -4673,7 +4673,7 @@
       "title": "MAC 2312 Friday Lecture",
       "url": null,
       "weather": {
-        "temp": 84,
+        "temp": 82,
         "precip": 1,
         "label": "Clear",
         "icon": "sun"
@@ -4695,7 +4695,7 @@
       "title": "PHY 2048L Laboratory",
       "url": null,
       "weather": {
-        "temp": 77,
+        "temp": 74,
         "precip": 1,
         "label": "Clear",
         "icon": "sun"
