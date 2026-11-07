@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T21:32:02.697040-05:00",
+  "generatedAt": "2026-11-07T11:05:27.003854-05:00",
   "term": {
     "name": "Fall 2026",
     "start": "2026-08-24",
@@ -89,24 +89,13 @@
   "weather": {
     "place": "UCF Orlando",
     "current": {
-      "temp": 76,
-      "feelsLike": 83,
-      "label": "Mostly clear",
+      "temp": 75,
+      "feelsLike": 80,
+      "label": "Clear",
       "icon": "sun",
-      "isDay": false
+      "isDay": true
     },
     "days": [
-      {
-        "date": "2026-11-06",
-        "label": "Overcast",
-        "icon": "cloud",
-        "high": 86,
-        "low": 70,
-        "precip": 24,
-        "uv": 6,
-        "sunrise": "06:40",
-        "sunset": "17:36"
-      },
       {
         "date": "2026-11-07",
         "label": "Overcast",
@@ -124,7 +113,7 @@
         "icon": "cloud",
         "high": 77,
         "low": 60,
-        "precip": 0,
+        "precip": 9,
         "uv": 6,
         "sunrise": "06:42",
         "sunset": "17:34"
@@ -133,51 +122,62 @@
         "date": "2026-11-09",
         "label": "Overcast",
         "icon": "cloud",
-        "high": 82,
-        "low": 66,
-        "precip": 2,
+        "high": 83,
+        "low": 64,
+        "precip": 1,
         "uv": 5,
         "sunrise": "06:42",
         "sunset": "17:34"
       },
       {
         "date": "2026-11-10",
-        "label": "Overcast",
-        "icon": "cloud",
+        "label": "Light drizzle",
+        "icon": "drizzle",
         "high": 82,
-        "low": 65,
-        "precip": 1,
+        "low": 67,
+        "precip": 3,
         "uv": 5,
         "sunrise": "06:43",
         "sunset": "17:33"
       },
       {
         "date": "2026-11-11",
-        "label": "Heavy drizzle",
-        "icon": "drizzle",
+        "label": "Overcast",
+        "icon": "cloud",
         "high": 79,
-        "low": 67,
-        "precip": 11,
-        "uv": 5,
+        "low": 69,
+        "precip": 6,
+        "uv": 4,
         "sunrise": "06:44",
         "sunset": "17:32"
       },
       {
         "date": "2026-11-12",
-        "label": "Drizzle",
-        "icon": "drizzle",
-        "high": 79,
-        "low": 67,
-        "precip": 21,
-        "uv": 5,
+        "label": "Showers",
+        "icon": "rain",
+        "high": 80,
+        "low": 68,
+        "precip": 24,
+        "uv": 3,
         "sunrise": "06:45",
         "sunset": "17:32"
+      },
+      {
+        "date": "2026-11-13",
+        "label": "Light drizzle",
+        "icon": "drizzle",
+        "high": 70,
+        "low": 59,
+        "precip": 20,
+        "uv": 3,
+        "sunrise": "06:45",
+        "sunset": "17:31"
       }
     ],
     "air": {
-      "aqi": 56,
-      "label": "Moderate",
-      "pm25": 18.5
+      "aqi": 43,
+      "label": "Good",
+      "pm25": 4.8
     }
   },
   "severe": [],
@@ -330,7 +330,7 @@
       "start": "08:30",
       "end": "12:00",
       "blurb": "Buddy Ball Bash partners with the organization Best Buddies and Buddy Ball which provide an organized baseball league for the differently abled youth, an opport",
-      "rsvps": 0,
+      "rsvps": 1,
       "image": "https://se-images.campuslabs.com/clink/images/b052bf26-e74c-44b7-8877-93aec55990ddc43dce27-8a97-4eda-88c9-965841008bce.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12946661"
     },
@@ -344,7 +344,7 @@
       "start": "08:30",
       "end": "13:00",
       "blurb": "Volunteer UCF welcomes you to join us and the American Heart Association at the 2026 Greater Orlando Heart Walk! This annual event brings the community together",
-      "rsvps": 18,
+      "rsvps": 16,
       "image": "https://se-images.campuslabs.com/clink/images/74f9fd2d-1ec3-46a6-8b85-c59e0bc41ab428a00d39-ba5b-45f0-af69-611542d32981.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12812891"
     },
@@ -400,7 +400,7 @@
       "start": "14:00",
       "end": "16:00",
       "blurb": "Volunteer UCF would love to have your support as the Home of Bright Choices hosts an art class! Home of Bright Choices is a parent-driven organization that aims",
-      "rsvps": 3,
+      "rsvps": 4,
       "image": "https://se-images.campuslabs.com/clink/images/14faf34b-db31-4bc4-864b-75d30f448c22041ba81c-ab6c-4bc5-b564-96504eb1d83a.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12893073"
     },
@@ -876,7 +876,7 @@
       "start": "19:30",
       "end": "20:30",
       "blurb": "Join us this Monday for an inspiring evening with Jessica Thomas, Principal Attorney at Thomas Law Firm, PLLC! She&rsquo;ll be sharing valuable insights on buil",
-      "rsvps": 3,
+      "rsvps": 4,
       "image": "https://se-images.campuslabs.com/clink/images/70dd1437-45de-4e42-9049-8d05e44616248761c53b-ecd7-47d8-b860-4e12e6d669d7.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12961748"
     },
@@ -1632,7 +1632,7 @@
       "start": "13:00",
       "end": "15:00",
       "blurb": "Come for the Pups, Stay for the Pops Come interact and learn about the different ways dogs support us everyday as we learn about Service Dogs with collaboration",
-      "rsvps": 7,
+      "rsvps": 8,
       "image": "https://se-images.campuslabs.com/clink/images/a51d3402-944e-4c25-b356-572160121f89a88ae6ae-623a-4fd5-aa62-08d662cada78.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12948307"
     },
@@ -4578,12 +4578,6 @@
       "changes": {},
       "title": "EGS 1006C Lecture",
       "url": null,
-      "weather": {
-        "temp": 73,
-        "precip": 0,
-        "label": "Partly cloudy",
-        "icon": "cloud"
-      },
       "courseTitle": "Intro to Engineering"
     },
     {
@@ -4600,12 +4594,6 @@
       "changes": {},
       "title": "MAC 2312 Friday Lecture",
       "url": null,
-      "weather": {
-        "temp": 83,
-        "precip": 0,
-        "label": "Partly cloudy",
-        "icon": "cloud"
-      },
       "courseTitle": "Calculus 2"
     },
     {
@@ -4623,9 +4611,9 @@
       "title": "PHY 2048L Laboratory",
       "url": null,
       "weather": {
-        "temp": 74,
-        "precip": 1,
-        "label": "Mostly clear",
+        "temp": 75,
+        "precip": 0,
+        "label": "Clear",
         "icon": "sun"
       },
       "courseTitle": "Physics Lab"
@@ -4645,8 +4633,8 @@
       "title": "EGS 1006C Laboratory",
       "url": null,
       "weather": {
-        "temp": 74,
-        "precip": 2,
+        "temp": 73,
+        "precip": 0,
         "label": "Overcast",
         "icon": "cloud"
       },
@@ -4667,10 +4655,10 @@
       "title": "ISC 2054 Seminar",
       "url": null,
       "weather": {
-        "temp": 82,
+        "temp": 83,
         "precip": 0,
-        "label": "Overcast",
-        "icon": "cloud"
+        "label": "Clear",
+        "icon": "sun"
       },
       "courseTitle": "STEM Seminar"
     },
@@ -4689,7 +4677,7 @@
       "title": "PHY 2048 Discussion",
       "url": null,
       "weather": {
-        "temp": 66,
+        "temp": 67,
         "precip": 0,
         "label": "Clear",
         "icon": "sun"
@@ -4711,8 +4699,8 @@
       "title": "ENC 1101 Lecture",
       "url": null,
       "weather": {
-        "temp": 76,
-        "precip": 1,
+        "temp": 77,
+        "precip": 0,
         "label": "Clear",
         "icon": "sun"
       },
@@ -4733,10 +4721,10 @@
       "title": "MAC 2312 Lecture",
       "url": null,
       "weather": {
-        "temp": 80,
-        "precip": 1,
-        "label": "Clear",
-        "icon": "sun"
+        "temp": 81,
+        "precip": 0,
+        "label": "Light drizzle",
+        "icon": "drizzle"
       },
       "courseTitle": "Calculus 2"
     },
@@ -4755,10 +4743,10 @@
       "title": "PHY 2048 Lecture",
       "url": null,
       "weather": {
-        "temp": 81,
-        "precip": 1,
-        "label": "Overcast",
-        "icon": "cloud"
+        "temp": 80,
+        "precip": 3,
+        "label": "Light drizzle",
+        "icon": "drizzle"
       },
       "courseTitle": "Physics: Mechanics"
     },
@@ -4777,10 +4765,10 @@
       "title": "IDH 1920H Lecture",
       "url": null,
       "weather": {
-        "temp": 81,
-        "precip": 1,
-        "label": "Overcast",
-        "icon": "cloud"
+        "temp": 77,
+        "precip": 3,
+        "label": "Clear",
+        "icon": "sun"
       },
       "courseTitle": "Honors Symposium"
     },
@@ -4800,7 +4788,7 @@
       "url": null,
       "weather": {
         "temp": 74,
-        "precip": 1,
+        "precip": 3,
         "label": "Overcast",
         "icon": "cloud"
       },
@@ -4821,8 +4809,8 @@
       "title": "ENC 1101 Lecture",
       "url": null,
       "weather": {
-        "temp": 73,
-        "precip": 11,
+        "temp": 75,
+        "precip": 17,
         "label": "Overcast",
         "icon": "cloud"
       },
@@ -4843,8 +4831,8 @@
       "title": "MAC 2312 Lecture",
       "url": null,
       "weather": {
-        "temp": 78,
-        "precip": 11,
+        "temp": 79,
+        "precip": 17,
         "label": "Overcast",
         "icon": "cloud"
       },
@@ -4865,10 +4853,10 @@
       "title": "PHY 2048 Lecture",
       "url": null,
       "weather": {
-        "temp": 78,
-        "precip": 17,
-        "label": "Overcast",
-        "icon": "cloud"
+        "temp": 77,
+        "precip": 24,
+        "label": "Drizzle",
+        "icon": "drizzle"
       },
       "courseTitle": "Physics: Mechanics"
     },
@@ -4886,6 +4874,12 @@
       "changes": {},
       "title": "EGS 1006C Lecture",
       "url": null,
+      "weather": {
+        "temp": 68,
+        "precip": 14,
+        "label": "Light drizzle",
+        "icon": "drizzle"
+      },
       "courseTitle": "Intro to Engineering"
     },
     {
@@ -4902,6 +4896,12 @@
       "changes": {},
       "title": "MAC 2312 Friday Lecture",
       "url": null,
+      "weather": {
+        "temp": 68,
+        "precip": 14,
+        "label": "Light drizzle",
+        "icon": "drizzle"
+      },
       "courseTitle": "Calculus 2"
     },
     {
@@ -5374,24 +5374,6 @@
     {
       "course": "ENC 1101",
       "courseTitle": "Writing & Composition",
-      "title": "Discussion Post #7: Rhetorical Situations",
-      "dueAt": "2026-10-07T00:00:00-04:00",
-      "points": null,
-      "overdue": true,
-      "url": "https://webcourses.ucf.edu/calendar?include_contexts=course_1521509&month=10&year=2026#assignment_9701049"
-    },
-    {
-      "course": "MAC 2312",
-      "courseTitle": "Calculus 2",
-      "title": "Integrating a Discontinuous Integrand Section 3.7",
-      "dueAt": "2026-10-07T00:00:00-04:00",
-      "points": null,
-      "overdue": true,
-      "url": "https://webcourses.ucf.edu/calendar?include_contexts=course_1522946&month=10&year=2026#assignment_9672794"
-    },
-    {
-      "course": "ENC 1101",
-      "courseTitle": "Writing & Composition",
       "title": "Major Assignment 2 - Revision Plan",
       "dueAt": "2026-10-09T00:00:00-04:00",
       "points": null,
@@ -5730,6 +5712,24 @@
       "points": null,
       "overdue": true,
       "url": "https://webcourses.ucf.edu/calendar?include_contexts=course_1522946&month=10&year=2026#assignment_9672802"
+    },
+    {
+      "course": "ENC 1101",
+      "courseTitle": "Writing & Composition",
+      "title": "Discussion Post #9: Revision through Peer Review",
+      "dueAt": "2026-10-28T00:00:00-04:00",
+      "points": null,
+      "overdue": true,
+      "url": "https://webcourses.ucf.edu/calendar?include_contexts=course_1521509&month=10&year=2026#assignment_9701047"
+    },
+    {
+      "course": "ENC 1101",
+      "courseTitle": "Writing & Composition",
+      "title": "Major Assignment 2: Textual Analysis of Literacy Practices",
+      "dueAt": "2026-10-30T00:00:00-04:00",
+      "points": null,
+      "overdue": true,
+      "url": "https://webcourses.ucf.edu/calendar?include_contexts=course_1521509&month=10&year=2026#assignment_9701084"
     }
   ],
   "recentChanges": []
