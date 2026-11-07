@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T11:05:27.003854-05:00",
+  "generatedAt": "2026-11-07T15:39:10.278105-05:00",
   "term": {
     "name": "Fall 2026",
     "start": "2026-08-24",
@@ -89,8 +89,8 @@
   "weather": {
     "place": "UCF Orlando",
     "current": {
-      "temp": 75,
-      "feelsLike": 80,
+      "temp": 78,
+      "feelsLike": 78,
       "label": "Clear",
       "icon": "sun",
       "isDay": true
@@ -98,9 +98,9 @@
     "days": [
       {
         "date": "2026-11-07",
-        "label": "Overcast",
-        "icon": "cloud",
-        "high": 77,
+        "label": "Mostly clear",
+        "icon": "sun",
+        "high": 80,
         "low": 64,
         "precip": 1,
         "uv": 6,
@@ -111,9 +111,9 @@
         "date": "2026-11-08",
         "label": "Overcast",
         "icon": "cloud",
-        "high": 77,
+        "high": 78,
         "low": 60,
-        "precip": 9,
+        "precip": 2,
         "uv": 6,
         "sunrise": "06:42",
         "sunset": "17:34"
@@ -123,17 +123,17 @@
         "label": "Overcast",
         "icon": "cloud",
         "high": 83,
-        "low": 64,
-        "precip": 1,
+        "low": 63,
+        "precip": 0,
         "uv": 5,
         "sunrise": "06:42",
         "sunset": "17:34"
       },
       {
         "date": "2026-11-10",
-        "label": "Light drizzle",
-        "icon": "drizzle",
-        "high": 82,
+        "label": "Overcast",
+        "icon": "cloud",
+        "high": 83,
         "low": 67,
         "precip": 3,
         "uv": 5,
@@ -142,12 +142,12 @@
       },
       {
         "date": "2026-11-11",
-        "label": "Overcast",
-        "icon": "cloud",
-        "high": 79,
-        "low": 69,
+        "label": "Drizzle",
+        "icon": "drizzle",
+        "high": 82,
+        "low": 70,
         "precip": 6,
-        "uv": 4,
+        "uv": 5,
         "sunrise": "06:44",
         "sunset": "17:32"
       },
@@ -155,8 +155,8 @@
         "date": "2026-11-12",
         "label": "Showers",
         "icon": "rain",
-        "high": 80,
-        "low": 68,
+        "high": 75,
+        "low": 67,
         "precip": 24,
         "uv": 3,
         "sunrise": "06:45",
@@ -164,20 +164,20 @@
       },
       {
         "date": "2026-11-13",
-        "label": "Light drizzle",
+        "label": "Drizzle",
         "icon": "drizzle",
-        "high": 70,
-        "low": 59,
+        "high": 68,
+        "low": 54,
         "precip": 20,
-        "uv": 3,
+        "uv": 5,
         "sunrise": "06:45",
         "sunset": "17:31"
       }
     ],
     "air": {
-      "aqi": 43,
+      "aqi": 41,
       "label": "Good",
-      "pm25": 4.8
+      "pm25": 3.6
     }
   },
   "severe": [],
@@ -292,90 +292,6 @@
     }
   ],
   "events": [
-    {
-      "id": "12812756",
-      "name": "American Heart Association: Heart Walk (Shift 1)",
-      "org": "Volunteer UCF",
-      "theme": "CommunityService",
-      "location": "Memory Mall, University of Central Florida ",
-      "date": "2026-11-07",
-      "start": "06:00",
-      "end": "12:00",
-      "blurb": "Volunteer UCF welcomes you to join us and the American Heart Association at the 2026 Greater Orlando Heart Walk! This annual event brings the community together",
-      "rsvps": 12,
-      "image": "https://se-images.campuslabs.com/clink/images/34faaaf0-6223-44fe-84db-81a5b069f17de714ad89-35e9-4c75-855f-814f6aa0b96b.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12812756"
-    },
-    {
-      "id": "12921231",
-      "name": "Food Distributing with Second Harvest ",
-      "org": "Humanity First Student Organization",
-      "theme": "CommunityService",
-      "location": "Metro West Church of the Nazarene",
-      "date": "2026-11-07",
-      "start": "07:00",
-      "end": "12:00",
-      "blurb": "Hello everyone. We will be holding a Food Distribution Event with Second Harvest on Sat. November 7, from 7 AM to 12 PM (5 hours) at Metro West Church of the Na",
-      "rsvps": 1,
-      "image": null,
-      "url": "https://ucf.campuslabs.com/engage/event/12921231"
-    },
-    {
-      "id": "12946661",
-      "name": "Buddy Ball Bash",
-      "org": "Student Government Executive Branch",
-      "theme": "CommunityService",
-      "location": "UCF Softball Field",
-      "date": "2026-11-07",
-      "start": "08:30",
-      "end": "12:00",
-      "blurb": "Buddy Ball Bash partners with the organization Best Buddies and Buddy Ball which provide an organized baseball league for the differently abled youth, an opport",
-      "rsvps": 1,
-      "image": "https://se-images.campuslabs.com/clink/images/b052bf26-e74c-44b7-8877-93aec55990ddc43dce27-8a97-4eda-88c9-965841008bce.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12946661"
-    },
-    {
-      "id": "12812891",
-      "name": "American Heart Association: Heart Walk (Shift 2)",
-      "org": "Volunteer UCF",
-      "theme": "CommunityService",
-      "location": "Memory Mall, University of Central Florida ",
-      "date": "2026-11-07",
-      "start": "08:30",
-      "end": "13:00",
-      "blurb": "Volunteer UCF welcomes you to join us and the American Heart Association at the 2026 Greater Orlando Heart Walk! This annual event brings the community together",
-      "rsvps": 16,
-      "image": "https://se-images.campuslabs.com/clink/images/74f9fd2d-1ec3-46a6-8b85-c59e0bc41ab428a00d39-ba5b-45f0-af69-611542d32981.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12812891"
-    },
-    {
-      "id": "12960221",
-      "name": "Walk for Apraxia 2026",
-      "org": "National Student Speech Language Hearing Association (NSSLHA) - Orlando",
-      "theme": "CommunityService",
-      "location": "Secret Lake Park",
-      "date": "2026-11-07",
-      "start": "09:00",
-      "end": "12:00",
-      "blurb": "Hi everyone! We have an upcoming walk for Apraxia Kids at Secret Lake Park in Casselberry! This will be an amazing time to get involved in the community and lea",
-      "rsvps": 1,
-      "image": "https://se-images.campuslabs.com/clink/images/9a7783dd-46ca-40bc-a230-13bdbcbe0f0de301a42e-da46-4219-9cc5-09f2cb81a8c9.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12960221"
-    },
-    {
-      "id": "12952126",
-      "name": "Bug Bingo Hike",
-      "org": "The Entomological Society of Central Florida",
-      "theme": "ThoughtfulLearning",
-      "location": "Timothy R. Newman Nature Pavillion",
-      "date": "2026-11-07",
-      "start": "11:00",
-      "end": "13:00",
-      "blurb": "Join us this Saturday November 7th for a Bug Bingo Hike! We'll have nets for those who need to borrow one and prizes for those who win! We'll be meeting at the ",
-      "rsvps": 0,
-      "image": "https://se-images.campuslabs.com/clink/images/a2d12c66-93a5-4a66-97f8-d48f92a05c8741980de0-ec54-4df9-9270-5a78c6f6ca96.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12952126"
-    },
     {
       "id": "12946105",
       "name": "Pickleball Palooza w COS",
@@ -876,7 +792,7 @@
       "start": "19:30",
       "end": "20:30",
       "blurb": "Join us this Monday for an inspiring evening with Jessica Thomas, Principal Attorney at Thomas Law Firm, PLLC! She&rsquo;ll be sharing valuable insights on buil",
-      "rsvps": 4,
+      "rsvps": 5,
       "image": "https://se-images.campuslabs.com/clink/images/70dd1437-45de-4e42-9049-8d05e44616248761c53b-ecd7-47d8-b860-4e12e6d669d7.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12961748"
     },
@@ -1044,7 +960,7 @@
       "start": "14:00",
       "end": "17:00",
       "blurb": "Looking to make a difference? Join us as a volunteer for our Empower Her Bag Auction supporting Annabel&rsquo;s Closet! By volunteering, you&rsquo;ll directly e",
-      "rsvps": 10,
+      "rsvps": 11,
       "image": "https://se-images.campuslabs.com/clink/images/3700755f-b7e5-49f5-b00e-ad2afcfe5bd28de432f1-017b-4491-b4e3-a0fa2ad1dd22.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12889210"
     },
@@ -1072,7 +988,7 @@
       "start": "16:30",
       "end": "17:30",
       "blurb": "Come join us for another campus cleanup with many other organizations! We will meet in front of Health Sciences I!",
-      "rsvps": 4,
+      "rsvps": 5,
       "image": "https://se-images.campuslabs.com/clink/images/18827515-64b6-4ef9-ac94-7f0cbacae8a7736bddf4-5180-498f-b663-0841e2665251.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12956127"
     },
@@ -1926,7 +1842,7 @@
       "start": "09:30",
       "end": "11:30",
       "blurb": "Join us at the Geneva Wilderness Area for a hike and tour of the nature center! Afterwards, we will have lunch at the pavilion, so make sure to pack something t",
-      "rsvps": 5,
+      "rsvps": 6,
       "image": "https://se-images.campuslabs.com/clink/images/91fbd2df-54b9-4a08-b0e4-3e879c6a7b631612382e-f3fd-493b-968d-877b9fa99f53.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12923970"
     },
@@ -1971,6 +1887,90 @@
       "rsvps": 0,
       "image": "https://se-images.campuslabs.com/clink/images/606e5aa4-5ba5-40a5-aacc-07e6aa19515ced832664-67b2-47f3-8d09-21dcb694af19.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12942535"
+    },
+    {
+      "id": "12924163",
+      "name": "Movie Night (showing: fantastic mr. fox)",
+      "org": "Tower II Apartments",
+      "theme": "Social",
+      "location": "Tower 2",
+      "date": "2026-11-13",
+      "start": "14:30",
+      "end": "16:30",
+      "blurb": "A Fantastic Friendsgiving Movie Night! Get into the fall spirit with a cozy movie night filled with delicious snacks, good vibes, and fantastic company! Join us",
+      "rsvps": 1,
+      "image": "https://se-images.campuslabs.com/clink/images/76605125-78e6-4625-85b4-a6d8337ae8236455f0bc-fb56-4483-8e40-52527c9305a5.pdf?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12924163"
+    },
+    {
+      "id": "12945894",
+      "name": "Abstract Self Portraits Inspired by Frida Kahlo",
+      "org": "Volunteer UCF",
+      "theme": "ThoughtfulLearning",
+      "location": "UCF Main Campus, Trevor Colbourn Hall, Room 0351",
+      "date": "2026-11-13",
+      "start": "15:30",
+      "end": "17:00",
+      "blurb": "Join us to learn more about Frida Kahlo and her impact on art as well as craft your own abstract self portrait representing who you are and who you aspire to be",
+      "rsvps": 4,
+      "image": "https://se-images.campuslabs.com/clink/images/f7a4e301-1bdf-4bb9-95d8-28fa913744b940c6662c-0089-4d57-ba4d-e2b1f7831d5d.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12945894"
+    },
+    {
+      "id": "12934882",
+      "name": "Honor Roll Release Party: Cinnamon Rolls & Celebrations!",
+      "org": "Honors Congress ",
+      "theme": "Social",
+      "location": "BHC 128",
+      "date": "2026-11-13",
+      "start": "16:00",
+      "end": "17:00",
+      "blurb": "Join Honors Congress on November 13th from 4:00 &ndash; 5:00pm in BHC as we celebrate the official launch of our latest Honor Roll magazine! Grab a warm cinnamo",
+      "rsvps": 3,
+      "image": "https://se-images.campuslabs.com/clink/images/bacafbed-0614-43a6-845c-38acde987b358bcf6b41-e5a2-4824-b861-40f6dc77e7f4.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12934882"
+    },
+    {
+      "id": "12949566",
+      "name": "RSO Field Day",
+      "org": "ForgetYouNot@UCF",
+      "theme": "Social",
+      "location": "UCF",
+      "date": "2026-11-13",
+      "start": "16:00",
+      "end": "18:00",
+      "blurb": "Join ForgetYouNot@UCF at RSO Field Day, hosted by Exercise is Medicine (EIM)! Student organizations across UCF will compete in a mix of team and individual game",
+      "rsvps": 0,
+      "image": "https://se-images.campuslabs.com/clink/images/0b19058f-6224-4b32-8940-004f8ae60347e9fc781b-da51-48cb-b24e-4c3273685331.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12949566"
+    },
+    {
+      "id": "12926963",
+      "name": "Virtual Career Panel with Phi Alpha Nu Pi - Network with Employers! ",
+      "org": "Phi Alpha Social Work Honor Society",
+      "theme": "ThoughtfulLearning",
+      "location": "Online",
+      "date": "2026-11-13",
+      "start": "16:00",
+      "end": "17:30",
+      "blurb": "REGISTER HERE FOR THE CAREER PANEL: https://forms.gle/pEKLM9gr24CGt5c28 We look forward to having you join us for the Phi Alpha Nu Pi Virtual Career Panel on No",
+      "rsvps": 7,
+      "image": "https://se-images.campuslabs.com/clink/images/050eddc9-2118-4f16-b9c9-eda7cf792e7e548e8ec9-f077-4599-be64-2bfa3469a190.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12926963"
+    },
+    {
+      "id": "12897577",
+      "name": "MEAT: THE TRUTH AND THE LIES by special guest Dr. Faraz Harsini",
+      "org": "Allied Scholars for Animal Protection ",
+      "theme": "Social",
+      "location": "Trevor Colbourn Hall Room 0211",
+      "date": "2026-11-13",
+      "start": "16:30",
+      "end": "18:00",
+      "blurb": "We will be hosting Dr. Faraz Harsini, the founder and CEO of ASAP, as well as a biomedical and food systems scientist, for a speech on Friday October 23rd at 4:",
+      "rsvps": 3,
+      "image": "https://se-images.campuslabs.com/clink/images/1f59d734-e195-43be-bad5-9d1d0fc0e5d76f45c057-fdec-4749-9560-17fbadda4cc2.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12897577"
     }
   ],
   "keyDates": [
@@ -4611,7 +4611,7 @@
       "title": "PHY 2048L Laboratory",
       "url": null,
       "weather": {
-        "temp": 75,
+        "temp": 77,
         "precip": 0,
         "label": "Clear",
         "icon": "sun"
@@ -4633,7 +4633,7 @@
       "title": "EGS 1006C Laboratory",
       "url": null,
       "weather": {
-        "temp": 73,
+        "temp": 70,
         "precip": 0,
         "label": "Overcast",
         "icon": "cloud"
@@ -4655,10 +4655,10 @@
       "title": "ISC 2054 Seminar",
       "url": null,
       "weather": {
-        "temp": 83,
+        "temp": 82,
         "precip": 0,
-        "label": "Clear",
-        "icon": "sun"
+        "label": "Overcast",
+        "icon": "cloud"
       },
       "courseTitle": "STEM Seminar"
     },
@@ -4699,7 +4699,7 @@
       "title": "ENC 1101 Lecture",
       "url": null,
       "weather": {
-        "temp": 77,
+        "temp": 78,
         "precip": 0,
         "label": "Clear",
         "icon": "sun"
@@ -4723,8 +4723,8 @@
       "weather": {
         "temp": 81,
         "precip": 0,
-        "label": "Light drizzle",
-        "icon": "drizzle"
+        "label": "Clear",
+        "icon": "sun"
       },
       "courseTitle": "Calculus 2"
     },
@@ -4743,10 +4743,10 @@
       "title": "PHY 2048 Lecture",
       "url": null,
       "weather": {
-        "temp": 80,
+        "temp": 83,
         "precip": 3,
-        "label": "Light drizzle",
-        "icon": "drizzle"
+        "label": "Overcast",
+        "icon": "cloud"
       },
       "courseTitle": "Physics: Mechanics"
     },
@@ -4765,10 +4765,10 @@
       "title": "IDH 1920H Lecture",
       "url": null,
       "weather": {
-        "temp": 77,
+        "temp": 82,
         "precip": 3,
-        "label": "Clear",
-        "icon": "sun"
+        "label": "Partly cloudy",
+        "icon": "cloud"
       },
       "courseTitle": "Honors Symposium"
     },
@@ -4787,7 +4787,7 @@
       "title": "IDH 1920H Lecture",
       "url": null,
       "weather": {
-        "temp": 74,
+        "temp": 75,
         "precip": 3,
         "label": "Overcast",
         "icon": "cloud"
@@ -4809,10 +4809,10 @@
       "title": "ENC 1101 Lecture",
       "url": null,
       "weather": {
-        "temp": 75,
+        "temp": 69,
         "precip": 17,
-        "label": "Overcast",
-        "icon": "cloud"
+        "label": "Drizzle",
+        "icon": "drizzle"
       },
       "courseTitle": "Writing & Composition"
     },
@@ -4831,10 +4831,10 @@
       "title": "MAC 2312 Lecture",
       "url": null,
       "weather": {
-        "temp": 79,
+        "temp": 74,
         "precip": 17,
-        "label": "Overcast",
-        "icon": "cloud"
+        "label": "Light drizzle",
+        "icon": "drizzle"
       },
       "courseTitle": "Calculus 2"
     },
@@ -4853,9 +4853,9 @@
       "title": "PHY 2048 Lecture",
       "url": null,
       "weather": {
-        "temp": 77,
+        "temp": 75,
         "precip": 24,
-        "label": "Drizzle",
+        "label": "Light drizzle",
         "icon": "drizzle"
       },
       "courseTitle": "Physics: Mechanics"
@@ -4875,10 +4875,10 @@
       "title": "EGS 1006C Lecture",
       "url": null,
       "weather": {
-        "temp": 68,
+        "temp": 61,
         "precip": 14,
-        "label": "Light drizzle",
-        "icon": "drizzle"
+        "label": "Partly cloudy",
+        "icon": "cloud"
       },
       "courseTitle": "Intro to Engineering"
     },
@@ -4897,10 +4897,10 @@
       "title": "MAC 2312 Friday Lecture",
       "url": null,
       "weather": {
-        "temp": 68,
+        "temp": 66,
         "precip": 14,
-        "label": "Light drizzle",
-        "icon": "drizzle"
+        "label": "Mostly clear",
+        "icon": "sun"
       },
       "courseTitle": "Calculus 2"
     },
