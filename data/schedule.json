@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T17:42:37.655064-05:00",
+  "generatedAt": "2026-11-06T21:32:02.697040-05:00",
   "term": {
     "name": "Fall 2026",
     "start": "2026-08-24",
@@ -89,11 +89,11 @@
   "weather": {
     "place": "UCF Orlando",
     "current": {
-      "temp": 81,
-      "feelsLike": 91,
-      "label": "Overcast",
-      "icon": "cloud",
-      "isDay": true
+      "temp": 76,
+      "feelsLike": 83,
+      "label": "Mostly clear",
+      "icon": "sun",
+      "isDay": false
     },
     "days": [
       {
@@ -102,7 +102,7 @@
         "icon": "cloud",
         "high": 86,
         "low": 70,
-        "precip": 26,
+        "precip": 24,
         "uv": 6,
         "sunrise": "06:40",
         "sunset": "17:36"
@@ -113,7 +113,7 @@
         "icon": "cloud",
         "high": 77,
         "low": 64,
-        "precip": 2,
+        "precip": 1,
         "uv": 6,
         "sunrise": "06:41",
         "sunset": "17:35"
@@ -122,8 +122,8 @@
         "date": "2026-11-08",
         "label": "Overcast",
         "icon": "cloud",
-        "high": 83,
-        "low": 62,
+        "high": 77,
+        "low": 60,
         "precip": 0,
         "uv": 6,
         "sunrise": "06:42",
@@ -133,8 +133,8 @@
         "date": "2026-11-09",
         "label": "Overcast",
         "icon": "cloud",
-        "high": 83,
-        "low": 67,
+        "high": 82,
+        "low": 66,
         "precip": 2,
         "uv": 5,
         "sunrise": "06:42",
@@ -145,7 +145,7 @@
         "label": "Overcast",
         "icon": "cloud",
         "high": 82,
-        "low": 66,
+        "low": 65,
         "precip": 1,
         "uv": 5,
         "sunrise": "06:43",
@@ -155,8 +155,8 @@
         "date": "2026-11-11",
         "label": "Heavy drizzle",
         "icon": "drizzle",
-        "high": 80,
-        "low": 68,
+        "high": 79,
+        "low": 67,
         "precip": 11,
         "uv": 5,
         "sunrise": "06:44",
@@ -164,10 +164,10 @@
       },
       {
         "date": "2026-11-12",
-        "label": "Overcast",
-        "icon": "cloud",
+        "label": "Drizzle",
+        "icon": "drizzle",
         "high": 79,
-        "low": 63,
+        "low": 67,
         "precip": 21,
         "uv": 5,
         "sunrise": "06:45",
@@ -177,7 +177,7 @@
     "air": {
       "aqi": 56,
       "label": "Moderate",
-      "pm25": 8.9
+      "pm25": 18.5
     }
   },
   "severe": [],
@@ -293,132 +293,6 @@
   ],
   "events": [
     {
-      "id": "12961782",
-      "name": "Fall Into K-Pop",
-      "org": "Libra Community",
-      "theme": "Social",
-      "location": "Libra Community Center",
-      "date": "2026-11-06",
-      "start": "16:00",
-      "end": "18:30",
-      "blurb": "An event for residents with a shared interest in kpop to get together for arts and crafts and bonding.",
-      "rsvps": 0,
-      "image": "https://se-images.campuslabs.com/clink/images/d132d091-9a7b-485b-9f08-1f118693dccb5409839c-38d4-4e35-a92c-64c6329454ea.pdf?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12961782"
-    },
-    {
-      "id": "12943125",
-      "name": "\u201cMasc-Optional\u201d Sapphic Speedfriending Social",
-      "org": "Pride Student Association",
-      "theme": "Social",
-      "location": "Teaching Academy Room 322",
-      "date": "2026-11-06",
-      "start": "17:00",
-      "end": "19:00",
-      "blurb": "Do YOU like women?! Well, have WE got an event for YOU! A cheeky tribute to the Covid-conscious lesbian bar of western Massachusetts! If you&rsquo;ve been gay a",
-      "rsvps": 15,
-      "image": "https://se-images.campuslabs.com/clink/images/30d5770c-0a55-4422-bdd2-b48aa6723b317894791c-0a9f-4ed0-a9dd-fbf5ae2bdecd.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12943125"
-    },
-    {
-      "id": "12948831",
-      "name": "Dues-Paying Meeting - Oshikatsu",
-      "org": "Art Club",
-      "theme": "Arts",
-      "location": "Teaching Academy 110",
-      "date": "2026-11-06",
-      "start": "17:00",
-      "end": "18:20",
-      "blurb": "You must be a dues-paying member to attend this Art Club meeting! Join us for an evening of Oshikatsu fun as we celebrate our dues-paying members! Meet us in Te",
-      "rsvps": 6,
-      "image": "https://se-images.campuslabs.com/clink/images/497dfa05-8a9e-4d0e-8205-b5354837426ce3d16f71-8e25-4eb2-acc0-887bf49e3c69.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12948831"
-    },
-    {
-      "id": "12820822",
-      "name": "General Body Meeting #3",
-      "org": "Institute of Electrical and Electronic Engineers Photonics Society at UCF",
-      "theme": "GroupBusiness",
-      "location": "The College of Optics and Photonics (CREOL) room 102/103",
-      "date": "2026-11-06",
-      "start": "17:30",
-      "end": "19:30",
-      "blurb": "We welcome you to the final GBM of the semester! We will open up our meeting with some announcements, followed by a presentation by a guest speaker. We will end",
-      "rsvps": 8,
-      "image": null,
-      "url": "https://ucf.campuslabs.com/engage/event/12820822"
-    },
-    {
-      "id": "12934576",
-      "name": "Super Mario Wii Tournament",
-      "org": "Rosen Apartments",
-      "theme": "Social",
-      "location": "Rosen 905 Large Community Room - 9907 Universal Blvd ",
-      "date": "2026-11-06",
-      "start": "18:00",
-      "end": "19:30",
-      "blurb": "Residents will participate in the Wii Mario Kart Tournament, encouraging interaction, friendly competition, as well as opportunities to connect with fellow resi",
-      "rsvps": 0,
-      "image": "https://se-images.campuslabs.com/clink/images/c281fb5a-1084-4799-a671-e46ba727e99b28b6775f-135f-4503-abc8-e9c62aa8b9fd.pdf?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12934576"
-    },
-    {
-      "id": "12942796",
-      "name": "Intro to gem5",
-      "org": "Institute of Electrical and Electronics Engineers Computer Society at the University of Central Florida",
-      "theme": "ThoughtfulLearning",
-      "location": "TCH 151",
-      "date": "2026-11-06",
-      "start": "18:00",
-      "end": "20:30",
-      "blurb": "gem5 is an open-source simulator that lets your laptop model a CPU before the silicon exists. In this intro workshop we'll cover why architecture simulation mat",
-      "rsvps": 0,
-      "image": "https://se-images.campuslabs.com/clink/images/9d0e85cd-0d44-4980-9c9a-d8ba6f1d55cce5d28a5d-15d9-4d29-b772-322603af8c39.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12942796"
-    },
-    {
-      "id": "12945490",
-      "name": "Lavender Shorts Film Festival",
-      "org": "LGBTQ+ Services",
-      "theme": "Social",
-      "location": "NSC 101",
-      "date": "2026-11-06",
-      "start": "18:00",
-      "end": "21:00",
-      "blurb": "Lavender Shorts is HERE! Join us for an amazing night of digital art and media from students just like you \ud83c\udf08\ud83d\udc96 Come watch our rising stars shine and support loca",
-      "rsvps": 0,
-      "image": "https://se-images.campuslabs.com/clink/images/6a807a28-851e-407c-bf70-b165a892af25eb68f226-0afe-4af2-adc7-8308b553e2c7.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12945490"
-    },
-    {
-      "id": "12925438",
-      "name": "UCF Pre-SOMA: Community Health Service Workshop",
-      "org": "Pre-Student Osteopathic Medical Association",
-      "theme": "CommunityService",
-      "location": "TBA (on-campus)",
-      "date": "2026-11-06",
-      "start": "18:30",
-      "end": "20:30",
-      "blurb": "Join UCF Pre-SOMA for our Community Health Workshop featuring Shepherd&rsquo;s Hope! Explore how community organizations support patients and families, learn ab",
-      "rsvps": 0,
-      "image": "https://se-images.campuslabs.com/clink/images/a7d77dc4-d331-4e7b-a8b2-f4c694b9a0d63a7d0b2e-069f-4156-a233-d4c279dc4248.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12925438"
-    },
-    {
-      "id": "12946015",
-      "name": "Game Night with Rollins College ",
-      "org": "Catholic Campus Ministry",
-      "theme": "Spirituality",
-      "location": "The Catholic Center at Northview ",
-      "date": "2026-11-06",
-      "start": "19:00",
-      "end": "21:00",
-      "blurb": "We're having a board game night with the Catholic ministry from Rollins College! We'll be playing a variety of different games upstairs at CCM. Feel free to bri",
-      "rsvps": 0,
-      "image": "https://se-images.campuslabs.com/clink/images/33b3cefd-7a8f-494a-9c78-14f233ce3feaf2649361-59d2-442a-945e-3aa4dbe4861f.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12946015"
-    },
-    {
       "id": "12812756",
       "name": "American Heart Association: Heart Walk (Shift 1)",
       "org": "Volunteer UCF",
@@ -484,7 +358,7 @@
       "start": "09:00",
       "end": "12:00",
       "blurb": "Hi everyone! We have an upcoming walk for Apraxia Kids at Secret Lake Park in Casselberry! This will be an amazing time to get involved in the community and lea",
-      "rsvps": 0,
+      "rsvps": 1,
       "image": "https://se-images.campuslabs.com/clink/images/9a7783dd-46ca-40bc-a230-13bdbcbe0f0de301a42e-da46-4219-9cc5-09f2cb81a8c9.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12960221"
     },
@@ -1002,7 +876,7 @@
       "start": "19:30",
       "end": "20:30",
       "blurb": "Join us this Monday for an inspiring evening with Jessica Thomas, Principal Attorney at Thomas Law Firm, PLLC! She&rsquo;ll be sharing valuable insights on buil",
-      "rsvps": 2,
+      "rsvps": 3,
       "image": "https://se-images.campuslabs.com/clink/images/70dd1437-45de-4e42-9049-8d05e44616248761c53b-ecd7-47d8-b860-4e12e6d669d7.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12961748"
     },
@@ -1903,6 +1777,20 @@
       "url": "https://ucf.campuslabs.com/engage/event/12946765"
     },
     {
+      "id": "12962235",
+      "name": "GBM #2",
+      "org": "Smile Train",
+      "theme": "ThoughtfulLearning",
+      "location": "Health Science 2 room 345",
+      "date": "2026-11-12",
+      "start": "17:30",
+      "end": "18:30",
+      "blurb": "Smile Train's first in-person GBM! Learn about our mission and goals as a new club at UCF. In GBM 2, we'll recap last month's events, reintroduce our board memb",
+      "rsvps": 0,
+      "image": "https://se-images.campuslabs.com/clink/images/eed93933-e9c8-446a-9bbc-b364ecb862ec578434fa-4438-4220-b365-e575e39fbc41.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12962235"
+    },
+    {
       "id": "12913817",
       "name": "Guys Bible Study",
       "org": "Chi Alpha Christian Fellowship",
@@ -1929,6 +1817,20 @@
       "rsvps": 2,
       "image": "https://se-images.campuslabs.com/clink/images/f1845559-aea5-46f8-922b-e3497af42386f8196126-477a-4d42-a81f-5f2941545aae.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12835046"
+    },
+    {
+      "id": "12962182",
+      "name": "Bowling Knight Social",
+      "org": "Meeting Professionals International Knights",
+      "theme": "Social",
+      "location": "Winter Garden Bowl",
+      "date": "2026-11-12",
+      "start": "18:00",
+      "end": "20:00",
+      "blurb": "Join us to socialize and bowl the knight away! MPI Knights is taking on bowling in Downtown Winter Garden. **Dues Paying Members will receive the RSVP Link via ",
+      "rsvps": 0,
+      "image": "https://se-images.campuslabs.com/clink/images/98896d38-80d9-4abf-a0d5-bd8e74b4a35f42670a9a-478d-453b-80d9-f09d148fc1d4.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12962182"
     },
     {
       "id": "12550746",
@@ -1971,6 +1873,104 @@
       "rsvps": 0,
       "image": "https://se-images.campuslabs.com/clink/images/437fb23f-ab66-495a-884f-36ee7698ac243b5f7d23-c22b-4d49-9f81-a6f23f1fdea7.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12550721"
+    },
+    {
+      "id": "12959466",
+      "name": "Castillo Engineering Pizza & Learn ",
+      "org": "Institute of Electrical and Electronics Engineers Power and Energy Society at the University of Central Florida",
+      "theme": "ThoughtfulLearning",
+      "location": "CB1 309",
+      "date": "2026-11-12",
+      "start": "19:30",
+      "end": "21:00",
+      "blurb": "Come to hear from Castillo Engineering about internships, solar utilities, battery storage, and substation design. They currently have open Electrical and Civil",
+      "rsvps": 4,
+      "image": "https://se-images.campuslabs.com/clink/images/f2d2f787-eeb1-4936-9a37-bf04552790fc6b675a8c-1b0a-45b3-964a-e3e505910069.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12959466"
+    },
+    {
+      "id": "11506969",
+      "name": "Special Olympics Healthy Hearing Volunteering ",
+      "org": "National Student Speech Language Hearing Association (NSSLHA) - Orlando",
+      "theme": "CommunityService",
+      "location": "Disney\u2019s ESPN Wide World of Sports Complex, Orlando, FL (700 S Victory Way, Orlando, FL 34747)",
+      "date": "2026-11-13",
+      "start": "08:00",
+      "end": "15:30",
+      "blurb": "The Special Olympics Florida State Fall Classic is taking place at Disney&rsquo;s ESPN Wide World of Sports Complex in Orlando! This event offers members the ch",
+      "rsvps": 31,
+      "image": "https://se-images.campuslabs.com/clink/images/956b802a-44b2-48cf-a925-bebae9b746c131e10477-c6a2-47bf-9a98-d05e2d323120.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/11506969"
+    },
+    {
+      "id": "12925392",
+      "name": "Tabling @ Student Union",
+      "org": "Pre-Student Osteopathic Medical Association",
+      "theme": "CommunityService",
+      "location": "UCF Student Union Patio",
+      "date": "2026-11-13",
+      "start": "09:00",
+      "end": "13:00",
+      "blurb": "UCF Pre-SOMA will be tabling at UCF's Student Union Patio. Come by and visit us to learn more about Pre-SOMA! Members get 1 point for stopping by, or 3 points f",
+      "rsvps": 0,
+      "image": "https://se-images.campuslabs.com/clink/images/bc4d9362-70c3-4e70-abf2-351f13354a88563ff59a-43cb-479c-9b24-c34c0e0f6274.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12925392"
+    },
+    {
+      "id": "12923970",
+      "name": "Geneva Wilderness Hike",
+      "org": "Intellectual Decisions on Environmental Awareness Solutions For Us",
+      "theme": "Social",
+      "location": "Geneva Wilderness Area",
+      "date": "2026-11-13",
+      "start": "09:30",
+      "end": "11:30",
+      "blurb": "Join us at the Geneva Wilderness Area for a hike and tour of the nature center! Afterwards, we will have lunch at the pavilion, so make sure to pack something t",
+      "rsvps": 5,
+      "image": "https://se-images.campuslabs.com/clink/images/91fbd2df-54b9-4a08-b0e4-3e879c6a7b631612382e-f3fd-493b-968d-877b9fa99f53.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12923970"
+    },
+    {
+      "id": "12919690",
+      "name": "Urban Agriculture Volunteer Shift",
+      "org": "UCF Arboretum",
+      "theme": "CommunityService",
+      "location": " L3Harris Engineering Building",
+      "date": "2026-11-13",
+      "start": "11:30",
+      "end": "13:00",
+      "blurb": "Come join us and get your hands dirty in our community garden! We will be doing tasks such as weeding, mulching, planting, harvesting and many other tasks that ",
+      "rsvps": 9,
+      "image": "https://se-images.campuslabs.com/clink/images/2b8cfa69-538f-4047-a786-2a9d1bb322427b3e2d30-1fcc-4268-8f05-f9b8ffc51222.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12919690"
+    },
+    {
+      "id": "12511941",
+      "name": "Purdue University AuD Virtual Visiting Day",
+      "org": "National Student Speech Language Hearing Association (NSSLHA) - Orlando",
+      "theme": "CommunityService",
+      "location": "Online",
+      "date": "2026-11-13",
+      "start": "11:30",
+      "end": "12:30",
+      "blurb": "Must RSVP with the link attached at least a week before the scheduled date!!! Join us for an informative session with Purdue University to learn more about its ",
+      "rsvps": 1,
+      "image": "https://se-images.campuslabs.com/clink/images/bdd00753-1d09-4a21-9e05-34fb2d020ad1e14688ad-8bb8-4d66-a4f0-e2887a11f993.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12511941"
+    },
+    {
+      "id": "12942535",
+      "name": "Pickleball Tournament ",
+      "org": "Lighthouse Haven",
+      "theme": "Fundraising",
+      "location": "RWC Courts",
+      "date": "2026-11-13",
+      "start": "12:00",
+      "end": "18:00",
+      "blurb": "Come play pickleball with us and raise money towards the Lighthouse Haven cause - supporting and advocating for pediatric cancer patients.",
+      "rsvps": 0,
+      "image": "https://se-images.campuslabs.com/clink/images/606e5aa4-5ba5-40a5-aacc-07e6aa19515ced832664-67b2-47f3-8d09-21dcb694af19.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12942535"
     }
   ],
   "keyDates": [
@@ -4623,10 +4623,10 @@
       "title": "PHY 2048L Laboratory",
       "url": null,
       "weather": {
-        "temp": 76,
+        "temp": 74,
         "precip": 1,
-        "label": "Overcast",
-        "icon": "cloud"
+        "label": "Mostly clear",
+        "icon": "sun"
       },
       "courseTitle": "Physics Lab"
     },
@@ -4667,7 +4667,7 @@
       "title": "ISC 2054 Seminar",
       "url": null,
       "weather": {
-        "temp": 80,
+        "temp": 82,
         "precip": 0,
         "label": "Overcast",
         "icon": "cloud"
@@ -4733,7 +4733,7 @@
       "title": "MAC 2312 Lecture",
       "url": null,
       "weather": {
-        "temp": 81,
+        "temp": 80,
         "precip": 1,
         "label": "Clear",
         "icon": "sun"
@@ -4755,7 +4755,7 @@
       "title": "PHY 2048 Lecture",
       "url": null,
       "weather": {
-        "temp": 82,
+        "temp": 81,
         "precip": 1,
         "label": "Overcast",
         "icon": "cloud"
@@ -4777,7 +4777,7 @@
       "title": "IDH 1920H Lecture",
       "url": null,
       "weather": {
-        "temp": 82,
+        "temp": 81,
         "precip": 1,
         "label": "Overcast",
         "icon": "cloud"
@@ -4845,7 +4845,7 @@
       "weather": {
         "temp": 78,
         "precip": 11,
-        "label": "Partly cloudy",
+        "label": "Overcast",
         "icon": "cloud"
       },
       "courseTitle": "Calculus 2"
