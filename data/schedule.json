@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T11:29:51.234334-05:00",
+  "generatedAt": "2026-11-08T15:56:56.534152-05:00",
   "term": {
     "name": "Fall 2026",
     "start": "2026-08-24",
@@ -89,8 +89,8 @@
   "weather": {
     "place": "UCF Orlando",
     "current": {
-      "temp": 75,
-      "feelsLike": 79,
+      "temp": 79,
+      "feelsLike": 78,
       "label": "Clear",
       "icon": "sun",
       "isDay": true
@@ -98,11 +98,11 @@
     "days": [
       {
         "date": "2026-11-08",
-        "label": "Overcast",
-        "icon": "cloud",
-        "high": 77,
+        "label": "Mostly clear",
+        "icon": "sun",
+        "high": 82,
         "low": 62,
-        "precip": 3,
+        "precip": 0,
         "uv": 6,
         "sunrise": "06:42",
         "sunset": "17:34"
@@ -111,8 +111,8 @@
         "date": "2026-11-09",
         "label": "Overcast",
         "icon": "cloud",
-        "high": 77,
-        "low": 62,
+        "high": 78,
+        "low": 63,
         "precip": 1,
         "uv": 5,
         "sunrise": "06:42",
@@ -123,41 +123,41 @@
         "label": "Overcast",
         "icon": "cloud",
         "high": 82,
-        "low": 63,
-        "precip": 0,
+        "low": 62,
+        "precip": 1,
         "uv": 5,
         "sunrise": "06:43",
         "sunset": "17:33"
       },
       {
         "date": "2026-11-11",
-        "label": "Showers",
-        "icon": "rain",
-        "high": 79,
-        "low": 68,
-        "precip": 19,
-        "uv": 4,
+        "label": "Thunderstorms",
+        "icon": "storm",
+        "high": 81,
+        "low": 69,
+        "precip": 24,
+        "uv": 5,
         "sunrise": "06:44",
         "sunset": "17:32"
       },
       {
         "date": "2026-11-12",
-        "label": "Overcast",
-        "icon": "cloud",
-        "high": 78,
-        "low": 68,
-        "precip": 19,
-        "uv": 3,
+        "label": "Light drizzle",
+        "icon": "drizzle",
+        "high": 80,
+        "low": 67,
+        "precip": 22,
+        "uv": 5,
         "sunrise": "06:45",
         "sunset": "17:32"
       },
       {
         "date": "2026-11-13",
-        "label": "Showers",
-        "icon": "rain",
-        "high": 70,
-        "low": 51,
-        "precip": 17,
+        "label": "Light drizzle",
+        "icon": "drizzle",
+        "high": 71,
+        "low": 52,
+        "precip": 12,
         "uv": 4,
         "sunrise": "06:45",
         "sunset": "17:31"
@@ -166,7 +166,7 @@
         "date": "2026-11-14",
         "label": "Clear",
         "icon": "sun",
-        "high": 58,
+        "high": 60,
         "low": 44,
         "precip": 0,
         "uv": 5,
@@ -175,9 +175,9 @@
       }
     ],
     "air": {
-      "aqi": 59,
+      "aqi": 58,
       "label": "Moderate",
-      "pm25": 12.3
+      "pm25": 9.5
     }
   },
   "severe": [],
@@ -265,12 +265,12 @@
     },
     {
       "date": "2026-11-14",
-      "time": null,
+      "time": "15:30",
       "opponent": "Arizona State Sun Devils",
       "home": true,
       "venue": "Acrisure Bounce House",
       "state": "pre",
-      "detail": "TBD"
+      "detail": "11/14 - 3:30 PM EST"
     },
     {
       "date": "2026-11-20",
@@ -292,76 +292,6 @@
     }
   ],
   "events": [
-    {
-      "id": "12946429",
-      "name": "Slay the Dragon ",
-      "org": "Catholic Campus Ministry",
-      "theme": "Spirituality",
-      "location": "Memory Mall on Campus ",
-      "date": "2026-11-08",
-      "start": "07:00",
-      "end": "13:00",
-      "blurb": "Slay the Dragon is the annual half marathon that the men's community at CCM does in order to fight against sins of lust. Impurity, lust, and things of the like ",
-      "rsvps": 0,
-      "image": "https://se-images.campuslabs.com/clink/images/135f73f3-acc7-462d-918c-97c41526ee152f3bbc89-d4d7-4201-bbcc-5c329c5e8cfa.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12946429"
-    },
-    {
-      "id": "12949421",
-      "name": "Golden Age Games Volunteer Event",
-      "org": "ForgetYouNot@UCF",
-      "theme": "CommunityService",
-      "location": "Seminole High School",
-      "date": "2026-11-08",
-      "start": "08:00",
-      "end": "12:00",
-      "blurb": "Join ForgetYouNot@UCF, International Medical Outreach (IMO), and MEDLIFE as we volunteer at the 51st Annual Golden Age Games! We&rsquo;ll support senior athlete",
-      "rsvps": 0,
-      "image": "https://se-images.campuslabs.com/clink/images/90abef33-f976-4ea4-9520-83363a78195831db6ab3-5e98-44d8-9467-ecdb607ebd26.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12949421"
-    },
-    {
-      "id": "12614735",
-      "name": "Sunday Worship with Wesley at UCF",
-      "org": "Wesley at UCF",
-      "theme": "Spirituality",
-      "location": "Faith UMC",
-      "date": "2026-11-08",
-      "start": "10:00",
-      "end": "11:30",
-      "blurb": "Join us for Faith UMC's Weekly church service every sunday at 10:00 am! Our director Erwin Lopez serves as the pastor, and all are welcome. If you are looking f",
-      "rsvps": 0,
-      "image": "https://se-images.campuslabs.com/clink/images/05ce9c70-ef83-4a92-8492-d16465dbddd6f719d2b3-18d8-4499-922b-f4f29e66b693.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12614735"
-    },
-    {
-      "id": "12947882",
-      "name": "Learn 2 Sail",
-      "org": "Sailing Club @ UCF",
-      "theme": "Athletics",
-      "location": "Sand Point Park",
-      "date": "2026-11-08",
-      "start": "10:00",
-      "end": "12:00",
-      "blurb": "Spend a morning with us out on the water, where we teach you the basics of sailing! Sign-Ups close Thursday, Nov 5th: https://forms.gle/tdw343icxAwWEabt8",
-      "rsvps": 0,
-      "image": "https://se-images.campuslabs.com/clink/images/cc76bea4-f3d9-462c-bea7-86026b3f17dcf0a7e948-61cc-4077-a8ec-178969a748f0.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12947882"
-    },
-    {
-      "id": "12946119",
-      "name": "Sunday Mass ",
-      "org": "Catholic Campus Ministry",
-      "theme": "Spirituality",
-      "location": "The Catholic Center at Northview ",
-      "date": "2026-11-08",
-      "start": "12:00",
-      "end": "13:15",
-      "blurb": "Mass is the center of our Catholic Faith. It's where we come together as a Church to worship God through Christ's offering of Himself to the Father and for us i",
-      "rsvps": 1,
-      "image": "https://se-images.campuslabs.com/clink/images/c3a53a5c-fd99-41f8-892b-78ef349ecf913c8658f8-232a-4540-8ebc-196e6cbc08f4.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12946119"
-    },
     {
       "id": "12898658",
       "name": "Tihar",
@@ -512,9 +442,23 @@
       "start": "15:30",
       "end": "17:00",
       "blurb": "Take the RES Survey &rarr; Get Ice Cream Go to your Outlook Calendar and find the RES Survey email. Email subject line: &ldquo;Knights share your voice!&rdquo; ",
-      "rsvps": 4,
+      "rsvps": 5,
       "image": "https://se-images.campuslabs.com/clink/images/6635809c-cf4e-41c0-9281-5766fd0d57e4dccf6796-6876-4ed8-8e67-ce5b835c9890.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12960243"
+    },
+    {
+      "id": "12962560",
+      "name": "Productivity and Game Knight",
+      "org": "Transfer Knights ",
+      "theme": "Social",
+      "location": "Classroom Building 1: Room 301",
+      "date": "2026-11-09",
+      "start": "15:30",
+      "end": "16:30",
+      "blurb": "Stop by to work alongside other students or participate in board games! We hope to see you there!",
+      "rsvps": 0,
+      "image": "https://se-images.campuslabs.com/clink/images/2f8f1a52-ab74-452f-8681-0f53021402d6d965e263-2b39-4492-8727-68bb535dce8a.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12962560"
     },
     {
       "id": "12912228",
@@ -778,7 +722,7 @@
       "start": "19:30",
       "end": "20:30",
       "blurb": "Join us this Monday for an inspiring evening with Jessica Thomas, Principal Attorney at Thomas Law Firm, PLLC! She&rsquo;ll be sharing valuable insights on buil",
-      "rsvps": 10,
+      "rsvps": 11,
       "image": "https://se-images.campuslabs.com/clink/images/70dd1437-45de-4e42-9049-8d05e44616248761c53b-ecd7-47d8-b860-4e12e6d669d7.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12961748"
     },
@@ -1002,7 +946,7 @@
       "start": "17:00",
       "end": "19:00",
       "blurb": "Come join us at Memory Mall (weather and location availability permitting) for a picnic-style hang-out to meet new people and work on any fiber-art-related proj",
-      "rsvps": 2,
+      "rsvps": 3,
       "image": "https://se-images.campuslabs.com/clink/images/9d28fa0d-65f6-4949-80af-39f79714e64ac8eb21a2-ed90-42e8-ba0d-d7af561c5af4.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12958922"
     },
@@ -1971,6 +1915,62 @@
       "rsvps": 2,
       "image": "https://se-images.campuslabs.com/clink/images/b10ae94e-ea53-4d70-b14f-a18061be12e64f4d1873-611a-42a1-9ffb-0e24923576d5.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12956683"
+    },
+    {
+      "id": "12931677",
+      "name": "Friday the 13th: Press Your Luck",
+      "org": "Rosen Apartments",
+      "theme": "Social",
+      "location": "Rosen 905 Large Community Room - 9907 Universal Blvd ",
+      "date": "2026-11-13",
+      "start": "18:00",
+      "end": "19:00",
+      "blurb": "Residents will be able to participate in interactive games in teams with a chance to receive a giveaway. This is a way for residents to connect with each other,",
+      "rsvps": 0,
+      "image": "https://se-images.campuslabs.com/clink/images/e3ba8ca5-15c2-4b5b-876c-35a711a40de3339cae69-e267-47c0-8133-a173227f0c62.pdf?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12931677"
+    },
+    {
+      "id": "12925615",
+      "name": "UCF Pre-SOMA: OMM Workshop",
+      "org": "Pre-Student Osteopathic Medical Association",
+      "theme": "ThoughtfulLearning",
+      "location": "Orlando College of Osteopathic Medicine",
+      "date": "2026-11-13",
+      "start": "19:00",
+      "end": "20:30",
+      "blurb": "Join UCF Pre-SOMA at our OMM Workshop, partnering with OCOM. Members will have the chance to learn about osteopathic medicine and treatment, while getting pract",
+      "rsvps": 0,
+      "image": "https://se-images.campuslabs.com/clink/images/56b086ae-4fa5-46fa-8f6b-6b2163cc9cbf999c32c1-37c7-4177-80f0-31ad824fd3a2.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12925615"
+    },
+    {
+      "id": "12933317",
+      "name": "Quack Attack on Poverty 5k shift one",
+      "org": "Volunteer UCF",
+      "theme": "CommunityService",
+      "location": "Baldwin Park",
+      "date": "2026-11-14",
+      "start": "04:30",
+      "end": "08:30",
+      "blurb": "Join Volunteer UCF and United Against Poverty for a beautiful morning at Baldwin Park and help us prepare for UP's annual quack attack on poverty 5k fundraiser!",
+      "rsvps": 4,
+      "image": "https://se-images.campuslabs.com/clink/images/cd51baa5-7aa2-4c33-a455-31d19f563d54bc80100a-2b0a-4b33-874d-280e62433523.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12933317"
+    },
+    {
+      "id": "12933381",
+      "name": "Quack Attack on Poverty 5k shift two",
+      "org": "Volunteer UCF",
+      "theme": "CommunityService",
+      "location": "Baldwin Park",
+      "date": "2026-11-14",
+      "start": "06:00",
+      "end": "10:30",
+      "blurb": "Join Volunteer UCF and United Against Poverty for a beautiful morning at Baldwin Park and keep things running smoothly at UP's annual quack attack on poverty 5k",
+      "rsvps": 2,
+      "image": "https://se-images.campuslabs.com/clink/images/2a04ecc3-624a-4f49-b662-411763d52a220432f6aa-63f4-4e0a-a7a2-a697497ad95c.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12933381"
     }
   ],
   "keyDates": [
@@ -4627,7 +4627,7 @@
       "title": "EGS 1006C Laboratory",
       "url": null,
       "weather": {
-        "temp": 70,
+        "temp": 71,
         "precip": 0,
         "label": "Overcast",
         "icon": "cloud"
@@ -4671,7 +4671,7 @@
       "title": "PHY 2048 Discussion",
       "url": null,
       "weather": {
-        "temp": 66,
+        "temp": 62,
         "precip": 0,
         "label": "Overcast",
         "icon": "cloud"
@@ -4693,9 +4693,9 @@
       "title": "ENC 1101 Lecture",
       "url": null,
       "weather": {
-        "temp": 76,
+        "temp": 73,
         "precip": 0,
-        "label": "Overcast",
+        "label": "Partly cloudy",
         "icon": "cloud"
       },
       "courseTitle": "Writing & Composition"
@@ -4715,7 +4715,7 @@
       "title": "MAC 2312 Lecture",
       "url": null,
       "weather": {
-        "temp": 80,
+        "temp": 78,
         "precip": 0,
         "label": "Overcast",
         "icon": "cloud"
@@ -4737,7 +4737,7 @@
       "title": "PHY 2048 Lecture",
       "url": null,
       "weather": {
-        "temp": 81,
+        "temp": 82,
         "precip": 0,
         "label": "Overcast",
         "icon": "cloud"
@@ -4759,7 +4759,7 @@
       "title": "IDH 1920H Lecture",
       "url": null,
       "weather": {
-        "temp": 80,
+        "temp": 81,
         "precip": 0,
         "label": "Overcast",
         "icon": "cloud"
@@ -4803,8 +4803,8 @@
       "title": "ENC 1101 Lecture",
       "url": null,
       "weather": {
-        "temp": 71,
-        "precip": 9,
+        "temp": 74,
+        "precip": 15,
         "label": "Overcast",
         "icon": "cloud"
       },
@@ -4825,8 +4825,8 @@
       "title": "MAC 2312 Lecture",
       "url": null,
       "weather": {
-        "temp": 74,
-        "precip": 9,
+        "temp": 78,
+        "precip": 15,
         "label": "Overcast",
         "icon": "cloud"
       },
@@ -4847,8 +4847,8 @@
       "title": "PHY 2048 Lecture",
       "url": null,
       "weather": {
-        "temp": 78,
-        "precip": 12,
+        "temp": 79,
+        "precip": 11,
         "label": "Overcast",
         "icon": "cloud"
       },
@@ -4869,8 +4869,8 @@
       "title": "EGS 1006C Lecture",
       "url": null,
       "weather": {
-        "temp": 59,
-        "precip": 5,
+        "temp": 63,
+        "precip": 4,
         "label": "Overcast",
         "icon": "cloud"
       },
@@ -4891,8 +4891,8 @@
       "title": "MAC 2312 Friday Lecture",
       "url": null,
       "weather": {
-        "temp": 64,
-        "precip": 5,
+        "temp": 66,
+        "precip": 4,
         "label": "Overcast",
         "icon": "cloud"
       },
@@ -4913,7 +4913,7 @@
       "title": "PHY 2048L Laboratory",
       "url": null,
       "weather": {
-        "temp": 53,
+        "temp": 54,
         "precip": 0,
         "label": "Clear",
         "icon": "sun"
