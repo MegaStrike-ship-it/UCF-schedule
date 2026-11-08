@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T15:39:10.278105-05:00",
+  "generatedAt": "2026-11-07T19:11:07.723641-05:00",
   "term": {
     "name": "Fall 2026",
     "start": "2026-08-24",
@@ -89,11 +89,11 @@
   "weather": {
     "place": "UCF Orlando",
     "current": {
-      "temp": 78,
-      "feelsLike": 78,
+      "temp": 72,
+      "feelsLike": 75,
       "label": "Clear",
       "icon": "sun",
-      "isDay": true
+      "isDay": false
     },
     "days": [
       {
@@ -101,7 +101,7 @@
         "label": "Mostly clear",
         "icon": "sun",
         "high": 80,
-        "low": 64,
+        "low": 66,
         "precip": 1,
         "uv": 6,
         "sunrise": "06:41",
@@ -112,7 +112,7 @@
         "label": "Overcast",
         "icon": "cloud",
         "high": 78,
-        "low": 60,
+        "low": 62,
         "precip": 2,
         "uv": 6,
         "sunrise": "06:42",
@@ -122,9 +122,9 @@
         "date": "2026-11-09",
         "label": "Overcast",
         "icon": "cloud",
-        "high": 83,
+        "high": 82,
         "low": 63,
-        "precip": 0,
+        "precip": 1,
         "uv": 5,
         "sunrise": "06:42",
         "sunset": "17:34"
@@ -133,7 +133,7 @@
         "date": "2026-11-10",
         "label": "Overcast",
         "icon": "cloud",
-        "high": 83,
+        "high": 81,
         "low": 67,
         "precip": 3,
         "uv": 5,
@@ -142,42 +142,42 @@
       },
       {
         "date": "2026-11-11",
-        "label": "Drizzle",
+        "label": "Light drizzle",
         "icon": "drizzle",
-        "high": 82,
-        "low": 70,
-        "precip": 6,
-        "uv": 5,
+        "high": 79,
+        "low": 68,
+        "precip": 13,
+        "uv": 4,
         "sunrise": "06:44",
         "sunset": "17:32"
       },
       {
         "date": "2026-11-12",
-        "label": "Showers",
-        "icon": "rain",
-        "high": 75,
+        "label": "Drizzle",
+        "icon": "drizzle",
+        "high": 70,
         "low": 67,
-        "precip": 24,
-        "uv": 3,
+        "precip": 21,
+        "uv": 1,
         "sunrise": "06:45",
         "sunset": "17:32"
       },
       {
         "date": "2026-11-13",
-        "label": "Drizzle",
+        "label": "Heavy drizzle",
         "icon": "drizzle",
         "high": 68,
-        "low": 54,
-        "precip": 20,
-        "uv": 5,
+        "low": 53,
+        "precip": 17,
+        "uv": 4,
         "sunrise": "06:45",
         "sunset": "17:31"
       }
     ],
     "air": {
-      "aqi": 41,
-      "label": "Good",
-      "pm25": 3.6
+      "aqi": 53,
+      "label": "Moderate",
+      "pm25": 16.4
     }
   },
   "severe": [],
@@ -260,8 +260,8 @@
       "opponent": "Kansas Jayhawks",
       "home": false,
       "venue": "David Booth Kansas Memorial Stadium",
-      "state": "pre",
-      "detail": "11/7 - 3:45 PM EST"
+      "state": "in",
+      "detail": "0:18 - 4th"
     },
     {
       "date": "2026-11-14",
@@ -292,34 +292,6 @@
     }
   ],
   "events": [
-    {
-      "id": "12946105",
-      "name": "Pickleball Palooza w COS",
-      "org": "Psychological Society",
-      "theme": "Athletics",
-      "location": "RWC Tennis Courts",
-      "date": "2026-11-07",
-      "start": "12:00",
-      "end": "16:00",
-      "blurb": "Come to our collab event with the College of Science's Ambassadors. Equipment is available for rent and refreshments provided! Play pickleball with other studen",
-      "rsvps": 0,
-      "image": "https://se-images.campuslabs.com/clink/images/5bb828ed-4b13-4e37-9d52-b1bba883b116f0d76cc3-b781-4fbd-af20-66d1ab771abe.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12946105"
-    },
-    {
-      "id": "12893073",
-      "name": "Home of Bright Choices Art Class",
-      "org": "Volunteer UCF",
-      "theme": "CommunityService",
-      "location": "St Richard's Episcopal Church ",
-      "date": "2026-11-07",
-      "start": "14:00",
-      "end": "16:00",
-      "blurb": "Volunteer UCF would love to have your support as the Home of Bright Choices hosts an art class! Home of Bright Choices is a parent-driven organization that aims",
-      "rsvps": 4,
-      "image": "https://se-images.campuslabs.com/clink/images/14faf34b-db31-4bc4-864b-75d30f448c22041ba81c-ab6c-4bc5-b564-96504eb1d83a.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12893073"
-    },
     {
       "id": "12946429",
       "name": "Slay the Dragon ",
@@ -792,7 +764,7 @@
       "start": "19:30",
       "end": "20:30",
       "blurb": "Join us this Monday for an inspiring evening with Jessica Thomas, Principal Attorney at Thomas Law Firm, PLLC! She&rsquo;ll be sharing valuable insights on buil",
-      "rsvps": 5,
+      "rsvps": 6,
       "image": "https://se-images.campuslabs.com/clink/images/70dd1437-45de-4e42-9049-8d05e44616248761c53b-ecd7-47d8-b860-4e12e6d669d7.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12961748"
     },
@@ -1632,7 +1604,7 @@
       "start": "16:30",
       "end": "18:30",
       "blurb": "Join us for a fun and engaging evening of music at the Office of Student Involvement! You are invited to participate in singing your favorite songs or support y",
-      "rsvps": 2,
+      "rsvps": 3,
       "image": "https://se-images.campuslabs.com/clink/images/389caf3d-b19a-4832-99d5-ce03fc71bf0fd2867f9c-27b6-4923-9248-f37cdd58357a.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12914001"
     },
@@ -1971,6 +1943,34 @@
       "rsvps": 3,
       "image": "https://se-images.campuslabs.com/clink/images/1f59d734-e195-43be-bad5-9d1d0fc0e5d76f45c057-fdec-4749-9560-17fbadda4cc2.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12897577"
+    },
+    {
+      "id": "12942806",
+      "name": "Intro to Vulkan",
+      "org": "Institute of Electrical and Electronics Engineers Computer Society at the University of Central Florida",
+      "theme": "ThoughtfulLearning",
+      "location": "TBD",
+      "date": "2026-11-13",
+      "start": "17:00",
+      "end": "19:30",
+      "blurb": "Vulkan is the low-level graphics API behind a lot of modern games and graphics software. Come learn how it talks to your GPU and what it takes to start building",
+      "rsvps": 3,
+      "image": null,
+      "url": "https://ucf.campuslabs.com/engage/event/12942806"
+    },
+    {
+      "id": "12956683",
+      "name": "November General Body Meeting",
+      "org": "Society for the Advancement of Minorities in STEM",
+      "theme": "ThoughtfulLearning",
+      "location": "Nicholson School of Communication, Room 0210",
+      "date": "2026-11-13",
+      "start": "17:00",
+      "end": "19:00",
+      "blurb": "\ud83c\udf42 Join us for our November GBM! \ud83e\udde1 This Friendsgiving, we&rsquo;re getting together to talk about summer research opportunities, REUs, and scholarships, share re",
+      "rsvps": 2,
+      "image": "https://se-images.campuslabs.com/clink/images/b10ae94e-ea53-4d70-b14f-a18061be12e64f4d1873-611a-42a1-9ffb-0e24923576d5.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12956683"
     }
   ],
   "keyDates": [
@@ -4634,7 +4634,7 @@
       "url": null,
       "weather": {
         "temp": 70,
-        "precip": 0,
+        "precip": 1,
         "label": "Overcast",
         "icon": "cloud"
       },
@@ -4656,7 +4656,7 @@
       "url": null,
       "weather": {
         "temp": 82,
-        "precip": 0,
+        "precip": 1,
         "label": "Overcast",
         "icon": "cloud"
       },
@@ -4699,10 +4699,10 @@
       "title": "ENC 1101 Lecture",
       "url": null,
       "weather": {
-        "temp": 78,
-        "precip": 0,
-        "label": "Clear",
-        "icon": "sun"
+        "temp": 76,
+        "precip": 1,
+        "label": "Overcast",
+        "icon": "cloud"
       },
       "courseTitle": "Writing & Composition"
     },
@@ -4721,10 +4721,10 @@
       "title": "MAC 2312 Lecture",
       "url": null,
       "weather": {
-        "temp": 81,
-        "precip": 0,
-        "label": "Clear",
-        "icon": "sun"
+        "temp": 80,
+        "precip": 1,
+        "label": "Overcast",
+        "icon": "cloud"
       },
       "courseTitle": "Calculus 2"
     },
@@ -4743,7 +4743,7 @@
       "title": "PHY 2048 Lecture",
       "url": null,
       "weather": {
-        "temp": 83,
+        "temp": 81,
         "precip": 3,
         "label": "Overcast",
         "icon": "cloud"
@@ -4765,9 +4765,9 @@
       "title": "IDH 1920H Lecture",
       "url": null,
       "weather": {
-        "temp": 82,
+        "temp": 80,
         "precip": 3,
-        "label": "Partly cloudy",
+        "label": "Overcast",
         "icon": "cloud"
       },
       "courseTitle": "Honors Symposium"
@@ -4787,7 +4787,7 @@
       "title": "IDH 1920H Lecture",
       "url": null,
       "weather": {
-        "temp": 75,
+        "temp": 74,
         "precip": 3,
         "label": "Overcast",
         "icon": "cloud"
@@ -4810,9 +4810,9 @@
       "url": null,
       "weather": {
         "temp": 69,
-        "precip": 17,
-        "label": "Drizzle",
-        "icon": "drizzle"
+        "precip": 14,
+        "label": "Overcast",
+        "icon": "cloud"
       },
       "courseTitle": "Writing & Composition"
     },
@@ -4831,10 +4831,10 @@
       "title": "MAC 2312 Lecture",
       "url": null,
       "weather": {
-        "temp": 74,
-        "precip": 17,
-        "label": "Light drizzle",
-        "icon": "drizzle"
+        "temp": 70,
+        "precip": 14,
+        "label": "Overcast",
+        "icon": "cloud"
       },
       "courseTitle": "Calculus 2"
     },
@@ -4853,10 +4853,10 @@
       "title": "PHY 2048 Lecture",
       "url": null,
       "weather": {
-        "temp": 75,
-        "precip": 24,
-        "label": "Light drizzle",
-        "icon": "drizzle"
+        "temp": 69,
+        "precip": 21,
+        "label": "Overcast",
+        "icon": "cloud"
       },
       "courseTitle": "Physics: Mechanics"
     },
@@ -4875,9 +4875,9 @@
       "title": "EGS 1006C Lecture",
       "url": null,
       "weather": {
-        "temp": 61,
-        "precip": 14,
-        "label": "Partly cloudy",
+        "temp": 65,
+        "precip": 12,
+        "label": "Overcast",
         "icon": "cloud"
       },
       "courseTitle": "Intro to Engineering"
@@ -4898,9 +4898,9 @@
       "url": null,
       "weather": {
         "temp": 66,
-        "precip": 14,
-        "label": "Mostly clear",
-        "icon": "sun"
+        "precip": 12,
+        "label": "Overcast",
+        "icon": "cloud"
       },
       "courseTitle": "Calculus 2"
     },
