@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T15:56:56.534152-05:00",
+  "generatedAt": "2026-11-08T19:37:26.451969-05:00",
   "term": {
     "name": "Fall 2026",
     "start": "2026-08-24",
@@ -89,17 +89,17 @@
   "weather": {
     "place": "UCF Orlando",
     "current": {
-      "temp": 79,
-      "feelsLike": 78,
+      "temp": 71,
+      "feelsLike": 73,
       "label": "Clear",
       "icon": "sun",
-      "isDay": true
+      "isDay": false
     },
     "days": [
       {
         "date": "2026-11-08",
-        "label": "Mostly clear",
-        "icon": "sun",
+        "label": "Overcast",
+        "icon": "cloud",
         "high": 82,
         "low": 62,
         "precip": 0,
@@ -112,7 +112,7 @@
         "label": "Overcast",
         "icon": "cloud",
         "high": 78,
-        "low": 63,
+        "low": 64,
         "precip": 1,
         "uv": 5,
         "sunrise": "06:42",
@@ -134,7 +134,7 @@
         "label": "Thunderstorms",
         "icon": "storm",
         "high": 81,
-        "low": 69,
+        "low": 70,
         "precip": 24,
         "uv": 5,
         "sunrise": "06:44",
@@ -142,10 +142,10 @@
       },
       {
         "date": "2026-11-12",
-        "label": "Light drizzle",
-        "icon": "drizzle",
+        "label": "Overcast",
+        "icon": "cloud",
         "high": 80,
-        "low": 67,
+        "low": 66,
         "precip": 22,
         "uv": 5,
         "sunrise": "06:45",
@@ -153,10 +153,10 @@
       },
       {
         "date": "2026-11-13",
-        "label": "Light drizzle",
-        "icon": "drizzle",
-        "high": 71,
-        "low": 52,
+        "label": "Overcast",
+        "icon": "cloud",
+        "high": 70,
+        "low": 54,
         "precip": 12,
         "uv": 4,
         "sunrise": "06:45",
@@ -164,10 +164,10 @@
       },
       {
         "date": "2026-11-14",
-        "label": "Clear",
-        "icon": "sun",
-        "high": 60,
-        "low": 44,
+        "label": "Partly cloudy",
+        "icon": "cloud",
+        "high": 62,
+        "low": 49,
         "precip": 0,
         "uv": 5,
         "sunrise": "06:46",
@@ -175,9 +175,9 @@
       }
     ],
     "air": {
-      "aqi": 58,
+      "aqi": 57,
       "label": "Moderate",
-      "pm25": 9.5
+      "pm25": 15.9
     }
   },
   "severe": [],
@@ -386,7 +386,7 @@
       "start": "13:30",
       "end": "16:00",
       "blurb": "Join Volunteer UCF and SALT Outreach to help move those who face homelessness and financial struggles in the community towards self-sufficiency. Volunteers may ",
-      "rsvps": 8,
+      "rsvps": 9,
       "image": "https://se-images.campuslabs.com/clink/images/fa3bd8c1-fa66-415c-a020-dd18086e525876b63aeb-e81a-4022-bdc2-385dd7a3b0c5.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12906649"
     },
@@ -403,6 +403,20 @@
       "rsvps": 0,
       "image": "https://se-images.campuslabs.com/clink/images/97bde8d7-8871-4389-adfd-f3e0c2f5b06e8b1ffc72-febc-46f4-bb4b-237b7fd10a8e.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12550936"
+    },
+    {
+      "id": "12962667",
+      "name": "Pie for a Cause",
+      "org": "Relay for Life at UCF",
+      "theme": "Fundraising",
+      "location": "UCF Reflection Pond",
+      "date": "2026-11-09",
+      "start": "14:30",
+      "end": "15:30",
+      "blurb": "Pie for a Cause hosted by Relay for Life at UCF! For just $2 , you can pie a board member and raise funds for the American Cancer Society, cancer research, and ",
+      "rsvps": 0,
+      "image": "https://se-images.campuslabs.com/clink/images/bcac9800-de43-46f7-bb4c-6a67b086d0f1cfc15c60-0081-4272-8c48-fcead1a36621.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12962667"
     },
     {
       "id": "12942005",
@@ -484,7 +498,7 @@
       "start": "17:00",
       "end": "18:30",
       "blurb": "Join Kappa Gamma Delta and Period @ UCF for a Period Supply Packing Party! We'll be coming together to pack menstrual care kits with essential period products t",
-      "rsvps": 3,
+      "rsvps": 4,
       "image": "https://se-images.campuslabs.com/clink/images/60093668-de1e-4ac9-9706-cf8310afff74fe42e957-a5ff-4ed5-babb-fd87cccb55c9.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12807185"
     },
@@ -722,7 +736,7 @@
       "start": "19:30",
       "end": "20:30",
       "blurb": "Join us this Monday for an inspiring evening with Jessica Thomas, Principal Attorney at Thomas Law Firm, PLLC! She&rsquo;ll be sharing valuable insights on buil",
-      "rsvps": 11,
+      "rsvps": 13,
       "image": "https://se-images.campuslabs.com/clink/images/70dd1437-45de-4e42-9049-8d05e44616248761c53b-ecd7-47d8-b860-4e12e6d669d7.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12961748"
     },
@@ -1707,6 +1721,20 @@
       "url": "https://ucf.campuslabs.com/engage/event/12550721"
     },
     {
+      "id": "12962641",
+      "name": "Worship Night",
+      "org": "Baptist Collegiate Ministries",
+      "theme": "Spirituality",
+      "location": "Cape Florida Ballroom, Student Union 3rd Floor",
+      "date": "2026-11-12",
+      "start": "19:30",
+      "end": "21:30",
+      "blurb": "Thursday night plans!! \ud83d\udc40 Join us after worship for a message from Rob Hemphil, Young Adult & Missions Pastor at Aloma Church! \ud83d\udcc5 November 12 \u23f0 7:30 PM (after wor",
+      "rsvps": 0,
+      "image": "https://se-images.campuslabs.com/clink/images/2743db94-d484-4011-959d-37b1e28a83cb2cceebfd-1cfb-4f45-a29d-44002dfe6c1d.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12962641"
+    },
+    {
       "id": "12959466",
       "name": "Castillo Engineering Pizza & Learn ",
       "org": "Institute of Electrical and Electronics Engineers Power and Energy Society at the University of Central Florida",
@@ -1828,7 +1856,7 @@
       "start": "15:30",
       "end": "17:00",
       "blurb": "Join us to learn more about Frida Kahlo and her impact on art as well as craft your own abstract self portrait representing who you are and who you aspire to be",
-      "rsvps": 4,
+      "rsvps": 6,
       "image": "https://se-images.campuslabs.com/clink/images/f7a4e301-1bdf-4bb9-95d8-28fa913744b940c6662c-0089-4d57-ba4d-e2b1f7831d5d.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12945894"
     },
@@ -1943,34 +1971,6 @@
       "rsvps": 0,
       "image": "https://se-images.campuslabs.com/clink/images/56b086ae-4fa5-46fa-8f6b-6b2163cc9cbf999c32c1-37c7-4177-80f0-31ad824fd3a2.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12925615"
-    },
-    {
-      "id": "12933317",
-      "name": "Quack Attack on Poverty 5k shift one",
-      "org": "Volunteer UCF",
-      "theme": "CommunityService",
-      "location": "Baldwin Park",
-      "date": "2026-11-14",
-      "start": "04:30",
-      "end": "08:30",
-      "blurb": "Join Volunteer UCF and United Against Poverty for a beautiful morning at Baldwin Park and help us prepare for UP's annual quack attack on poverty 5k fundraiser!",
-      "rsvps": 4,
-      "image": "https://se-images.campuslabs.com/clink/images/cd51baa5-7aa2-4c33-a455-31d19f563d54bc80100a-2b0a-4b33-874d-280e62433523.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12933317"
-    },
-    {
-      "id": "12933381",
-      "name": "Quack Attack on Poverty 5k shift two",
-      "org": "Volunteer UCF",
-      "theme": "CommunityService",
-      "location": "Baldwin Park",
-      "date": "2026-11-14",
-      "start": "06:00",
-      "end": "10:30",
-      "blurb": "Join Volunteer UCF and United Against Poverty for a beautiful morning at Baldwin Park and keep things running smoothly at UP's annual quack attack on poverty 5k",
-      "rsvps": 2,
-      "image": "https://se-images.campuslabs.com/clink/images/2a04ecc3-624a-4f49-b662-411763d52a220432f6aa-63f4-4e0a-a7a2-a697497ad95c.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12933381"
     }
   ],
   "keyDates": [
@@ -4737,7 +4737,7 @@
       "title": "PHY 2048 Lecture",
       "url": null,
       "weather": {
-        "temp": 82,
+        "temp": 80,
         "precip": 0,
         "label": "Overcast",
         "icon": "cloud"
@@ -4759,7 +4759,7 @@
       "title": "IDH 1920H Lecture",
       "url": null,
       "weather": {
-        "temp": 81,
+        "temp": 79,
         "precip": 0,
         "label": "Overcast",
         "icon": "cloud"
@@ -4869,7 +4869,7 @@
       "title": "EGS 1006C Lecture",
       "url": null,
       "weather": {
-        "temp": 63,
+        "temp": 64,
         "precip": 4,
         "label": "Overcast",
         "icon": "cloud"
@@ -4891,7 +4891,7 @@
       "title": "MAC 2312 Friday Lecture",
       "url": null,
       "weather": {
-        "temp": 66,
+        "temp": 67,
         "precip": 4,
         "label": "Overcast",
         "icon": "cloud"
@@ -4913,7 +4913,7 @@
       "title": "PHY 2048L Laboratory",
       "url": null,
       "weather": {
-        "temp": 54,
+        "temp": 58,
         "precip": 0,
         "label": "Clear",
         "icon": "sun"
