@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T11:47:50.413683-05:00",
+  "generatedAt": "2026-11-15T16:28:01.872712-05:00",
   "term": {
     "name": "Fall 2026",
     "start": "2026-08-24",
@@ -89,18 +89,18 @@
   "weather": {
     "place": "UCF Orlando",
     "current": {
-      "temp": 65,
-      "feelsLike": 64,
-      "label": "Clear",
+      "temp": 70,
+      "feelsLike": 67,
+      "label": "Mostly clear",
       "icon": "sun",
       "isDay": true
     },
     "days": [
       {
         "date": "2026-11-15",
-        "label": "Mostly clear",
-        "icon": "sun",
-        "high": 69,
+        "label": "Overcast",
+        "icon": "cloud",
+        "high": 72,
         "low": 50,
         "precip": 0,
         "uv": 5,
@@ -109,33 +109,33 @@
       },
       {
         "date": "2026-11-16",
-        "label": "Overcast",
-        "icon": "cloud",
-        "high": 70,
-        "low": 57,
-        "precip": 25,
+        "label": "Heavy rain",
+        "icon": "rain",
+        "high": 68,
+        "low": 58,
+        "precip": 9,
         "uv": 4,
         "sunrise": "06:48",
         "sunset": "17:30"
       },
       {
         "date": "2026-11-17",
-        "label": "Heavy rain",
+        "label": "Light rain",
         "icon": "rain",
-        "high": 73,
-        "low": 62,
-        "precip": 28,
+        "high": 71,
+        "low": 64,
+        "precip": 24,
         "uv": 4,
         "sunrise": "06:49",
         "sunset": "17:30"
       },
       {
         "date": "2026-11-18",
-        "label": "Heavy drizzle",
-        "icon": "drizzle",
-        "high": 75,
-        "low": 63,
-        "precip": 30,
+        "label": "Showers",
+        "icon": "rain",
+        "high": 71,
+        "low": 62,
+        "precip": 50,
         "uv": 4,
         "sunrise": "06:49",
         "sunset": "17:29"
@@ -144,40 +144,40 @@
         "date": "2026-11-19",
         "label": "Showers",
         "icon": "rain",
-        "high": 76,
+        "high": 69,
         "low": 66,
-        "precip": 25,
-        "uv": 4,
+        "precip": 32,
+        "uv": 2,
         "sunrise": "06:50",
         "sunset": "17:29"
       },
       {
         "date": "2026-11-20",
-        "label": "Drizzle",
-        "icon": "drizzle",
-        "high": 71,
-        "low": 68,
-        "precip": 24,
-        "uv": 1,
+        "label": "Heavy showers",
+        "icon": "rain",
+        "high": 70,
+        "low": 64,
+        "precip": 30,
+        "uv": 0,
         "sunrise": "06:51",
         "sunset": "17:29"
       },
       {
         "date": "2026-11-21",
-        "label": "Heavy showers",
-        "icon": "rain",
-        "high": 75,
-        "low": 64,
-        "precip": 15,
-        "uv": 3,
+        "label": "Overcast",
+        "icon": "cloud",
+        "high": 69,
+        "low": 61,
+        "precip": 16,
+        "uv": 2,
         "sunrise": "06:52",
         "sunset": "17:28"
       }
     ],
     "air": {
-      "aqi": 28,
+      "aqi": 39,
       "label": "Good",
-      "pm25": 5.7
+      "pm25": 4.6
     }
   },
   "severe": [],
@@ -293,34 +293,6 @@
   ],
   "events": [
     {
-      "id": "12876609",
-      "name": "PAN x MMS Camp Boggy Creek's Teddy Morse's Ride for Kids Volunteering",
-      "org": "Pediatric Advocacy Network",
-      "theme": "CommunityService",
-      "location": "Camp Boggy Creek ",
-      "date": "2026-11-15",
-      "start": "07:30",
-      "end": "15:00",
-      "blurb": "\ud83c\udfcd\ufe0f Ride for Kids, Volunteer for a Cause! \ud83e\uddf8\u2764\ufe0f The Pediatric Advocacy Network (PAN) is teaming up with Multilingual Med Speaks (MMS) to volunteer at Camp Boggy Cr",
-      "rsvps": 0,
-      "image": "https://se-images.campuslabs.com/clink/images/e711dd23-7c44-477d-b170-6f72e070c2a731e3edd5-f0ec-4367-b0d8-47c135b02093.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12876609"
-    },
-    {
-      "id": "12868379",
-      "name": "Teddy Morse Ride for Kids",
-      "org": "Lighthouse Haven",
-      "theme": "CommunityService",
-      "location": "Camp Boggy Creek",
-      "date": "2026-11-15",
-      "start": "08:00",
-      "end": "15:00",
-      "blurb": "We will be going to Camp Boggy Creek to help host a fun-filled motorcycle ride and celebration to support the kids of Camp Boggy Creek! Teddy Morse Ride for Kid",
-      "rsvps": 0,
-      "image": "https://se-images.campuslabs.com/clink/images/52387eb0-f23e-44a1-8675-9d4f50ee1a6be6ec6bbd-4cac-43ca-9fdd-8f14fe43bc8d.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12868379"
-    },
-    {
       "id": "12975489",
       "name": "MAPS & LMSA+ Phlebotomy Certification Workshop",
       "org": "Latino Medical Student Association Plus",
@@ -333,62 +305,6 @@
       "rsvps": 0,
       "image": "https://se-images.campuslabs.com/clink/images/58b7b701-dd1a-4151-81d0-bc7985e9dfd7ed1863e9-9795-48de-9c76-b962b5b03af2.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12975489"
-    },
-    {
-      "id": "12981016",
-      "name": "Orlando Yoga Festival ",
-      "org": "A Heartfulness Meditation Experience",
-      "theme": "Social",
-      "location": "Lake Eola park",
-      "date": "2026-11-15",
-      "start": "09:00",
-      "end": "16:00",
-      "blurb": "Join us for the Orlando Yoga Festival at beautiful Lake Eola Park! This free, community-centered event brings people together to celebrate yoga, mindfulness, mo",
-      "rsvps": 0,
-      "image": "https://se-images.campuslabs.com/clink/images/beb4d63b-7511-499d-a3f0-5bd41f8095b841b2aa3a-91c1-4ea0-8ecb-171ab8cd4cbf.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12981016"
-    },
-    {
-      "id": "12967144",
-      "name": "Take a hike with genCLEO UCF",
-      "org": "GenCLEO@UCF",
-      "theme": "Social",
-      "location": "UCF Arboretum Nature Pavilion",
-      "date": "2026-11-15",
-      "start": "11:00",
-      "end": "13:00",
-      "blurb": "Need a little break from your busy week? Come explore the beauty of nature right here on campus! \ud83c\udf31\u2728 Join us for a relaxing morning at the UCF Arboretum as we di",
-      "rsvps": 3,
-      "image": "https://se-images.campuslabs.com/clink/images/8ae7c4d5-54d7-4454-9ee5-4c1c96c168900e84b268-0ef2-4f37-b460-113767322a9d.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12967144"
-    },
-    {
-      "id": "12966971",
-      "name": "Sunday Mass",
-      "org": "Catholic Campus Ministry",
-      "theme": "Spirituality",
-      "location": "The Live Oak Ballroom on Campus ",
-      "date": "2026-11-15",
-      "start": "12:00",
-      "end": "13:15",
-      "blurb": "Mass is the center of our Catholic Faith. It's where we come together as a Church to worship God through Christ's offering of Himself to the Father and for us i",
-      "rsvps": 3,
-      "image": "https://se-images.campuslabs.com/clink/images/29b5e720-8d5e-425d-96e0-c6d77e455eb38ba76dd7-6283-4767-a0a5-c4b3c2ff0a75.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12966971"
-    },
-    {
-      "id": "12900524",
-      "name": "Nike Closing Meeting 11/15",
-      "org": "Nike Community",
-      "theme": "Social",
-      "location": "Nike Programming Center",
-      "date": "2026-11-15",
-      "start": "15:00",
-      "end": "16:00",
-      "blurb": "Nike Community Closing Meeting.",
-      "rsvps": 0,
-      "image": "https://se-images.campuslabs.com/clink/images/33690d2d-03ce-4b73-b42d-6211dbde796beb6f6d53-7775-4dd6-add1-1a44587474b3.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12900524"
     },
     {
       "id": "12953645",
@@ -862,7 +778,7 @@
       "start": "19:30",
       "end": "21:00",
       "blurb": "\ud83c\udfa2 Theme Park Knights &ndash; General Meeting #3! Ever wondered what it would be like to design your own theme park attraction? Join us for Imagineer for a Day! ",
-      "rsvps": 0,
+      "rsvps": 1,
       "image": "https://se-images.campuslabs.com/clink/images/98519902-43f0-47d3-8620-0cbedf284c285323446d-705a-4903-84fd-d7aa1ac890c6.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12980999"
     },
@@ -1145,6 +1061,20 @@
       "rsvps": 1,
       "image": "https://se-images.campuslabs.com/clink/images/54d319c2-1e40-4abf-8003-f58fbadc124d1b944cff-44a8-4e79-8ba8-c9850960669c.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12934675"
+    },
+    {
+      "id": "12981416",
+      "name": "Bible Study + Pizza @ SU Room 224",
+      "org": "Christians on Campus",
+      "theme": "Spirituality",
+      "location": "UCF Student Union Room 224",
+      "date": "2026-11-17",
+      "start": "17:30",
+      "end": "18:30",
+      "blurb": "Join us at 5:30pm, November 17th, for the last Bible Study of the Fall 2026 Semester! Pizza will be supplied! See you in the Student Union! (Room 224)",
+      "rsvps": 0,
+      "image": "https://se-images.campuslabs.com/clink/images/f013718a-c094-4a99-b753-2945a3adc1204db36b2b-5489-4ab8-a440-7e90ef16ea2c.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12981416"
     },
     {
       "id": "12857942",
@@ -1492,7 +1422,7 @@
       "start": "12:00",
       "end": "14:00",
       "blurb": "Take a break, take a breath&mdash;and meet some furry friends! Join us for a relaxing visit with certified therapy dogs, whether you need to de-stress, a smile,",
-      "rsvps": 8,
+      "rsvps": 9,
       "image": "https://se-images.campuslabs.com/clink/images/8ef45f6b-cbdb-4a71-bfa1-9611c73703e7144c78dd-4bec-4325-98bc-fc447165e719.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12932849"
     },
@@ -1971,6 +1901,76 @@
       "rsvps": 0,
       "image": "https://se-images.campuslabs.com/clink/images/87f1fa69-caad-4360-948b-c1a12ee33fe5410c2ebe-fba1-48c4-966c-26e986a49484.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12945972"
+    },
+    {
+      "id": "12970767",
+      "name": "Friendsgiving",
+      "org": "Women Veterans Association ",
+      "theme": "Social",
+      "location": "UCF MVSC",
+      "date": "2026-11-19",
+      "start": "14:00",
+      "end": "17:00",
+      "blurb": "Good food, great company, and a little Friendsgiving fun! \ud83e\udd83\ud83c\udf42 Join WVA on November 19 at 2 PM at the Military and Veteran Success Center as we come together to c",
+      "rsvps": 2,
+      "image": "https://se-images.campuslabs.com/clink/images/1ca1b724-35cb-4f05-8690-d18bf55e9b012d48a90d-7a8c-410a-b3e8-7ccae4a7c976.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12970767"
+    },
+    {
+      "id": "12551143",
+      "name": "GAP Committee Meeting",
+      "org": "Student Government Legislative Branch (Senate)",
+      "theme": "CommunityService",
+      "location": "SG Conference Room",
+      "date": "2026-11-19",
+      "start": "15:00",
+      "end": "16:00",
+      "blurb": "Weekly GAP Committee Meeting Email: sgagap@ucf.edu Chair: Anna Reed Vice Chair: Morgan Sheriff",
+      "rsvps": 0,
+      "image": "https://se-images.campuslabs.com/clink/images/54f937ca-d8b6-48b4-8e96-e8f2413639a58911c864-88df-4bc1-b5f7-79f3eaa77962.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12551143"
+    },
+    {
+      "id": "12551199",
+      "name": "LJR Committee Meeting",
+      "org": "Student Government Legislative Branch (Senate)",
+      "theme": "CommunityService",
+      "location": "SG Conference Room",
+      "date": "2026-11-19",
+      "start": "16:30",
+      "end": "17:30",
+      "blurb": "Weekly LJR Committee Meeting Email: sga_ljr@ucf.edu Chair: Zachary Gaudio Vice Chair: Amanda Rubio",
+      "rsvps": 0,
+      "image": "https://se-images.campuslabs.com/clink/images/bdea741b-5cf3-49a8-8881-8054b981fce704c8dff1-468d-4830-8d1f-b9c83edf3a32.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12551199"
+    },
+    {
+      "id": "12931017",
+      "name": "Green Assembly",
+      "org": "UCF Arboretum",
+      "theme": "ThoughtfulLearning",
+      "location": "Student Union Room 221",
+      "date": "2026-11-19",
+      "start": "16:30",
+      "end": "17:30",
+      "blurb": "Join the UCF Arboretum's Outreach and Engagement team for this month's Green Assembly! Green Assembly is a monthly presentation hosted by the UCF Arboretum on a",
+      "rsvps": 2,
+      "image": "https://se-images.campuslabs.com/clink/images/c4260b78-7d1b-4f97-91f0-a5f42d964478a14e58ef-46f5-4b39-8cc3-7537e13e2140.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12931017"
+    },
+    {
+      "id": "12595232",
+      "name": "Safety First, Choice Always: Modernizing Triage in Social Work Practice",
+      "org": "Phi Alpha Social Work Honor Society",
+      "theme": "ThoughtfulLearning",
+      "location": "CB1-113",
+      "date": "2026-11-19",
+      "start": "16:30",
+      "end": "17:30",
+      "blurb": "Social workers serve in a wide range of settings, supporting individuals and communities with diverse needs and experiences. From schools and community organiza",
+      "rsvps": 7,
+      "image": "https://se-images.campuslabs.com/clink/images/b13c9c83-e448-49c2-adbb-38057b2e820314d14d3a-3cbd-4ffc-814c-937df6190da2.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12595232"
     }
   ],
   "keyDates": [
@@ -4846,8 +4846,8 @@
       "title": "EGS 1006C Laboratory",
       "url": null,
       "weather": {
-        "temp": 67,
-        "precip": 1,
+        "temp": 64,
+        "precip": 7,
         "label": "Overcast",
         "icon": "cloud"
       },
@@ -4869,7 +4869,7 @@
       "url": null,
       "weather": {
         "temp": 68,
-        "precip": 4,
+        "precip": 7,
         "label": "Overcast",
         "icon": "cloud"
       },
@@ -4890,10 +4890,10 @@
       "title": "PHY 2048 Discussion",
       "url": null,
       "weather": {
-        "temp": 62,
-        "precip": 23,
-        "label": "Drizzle",
-        "icon": "drizzle"
+        "temp": 64,
+        "precip": 24,
+        "label": "Overcast",
+        "icon": "cloud"
       },
       "courseTitle": "Physics: Mechanics"
     },
@@ -4912,8 +4912,8 @@
       "title": "ENC 1101 Lecture",
       "url": null,
       "weather": {
-        "temp": 70,
-        "precip": 19,
+        "temp": 71,
+        "precip": 23,
         "label": "Overcast",
         "icon": "cloud"
       },
@@ -4934,10 +4934,10 @@
       "title": "MAC 2312 Lecture",
       "url": null,
       "weather": {
-        "temp": 73,
-        "precip": 19,
-        "label": "Overcast",
-        "icon": "cloud"
+        "temp": 68,
+        "precip": 23,
+        "label": "Light rain",
+        "icon": "rain"
       },
       "courseTitle": "Calculus 2"
     },
@@ -4956,10 +4956,10 @@
       "title": "PHY 2048 Lecture",
       "url": null,
       "weather": {
-        "temp": 70,
-        "precip": 21,
-        "label": "Drizzle",
-        "icon": "drizzle"
+        "temp": 66,
+        "precip": 22,
+        "label": "Overcast",
+        "icon": "cloud"
       },
       "courseTitle": "Physics: Mechanics"
     },
@@ -4978,10 +4978,10 @@
       "title": "IDH 1920H Lecture",
       "url": null,
       "weather": {
-        "temp": 69,
-        "precip": 21,
-        "label": "Light drizzle",
-        "icon": "drizzle"
+        "temp": 66,
+        "precip": 22,
+        "label": "Overcast",
+        "icon": "cloud"
       },
       "courseTitle": "Honors Symposium"
     },
@@ -5001,7 +5001,7 @@
       "url": null,
       "weather": {
         "temp": 65,
-        "precip": 21,
+        "precip": 22,
         "label": "Overcast",
         "icon": "cloud"
       },
@@ -5022,10 +5022,10 @@
       "title": "ISC 2054 Seminar",
       "url": null,
       "weather": {
-        "temp": 71,
-        "precip": 30,
-        "label": "Heavy drizzle",
-        "icon": "drizzle"
+        "temp": 65,
+        "precip": 43,
+        "label": "Showers",
+        "icon": "rain"
       },
       "courseTitle": "STEM Seminar"
     },
@@ -5044,10 +5044,10 @@
       "title": "ENC 1101 Lecture",
       "url": null,
       "weather": {
-        "temp": 72,
-        "precip": 23,
-        "label": "Overcast",
-        "icon": "cloud"
+        "temp": 69,
+        "precip": 32,
+        "label": "Drizzle",
+        "icon": "drizzle"
       },
       "courseTitle": "Writing & Composition"
     },
@@ -5066,10 +5066,10 @@
       "title": "MAC 2312 Lecture",
       "url": null,
       "weather": {
-        "temp": 74,
-        "precip": 23,
-        "label": "Light drizzle",
-        "icon": "drizzle"
+        "temp": 68,
+        "precip": 32,
+        "label": "Showers",
+        "icon": "rain"
       },
       "courseTitle": "Calculus 2"
     },
@@ -5089,9 +5089,9 @@
       "url": null,
       "weather": {
         "temp": 68,
-        "precip": 25,
-        "label": "Showers",
-        "icon": "rain"
+        "precip": 26,
+        "label": "Drizzle",
+        "icon": "drizzle"
       },
       "courseTitle": "Physics: Mechanics"
     },
@@ -5110,10 +5110,10 @@
       "title": "EGS 1006C Lecture",
       "url": null,
       "weather": {
-        "temp": 71,
-        "precip": 22,
-        "label": "Light drizzle",
-        "icon": "drizzle"
+        "temp": 68,
+        "precip": 29,
+        "label": "Heavy showers",
+        "icon": "rain"
       },
       "courseTitle": "Intro to Engineering"
     },
@@ -5132,10 +5132,10 @@
       "title": "MAC 2312 Friday Lecture",
       "url": null,
       "weather": {
-        "temp": 70,
-        "precip": 22,
-        "label": "Drizzle",
-        "icon": "drizzle"
+        "temp": 69,
+        "precip": 29,
+        "label": "Heavy showers",
+        "icon": "rain"
       },
       "courseTitle": "Calculus 2"
     },
@@ -5154,10 +5154,10 @@
       "title": "PHY 2048L Laboratory",
       "url": null,
       "weather": {
-        "temp": 70,
-        "precip": 12,
-        "label": "Light drizzle",
-        "icon": "drizzle"
+        "temp": 67,
+        "precip": 15,
+        "label": "Overcast",
+        "icon": "cloud"
       },
       "courseTitle": "Physics Lab"
     },
