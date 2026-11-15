@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T20:29:59.386677-05:00",
+  "generatedAt": "2026-11-15T11:47:50.413683-05:00",
   "term": {
     "name": "Fall 2026",
     "start": "2026-08-24",
@@ -89,30 +89,19 @@
   "weather": {
     "place": "UCF Orlando",
     "current": {
-      "temp": 53,
-      "feelsLike": 49,
+      "temp": 65,
+      "feelsLike": 64,
       "label": "Clear",
       "icon": "sun",
-      "isDay": false
+      "isDay": true
     },
     "days": [
-      {
-        "date": "2026-11-14",
-        "label": "Overcast",
-        "icon": "cloud",
-        "high": 62,
-        "low": 48,
-        "precip": 0,
-        "uv": 5,
-        "sunrise": "06:46",
-        "sunset": "17:31"
-      },
       {
         "date": "2026-11-15",
         "label": "Mostly clear",
         "icon": "sun",
-        "high": 70,
-        "low": 47,
+        "high": 69,
+        "low": 50,
         "precip": 0,
         "uv": 5,
         "sunrise": "06:47",
@@ -120,20 +109,20 @@
       },
       {
         "date": "2026-11-16",
-        "label": "Rain",
-        "icon": "rain",
-        "high": 72,
-        "low": 56,
-        "precip": 12,
-        "uv": 5,
+        "label": "Overcast",
+        "icon": "cloud",
+        "high": 70,
+        "low": 57,
+        "precip": 25,
+        "uv": 4,
         "sunrise": "06:48",
         "sunset": "17:30"
       },
       {
         "date": "2026-11-17",
-        "label": "Showers",
+        "label": "Heavy rain",
         "icon": "rain",
-        "high": 72,
+        "high": 73,
         "low": 62,
         "precip": 28,
         "uv": 4,
@@ -142,12 +131,12 @@
       },
       {
         "date": "2026-11-18",
-        "label": "Showers",
-        "icon": "rain",
-        "high": 74,
-        "low": 61,
-        "precip": 25,
-        "uv": 5,
+        "label": "Heavy drizzle",
+        "icon": "drizzle",
+        "high": 75,
+        "low": 63,
+        "precip": 30,
+        "uv": 4,
         "sunrise": "06:49",
         "sunset": "17:29"
       },
@@ -155,29 +144,40 @@
         "date": "2026-11-19",
         "label": "Showers",
         "icon": "rain",
-        "high": 74,
-        "low": 64,
-        "precip": 24,
-        "uv": 5,
+        "high": 76,
+        "low": 66,
+        "precip": 25,
+        "uv": 4,
         "sunrise": "06:50",
         "sunset": "17:29"
       },
       {
         "date": "2026-11-20",
-        "label": "Heavy drizzle",
+        "label": "Drizzle",
         "icon": "drizzle",
-        "high": 75,
-        "low": 62,
-        "precip": 19,
-        "uv": 4,
+        "high": 71,
+        "low": 68,
+        "precip": 24,
+        "uv": 1,
         "sunrise": "06:51",
         "sunset": "17:29"
+      },
+      {
+        "date": "2026-11-21",
+        "label": "Heavy showers",
+        "icon": "rain",
+        "high": 75,
+        "low": 64,
+        "precip": 15,
+        "uv": 3,
+        "sunrise": "06:52",
+        "sunset": "17:28"
       }
     ],
     "air": {
-      "aqi": 34,
+      "aqi": 28,
       "label": "Good",
-      "pm25": 7.7
+      "pm25": 5.7
     }
   },
   "severe": [],
@@ -269,8 +269,8 @@
       "opponent": "Arizona State Sun Devils",
       "home": true,
       "venue": "Acrisure Bounce House",
-      "state": "in",
-      "detail": "7:24 - 4th"
+      "state": "post",
+      "detail": "Final"
     },
     {
       "date": "2026-11-20",
@@ -292,20 +292,6 @@
     }
   ],
   "events": [
-    {
-      "id": "12947900",
-      "name": "American Neurology Conference 2026",
-      "org": "ForgetYouNot@UCF",
-      "theme": "ThoughtfulLearning",
-      "location": "Disney Springs Area",
-      "date": "2026-11-14",
-      "start": "12:00",
-      "end": "13:00",
-      "blurb": "Join ForgetYouNot at the American Neurology Conference 2026! Over the two days, we&rsquo;ll hear from experts, explore clinical cases, and connect with healthca",
-      "rsvps": 0,
-      "image": "https://se-images.campuslabs.com/clink/images/d90209b6-f671-4bc8-8532-03322b93c0007d187354-40ff-4cd9-a07e-917ae47bf738.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12947900"
-    },
     {
       "id": "12876609",
       "name": "PAN x MMS Camp Boggy Creek's Teddy Morse's Ride for Kids Volunteering",
@@ -361,20 +347,6 @@
       "rsvps": 0,
       "image": "https://se-images.campuslabs.com/clink/images/beb4d63b-7511-499d-a3f0-5bd41f8095b841b2aa3a-91c1-4ea0-8ecb-171ab8cd4cbf.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12981016"
-    },
-    {
-      "id": "12614736",
-      "name": "Sunday Worship with Wesley at UCF",
-      "org": "Wesley at UCF",
-      "theme": "Spirituality",
-      "location": "Faith UMC",
-      "date": "2026-11-15",
-      "start": "10:00",
-      "end": "11:30",
-      "blurb": "Join us for Faith UMC's Weekly church service every sunday at 10:00 am! Our director Erwin Lopez serves as the pastor, and all are welcome. If you are looking f",
-      "rsvps": 0,
-      "image": "https://se-images.campuslabs.com/clink/images/05ce9c70-ef83-4a92-8492-d16465dbddd6f719d2b3-18d8-4499-922b-f4f29e66b693.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12614736"
     },
     {
       "id": "12967144",
@@ -708,7 +680,7 @@
       "start": "18:00",
       "end": "19:30",
       "blurb": "Join Volunteer UCF as we support National Hunger and Homelessness Awareness Week with our 33rd Annual Hunger Banquet! The Hunger Banquet movement invites instit",
-      "rsvps": 55,
+      "rsvps": 56,
       "image": "https://se-images.campuslabs.com/clink/images/0b5f4ff7-d40d-4a43-a18f-3639d3894f35aaee895c-2937-48e2-be32-0a4840805c98.pdf?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12911949"
     },
@@ -767,6 +739,20 @@
       "rsvps": 0,
       "image": "https://se-images.campuslabs.com/clink/images/591fdabc-86d3-4557-a033-78b151bf9e18ee6c5ffe-68f0-48c4-b56f-6ebf04e1ae29.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12977847"
+    },
+    {
+      "id": "12981253",
+      "name": "GBM #4 with CROM",
+      "org": "Society of Environmental Engineers",
+      "theme": "ThoughtfulLearning",
+      "location": "BA1 214",
+      "date": "2026-11-16",
+      "start": "18:30",
+      "end": "19:30",
+      "blurb": "Join the Society of Environmental Engineers for our last GBM of the semester! CROM will be presenting the work they do in designing and manufacturing critical w",
+      "rsvps": 0,
+      "image": "https://se-images.campuslabs.com/clink/images/ddbb2fa6-4603-49cb-a8a7-e322ef6a99ce876962c9-da12-4956-82c4-32fcead661fe.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12981253"
     },
     {
       "id": "12977246",
@@ -890,7 +876,7 @@
       "start": "09:00",
       "end": "10:00",
       "blurb": "Join the Arboretum Public Garden Management team in our beautiful Arboretum Public Garden, maintaining the various gardens by weeding, mulching, propagating, pl",
-      "rsvps": 7,
+      "rsvps": 8,
       "image": "https://se-images.campuslabs.com/clink/images/631013d6-1732-44bf-896d-361244d237b740eecfde-3ac8-4347-b943-e75511014359.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12941141"
     },
@@ -1089,6 +1075,20 @@
       "rsvps": 10,
       "image": "https://se-images.campuslabs.com/clink/images/42d138d0-765b-4240-8c86-8772218b93788165b62c-65ec-4152-911e-1fe172aed458.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12979047"
+    },
+    {
+      "id": "12981257",
+      "name": "BSWSA GBM ",
+      "org": "Bachelors of Social Work Student Association",
+      "theme": "ThoughtfulLearning",
+      "location": "Biological Sciences Building, Room 0212",
+      "date": "2026-11-17",
+      "start": "17:00",
+      "end": "18:30",
+      "blurb": "Join BSWSA GBM! \ud83d\udcc5 November 15, 2026 \u23f0 5:00&ndash;6:30 p.m. \ud83d\udccd Biological Sciences Building, Room 0212 Come for the points. Stay for the treats, music, and fall s",
+      "rsvps": 0,
+      "image": "https://se-images.campuslabs.com/clink/images/1a9c7f90-f188-4cd0-9742-221a20e99c991cd55bd2-d5b2-4074-9337-188d2f8e7d18.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12981257"
     },
     {
       "id": "12966718",
@@ -1520,7 +1520,7 @@
       "start": "13:00",
       "end": "14:00",
       "blurb": "Join Volunteer UCF and VoteRiders, a nonpartisan nonprofit that helps voters get the ID they need to vote, for a Know Your Rights presentation on Florida&rsquo;",
-      "rsvps": 5,
+      "rsvps": 6,
       "image": "https://se-images.campuslabs.com/clink/images/8aeca260-558c-4d14-834e-73d214ef7e6a898cfc06-e37f-42cb-aa23-f6752d175a75.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12949793"
     },
@@ -4829,12 +4829,6 @@
       "changes": {},
       "title": "PHY 2048L Laboratory",
       "url": null,
-      "weather": {
-        "temp": 58,
-        "precip": 0,
-        "label": "Clear",
-        "icon": "sun"
-      },
       "courseTitle": "Physics Lab"
     },
     {
@@ -4852,8 +4846,8 @@
       "title": "EGS 1006C Laboratory",
       "url": null,
       "weather": {
-        "temp": 66,
-        "precip": 10,
+        "temp": 67,
+        "precip": 1,
         "label": "Overcast",
         "icon": "cloud"
       },
@@ -4874,10 +4868,10 @@
       "title": "ISC 2054 Seminar",
       "url": null,
       "weather": {
-        "temp": 70,
-        "precip": 12,
-        "label": "Light drizzle",
-        "icon": "drizzle"
+        "temp": 68,
+        "precip": 4,
+        "label": "Overcast",
+        "icon": "cloud"
       },
       "courseTitle": "STEM Seminar"
     },
@@ -4897,9 +4891,9 @@
       "url": null,
       "weather": {
         "temp": 62,
-        "precip": 26,
-        "label": "Overcast",
-        "icon": "cloud"
+        "precip": 23,
+        "label": "Drizzle",
+        "icon": "drizzle"
       },
       "courseTitle": "Physics: Mechanics"
     },
@@ -4919,9 +4913,9 @@
       "url": null,
       "weather": {
         "temp": 70,
-        "precip": 28,
-        "label": "Light drizzle",
-        "icon": "drizzle"
+        "precip": 19,
+        "label": "Overcast",
+        "icon": "cloud"
       },
       "courseTitle": "Writing & Composition"
     },
@@ -4940,10 +4934,10 @@
       "title": "MAC 2312 Lecture",
       "url": null,
       "weather": {
-        "temp": 72,
-        "precip": 28,
-        "label": "Light drizzle",
-        "icon": "drizzle"
+        "temp": 73,
+        "precip": 19,
+        "label": "Overcast",
+        "icon": "cloud"
       },
       "courseTitle": "Calculus 2"
     },
@@ -4962,9 +4956,9 @@
       "title": "PHY 2048 Lecture",
       "url": null,
       "weather": {
-        "temp": 71,
+        "temp": 70,
         "precip": 21,
-        "label": "Light drizzle",
+        "label": "Drizzle",
         "icon": "drizzle"
       },
       "courseTitle": "Physics: Mechanics"
@@ -4984,7 +4978,7 @@
       "title": "IDH 1920H Lecture",
       "url": null,
       "weather": {
-        "temp": 71,
+        "temp": 69,
         "precip": 21,
         "label": "Light drizzle",
         "icon": "drizzle"
@@ -5006,10 +5000,10 @@
       "title": "IDH 1920H Lecture",
       "url": null,
       "weather": {
-        "temp": 66,
+        "temp": 65,
         "precip": 21,
-        "label": "Clear",
-        "icon": "sun"
+        "label": "Overcast",
+        "icon": "cloud"
       },
       "courseTitle": "Honors Symposium"
     },
@@ -5028,10 +5022,10 @@
       "title": "ISC 2054 Seminar",
       "url": null,
       "weather": {
-        "temp": 74,
-        "precip": 24,
-        "label": "Mostly clear",
-        "icon": "sun"
+        "temp": 71,
+        "precip": 30,
+        "label": "Heavy drizzle",
+        "icon": "drizzle"
       },
       "courseTitle": "STEM Seminar"
     },
@@ -5050,10 +5044,10 @@
       "title": "ENC 1101 Lecture",
       "url": null,
       "weather": {
-        "temp": 74,
-        "precip": 24,
-        "label": "Light drizzle",
-        "icon": "drizzle"
+        "temp": 72,
+        "precip": 23,
+        "label": "Overcast",
+        "icon": "cloud"
       },
       "courseTitle": "Writing & Composition"
     },
@@ -5073,7 +5067,7 @@
       "url": null,
       "weather": {
         "temp": 74,
-        "precip": 24,
+        "precip": 23,
         "label": "Light drizzle",
         "icon": "drizzle"
       },
@@ -5094,8 +5088,8 @@
       "title": "PHY 2048 Lecture",
       "url": null,
       "weather": {
-        "temp": 70,
-        "precip": 24,
+        "temp": 68,
+        "precip": 25,
         "label": "Showers",
         "icon": "rain"
       },
@@ -5116,10 +5110,10 @@
       "title": "EGS 1006C Lecture",
       "url": null,
       "weather": {
-        "temp": 66,
-        "precip": 16,
-        "label": "Clear",
-        "icon": "sun"
+        "temp": 71,
+        "precip": 22,
+        "label": "Light drizzle",
+        "icon": "drizzle"
       },
       "courseTitle": "Intro to Engineering"
     },
@@ -5138,9 +5132,9 @@
       "title": "MAC 2312 Friday Lecture",
       "url": null,
       "weather": {
-        "temp": 74,
-        "precip": 16,
-        "label": "Light drizzle",
+        "temp": 70,
+        "precip": 22,
+        "label": "Drizzle",
         "icon": "drizzle"
       },
       "courseTitle": "Calculus 2"
@@ -5159,6 +5153,12 @@
       "changes": {},
       "title": "PHY 2048L Laboratory",
       "url": null,
+      "weather": {
+        "temp": 70,
+        "precip": 12,
+        "label": "Light drizzle",
+        "icon": "drizzle"
+      },
       "courseTitle": "Physics Lab"
     },
     {
@@ -5372,24 +5372,6 @@
   ],
   "alerts": [],
   "assignments": [
-    {
-      "course": "ENC 1101",
-      "courseTitle": "Writing & Composition",
-      "title": "MA 2 Peer Review Workshop Thread (Post Drafts and Leave Feedback Here)",
-      "dueAt": "2026-10-15T00:00:00-04:00",
-      "points": null,
-      "overdue": true,
-      "url": "https://webcourses.ucf.edu/calendar?include_contexts=course_1521509&month=10&year=2026#assignment_9701058"
-    },
-    {
-      "course": "EGS 1006C",
-      "courseTitle": "Intro to Engineering",
-      "title": "Attendance Quiz - Week 8 (10/16/26)",
-      "dueAt": "2026-10-16T09:30:00-04:00",
-      "points": null,
-      "overdue": true,
-      "url": "https://webcourses.ucf.edu/calendar?include_contexts=course_1519775&month=10&year=2026#assignment_9745387"
-    },
     {
       "course": "ENC 1101",
       "courseTitle": "Writing & Composition",
@@ -5731,6 +5713,24 @@
       "points": null,
       "overdue": true,
       "url": "https://webcourses.ucf.edu/calendar?include_contexts=course_1514288&month=11&year=2026#assignment_9597079"
+    },
+    {
+      "course": "EGS 1006C",
+      "courseTitle": "Intro to Engineering",
+      "title": "Fusion Launcher Design",
+      "dueAt": "2026-11-09T00:00:00-05:00",
+      "points": null,
+      "overdue": true,
+      "url": "https://webcourses.ucf.edu/calendar?include_contexts=course_1519779&month=11&year=2026#assignment_9759448"
+    },
+    {
+      "course": "EGS 1006C",
+      "courseTitle": "Intro to Engineering",
+      "title": "Prototype Launcher Due IN LAB",
+      "dueAt": "2026-11-09T00:00:00-05:00",
+      "points": null,
+      "overdue": true,
+      "url": "https://webcourses.ucf.edu/calendar?include_contexts=course_1519779&month=11&year=2026#assignment_9671392"
     }
   ],
   "recentChanges": []
