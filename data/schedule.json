@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T16:05:26.307527-05:00",
+  "generatedAt": "2026-11-14T20:29:59.386677-05:00",
   "term": {
     "name": "Fall 2026",
     "start": "2026-08-24",
@@ -86,7 +86,100 @@
       "url": null
     }
   ],
-  "weather": null,
+  "weather": {
+    "place": "UCF Orlando",
+    "current": {
+      "temp": 53,
+      "feelsLike": 49,
+      "label": "Clear",
+      "icon": "sun",
+      "isDay": false
+    },
+    "days": [
+      {
+        "date": "2026-11-14",
+        "label": "Overcast",
+        "icon": "cloud",
+        "high": 62,
+        "low": 48,
+        "precip": 0,
+        "uv": 5,
+        "sunrise": "06:46",
+        "sunset": "17:31"
+      },
+      {
+        "date": "2026-11-15",
+        "label": "Mostly clear",
+        "icon": "sun",
+        "high": 70,
+        "low": 47,
+        "precip": 0,
+        "uv": 5,
+        "sunrise": "06:47",
+        "sunset": "17:31"
+      },
+      {
+        "date": "2026-11-16",
+        "label": "Rain",
+        "icon": "rain",
+        "high": 72,
+        "low": 56,
+        "precip": 12,
+        "uv": 5,
+        "sunrise": "06:48",
+        "sunset": "17:30"
+      },
+      {
+        "date": "2026-11-17",
+        "label": "Showers",
+        "icon": "rain",
+        "high": 72,
+        "low": 62,
+        "precip": 28,
+        "uv": 4,
+        "sunrise": "06:49",
+        "sunset": "17:30"
+      },
+      {
+        "date": "2026-11-18",
+        "label": "Showers",
+        "icon": "rain",
+        "high": 74,
+        "low": 61,
+        "precip": 25,
+        "uv": 5,
+        "sunrise": "06:49",
+        "sunset": "17:29"
+      },
+      {
+        "date": "2026-11-19",
+        "label": "Showers",
+        "icon": "rain",
+        "high": 74,
+        "low": 64,
+        "precip": 24,
+        "uv": 5,
+        "sunrise": "06:50",
+        "sunset": "17:29"
+      },
+      {
+        "date": "2026-11-20",
+        "label": "Heavy drizzle",
+        "icon": "drizzle",
+        "high": 75,
+        "low": 62,
+        "precip": 19,
+        "uv": 4,
+        "sunrise": "06:51",
+        "sunset": "17:29"
+      }
+    ],
+    "air": {
+      "aqi": 34,
+      "label": "Good",
+      "pm25": 7.7
+    }
+  },
   "severe": [],
   "football": [
     {
@@ -176,8 +269,8 @@
       "opponent": "Arizona State Sun Devils",
       "home": true,
       "venue": "Acrisure Bounce House",
-      "state": "pre",
-      "detail": "11/14 - 5:30 PM EST"
+      "state": "in",
+      "detail": "7:24 - 4th"
     },
     {
       "date": "2026-11-20",
@@ -200,20 +293,6 @@
   ],
   "events": [
     {
-      "id": "12785726",
-      "name": "Phoenix Generation Conference",
-      "org": "Civil Discourse and Engagement",
-      "theme": "ThoughtfulLearning",
-      "location": "Rosen Centre Hotel",
-      "date": "2026-11-14",
-      "start": "08:00",
-      "end": "19:00",
-      "blurb": "\u26a0\ufe0f IMPORTANT REGISTRATION NOTICE: RSVPs on KnightConnect DO NOT count as official registration. You MUST complete your official registration externally at Confe",
-      "rsvps": 18,
-      "image": "https://se-images.campuslabs.com/clink/images/e0750766-7c3f-4ffd-a93a-f3eaa40d761a3083aee8-22ea-4e10-a147-afb7b8ce28f8.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12785726"
-    },
-    {
       "id": "12947900",
       "name": "American Neurology Conference 2026",
       "org": "ForgetYouNot@UCF",
@@ -226,34 +305,6 @@
       "rsvps": 0,
       "image": "https://se-images.campuslabs.com/clink/images/d90209b6-f671-4bc8-8532-03322b93c0007d187354-40ff-4cd9-a07e-917ae47bf738.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12947900"
-    },
-    {
-      "id": "12554052",
-      "name": "Tailgate #6 - Arizona State ft. ECB",
-      "org": "American Society of Civil Engineers at the University of Central Florida",
-      "theme": "ThoughtfulLearning",
-      "location": "Memory Mall",
-      "date": "2026-11-14",
-      "start": "15:00",
-      "end": "18:00",
-      "blurb": "Join us for a fun tailgate before the game! We&rsquo;ll have food, drinks, and games like cornhole. Feel free to bring anything extra!",
-      "rsvps": 1,
-      "image": "https://se-images.campuslabs.com/clink/images/33e0c638-3fc0-4491-a550-d0aef6e5f75be52c1614-9859-4ead-964e-493579e23ed3.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12554052"
-    },
-    {
-      "id": "12905128",
-      "name": "\ud83c\udf2fChipotle Fundraiser!",
-      "org": "Active Minds ",
-      "theme": "Fundraising",
-      "location": "Chipotle",
-      "date": "2026-11-14",
-      "start": "16:00",
-      "end": "20:00",
-      "blurb": "Chipotle Fundraiser for Active Minds UCF Chapter 25% of event sales get donated to the club. This would allow us to continue to plan new and exciting events for",
-      "rsvps": 0,
-      "image": "https://se-images.campuslabs.com/clink/images/b7968c56-bbbb-4419-8eea-b7a03fa6de34aef4f848-fa73-41f5-9d6c-ce0cb4090781.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12905128"
     },
     {
       "id": "12876609",
@@ -330,12 +381,12 @@
       "name": "Take a hike with genCLEO UCF",
       "org": "GenCLEO@UCF",
       "theme": "Social",
-      "location": "UCF Auboretum",
+      "location": "UCF Arboretum Nature Pavilion",
       "date": "2026-11-15",
       "start": "11:00",
       "end": "13:00",
       "blurb": "Need a little break from your busy week? Come explore the beauty of nature right here on campus! \ud83c\udf31\u2728 Join us for a relaxing morning at the UCF Arboretum as we di",
-      "rsvps": 4,
+      "rsvps": 3,
       "image": "https://se-images.campuslabs.com/clink/images/8ae7c4d5-54d7-4454-9ee5-4c1c96c168900e84b268-0ef2-4f37-b460-113767322a9d.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12967144"
     },
@@ -377,7 +428,7 @@
       "start": "09:30",
       "end": "10:30",
       "blurb": "Join the Arboretum Public Garden Management team in our beautiful Arboretum Public Garden on Monday Nov 16, to help out research lead Caleb in weeding his nativ",
-      "rsvps": 4,
+      "rsvps": 5,
       "image": "https://se-images.campuslabs.com/clink/images/f4b488bc-a44c-4ade-8609-4e0eee3f611f5497a964-4295-44d0-a9e3-6026a6c376ed.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12953645"
     },
@@ -536,6 +587,20 @@
       "url": "https://ucf.campuslabs.com/engage/event/12975255"
     },
     {
+      "id": "12981168",
+      "name": "Design Lab Showcase (KDI x Figma)",
+      "org": "Knights Design Interactive",
+      "theme": "Arts",
+      "location": "BA1-239",
+      "date": "2026-11-16",
+      "start": "17:00",
+      "end": "18:30",
+      "blurb": "Hello @everyone! Come celebrate the end of our Design Lab (UI/UX Case Study Program) with us! \u2728 Our teams will present the semester-long case studies they've be",
+      "rsvps": 0,
+      "image": "https://se-images.campuslabs.com/clink/images/47b59e3a-19a5-4108-9728-c21fe960140d66e2ebd6-4193-4ee4-83b5-8f3f6215b8ca.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12981168"
+    },
+    {
       "id": "12945534",
       "name": "Volunteer Event with KAPI",
       "org": "League of Women Voters of UCF",
@@ -643,7 +708,7 @@
       "start": "18:00",
       "end": "19:30",
       "blurb": "Join Volunteer UCF as we support National Hunger and Homelessness Awareness Week with our 33rd Annual Hunger Banquet! The Hunger Banquet movement invites instit",
-      "rsvps": 54,
+      "rsvps": 55,
       "image": "https://se-images.campuslabs.com/clink/images/0b5f4ff7-d40d-4a43-a18f-3639d3894f35aaee895c-2937-48e2-be32-0a4840805c98.pdf?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12911949"
     },
@@ -1038,6 +1103,20 @@
       "rsvps": 0,
       "image": "https://se-images.campuslabs.com/clink/images/6c720c0f-bb9b-40bf-a990-72128ad2af555502394e-8dff-45db-b894-e6a3661767d4.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12966718"
+    },
+    {
+      "id": "12981170",
+      "name": "GBM #3 w/ Wes Brown [UX Manager of Home Depot w/ 20+ YRS of Experience!]",
+      "org": "Knights Design Interactive",
+      "theme": "ThoughtfulLearning",
+      "location": "CB1 220",
+      "date": "2026-11-17",
+      "start": "17:00",
+      "end": "18:00",
+      "blurb": "Hello everyone ! Join us for our third GBM featuring guest speaker Wes Brown , UX Manager at The Home Depot and co-organizer of Downtown Orlando UX (DOUX)! With",
+      "rsvps": 0,
+      "image": "https://se-images.campuslabs.com/clink/images/029de88c-819b-4dd6-b25e-1bd65b29b10058b2ab80-f3f7-4f22-9eab-88069dec8bcc.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12981170"
     },
     {
       "id": "12972544",
@@ -1486,6 +1565,20 @@
       "rsvps": 0,
       "image": "https://se-images.campuslabs.com/clink/images/2358f645-2e12-4200-8ea8-b6941c8e2529d11ce209-c40b-4005-ae07-2ebf417b788f.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12978362"
+    },
+    {
+      "id": "12981169",
+      "name": "Get Your Creativity Back (ADOBE x KDI)",
+      "org": "Knights Design Interactive",
+      "theme": "Arts",
+      "location": "PSY 106",
+      "date": "2026-11-18",
+      "start": "16:00",
+      "end": "18:00",
+      "blurb": "Hey all! Come hang with KDI + Adobe for food, swag, activities, and giveaways \u2728 We'll watch Ramisha Sattar ( Chappell Roan's creative director!) give her Adobe ",
+      "rsvps": 0,
+      "image": "https://se-images.campuslabs.com/clink/images/106dbaef-de21-4636-b645-712a2cf222a7aa31a2c2-fafc-43e1-98c9-6212452af67a.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12981169"
     },
     {
       "id": "12904258",
@@ -4736,6 +4829,12 @@
       "changes": {},
       "title": "PHY 2048L Laboratory",
       "url": null,
+      "weather": {
+        "temp": 58,
+        "precip": 0,
+        "label": "Clear",
+        "icon": "sun"
+      },
       "courseTitle": "Physics Lab"
     },
     {
@@ -4752,6 +4851,12 @@
       "changes": {},
       "title": "EGS 1006C Laboratory",
       "url": null,
+      "weather": {
+        "temp": 66,
+        "precip": 10,
+        "label": "Overcast",
+        "icon": "cloud"
+      },
       "courseTitle": "Intro to Engineering"
     },
     {
@@ -4768,6 +4873,12 @@
       "changes": {},
       "title": "ISC 2054 Seminar",
       "url": null,
+      "weather": {
+        "temp": 70,
+        "precip": 12,
+        "label": "Light drizzle",
+        "icon": "drizzle"
+      },
       "courseTitle": "STEM Seminar"
     },
     {
@@ -4784,6 +4895,12 @@
       "changes": {},
       "title": "PHY 2048 Discussion",
       "url": null,
+      "weather": {
+        "temp": 62,
+        "precip": 26,
+        "label": "Overcast",
+        "icon": "cloud"
+      },
       "courseTitle": "Physics: Mechanics"
     },
     {
@@ -4800,6 +4917,12 @@
       "changes": {},
       "title": "ENC 1101 Lecture",
       "url": null,
+      "weather": {
+        "temp": 70,
+        "precip": 28,
+        "label": "Light drizzle",
+        "icon": "drizzle"
+      },
       "courseTitle": "Writing & Composition"
     },
     {
@@ -4816,6 +4939,12 @@
       "changes": {},
       "title": "MAC 2312 Lecture",
       "url": null,
+      "weather": {
+        "temp": 72,
+        "precip": 28,
+        "label": "Light drizzle",
+        "icon": "drizzle"
+      },
       "courseTitle": "Calculus 2"
     },
     {
@@ -4832,6 +4961,12 @@
       "changes": {},
       "title": "PHY 2048 Lecture",
       "url": null,
+      "weather": {
+        "temp": 71,
+        "precip": 21,
+        "label": "Light drizzle",
+        "icon": "drizzle"
+      },
       "courseTitle": "Physics: Mechanics"
     },
     {
@@ -4848,6 +4983,12 @@
       "changes": {},
       "title": "IDH 1920H Lecture",
       "url": null,
+      "weather": {
+        "temp": 71,
+        "precip": 21,
+        "label": "Light drizzle",
+        "icon": "drizzle"
+      },
       "courseTitle": "Honors Symposium"
     },
     {
@@ -4864,6 +5005,12 @@
       "changes": {},
       "title": "IDH 1920H Lecture",
       "url": null,
+      "weather": {
+        "temp": 66,
+        "precip": 21,
+        "label": "Clear",
+        "icon": "sun"
+      },
       "courseTitle": "Honors Symposium"
     },
     {
@@ -4880,6 +5027,12 @@
       "changes": {},
       "title": "ISC 2054 Seminar",
       "url": null,
+      "weather": {
+        "temp": 74,
+        "precip": 24,
+        "label": "Mostly clear",
+        "icon": "sun"
+      },
       "courseTitle": "STEM Seminar"
     },
     {
@@ -4896,6 +5049,12 @@
       "changes": {},
       "title": "ENC 1101 Lecture",
       "url": null,
+      "weather": {
+        "temp": 74,
+        "precip": 24,
+        "label": "Light drizzle",
+        "icon": "drizzle"
+      },
       "courseTitle": "Writing & Composition"
     },
     {
@@ -4912,6 +5071,12 @@
       "changes": {},
       "title": "MAC 2312 Lecture",
       "url": null,
+      "weather": {
+        "temp": 74,
+        "precip": 24,
+        "label": "Light drizzle",
+        "icon": "drizzle"
+      },
       "courseTitle": "Calculus 2"
     },
     {
@@ -4928,6 +5093,12 @@
       "changes": {},
       "title": "PHY 2048 Lecture",
       "url": null,
+      "weather": {
+        "temp": 70,
+        "precip": 24,
+        "label": "Showers",
+        "icon": "rain"
+      },
       "courseTitle": "Physics: Mechanics"
     },
     {
@@ -4944,6 +5115,12 @@
       "changes": {},
       "title": "EGS 1006C Lecture",
       "url": null,
+      "weather": {
+        "temp": 66,
+        "precip": 16,
+        "label": "Clear",
+        "icon": "sun"
+      },
       "courseTitle": "Intro to Engineering"
     },
     {
@@ -4960,6 +5137,12 @@
       "changes": {},
       "title": "MAC 2312 Friday Lecture",
       "url": null,
+      "weather": {
+        "temp": 74,
+        "precip": 16,
+        "label": "Light drizzle",
+        "icon": "drizzle"
+      },
       "courseTitle": "Calculus 2"
     },
     {
