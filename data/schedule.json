@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T16:28:01.872712-05:00",
+  "generatedAt": "2026-11-15T20:33:59.646963-05:00",
   "term": {
     "name": "Fall 2026",
     "start": "2026-08-24",
@@ -86,100 +86,7 @@
       "url": null
     }
   ],
-  "weather": {
-    "place": "UCF Orlando",
-    "current": {
-      "temp": 70,
-      "feelsLike": 67,
-      "label": "Mostly clear",
-      "icon": "sun",
-      "isDay": true
-    },
-    "days": [
-      {
-        "date": "2026-11-15",
-        "label": "Overcast",
-        "icon": "cloud",
-        "high": 72,
-        "low": 50,
-        "precip": 0,
-        "uv": 5,
-        "sunrise": "06:47",
-        "sunset": "17:31"
-      },
-      {
-        "date": "2026-11-16",
-        "label": "Heavy rain",
-        "icon": "rain",
-        "high": 68,
-        "low": 58,
-        "precip": 9,
-        "uv": 4,
-        "sunrise": "06:48",
-        "sunset": "17:30"
-      },
-      {
-        "date": "2026-11-17",
-        "label": "Light rain",
-        "icon": "rain",
-        "high": 71,
-        "low": 64,
-        "precip": 24,
-        "uv": 4,
-        "sunrise": "06:49",
-        "sunset": "17:30"
-      },
-      {
-        "date": "2026-11-18",
-        "label": "Showers",
-        "icon": "rain",
-        "high": 71,
-        "low": 62,
-        "precip": 50,
-        "uv": 4,
-        "sunrise": "06:49",
-        "sunset": "17:29"
-      },
-      {
-        "date": "2026-11-19",
-        "label": "Showers",
-        "icon": "rain",
-        "high": 69,
-        "low": 66,
-        "precip": 32,
-        "uv": 2,
-        "sunrise": "06:50",
-        "sunset": "17:29"
-      },
-      {
-        "date": "2026-11-20",
-        "label": "Heavy showers",
-        "icon": "rain",
-        "high": 70,
-        "low": 64,
-        "precip": 30,
-        "uv": 0,
-        "sunrise": "06:51",
-        "sunset": "17:29"
-      },
-      {
-        "date": "2026-11-21",
-        "label": "Overcast",
-        "icon": "cloud",
-        "high": 69,
-        "low": 61,
-        "precip": 16,
-        "uv": 2,
-        "sunrise": "06:52",
-        "sunset": "17:28"
-      }
-    ],
-    "air": {
-      "aqi": 39,
-      "label": "Good",
-      "pm25": 4.6
-    }
-  },
+  "weather": null,
   "severe": [],
   "football": [
     {
@@ -293,20 +200,6 @@
   ],
   "events": [
     {
-      "id": "12975489",
-      "name": "MAPS & LMSA+ Phlebotomy Certification Workshop",
-      "org": "Latino Medical Student Association Plus",
-      "theme": "ThoughtfulLearning",
-      "location": "Business Administration Building 1, Room 209",
-      "date": "2026-11-15",
-      "start": "09:00",
-      "end": "17:00",
-      "blurb": "PHLEBOTOMY CERTIFICATION with MAPS & LMSA+!! Join us for a one-day course where you will learn a new essential clinical skill of venipuncture and practice drawi",
-      "rsvps": 0,
-      "image": "https://se-images.campuslabs.com/clink/images/58b7b701-dd1a-4151-81d0-bc7985e9dfd7ed1863e9-9795-48de-9c76-b962b5b03af2.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12975489"
-    },
-    {
       "id": "12953645",
       "name": "Public Garden Management Volunteer Shift",
       "org": "UCF Arboretum",
@@ -316,7 +209,7 @@
       "start": "09:30",
       "end": "10:30",
       "blurb": "Join the Arboretum Public Garden Management team in our beautiful Arboretum Public Garden on Monday Nov 16, to help out research lead Caleb in weeding his nativ",
-      "rsvps": 5,
+      "rsvps": 6,
       "image": "https://se-images.campuslabs.com/clink/images/f4b488bc-a44c-4ade-8609-4e0eee3f611f5497a964-4295-44d0-a9e3-6026a6c376ed.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12953645"
     },
@@ -596,7 +489,7 @@
       "start": "18:00",
       "end": "19:30",
       "blurb": "Join Volunteer UCF as we support National Hunger and Homelessness Awareness Week with our 33rd Annual Hunger Banquet! The Hunger Banquet movement invites instit",
-      "rsvps": 56,
+      "rsvps": 57,
       "image": "https://se-images.campuslabs.com/clink/images/0b5f4ff7-d40d-4a43-a18f-3639d3894f35aaee895c-2937-48e2-be32-0a4840805c98.pdf?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12911949"
     },
@@ -792,7 +685,7 @@
       "start": "09:00",
       "end": "10:00",
       "blurb": "Join the Arboretum Public Garden Management team in our beautiful Arboretum Public Garden, maintaining the various gardens by weeding, mulching, propagating, pl",
-      "rsvps": 8,
+      "rsvps": 9,
       "image": "https://se-images.campuslabs.com/clink/images/631013d6-1732-44bf-896d-361244d237b740eecfde-3ac8-4347-b943-e75511014359.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12941141"
     },
@@ -974,7 +867,7 @@
       "start": "16:30",
       "end": "18:00",
       "blurb": "\ud83c\udf89 Join us for the final GBM of Fall 2025! \ud83c\udf89 \ud83c\udf81 Learn to wrap gifts using furoshiki cloths! \ud83c\udf8a Prizes from the Fall 2025 prize pool will be awarded to dues-paying ",
-      "rsvps": 0,
+      "rsvps": 1,
       "image": "https://se-images.campuslabs.com/clink/images/3d09c7e3-0332-498e-9b5e-49666f1fa7cef6679c23-a131-47bc-aa94-d45a93aeaeee.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12978465"
     },
@@ -1310,7 +1203,7 @@
       "start": "09:00",
       "end": "10:30",
       "blurb": "Join the Natural Resources team in an invasive plant removal shift! We will meet at the Smoothie King across from the College of Sciences building before headin",
-      "rsvps": 3,
+      "rsvps": 4,
       "image": "https://se-images.campuslabs.com/clink/images/e9b4ffa4-6c24-4aa6-9e76-4d6252b54402281ec5ce-1c5b-4b2f-830a-761020f89169.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12946871"
     },
@@ -1971,6 +1864,20 @@
       "rsvps": 7,
       "image": "https://se-images.campuslabs.com/clink/images/b13c9c83-e448-49c2-adbb-38057b2e820314d14d3a-3cbd-4ffc-814c-937df6190da2.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12595232"
+    },
+    {
+      "id": "12907937",
+      "name": "ACHE at UCF Elections & End-of-Semester Party \ud83c\udf89",
+      "org": "American College of Healthcare Executives at UCF",
+      "theme": "Social",
+      "location": "UCF Downtown - DPAC 403",
+      "date": "2026-11-19",
+      "start": "17:00",
+      "end": "18:00",
+      "blurb": "\ud83d\uddf3\ufe0f Your Vote, Your Voice! | ACHE at UCF Elections & End-of-Semester Party \ud83c\udf89| As the semester comes to a close, it&rsquo;s time to elect our next executive board",
+      "rsvps": 0,
+      "image": "https://se-images.campuslabs.com/clink/images/0c3fa3d7-94d6-47c2-8c92-a5f242051b7d881443d4-a652-4bb8-b92e-dabee54bf9d5.pdf?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12907937"
     }
   ],
   "keyDates": [
@@ -4845,12 +4752,6 @@
       "changes": {},
       "title": "EGS 1006C Laboratory",
       "url": null,
-      "weather": {
-        "temp": 64,
-        "precip": 7,
-        "label": "Overcast",
-        "icon": "cloud"
-      },
       "courseTitle": "Intro to Engineering"
     },
     {
@@ -4867,12 +4768,6 @@
       "changes": {},
       "title": "ISC 2054 Seminar",
       "url": null,
-      "weather": {
-        "temp": 68,
-        "precip": 7,
-        "label": "Overcast",
-        "icon": "cloud"
-      },
       "courseTitle": "STEM Seminar"
     },
     {
@@ -4889,12 +4784,6 @@
       "changes": {},
       "title": "PHY 2048 Discussion",
       "url": null,
-      "weather": {
-        "temp": 64,
-        "precip": 24,
-        "label": "Overcast",
-        "icon": "cloud"
-      },
       "courseTitle": "Physics: Mechanics"
     },
     {
@@ -4911,12 +4800,6 @@
       "changes": {},
       "title": "ENC 1101 Lecture",
       "url": null,
-      "weather": {
-        "temp": 71,
-        "precip": 23,
-        "label": "Overcast",
-        "icon": "cloud"
-      },
       "courseTitle": "Writing & Composition"
     },
     {
@@ -4933,12 +4816,6 @@
       "changes": {},
       "title": "MAC 2312 Lecture",
       "url": null,
-      "weather": {
-        "temp": 68,
-        "precip": 23,
-        "label": "Light rain",
-        "icon": "rain"
-      },
       "courseTitle": "Calculus 2"
     },
     {
@@ -4955,12 +4832,6 @@
       "changes": {},
       "title": "PHY 2048 Lecture",
       "url": null,
-      "weather": {
-        "temp": 66,
-        "precip": 22,
-        "label": "Overcast",
-        "icon": "cloud"
-      },
       "courseTitle": "Physics: Mechanics"
     },
     {
@@ -4977,12 +4848,6 @@
       "changes": {},
       "title": "IDH 1920H Lecture",
       "url": null,
-      "weather": {
-        "temp": 66,
-        "precip": 22,
-        "label": "Overcast",
-        "icon": "cloud"
-      },
       "courseTitle": "Honors Symposium"
     },
     {
@@ -4999,12 +4864,6 @@
       "changes": {},
       "title": "IDH 1920H Lecture",
       "url": null,
-      "weather": {
-        "temp": 65,
-        "precip": 22,
-        "label": "Overcast",
-        "icon": "cloud"
-      },
       "courseTitle": "Honors Symposium"
     },
     {
@@ -5021,12 +4880,6 @@
       "changes": {},
       "title": "ISC 2054 Seminar",
       "url": null,
-      "weather": {
-        "temp": 65,
-        "precip": 43,
-        "label": "Showers",
-        "icon": "rain"
-      },
       "courseTitle": "STEM Seminar"
     },
     {
@@ -5043,12 +4896,6 @@
       "changes": {},
       "title": "ENC 1101 Lecture",
       "url": null,
-      "weather": {
-        "temp": 69,
-        "precip": 32,
-        "label": "Drizzle",
-        "icon": "drizzle"
-      },
       "courseTitle": "Writing & Composition"
     },
     {
@@ -5065,12 +4912,6 @@
       "changes": {},
       "title": "MAC 2312 Lecture",
       "url": null,
-      "weather": {
-        "temp": 68,
-        "precip": 32,
-        "label": "Showers",
-        "icon": "rain"
-      },
       "courseTitle": "Calculus 2"
     },
     {
@@ -5087,12 +4928,6 @@
       "changes": {},
       "title": "PHY 2048 Lecture",
       "url": null,
-      "weather": {
-        "temp": 68,
-        "precip": 26,
-        "label": "Drizzle",
-        "icon": "drizzle"
-      },
       "courseTitle": "Physics: Mechanics"
     },
     {
@@ -5109,12 +4944,6 @@
       "changes": {},
       "title": "EGS 1006C Lecture",
       "url": null,
-      "weather": {
-        "temp": 68,
-        "precip": 29,
-        "label": "Heavy showers",
-        "icon": "rain"
-      },
       "courseTitle": "Intro to Engineering"
     },
     {
@@ -5131,12 +4960,6 @@
       "changes": {},
       "title": "MAC 2312 Friday Lecture",
       "url": null,
-      "weather": {
-        "temp": 69,
-        "precip": 29,
-        "label": "Heavy showers",
-        "icon": "rain"
-      },
       "courseTitle": "Calculus 2"
     },
     {
@@ -5153,12 +4976,6 @@
       "changes": {},
       "title": "PHY 2048L Laboratory",
       "url": null,
-      "weather": {
-        "temp": 67,
-        "precip": 15,
-        "label": "Overcast",
-        "icon": "cloud"
-      },
       "courseTitle": "Physics Lab"
     },
     {
