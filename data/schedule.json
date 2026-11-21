@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T13:17:52.543412-05:00",
+  "generatedAt": "2026-11-20T19:36:02.391662-05:00",
   "term": {
     "name": "Fall 2026",
     "start": "2026-08-24",
@@ -89,19 +89,19 @@
   "weather": {
     "place": "UCF Orlando",
     "current": {
-      "temp": 72,
-      "feelsLike": 78,
-      "label": "Overcast",
-      "icon": "cloud",
-      "isDay": true
+      "temp": 71,
+      "feelsLike": 77,
+      "label": "Light drizzle",
+      "icon": "drizzle",
+      "isDay": false
     },
     "days": [
       {
         "date": "2026-11-20",
         "label": "Heavy rain",
         "icon": "rain",
-        "high": 74,
-        "low": 69,
+        "high": 75,
+        "low": 70,
         "precip": 75,
         "uv": 4,
         "sunrise": "06:51",
@@ -109,22 +109,22 @@
       },
       {
         "date": "2026-11-21",
-        "label": "Overcast",
-        "icon": "cloud",
-        "high": 74,
+        "label": "Heavy showers",
+        "icon": "rain",
+        "high": 76,
         "low": 67,
-        "precip": 27,
+        "precip": 37,
         "uv": 5,
         "sunrise": "06:52",
         "sunset": "17:28"
       },
       {
         "date": "2026-11-22",
-        "label": "Fog",
-        "icon": "fog",
-        "high": 78,
+        "label": "Light rain",
+        "icon": "rain",
+        "high": 80,
         "low": 64,
-        "precip": 31,
+        "precip": 10,
         "uv": 5,
         "sunrise": "06:52",
         "sunset": "17:28"
@@ -134,20 +134,20 @@
         "label": "Overcast",
         "icon": "cloud",
         "high": 74,
-        "low": 60,
-        "precip": 2,
+        "low": 61,
+        "precip": 4,
         "uv": 4,
         "sunrise": "06:53",
         "sunset": "17:28"
       },
       {
         "date": "2026-11-24",
-        "label": "Overcast",
-        "icon": "cloud",
-        "high": 75,
-        "low": 63,
+        "label": "Drizzle",
+        "icon": "drizzle",
+        "high": 72,
+        "low": 64,
         "precip": 16,
-        "uv": 4,
+        "uv": 2,
         "sunrise": "06:54",
         "sunset": "17:28"
       },
@@ -155,9 +155,9 @@
         "date": "2026-11-25",
         "label": "Overcast",
         "icon": "cloud",
-        "high": 75,
-        "low": 63,
-        "precip": 15,
+        "high": 71,
+        "low": 58,
+        "precip": 23,
         "uv": 4,
         "sunrise": "06:55",
         "sunset": "17:28"
@@ -166,18 +166,18 @@
         "date": "2026-11-26",
         "label": "Light drizzle",
         "icon": "drizzle",
-        "high": 77,
-        "low": 62,
-        "precip": 6,
+        "high": 73,
+        "low": 55,
+        "precip": 12,
         "uv": 4,
         "sunrise": "06:56",
         "sunset": "17:27"
       }
     ],
     "air": {
-      "aqi": 29,
+      "aqi": 32,
       "label": "Good",
-      "pm25": 2.1
+      "pm25": 3.7
     }
   },
   "severe": [],
@@ -278,8 +278,8 @@
       "opponent": "Iowa State Cyclones",
       "home": true,
       "venue": "Acrisure Bounce House",
-      "state": "pre",
-      "detail": "11/20 - 6:00 PM EST"
+      "state": "in",
+      "detail": "0:28 - 2nd"
     },
     {
       "date": "2026-11-28",
@@ -293,18 +293,18 @@
   ],
   "events": [
     {
-      "id": "12979253",
-      "name": "Blanketmaking with Volunteer UCF!",
-      "org": "Volunteer UCF",
-      "theme": "CommunityService",
-      "location": "Pensacola Boardroom",
+      "id": "12994964",
+      "name": "Friendsgiving Board Game Night + Canned Food Drive",
+      "org": "Biomedical Sciences Graduate Student Association",
+      "theme": "Social",
+      "location": "BBS Lake Nona, Room 103",
       "date": "2026-11-20",
-      "start": "11:30",
-      "end": "13:30",
-      "blurb": "Make blankets for children who are seriously ill, traumatized, or otherwise in need! Volunteers will fringe the edges of blankets, then tie them like a balloon ",
-      "rsvps": 15,
-      "image": "https://se-images.campuslabs.com/clink/images/6cc9bcc4-203a-43e8-a169-11ed5660521f55713017-87b0-42b3-813b-31cbddd8efa5.pdf?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12979253"
+      "start": "12:00",
+      "end": "17:00",
+      "blurb": "Students of BSGSA, Friendsgiving Board Game Night + Canned Food Drive I hope the semester is going well for everyone! With the holidays approaching, BSGSA would",
+      "rsvps": 3,
+      "image": "https://se-images.campuslabs.com/clink/images/75bbbc46-ef92-4c57-8aba-6e01699702de088981f0-1ca3-4a28-a8f4-ca67b6f7aac1.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12994964"
     },
     {
       "id": "12831685",
@@ -319,48 +319,6 @@
       "rsvps": 0,
       "image": "https://se-images.campuslabs.com/clink/images/aa8e9e6f-c077-4e8c-8edc-20cd5e52f1daa9889695-88b3-408c-bad3-59831bb36880.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12831685"
-    },
-    {
-      "id": "12987970",
-      "name": "$5 Friday- A small amount for a bigger cause.",
-      "org": "Relay for Life at UCF",
-      "theme": "Fundraising",
-      "location": "UCF Memory Mall",
-      "date": "2026-11-20",
-      "start": "13:30",
-      "end": "14:30",
-      "blurb": "This Friday we ask that you help the fight against cancer by donating a small amount of $5! We will be in Memory Mall from 1:30pm-2:30pm, so stop by and learn a",
-      "rsvps": 3,
-      "image": "https://se-images.campuslabs.com/clink/images/1e0ec334-d835-4c1d-9b47-123a92366a9658666cd6-9d87-4ab8-aaba-40a15dcd86cb.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12987970"
-    },
-    {
-      "id": "12994077",
-      "name": "Executive Committee Meeting",
-      "org": "Student Government Executive Branch",
-      "theme": "GroupBusiness",
-      "location": "Online",
-      "date": "2026-11-20",
-      "start": "13:45",
-      "end": "14:45",
-      "blurb": "A meeting for the heads of each student government branch to come together, deliberate on what they have been doing and collaborate on future plans.",
-      "rsvps": 0,
-      "image": null,
-      "url": "https://ucf.campuslabs.com/engage/event/12994077"
-    },
-    {
-      "id": "12945961",
-      "name": "Scoops & Smiles",
-      "org": "Lake Claire Apartments ",
-      "theme": "Social",
-      "location": "Lake Claire Community Center",
-      "date": "2026-11-20",
-      "start": "17:00",
-      "end": "19:00",
-      "blurb": "Come join some of your Lake Claire RAs for an evening of friendship, ice cream, and relaxation before the Thanksgiving season!",
-      "rsvps": 6,
-      "image": "https://se-images.campuslabs.com/clink/images/275d4858-e930-4fcf-812a-e8948c483beefe8bb1d9-f1e8-4f99-83c4-3a8d44f8d38e.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12945961"
     },
     {
       "id": "12982298",
@@ -391,20 +349,6 @@
       "url": "https://ucf.campuslabs.com/engage/event/12874569"
     },
     {
-      "id": "12993914",
-      "name": "CASA-Giving Potluck",
-      "org": "Chinese American Student Association",
-      "theme": "Cultural",
-      "location": "TBA",
-      "date": "2026-11-20",
-      "start": "17:30",
-      "end": "19:00",
-      "blurb": "\ud83e\udd83\ud83c\udf41 Get ready for CASA-giving! \ud83c\udf41\ud83e\udd83 It&rsquo;s time to gather around the table for a night of food, fun, and festivities! \ud83e\udde1 Join us for CASA&rsquo;s Thanksgiving P",
-      "rsvps": 0,
-      "image": "https://se-images.campuslabs.com/clink/images/8bbb5c87-d8b2-46ac-b2b0-ee63049f0c04cc9b8efe-773f-4564-a0df-0e8bce3c1b8b.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12993914"
-    },
-    {
       "id": "12990325",
       "name": "UCF Football vs Iowa State",
       "org": "UCF Athletics",
@@ -414,37 +358,9 @@
       "start": "18:00",
       "end": "21:00",
       "blurb": "Come out to the final home football game of the year and support the Knights on Senior Knight!",
-      "rsvps": 0,
+      "rsvps": 2,
       "image": "https://se-images.campuslabs.com/clink/images/8473c2c4-9564-435c-83f6-733deaf4fd06c905ca15-c4dc-47f7-9e25-69b8453514d0.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12990325"
-    },
-    {
-      "id": "12974367",
-      "name": "Urban Knights - East End Market Social",
-      "org": "Urban Knights Planning Association",
-      "theme": "Social",
-      "location": "East End Market",
-      "date": "2026-11-20",
-      "start": "18:30",
-      "end": "19:30",
-      "blurb": "Join us for an evening at East End Market on November 20th at 6:30 PM! Celebrate the near-end of the semester with us as we explore local vendors, connect with ",
-      "rsvps": 4,
-      "image": "https://se-images.campuslabs.com/clink/images/70655b80-09be-4b91-a2e8-dc1c5a4957c8b5941ded-f67d-42bc-9bf9-e9a6191350ca.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12974367"
-    },
-    {
-      "id": "12993969",
-      "name": "Peer Support Group",
-      "org": "NAMI on Campus at UCF",
-      "theme": "Social",
-      "location": "Online",
-      "date": "2026-11-20",
-      "start": "18:30",
-      "end": "20:00",
-      "blurb": "Our peer support groups provide a welcoming, safe, and supportive environment where students can connect, share experiences, and receive support from fellow UCF",
-      "rsvps": 0,
-      "image": "https://se-images.campuslabs.com/clink/images/cd672a85-4711-4155-bbc0-46a62b890298e51367b3-dcba-4e33-ac44-089c809fba69.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12993969"
     },
     {
       "id": "12981479",
@@ -470,7 +386,7 @@
       "start": "09:00",
       "end": "15:00",
       "blurb": "Volunteers will assist with setting up a pet adoption event. During the event, volunteers will help with general event activities, assist with raffles, and supp",
-      "rsvps": 19,
+      "rsvps": 20,
       "image": "https://se-images.campuslabs.com/clink/images/9ec55c59-1448-4671-8da0-60138736b74466f726a6-d1cf-449d-8208-d06f42a12861.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12952636"
     },
@@ -750,7 +666,7 @@
       "start": "11:00",
       "end": "14:00",
       "blurb": "Here for Thanksgiving. Enjoy a free meal with your fellow Knights. The Thanksgiving meal will be on Thursday, November 26 from 11am-2pm at 63 South. It is open ",
-      "rsvps": 360,
+      "rsvps": 378,
       "image": "https://se-images.campuslabs.com/clink/images/8f49bf2c-4516-4d47-a5be-7ad342414e731a3f6194-f431-4c0f-8fc3-78022bda15b4.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12970386"
     },
@@ -4472,7 +4388,7 @@
       "title": "MAC 2312 Friday Lecture",
       "url": null,
       "weather": {
-        "temp": 71,
+        "temp": 72,
         "precip": 24,
         "label": "Light drizzle",
         "icon": "drizzle"
@@ -4495,7 +4411,7 @@
       "url": null,
       "weather": {
         "temp": 73,
-        "precip": 7,
+        "precip": 3,
         "label": "Overcast",
         "icon": "cloud"
       },
