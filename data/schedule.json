@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T19:36:02.391662-05:00",
+  "generatedAt": "2026-11-21T12:05:36.809858-05:00",
   "term": {
     "name": "Fall 2026",
     "start": "2026-08-24",
@@ -89,31 +89,20 @@
   "weather": {
     "place": "UCF Orlando",
     "current": {
-      "temp": 71,
-      "feelsLike": 77,
-      "label": "Light drizzle",
-      "icon": "drizzle",
-      "isDay": false
+      "temp": 76,
+      "feelsLike": 80,
+      "label": "Overcast",
+      "icon": "cloud",
+      "isDay": true
     },
     "days": [
       {
-        "date": "2026-11-20",
-        "label": "Heavy rain",
-        "icon": "rain",
-        "high": 75,
-        "low": 70,
-        "precip": 75,
-        "uv": 4,
-        "sunrise": "06:51",
-        "sunset": "17:29"
-      },
-      {
         "date": "2026-11-21",
-        "label": "Heavy showers",
+        "label": "Showers",
         "icon": "rain",
         "high": 76,
-        "low": 67,
-        "precip": 37,
+        "low": 70,
+        "precip": 61,
         "uv": 5,
         "sunrise": "06:52",
         "sunset": "17:28"
@@ -122,9 +111,9 @@
         "date": "2026-11-22",
         "label": "Light rain",
         "icon": "rain",
-        "high": 80,
-        "low": 64,
-        "precip": 10,
+        "high": 72,
+        "low": 63,
+        "precip": 16,
         "uv": 5,
         "sunrise": "06:52",
         "sunset": "17:28"
@@ -142,42 +131,53 @@
       },
       {
         "date": "2026-11-24",
-        "label": "Drizzle",
-        "icon": "drizzle",
-        "high": 72,
-        "low": 64,
-        "precip": 16,
-        "uv": 2,
+        "label": "Showers",
+        "icon": "rain",
+        "high": 77,
+        "low": 63,
+        "precip": 11,
+        "uv": 4,
         "sunrise": "06:54",
         "sunset": "17:28"
       },
       {
         "date": "2026-11-25",
-        "label": "Overcast",
-        "icon": "cloud",
-        "high": 71,
-        "low": 58,
-        "precip": 23,
-        "uv": 4,
+        "label": "Showers",
+        "icon": "rain",
+        "high": 70,
+        "low": 63,
+        "precip": 32,
+        "uv": 3,
         "sunrise": "06:55",
         "sunset": "17:28"
       },
       {
         "date": "2026-11-26",
-        "label": "Light drizzle",
+        "label": "Drizzle",
         "icon": "drizzle",
-        "high": 73,
-        "low": 55,
-        "precip": 12,
+        "high": 76,
+        "low": 62,
+        "precip": 7,
+        "uv": 4,
+        "sunrise": "06:56",
+        "sunset": "17:27"
+      },
+      {
+        "date": "2026-11-27",
+        "label": "Overcast",
+        "icon": "cloud",
+        "high": 68,
+        "low": 58,
+        "precip": 21,
         "uv": 4,
         "sunrise": "06:56",
         "sunset": "17:27"
       }
     ],
     "air": {
-      "aqi": 32,
+      "aqi": 25,
       "label": "Good",
-      "pm25": 3.7
+      "pm25": 2.3
     }
   },
   "severe": [],
@@ -278,8 +278,8 @@
       "opponent": "Iowa State Cyclones",
       "home": true,
       "venue": "Acrisure Bounce House",
-      "state": "in",
-      "detail": "0:28 - 2nd"
+      "state": "post",
+      "detail": "Final"
     },
     {
       "date": "2026-11-28",
@@ -292,118 +292,6 @@
     }
   ],
   "events": [
-    {
-      "id": "12994964",
-      "name": "Friendsgiving Board Game Night + Canned Food Drive",
-      "org": "Biomedical Sciences Graduate Student Association",
-      "theme": "Social",
-      "location": "BBS Lake Nona, Room 103",
-      "date": "2026-11-20",
-      "start": "12:00",
-      "end": "17:00",
-      "blurb": "Students of BSGSA, Friendsgiving Board Game Night + Canned Food Drive I hope the semester is going well for everyone! With the holidays approaching, BSGSA would",
-      "rsvps": 3,
-      "image": "https://se-images.campuslabs.com/clink/images/75bbbc46-ef92-4c57-8aba-6e01699702de088981f0-1ca3-4a28-a8f4-ca67b6f7aac1.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12994964"
-    },
-    {
-      "id": "12831685",
-      "name": "Camp Boggy Creek - Cancer Weekend",
-      "org": "Lighthouse Haven",
-      "theme": "CommunityService",
-      "location": "Camp Boggy Creek",
-      "date": "2026-11-20",
-      "start": "12:30",
-      "end": "12:00",
-      "blurb": "From Friday, November 20th 6pm-Sunday, November 22nd 12pm , you will have an opportunity to go away on a camp at Camp Boggy Creek to help create a memorable wee",
-      "rsvps": 0,
-      "image": "https://se-images.campuslabs.com/clink/images/aa8e9e6f-c077-4e8c-8edc-20cd5e52f1daa9889695-88b3-408c-bad3-59831bb36880.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12831685"
-    },
-    {
-      "id": "12982298",
-      "name": "Central Florida Zoo x Asian lantern festival",
-      "org": "Volunteer UCF",
-      "theme": "CommunityService",
-      "location": "Central Florida Zoo",
-      "date": "2026-11-20",
-      "start": "17:00",
-      "end": "22:30",
-      "blurb": "Join VUCF and the Central Florida Zoo for a dazzling, ocean-themed lantern festival! Help greet, direct, and engage with visitors, listen to live music, and wit",
-      "rsvps": 9,
-      "image": "https://se-images.campuslabs.com/clink/images/1742ed7e-f7ac-4d0a-87f1-22977365602b57ca69a2-534c-439b-a082-a19ef6d216dd.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12982298"
-    },
-    {
-      "id": "12874569",
-      "name": "Fall Retreat",
-      "org": "Baptist Collegiate Ministries",
-      "theme": "Social",
-      "location": "Camp Horizon",
-      "date": "2026-11-20",
-      "start": "17:00",
-      "end": "15:00",
-      "blurb": "FALL RETREAT IS COMING UP!! \ud83e\udd29\ud83c\udf42 Get ready for a weekend full of biblical discussions, games, food, and time together at Camp Horizon!! We can't wait to spend the",
-      "rsvps": 0,
-      "image": "https://se-images.campuslabs.com/clink/images/84ba6ff7-8c2c-4b3f-9528-84a6ae5dcd25231c5fb2-c5e0-4e3e-9854-152221f98255.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12874569"
-    },
-    {
-      "id": "12990325",
-      "name": "UCF Football vs Iowa State",
-      "org": "UCF Athletics",
-      "theme": "Athletics",
-      "location": "Acrisure Bounce House",
-      "date": "2026-11-20",
-      "start": "18:00",
-      "end": "21:00",
-      "blurb": "Come out to the final home football game of the year and support the Knights on Senior Knight!",
-      "rsvps": 2,
-      "image": "https://se-images.campuslabs.com/clink/images/8473c2c4-9564-435c-83f6-733deaf4fd06c905ca15-c4dc-47f7-9e25-69b8453514d0.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12990325"
-    },
-    {
-      "id": "12981479",
-      "name": "Flora Identification Walk",
-      "org": "Volunteer UCF",
-      "theme": "ThoughtfulLearning",
-      "location": "GreenEyes Wildlife Preserve",
-      "date": "2026-11-21",
-      "start": "09:00",
-      "end": "12:00",
-      "blurb": "This event will be a short 0.9 mile hike where we will be taught about the native Flora and how to identify them! This is an educational event for identifying l",
-      "rsvps": 2,
-      "image": "https://se-images.campuslabs.com/clink/images/d7764c6d-01df-4614-8936-4634e0ee1bb72c49af72-3691-475f-bbb6-2316493f1088.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12981479"
-    },
-    {
-      "id": "12952636",
-      "name": "Save a Life",
-      "org": "Volunteer UCF",
-      "theme": "CommunityService",
-      "location": "1700 Oviedo Mall West and North Concourse",
-      "date": "2026-11-21",
-      "start": "09:00",
-      "end": "15:00",
-      "blurb": "Volunteers will assist with setting up a pet adoption event. During the event, volunteers will help with general event activities, assist with raffles, and supp",
-      "rsvps": 20,
-      "image": "https://se-images.campuslabs.com/clink/images/9ec55c59-1448-4671-8da0-60138736b74466f726a6-d1cf-449d-8208-d06f42a12861.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12952636"
-    },
-    {
-      "id": "12966869",
-      "name": "The Sharing Center Food Distribution Drive",
-      "org": "Habitat for Humanity @ UCF",
-      "theme": "CommunityService",
-      "location": "Location sent out via Discord!",
-      "date": "2026-11-21",
-      "start": "10:00",
-      "end": "12:00",
-      "blurb": "Join Habitat for Humanity @ UCF to help distribute and organize food at The Sharing Center! We will be sorting and distributing items into bags for families. Mo",
-      "rsvps": 0,
-      "image": "https://se-images.campuslabs.com/clink/images/e621eac4-bbf6-4c53-a29c-628396bda039acc03e65-8c45-467c-b158-9ae5244121e0.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12966869"
-    },
     {
       "id": "12614737",
       "name": "Sunday Worship with Wesley at UCF",
@@ -666,7 +554,7 @@
       "start": "11:00",
       "end": "14:00",
       "blurb": "Here for Thanksgiving. Enjoy a free meal with your fellow Knights. The Thanksgiving meal will be on Thursday, November 26 from 11am-2pm at 63 South. It is open ",
-      "rsvps": 378,
+      "rsvps": 385,
       "image": "https://se-images.campuslabs.com/clink/images/8f49bf2c-4516-4d47-a5be-7ad342414e731a3f6194-f431-4c0f-8fc3-78022bda15b4.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12970386"
     },
@@ -711,6 +599,20 @@
       "rsvps": 0,
       "image": "https://se-images.campuslabs.com/clink/images/bb6ca7b6-db91-45d1-aa53-54068452cc107e3e357d-4360-4ba2-99c0-045bede45298.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12981481"
+    },
+    {
+      "id": "12995879",
+      "name": "Adopt-A-Road",
+      "org": "Volunteer UCF",
+      "theme": "CommunityService",
+      "location": "500 Geneva Drive ",
+      "date": "2026-11-30",
+      "start": "08:00",
+      "end": "10:00",
+      "blurb": "Volunteers will help pick up trash from the side of the road to help keep Oviedo clean!",
+      "rsvps": 1,
+      "image": "https://se-images.campuslabs.com/clink/images/6666ab7d-3adf-433e-bc11-ca11f9f2853406e4b3f5-d229-4ab2-bfed-63289ffe6f67.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12995879"
     },
     {
       "id": "12946893",
@@ -1198,7 +1100,7 @@
       "start": "08:00",
       "end": "10:00",
       "blurb": "Volunteers will pick up trash along the hiking path at Jay Blanchard Park to keep it a nice location for local recreational activities!",
-      "rsvps": 1,
+      "rsvps": 2,
       "image": "https://se-images.campuslabs.com/clink/images/7c7e69fe-8d73-4123-901a-56d6f7b76da489e186b9-592e-4415-af18-3ea31a70201e.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12990697"
     },
@@ -4365,12 +4267,6 @@
       "changes": {},
       "title": "EGS 1006C Lecture",
       "url": null,
-      "weather": {
-        "temp": 72,
-        "precip": 64,
-        "label": "Overcast",
-        "icon": "cloud"
-      },
       "courseTitle": "Intro to Engineering"
     },
     {
@@ -4387,12 +4283,6 @@
       "changes": {},
       "title": "MAC 2312 Friday Lecture",
       "url": null,
-      "weather": {
-        "temp": 72,
-        "precip": 24,
-        "label": "Light drizzle",
-        "icon": "drizzle"
-      },
       "courseTitle": "Calculus 2"
     },
     {
@@ -4410,10 +4300,10 @@
       "title": "PHY 2048L Laboratory",
       "url": null,
       "weather": {
-        "temp": 73,
-        "precip": 3,
-        "label": "Overcast",
-        "icon": "cloud"
+        "temp": 76,
+        "precip": 17,
+        "label": "Clear",
+        "icon": "sun"
       },
       "courseTitle": "Physics Lab"
     },
@@ -4628,24 +4518,6 @@
   ],
   "alerts": [],
   "assignments": [
-    {
-      "course": "MAC 2312",
-      "courseTitle": "Calculus 2",
-      "title": "Review for Exam 2",
-      "dueAt": "2026-10-21T00:00:00-04:00",
-      "points": null,
-      "overdue": true,
-      "url": "https://webcourses.ucf.edu/calendar?include_contexts=course_1522946&month=10&year=2026#assignment_9672800"
-    },
-    {
-      "course": "MAC 2312",
-      "courseTitle": "Calculus 2",
-      "title": "Exam 2 Review Topics Survey",
-      "dueAt": "2026-10-21T00:00:00-04:00",
-      "points": null,
-      "overdue": true,
-      "url": "https://webcourses.ucf.edu/calendar?include_contexts=course_1522946&month=10&year=2026#assignment_9743096"
-    },
     {
       "course": "ENC 1101",
       "courseTitle": "Writing & Composition",
@@ -4987,6 +4859,24 @@
       "points": null,
       "overdue": true,
       "url": "https://webcourses.ucf.edu/calendar?include_contexts=course_1514288&month=11&year=2026#assignment_9597085"
+    },
+    {
+      "course": "IDH 1920H",
+      "courseTitle": "Honors Symposium",
+      "title": "Week 13: Final Reflective Essay",
+      "dueAt": "2026-11-15T17:01:00-05:00",
+      "points": null,
+      "overdue": true,
+      "url": "https://webcourses.ucf.edu/calendar?include_contexts=course_1514288&month=11&year=2026#assignment_9597089"
+    },
+    {
+      "course": "EGS 1006C",
+      "courseTitle": "Intro to Engineering",
+      "title": "Lab 12 Entry Attendance",
+      "dueAt": "2026-11-16T09:10:00-05:00",
+      "points": null,
+      "overdue": true,
+      "url": "https://webcourses.ucf.edu/calendar?include_contexts=course_1519779&month=11&year=2026#assignment_9709013"
     }
   ],
   "recentChanges": []
