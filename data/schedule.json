@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T12:05:36.809858-05:00",
+  "generatedAt": "2026-11-21T17:46:06.505016-05:00",
   "term": {
     "name": "Fall 2026",
     "start": "2026-08-24",
@@ -89,31 +89,31 @@
   "weather": {
     "place": "UCF Orlando",
     "current": {
-      "temp": 76,
-      "feelsLike": 80,
-      "label": "Overcast",
-      "icon": "cloud",
-      "isDay": true
+      "temp": 73,
+      "feelsLike": 79,
+      "label": "Showers",
+      "icon": "rain",
+      "isDay": false
     },
     "days": [
       {
         "date": "2026-11-21",
         "label": "Showers",
         "icon": "rain",
-        "high": 76,
+        "high": 78,
         "low": 70,
-        "precip": 61,
-        "uv": 5,
+        "precip": 66,
+        "uv": 4,
         "sunrise": "06:52",
         "sunset": "17:28"
       },
       {
         "date": "2026-11-22",
-        "label": "Light rain",
-        "icon": "rain",
+        "label": "Light drizzle",
+        "icon": "drizzle",
         "high": 72,
         "low": 63,
-        "precip": 16,
+        "precip": 4,
         "uv": 5,
         "sunrise": "06:52",
         "sunset": "17:28"
@@ -122,41 +122,41 @@
         "date": "2026-11-23",
         "label": "Overcast",
         "icon": "cloud",
-        "high": 74,
-        "low": 61,
-        "precip": 4,
+        "high": 76,
+        "low": 63,
+        "precip": 1,
         "uv": 4,
         "sunrise": "06:53",
         "sunset": "17:28"
       },
       {
         "date": "2026-11-24",
-        "label": "Showers",
-        "icon": "rain",
-        "high": 77,
-        "low": 63,
-        "precip": 11,
-        "uv": 4,
+        "label": "Light drizzle",
+        "icon": "drizzle",
+        "high": 73,
+        "low": 65,
+        "precip": 6,
+        "uv": 2,
         "sunrise": "06:54",
         "sunset": "17:28"
       },
       {
         "date": "2026-11-25",
-        "label": "Showers",
-        "icon": "rain",
-        "high": 70,
-        "low": 63,
-        "precip": 32,
-        "uv": 3,
+        "label": "Light drizzle",
+        "icon": "drizzle",
+        "high": 76,
+        "low": 66,
+        "precip": 27,
+        "uv": 4,
         "sunrise": "06:55",
         "sunset": "17:28"
       },
       {
         "date": "2026-11-26",
-        "label": "Drizzle",
-        "icon": "drizzle",
+        "label": "Overcast",
+        "icon": "cloud",
         "high": 76,
-        "low": 62,
+        "low": 61,
         "precip": 7,
         "uv": 4,
         "sunrise": "06:56",
@@ -167,17 +167,17 @@
         "label": "Overcast",
         "icon": "cloud",
         "high": 68,
-        "low": 58,
-        "precip": 21,
+        "low": 53,
+        "precip": 18,
         "uv": 4,
         "sunrise": "06:56",
         "sunset": "17:27"
       }
     ],
     "air": {
-      "aqi": 25,
+      "aqi": 31,
       "label": "Good",
-      "pm25": 2.3
+      "pm25": 2.7
     }
   },
   "severe": [],
@@ -414,7 +414,7 @@
       "start": "18:00",
       "end": "20:00",
       "blurb": "The residents in Tower 1 who are unable to go home for Thanksgiving (or don't celebrate) wll be able to celebrate the holiday by enjoying food, music, and cozy ",
-      "rsvps": 0,
+      "rsvps": 1,
       "image": "https://se-images.campuslabs.com/clink/images/4fa03c46-fc84-4500-944d-3592ef4e1d7074e0b8a3-73a2-4ad6-8c91-dd51eeca091e.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12929205"
     },
@@ -554,7 +554,7 @@
       "start": "11:00",
       "end": "14:00",
       "blurb": "Here for Thanksgiving. Enjoy a free meal with your fellow Knights. The Thanksgiving meal will be on Thursday, November 26 from 11am-2pm at 63 South. It is open ",
-      "rsvps": 385,
+      "rsvps": 386,
       "image": "https://se-images.campuslabs.com/clink/images/8f49bf2c-4516-4d47-a5be-7ad342414e731a3f6194-f431-4c0f-8fc3-78022bda15b4.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12970386"
     },
@@ -722,7 +722,7 @@
       "start": "19:00",
       "end": "22:00",
       "blurb": "\u2744\ufe0f Winter Wonderland: Winter in New York \ud83d\uddfd Experience the magic of winter in New York right here at UCF! Join us for a night filled with exciting attractions, a",
-      "rsvps": 4,
+      "rsvps": 5,
       "image": "https://se-images.campuslabs.com/clink/images/aa0bab01-9a1b-46dc-91b1-103a3933790e0bedf6c8-daad-4ed9-aff2-02f3f98c1a4e.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12901837"
     },
@@ -1072,7 +1072,7 @@
       "start": "17:30",
       "end": "19:30",
       "blurb": "Phi Alpha Nu Pi members who are graduating or joining are invited to our blended Induction and Graduation ceremony! Graduating members will also be able to rece",
-      "rsvps": 29,
+      "rsvps": 30,
       "image": "https://se-images.campuslabs.com/clink/images/f1763ff7-924a-489a-9c6a-3b7d26c6647c9024f35f-4bc9-4317-9a51-eb9a3c7ceaa5.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12892468"
     },
@@ -4300,9 +4300,9 @@
       "title": "PHY 2048L Laboratory",
       "url": null,
       "weather": {
-        "temp": 76,
+        "temp": 75,
         "precip": 17,
-        "label": "Clear",
+        "label": "Mostly clear",
         "icon": "sun"
       },
       "courseTitle": "Physics Lab"
