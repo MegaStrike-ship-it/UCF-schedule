@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T17:46:06.505016-05:00",
+  "generatedAt": "2026-11-21T21:47:50.263220-05:00",
   "term": {
     "name": "Fall 2026",
     "start": "2026-08-24",
@@ -86,100 +86,7 @@
       "url": null
     }
   ],
-  "weather": {
-    "place": "UCF Orlando",
-    "current": {
-      "temp": 73,
-      "feelsLike": 79,
-      "label": "Showers",
-      "icon": "rain",
-      "isDay": false
-    },
-    "days": [
-      {
-        "date": "2026-11-21",
-        "label": "Showers",
-        "icon": "rain",
-        "high": 78,
-        "low": 70,
-        "precip": 66,
-        "uv": 4,
-        "sunrise": "06:52",
-        "sunset": "17:28"
-      },
-      {
-        "date": "2026-11-22",
-        "label": "Light drizzle",
-        "icon": "drizzle",
-        "high": 72,
-        "low": 63,
-        "precip": 4,
-        "uv": 5,
-        "sunrise": "06:52",
-        "sunset": "17:28"
-      },
-      {
-        "date": "2026-11-23",
-        "label": "Overcast",
-        "icon": "cloud",
-        "high": 76,
-        "low": 63,
-        "precip": 1,
-        "uv": 4,
-        "sunrise": "06:53",
-        "sunset": "17:28"
-      },
-      {
-        "date": "2026-11-24",
-        "label": "Light drizzle",
-        "icon": "drizzle",
-        "high": 73,
-        "low": 65,
-        "precip": 6,
-        "uv": 2,
-        "sunrise": "06:54",
-        "sunset": "17:28"
-      },
-      {
-        "date": "2026-11-25",
-        "label": "Light drizzle",
-        "icon": "drizzle",
-        "high": 76,
-        "low": 66,
-        "precip": 27,
-        "uv": 4,
-        "sunrise": "06:55",
-        "sunset": "17:28"
-      },
-      {
-        "date": "2026-11-26",
-        "label": "Overcast",
-        "icon": "cloud",
-        "high": 76,
-        "low": 61,
-        "precip": 7,
-        "uv": 4,
-        "sunrise": "06:56",
-        "sunset": "17:27"
-      },
-      {
-        "date": "2026-11-27",
-        "label": "Overcast",
-        "icon": "cloud",
-        "high": 68,
-        "low": 53,
-        "precip": 18,
-        "uv": 4,
-        "sunrise": "06:56",
-        "sunset": "17:27"
-      }
-    ],
-    "air": {
-      "aqi": 31,
-      "label": "Good",
-      "pm25": 2.7
-    }
-  },
+  "weather": null,
   "severe": [],
   "football": [
     {
@@ -554,7 +461,7 @@
       "start": "11:00",
       "end": "14:00",
       "blurb": "Here for Thanksgiving. Enjoy a free meal with your fellow Knights. The Thanksgiving meal will be on Thursday, November 26 from 11am-2pm at 63 South. It is open ",
-      "rsvps": 386,
+      "rsvps": 389,
       "image": "https://se-images.campuslabs.com/clink/images/8f49bf2c-4516-4d47-a5be-7ad342414e731a3f6194-f431-4c0f-8fc3-78022bda15b4.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12970386"
     },
@@ -596,7 +503,7 @@
       "start": "08:00",
       "end": "10:00",
       "blurb": "Volunteers will be picking up litter from the side of the road to keep our local neighborhood clean!",
-      "rsvps": 0,
+      "rsvps": 1,
       "image": "https://se-images.campuslabs.com/clink/images/bb6ca7b6-db91-45d1-aa53-54068452cc107e3e357d-4360-4ba2-99c0-045bede45298.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12981481"
     },
@@ -1100,7 +1007,7 @@
       "start": "08:00",
       "end": "10:00",
       "blurb": "Volunteers will pick up trash along the hiking path at Jay Blanchard Park to keep it a nice location for local recreational activities!",
-      "rsvps": 2,
+      "rsvps": 3,
       "image": "https://se-images.campuslabs.com/clink/images/7c7e69fe-8d73-4123-901a-56d6f7b76da489e186b9-592e-4415-af18-3ea31a70201e.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12990697"
     },
@@ -4299,12 +4206,6 @@
       "changes": {},
       "title": "PHY 2048L Laboratory",
       "url": null,
-      "weather": {
-        "temp": 75,
-        "precip": 17,
-        "label": "Mostly clear",
-        "icon": "sun"
-      },
       "courseTitle": "Physics Lab"
     },
     {
