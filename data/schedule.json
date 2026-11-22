@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T21:47:50.263220-05:00",
+  "generatedAt": "2026-11-22T12:36:39.442305-05:00",
   "term": {
     "name": "Fall 2026",
     "start": "2026-08-24",
@@ -199,20 +199,6 @@
     }
   ],
   "events": [
-    {
-      "id": "12614737",
-      "name": "Sunday Worship with Wesley at UCF",
-      "org": "Wesley at UCF",
-      "theme": "Spirituality",
-      "location": "Faith UMC",
-      "date": "2026-11-22",
-      "start": "10:00",
-      "end": "11:30",
-      "blurb": "Join us for Faith UMC's Weekly church service every sunday at 10:00 am! Our director Erwin Lopez serves as the pastor, and all are welcome. If you are looking f",
-      "rsvps": 0,
-      "image": "https://se-images.campuslabs.com/clink/images/05ce9c70-ef83-4a92-8492-d16465dbddd6f719d2b3-18d8-4499-922b-f4f29e66b693.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12614737"
-    },
     {
       "id": "12981552",
       "name": "Sunday Mass",
@@ -461,7 +447,7 @@
       "start": "11:00",
       "end": "14:00",
       "blurb": "Here for Thanksgiving. Enjoy a free meal with your fellow Knights. The Thanksgiving meal will be on Thursday, November 26 from 11am-2pm at 63 South. It is open ",
-      "rsvps": 389,
+      "rsvps": 390,
       "image": "https://se-images.campuslabs.com/clink/images/8f49bf2c-4516-4d47-a5be-7ad342414e731a3f6194-f431-4c0f-8fc3-78022bda15b4.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12970386"
     },
@@ -517,7 +503,7 @@
       "start": "08:00",
       "end": "10:00",
       "blurb": "Volunteers will help pick up trash from the side of the road to help keep Oviedo clean!",
-      "rsvps": 1,
+      "rsvps": 2,
       "image": "https://se-images.campuslabs.com/clink/images/6666ab7d-3adf-433e-bc11-ca11f9f2853406e4b3f5-d229-4ab2-bfed-63289ffe6f67.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12995879"
     },
@@ -4447,15 +4433,6 @@
       "url": "https://webcourses.ucf.edu/calendar?include_contexts=course_1521509&month=10&year=2026#assignment_9701119"
     },
     {
-      "course": "EGS 1006C",
-      "courseTitle": "Intro to Engineering",
-      "title": "Attendance Quiz - Week 9 (Oct. 23)",
-      "dueAt": "2026-10-23T09:30:00-04:00",
-      "points": null,
-      "overdue": true,
-      "url": "https://webcourses.ucf.edu/calendar?include_contexts=course_1519775&month=10&year=2026#assignment_9750917"
-    },
-    {
       "course": "ENC 1101",
       "courseTitle": "Writing & Composition",
       "title": "Week 9: Student-Instructor Conference II",
@@ -4778,6 +4755,15 @@
       "points": null,
       "overdue": true,
       "url": "https://webcourses.ucf.edu/calendar?include_contexts=course_1519779&month=11&year=2026#assignment_9709013"
+    },
+    {
+      "course": "EGS 1006C",
+      "courseTitle": "Intro to Engineering",
+      "title": "Lab 12 Exit Attendance",
+      "dueAt": "2026-11-16T10:25:00-05:00",
+      "points": null,
+      "overdue": true,
+      "url": "https://webcourses.ucf.edu/calendar?include_contexts=course_1519779&month=11&year=2026#assignment_9709014"
     }
   ],
   "recentChanges": []
