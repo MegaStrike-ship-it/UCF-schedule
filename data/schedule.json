@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T12:36:39.442305-05:00",
+  "generatedAt": "2026-11-22T18:14:17.846197-05:00",
   "term": {
     "name": "Fall 2026",
     "start": "2026-08-24",
@@ -86,7 +86,100 @@
       "url": null
     }
   ],
-  "weather": null,
+  "weather": {
+    "place": "UCF Orlando",
+    "current": {
+      "temp": 68,
+      "feelsLike": 70,
+      "label": "Overcast",
+      "icon": "cloud",
+      "isDay": false
+    },
+    "days": [
+      {
+        "date": "2026-11-22",
+        "label": "Overcast",
+        "icon": "cloud",
+        "high": 74,
+        "low": 64,
+        "precip": 9,
+        "uv": 4,
+        "sunrise": "06:52",
+        "sunset": "17:28"
+      },
+      {
+        "date": "2026-11-23",
+        "label": "Overcast",
+        "icon": "cloud",
+        "high": 66,
+        "low": 61,
+        "precip": 3,
+        "uv": 4,
+        "sunrise": "06:53",
+        "sunset": "17:28"
+      },
+      {
+        "date": "2026-11-24",
+        "label": "Overcast",
+        "icon": "cloud",
+        "high": 77,
+        "low": 61,
+        "precip": 9,
+        "uv": 4,
+        "sunrise": "06:54",
+        "sunset": "17:28"
+      },
+      {
+        "date": "2026-11-25",
+        "label": "Showers",
+        "icon": "rain",
+        "high": 70,
+        "low": 62,
+        "precip": 29,
+        "uv": 1,
+        "sunrise": "06:55",
+        "sunset": "17:28"
+      },
+      {
+        "date": "2026-11-26",
+        "label": "Drizzle",
+        "icon": "drizzle",
+        "high": 73,
+        "low": 61,
+        "precip": 14,
+        "uv": 5,
+        "sunrise": "06:56",
+        "sunset": "17:27"
+      },
+      {
+        "date": "2026-11-27",
+        "label": "Overcast",
+        "icon": "cloud",
+        "high": 66,
+        "low": 58,
+        "precip": 6,
+        "uv": 4,
+        "sunrise": "06:56",
+        "sunset": "17:27"
+      },
+      {
+        "date": "2026-11-28",
+        "label": "Overcast",
+        "icon": "cloud",
+        "high": 61,
+        "low": 57,
+        "precip": 18,
+        "uv": 1,
+        "sunrise": "06:57",
+        "sunset": "17:27"
+      }
+    ],
+    "air": {
+      "aqi": 33,
+      "label": "Good",
+      "pm25": 3.1
+    }
+  },
   "severe": [],
   "football": [
     {
@@ -199,20 +292,6 @@
     }
   ],
   "events": [
-    {
-      "id": "12981552",
-      "name": "Sunday Mass",
-      "org": "Catholic Campus Ministry",
-      "theme": "Spirituality",
-      "location": "The Live Oak Ballroom ",
-      "date": "2026-11-22",
-      "start": "12:00",
-      "end": "13:15",
-      "blurb": "Mass is the center of our Catholic Faith. It's where we come together as a Church to worship God through Christ's offering of Himself to the Father and for us i",
-      "rsvps": 0,
-      "image": "https://se-images.campuslabs.com/clink/images/61babc57-03cb-4b7d-b940-c67632c310eddc6e8912-0fb6-4b70-88df-e085a1c3e70e.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12981552"
-    },
     {
       "id": "12591739",
       "name": "Student Lounge",
@@ -447,7 +526,7 @@
       "start": "11:00",
       "end": "14:00",
       "blurb": "Here for Thanksgiving. Enjoy a free meal with your fellow Knights. The Thanksgiving meal will be on Thursday, November 26 from 11am-2pm at 63 South. It is open ",
-      "rsvps": 390,
+      "rsvps": 392,
       "image": "https://se-images.campuslabs.com/clink/images/8f49bf2c-4516-4d47-a5be-7ad342414e731a3f6194-f431-4c0f-8fc3-78022bda15b4.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12970386"
     },
@@ -4208,6 +4287,12 @@
       "changes": {},
       "title": "PHY 2048L Laboratory",
       "url": null,
+      "weather": {
+        "temp": 59,
+        "precip": 7,
+        "label": "Overcast",
+        "icon": "cloud"
+      },
       "courseTitle": "Physics Lab"
     },
     {
