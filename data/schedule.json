@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T18:14:17.846197-05:00",
+  "generatedAt": "2026-11-23T16:53:02.217980-05:00",
   "term": {
     "name": "Fall 2026",
     "start": "2026-08-24",
@@ -89,64 +89,53 @@
   "weather": {
     "place": "UCF Orlando",
     "current": {
-      "temp": 68,
-      "feelsLike": 70,
+      "temp": 63,
+      "feelsLike": 65,
       "label": "Overcast",
       "icon": "cloud",
-      "isDay": false
+      "isDay": true
     },
     "days": [
-      {
-        "date": "2026-11-22",
-        "label": "Overcast",
-        "icon": "cloud",
-        "high": 74,
-        "low": 64,
-        "precip": 9,
-        "uv": 4,
-        "sunrise": "06:52",
-        "sunset": "17:28"
-      },
       {
         "date": "2026-11-23",
         "label": "Overcast",
         "icon": "cloud",
         "high": 66,
-        "low": 61,
-        "precip": 3,
+        "low": 62,
+        "precip": 9,
         "uv": 4,
         "sunrise": "06:53",
         "sunset": "17:28"
       },
       {
         "date": "2026-11-24",
-        "label": "Overcast",
-        "icon": "cloud",
-        "high": 77,
-        "low": 61,
-        "precip": 9,
+        "label": "Light drizzle",
+        "icon": "drizzle",
+        "high": 70,
+        "low": 60,
+        "precip": 11,
         "uv": 4,
         "sunrise": "06:54",
         "sunset": "17:28"
       },
       {
         "date": "2026-11-25",
-        "label": "Showers",
+        "label": "Rain",
         "icon": "rain",
         "high": 70,
-        "low": 62,
-        "precip": 29,
-        "uv": 1,
+        "low": 63,
+        "precip": 48,
+        "uv": 2,
         "sunrise": "06:55",
         "sunset": "17:28"
       },
       {
         "date": "2026-11-26",
-        "label": "Drizzle",
-        "icon": "drizzle",
-        "high": 73,
-        "low": 61,
-        "precip": 14,
+        "label": "Overcast",
+        "icon": "cloud",
+        "high": 68,
+        "low": 58,
+        "precip": 29,
         "uv": 5,
         "sunrise": "06:56",
         "sunset": "17:27"
@@ -156,28 +145,39 @@
         "label": "Overcast",
         "icon": "cloud",
         "high": 66,
-        "low": 58,
-        "precip": 6,
-        "uv": 4,
+        "low": 55,
+        "precip": 0,
+        "uv": 5,
         "sunrise": "06:56",
         "sunset": "17:27"
       },
       {
         "date": "2026-11-28",
-        "label": "Overcast",
-        "icon": "cloud",
-        "high": 61,
-        "low": 57,
-        "precip": 18,
-        "uv": 1,
+        "label": "Drizzle",
+        "icon": "drizzle",
+        "high": 66,
+        "low": 56,
+        "precip": 8,
+        "uv": 3,
         "sunrise": "06:57",
+        "sunset": "17:27"
+      },
+      {
+        "date": "2026-11-29",
+        "label": "Showers",
+        "icon": "rain",
+        "high": 65,
+        "low": 54,
+        "precip": 36,
+        "uv": 0,
+        "sunrise": "06:58",
         "sunset": "17:27"
       }
     ],
     "air": {
-      "aqi": 33,
+      "aqi": 31,
       "label": "Good",
-      "pm25": 3.1
+      "pm25": 3.4
     }
   },
   "severe": [],
@@ -292,20 +292,6 @@
     }
   ],
   "events": [
-    {
-      "id": "12591739",
-      "name": "Student Lounge",
-      "org": "Wesley at UCF",
-      "theme": "Social",
-      "location": "The Wesley Foundation",
-      "date": "2026-11-23",
-      "start": "10:00",
-      "end": "15:00",
-      "blurb": "Wesley's student lounge is open Mon-Thur 10:00am-3:00pm; wednesdays 11:00am-3:00pm. A perfect chill place to gather with friends, talk, study, play a game or ju",
-      "rsvps": 0,
-      "image": "https://se-images.campuslabs.com/clink/images/23b95ecf-d8cb-402f-8f5d-a293c08aa30add3ba64b-7615-4e2f-b627-69026db75757.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12591739"
-    },
     {
       "id": "12556423",
       "name": "GBM: UCF Pre-SOMA",
@@ -526,7 +512,7 @@
       "start": "11:00",
       "end": "14:00",
       "blurb": "Here for Thanksgiving. Enjoy a free meal with your fellow Knights. The Thanksgiving meal will be on Thursday, November 26 from 11am-2pm at 63 South. It is open ",
-      "rsvps": 392,
+      "rsvps": 394,
       "image": "https://se-images.campuslabs.com/clink/images/8f49bf2c-4516-4d47-a5be-7ad342414e731a3f6194-f431-4c0f-8fc3-78022bda15b4.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12970386"
     },
@@ -1173,6 +1159,20 @@
       "rsvps": 0,
       "image": "https://se-images.campuslabs.com/clink/images/239889c0-8a8d-45e0-9d42-9a4f44c5b4b8e643bb3c-779a-460f-8815-e70280cd318b.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12857997"
+    },
+    {
+      "id": "12996158",
+      "name": "End of Semester Dinner",
+      "org": "Women Veterans Association ",
+      "theme": "Social",
+      "location": "Texas de Brazil",
+      "date": "2026-12-11",
+      "start": "18:45",
+      "end": "20:45",
+      "blurb": "Let's close out the semester and exchange our Secret Snowflake gifts over dinner!",
+      "rsvps": 0,
+      "image": "https://se-images.campuslabs.com/clink/images/45a85a8a-a091-4319-8d85-d8f3dd4711c6700ebe94-f188-41d4-a5c2-1776636635bb.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12996158"
     }
   ],
   "keyDates": [
@@ -4288,8 +4288,8 @@
       "title": "PHY 2048L Laboratory",
       "url": null,
       "weather": {
-        "temp": 59,
-        "precip": 7,
+        "temp": 63,
+        "precip": 3,
         "label": "Overcast",
         "icon": "cloud"
       },
@@ -4490,33 +4490,6 @@
   ],
   "alerts": [],
   "assignments": [
-    {
-      "course": "ENC 1101",
-      "courseTitle": "Writing & Composition",
-      "title": "Major Assignment #2: Textual Analysis of a Cultural Practice - Draft #2/Instructor Draft for 10/23",
-      "dueAt": "2026-10-23T00:00:00-04:00",
-      "points": null,
-      "overdue": true,
-      "url": "https://webcourses.ucf.edu/calendar?include_contexts=course_1521509&month=10&year=2026#assignment_9742585"
-    },
-    {
-      "course": "ENC 1101",
-      "courseTitle": "Writing & Composition",
-      "title": "Week 9: Student-Instructor Conference Reflection",
-      "dueAt": "2026-10-23T00:00:00-04:00",
-      "points": null,
-      "overdue": true,
-      "url": "https://webcourses.ucf.edu/calendar?include_contexts=course_1521509&month=10&year=2026#assignment_9748284"
-    },
-    {
-      "course": "ENC 1101",
-      "courseTitle": "Writing & Composition",
-      "title": "Week 9: Student-Instructor Conference Reflection II",
-      "dueAt": "2026-10-23T00:00:00-04:00",
-      "points": null,
-      "overdue": true,
-      "url": "https://webcourses.ucf.edu/calendar?include_contexts=course_1521509&month=10&year=2026#assignment_9701119"
-    },
     {
       "course": "ENC 1101",
       "courseTitle": "Writing & Composition",
@@ -4849,6 +4822,33 @@
       "points": null,
       "overdue": true,
       "url": "https://webcourses.ucf.edu/calendar?include_contexts=course_1519779&month=11&year=2026#assignment_9709014"
+    },
+    {
+      "course": "MAC 2312",
+      "courseTitle": "Calculus 2",
+      "title": "Review for Exam 3",
+      "dueAt": "2026-11-18T00:00:00-05:00",
+      "points": null,
+      "overdue": true,
+      "url": "https://webcourses.ucf.edu/calendar?include_contexts=course_1522946&month=11&year=2026#assignment_9672808"
+    },
+    {
+      "course": "ENC 1101",
+      "courseTitle": "Writing & Composition",
+      "title": "Discussion Post #12: Reflective Writing Researchers",
+      "dueAt": "2026-11-18T00:00:00-05:00",
+      "points": null,
+      "overdue": true,
+      "url": "https://webcourses.ucf.edu/calendar?include_contexts=course_1521509&month=11&year=2026#assignment_9701044"
+    },
+    {
+      "course": "MAC 2312",
+      "courseTitle": "Calculus 2",
+      "title": "Exam 3 Topics Review Survey",
+      "dueAt": "2026-11-18T00:00:00-05:00",
+      "points": null,
+      "overdue": true,
+      "url": "https://webcourses.ucf.edu/calendar?include_contexts=course_1522946&month=11&year=2026#assignment_9776222"
     }
   ],
   "recentChanges": []
