@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T16:53:02.217980-05:00",
+  "generatedAt": "2026-11-24T00:43:54.849858-05:00",
   "term": {
     "name": "Fall 2026",
     "start": "2026-08-24",
@@ -90,52 +90,41 @@
     "place": "UCF Orlando",
     "current": {
       "temp": 63,
-      "feelsLike": 65,
+      "feelsLike": 64,
       "label": "Overcast",
       "icon": "cloud",
-      "isDay": true
+      "isDay": false
     },
     "days": [
       {
-        "date": "2026-11-23",
+        "date": "2026-11-24",
         "label": "Overcast",
         "icon": "cloud",
-        "high": 66,
+        "high": 71,
         "low": 62,
-        "precip": 9,
-        "uv": 4,
-        "sunrise": "06:53",
-        "sunset": "17:28"
-      },
-      {
-        "date": "2026-11-24",
-        "label": "Light drizzle",
-        "icon": "drizzle",
-        "high": 70,
-        "low": 60,
-        "precip": 11,
+        "precip": 24,
         "uv": 4,
         "sunrise": "06:54",
         "sunset": "17:28"
       },
       {
         "date": "2026-11-25",
-        "label": "Rain",
+        "label": "Heavy rain",
         "icon": "rain",
         "high": 70,
         "low": 63,
-        "precip": 48,
+        "precip": 61,
         "uv": 2,
         "sunrise": "06:55",
         "sunset": "17:28"
       },
       {
         "date": "2026-11-26",
-        "label": "Overcast",
-        "icon": "cloud",
-        "high": 68,
+        "label": "Drizzle",
+        "icon": "drizzle",
+        "high": 71,
         "low": 58,
-        "precip": 29,
+        "precip": 25,
         "uv": 5,
         "sunrise": "06:56",
         "sunset": "17:27"
@@ -144,40 +133,51 @@
         "date": "2026-11-27",
         "label": "Overcast",
         "icon": "cloud",
-        "high": 66,
-        "low": 55,
+        "high": 67,
+        "low": 54,
         "precip": 0,
-        "uv": 5,
+        "uv": 4,
         "sunrise": "06:56",
         "sunset": "17:27"
       },
       {
         "date": "2026-11-28",
-        "label": "Drizzle",
-        "icon": "drizzle",
+        "label": "Overcast",
+        "icon": "cloud",
         "high": 66,
-        "low": 56,
-        "precip": 8,
-        "uv": 3,
+        "low": 53,
+        "precip": 1,
+        "uv": 4,
         "sunrise": "06:57",
         "sunset": "17:27"
       },
       {
         "date": "2026-11-29",
+        "label": "Drizzle",
+        "icon": "drizzle",
+        "high": 66,
+        "low": 58,
+        "precip": 39,
+        "uv": 2,
+        "sunrise": "06:58",
+        "sunset": "17:27"
+      },
+      {
+        "date": "2026-11-30",
         "label": "Showers",
         "icon": "rain",
-        "high": 65,
-        "low": 54,
-        "precip": 36,
-        "uv": 0,
-        "sunrise": "06:58",
+        "high": 75,
+        "low": 60,
+        "precip": 39,
+        "uv": 2,
+        "sunrise": "06:59",
         "sunset": "17:27"
       }
     ],
     "air": {
-      "aqi": 31,
+      "aqi": 26,
       "label": "Good",
-      "pm25": 3.4
+      "pm25": 9.3
     }
   },
   "severe": [],
@@ -292,34 +292,6 @@
     }
   ],
   "events": [
-    {
-      "id": "12556423",
-      "name": "GBM: UCF Pre-SOMA",
-      "org": "Pre-Student Osteopathic Medical Association",
-      "theme": "Social",
-      "location": "TBA",
-      "date": "2026-11-23",
-      "start": "19:00",
-      "end": "20:00",
-      "blurb": "Come connect with fellow members, learn more about Pre-SOMA, and get involved with upcoming events and opportunities. Whether you&rsquo;re a current member or i",
-      "rsvps": 0,
-      "image": "https://se-images.campuslabs.com/clink/images/fe01924f-2866-4f88-bc13-2c9525e347eac9afea8e-a553-4847-9acc-778991afcdbe.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12556423"
-    },
-    {
-      "id": "12578739",
-      "name": "Meditation Monday",
-      "org": "Bhakti Yoga Club ",
-      "theme": "Spirituality",
-      "location": "ISKCON Orlando",
-      "date": "2026-11-23",
-      "start": "19:00",
-      "end": "20:00",
-      "blurb": "Join us for Meditation Monday , a chance to slow down, step away from the busyness of college life, and reconnect with yourself in good company. Each week, we e",
-      "rsvps": 0,
-      "image": "https://se-images.campuslabs.com/clink/images/2a348e23-5afa-4435-9881-3cf5d2e0fcf9d119ad82-7c19-4653-b960-ea17a6d6b131.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12578739"
-    },
     {
       "id": "12591740",
       "name": "Student Lounge",
@@ -512,7 +484,7 @@
       "start": "11:00",
       "end": "14:00",
       "blurb": "Here for Thanksgiving. Enjoy a free meal with your fellow Knights. The Thanksgiving meal will be on Thursday, November 26 from 11am-2pm at 63 South. It is open ",
-      "rsvps": 394,
+      "rsvps": 396,
       "image": "https://se-images.campuslabs.com/clink/images/8f49bf2c-4516-4d47-a5be-7ad342414e731a3f6194-f431-4c0f-8fc3-78022bda15b4.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12970386"
     },
@@ -867,6 +839,20 @@
       "url": "https://ucf.campuslabs.com/engage/event/12954530"
     },
     {
+      "id": "12998678",
+      "name": "Christmas Party",
+      "org": "Criminal Justice Club @ UCF",
+      "theme": "Social",
+      "location": "Business Administration 1 Room O115",
+      "date": "2026-12-02",
+      "start": "17:30",
+      "end": "19:30",
+      "blurb": "CJ Club celebrates Christmas with music, case files, and hot cocoa!",
+      "rsvps": 2,
+      "image": "https://se-images.campuslabs.com/clink/images/59669304-4b59-4792-acf9-02649498697c1f8bdd1d-4a43-4824-90c7-d61d5663036b.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12998678"
+    },
+    {
       "id": "12857996",
       "name": "ARC @ UCF GBM B",
       "org": "Amateur Radio Club at UCF",
@@ -1173,15 +1159,23 @@
       "rsvps": 0,
       "image": "https://se-images.campuslabs.com/clink/images/45a85a8a-a091-4319-8d85-d8f3dd4711c6700ebe94-f188-41d4-a5c2-1776636635bb.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12996158"
+    },
+    {
+      "id": "12578742",
+      "name": "Meditation Monday",
+      "org": "Bhakti Yoga Club ",
+      "theme": "Spirituality",
+      "location": "ISKCON Orlando",
+      "date": "2026-12-14",
+      "start": "19:00",
+      "end": "20:00",
+      "blurb": "Join us for Meditation Monday , a chance to slow down, step away from the busyness of college life, and reconnect with yourself in good company. Each week, we e",
+      "rsvps": 0,
+      "image": "https://se-images.campuslabs.com/clink/images/2a348e23-5afa-4435-9881-3cf5d2e0fcf9d119ad82-7c19-4653-b960-ea17a6d6b131.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/12578742"
     }
   ],
   "keyDates": [
-    {
-      "date": "2026-11-23",
-      "label": "Thanksgiving break begins",
-      "kind": "holiday",
-      "note": "No classes through Nov 27"
-    },
     {
       "date": "2026-12-03",
       "label": "Last day of classes"
@@ -4288,8 +4282,8 @@
       "title": "PHY 2048L Laboratory",
       "url": null,
       "weather": {
-        "temp": 63,
-        "precip": 3,
+        "temp": 62,
+        "precip": 0,
         "label": "Overcast",
         "icon": "cloud"
       },
@@ -4309,6 +4303,12 @@
       "changes": {},
       "title": "EGS 1006C Laboratory",
       "url": null,
+      "weather": {
+        "temp": 67,
+        "precip": 20,
+        "label": "Overcast",
+        "icon": "cloud"
+      },
       "courseTitle": "Intro to Engineering"
     },
     {
@@ -4325,6 +4325,12 @@
       "changes": {},
       "title": "ISC 2054 Seminar",
       "url": null,
+      "weather": {
+        "temp": 73,
+        "precip": 16,
+        "label": "Light drizzle",
+        "icon": "drizzle"
+      },
       "courseTitle": "STEM Seminar"
     },
     {
@@ -4490,15 +4496,6 @@
   ],
   "alerts": [],
   "assignments": [
-    {
-      "course": "ENC 1101",
-      "courseTitle": "Writing & Composition",
-      "title": "Week 9: Student-Instructor Conference II",
-      "dueAt": "2026-10-24T00:00:00-04:00",
-      "points": null,
-      "overdue": true,
-      "url": "https://webcourses.ucf.edu/calendar?include_contexts=course_1521509&month=10&year=2026#assignment_9701118"
-    },
     {
       "course": "MAC 2312",
       "courseTitle": "Calculus 2",
@@ -4849,6 +4846,15 @@
       "points": null,
       "overdue": true,
       "url": "https://webcourses.ucf.edu/calendar?include_contexts=course_1522946&month=11&year=2026#assignment_9776222"
+    },
+    {
+      "course": "MAC 2312",
+      "courseTitle": "Calculus 2",
+      "title": "Graphs of Parametric Equations and Eliminating the Parameter Section 7.1",
+      "dueAt": "2026-11-20T00:00:00-05:00",
+      "points": null,
+      "overdue": true,
+      "url": "https://webcourses.ucf.edu/calendar?include_contexts=course_1522946&month=11&year=2026#assignment_9672809"
     }
   ],
   "recentChanges": []
