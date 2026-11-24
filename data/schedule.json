@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T00:43:54.849858-05:00",
+  "generatedAt": "2026-11-24T15:29:02.902100-05:00",
   "term": {
     "name": "Fall 2026",
     "start": "2026-08-24",
@@ -89,42 +89,42 @@
   "weather": {
     "place": "UCF Orlando",
     "current": {
-      "temp": 63,
-      "feelsLike": 64,
-      "label": "Overcast",
+      "temp": 73,
+      "feelsLike": 76,
+      "label": "Partly cloudy",
       "icon": "cloud",
-      "isDay": false
+      "isDay": true
     },
     "days": [
       {
         "date": "2026-11-24",
-        "label": "Overcast",
-        "icon": "cloud",
-        "high": 71,
+        "label": "Light drizzle",
+        "icon": "drizzle",
+        "high": 73,
         "low": 62,
-        "precip": 24,
+        "precip": 29,
         "uv": 4,
         "sunrise": "06:54",
         "sunset": "17:28"
       },
       {
         "date": "2026-11-25",
-        "label": "Heavy rain",
+        "label": "Rain",
         "icon": "rain",
-        "high": 70,
-        "low": 63,
-        "precip": 61,
+        "high": 74,
+        "low": 66,
+        "precip": 69,
         "uv": 2,
         "sunrise": "06:55",
         "sunset": "17:28"
       },
       {
         "date": "2026-11-26",
-        "label": "Drizzle",
+        "label": "Heavy drizzle",
         "icon": "drizzle",
-        "high": 71,
-        "low": 58,
-        "precip": 25,
+        "high": 69,
+        "low": 57,
+        "precip": 14,
         "uv": 5,
         "sunrise": "06:56",
         "sunset": "17:27"
@@ -133,8 +133,8 @@
         "date": "2026-11-27",
         "label": "Overcast",
         "icon": "cloud",
-        "high": 67,
-        "low": 54,
+        "high": 63,
+        "low": 51,
         "precip": 0,
         "uv": 4,
         "sunrise": "06:56",
@@ -144,10 +144,10 @@
         "date": "2026-11-28",
         "label": "Overcast",
         "icon": "cloud",
-        "high": 66,
-        "low": 53,
-        "precip": 1,
-        "uv": 4,
+        "high": 61,
+        "low": 56,
+        "precip": 4,
+        "uv": 2,
         "sunrise": "06:57",
         "sunset": "17:27"
       },
@@ -155,29 +155,29 @@
         "date": "2026-11-29",
         "label": "Drizzle",
         "icon": "drizzle",
-        "high": 66,
-        "low": 58,
-        "precip": 39,
-        "uv": 2,
+        "high": 71,
+        "low": 56,
+        "precip": 50,
+        "uv": 3,
         "sunrise": "06:58",
         "sunset": "17:27"
       },
       {
         "date": "2026-11-30",
-        "label": "Showers",
+        "label": "Heavy showers",
         "icon": "rain",
-        "high": 75,
-        "low": 60,
-        "precip": 39,
-        "uv": 2,
+        "high": 70,
+        "low": 58,
+        "precip": 50,
+        "uv": 0,
         "sunrise": "06:59",
         "sunset": "17:27"
       }
     ],
     "air": {
-      "aqi": 26,
+      "aqi": 27,
       "label": "Good",
-      "pm25": 9.3
+      "pm25": 6.6
     }
   },
   "severe": [],
@@ -293,34 +293,6 @@
   ],
   "events": [
     {
-      "id": "12591740",
-      "name": "Student Lounge",
-      "org": "Wesley at UCF",
-      "theme": "Social",
-      "location": "The Wesley Foundation",
-      "date": "2026-11-24",
-      "start": "10:00",
-      "end": "15:00",
-      "blurb": "Wesley's student lounge is open Mon-Thur 10:00am-3:00pm; wednesdays 11:00am-3:00pm. A perfect chill place to gather with friends, talk, study, play a game or ju",
-      "rsvps": 0,
-      "image": "https://se-images.campuslabs.com/clink/images/23b95ecf-d8cb-402f-8f5d-a293c08aa30add3ba64b-7615-4e2f-b627-69026db75757.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12591740"
-    },
-    {
-      "id": "12569808",
-      "name": "Lunch and Learn with Wesley at UCF",
-      "org": "Wesley at UCF",
-      "theme": "ThoughtfulLearning",
-      "location": "The Wesley Foundation at UCF",
-      "date": "2026-11-24",
-      "start": "12:00",
-      "end": "13:00",
-      "blurb": "Network and eat some free lunch while learning topics ranging from: leadership, mental health, financial literacy and growing in your faith! Everyone is welcome",
-      "rsvps": 0,
-      "image": "https://se-images.campuslabs.com/clink/images/6d00bd03-0d03-4d6d-90b0-d1e5e4cc9361fc5a1f66-25cf-4b73-97b5-0fc70cd207b2.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12569808"
-    },
-    {
       "id": "12857943",
       "name": "ARC @ UCF GBM A",
       "org": "Amateur Radio Club at UCF",
@@ -344,7 +316,7 @@
       "start": "18:00",
       "end": "20:00",
       "blurb": "The residents in Tower 1 who are unable to go home for Thanksgiving (or don't celebrate) wll be able to celebrate the holiday by enjoying food, music, and cozy ",
-      "rsvps": 1,
+      "rsvps": 2,
       "image": "https://se-images.campuslabs.com/clink/images/4fa03c46-fc84-4500-944d-3592ef4e1d7074e0b8a3-73a2-4ad6-8c91-dd51eeca091e.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12929205"
     },
@@ -484,7 +456,7 @@
       "start": "11:00",
       "end": "14:00",
       "blurb": "Here for Thanksgiving. Enjoy a free meal with your fellow Knights. The Thanksgiving meal will be on Thursday, November 26 from 11am-2pm at 63 South. It is open ",
-      "rsvps": 396,
+      "rsvps": 399,
       "image": "https://se-images.campuslabs.com/clink/images/8f49bf2c-4516-4d47-a5be-7ad342414e731a3f6194-f431-4c0f-8fc3-78022bda15b4.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12970386"
     },
@@ -554,7 +526,7 @@
       "start": "09:00",
       "end": "10:30",
       "blurb": "Join the Natural Resources team in an invasive plant removal shift! We will meet at the Smoothie King across from the College of Sciences building before headin",
-      "rsvps": 8,
+      "rsvps": 9,
       "image": "https://se-images.campuslabs.com/clink/images/4c13ab45-d03b-4c7d-bcb7-b7bd4b6b205fd6d707f6-f32d-4fb4-8efc-8d36807fc860.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12946893"
     },
@@ -1157,7 +1129,7 @@
       "end": "20:45",
       "blurb": "Let's close out the semester and exchange our Secret Snowflake gifts over dinner!",
       "rsvps": 0,
-      "image": "https://se-images.campuslabs.com/clink/images/45a85a8a-a091-4319-8d85-d8f3dd4711c6700ebe94-f188-41d4-a5c2-1776636635bb.png?preset=small-sq",
+      "image": "https://se-images.campuslabs.com/clink/images/28ca226a-4588-412b-bea0-53fd4fb8988acf7b6c0c-eb12-4565-98c2-e00ad53bafa7.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12996158"
     },
     {
@@ -4282,7 +4254,7 @@
       "title": "PHY 2048L Laboratory",
       "url": null,
       "weather": {
-        "temp": 62,
+        "temp": 58,
         "precip": 0,
         "label": "Overcast",
         "icon": "cloud"
@@ -4304,10 +4276,10 @@
       "title": "EGS 1006C Laboratory",
       "url": null,
       "weather": {
-        "temp": 67,
-        "precip": 20,
-        "label": "Overcast",
-        "icon": "cloud"
+        "temp": 62,
+        "precip": 28,
+        "label": "Showers",
+        "icon": "rain"
       },
       "courseTitle": "Intro to Engineering"
     },
@@ -4326,9 +4298,9 @@
       "title": "ISC 2054 Seminar",
       "url": null,
       "weather": {
-        "temp": 73,
-        "precip": 16,
-        "label": "Light drizzle",
+        "temp": 67,
+        "precip": 23,
+        "label": "Drizzle",
         "icon": "drizzle"
       },
       "courseTitle": "STEM Seminar"
