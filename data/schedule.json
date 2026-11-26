@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T14:44:30.755565-05:00",
+  "generatedAt": "2026-11-25T21:37:32.369748-05:00",
   "term": {
     "name": "Fall 2026",
     "start": "2026-08-24",
@@ -86,100 +86,7 @@
       "url": null
     }
   ],
-  "weather": {
-    "place": "UCF Orlando",
-    "current": {
-      "temp": 67,
-      "feelsLike": 69,
-      "label": "Overcast",
-      "icon": "cloud",
-      "isDay": true
-    },
-    "days": [
-      {
-        "date": "2026-11-25",
-        "label": "Rain",
-        "icon": "rain",
-        "high": 68,
-        "low": 62,
-        "precip": 98,
-        "uv": 1,
-        "sunrise": "06:55",
-        "sunset": "17:28"
-      },
-      {
-        "date": "2026-11-26",
-        "label": "Rain",
-        "icon": "rain",
-        "high": 66,
-        "low": 57,
-        "precip": 25,
-        "uv": 4,
-        "sunrise": "06:56",
-        "sunset": "17:27"
-      },
-      {
-        "date": "2026-11-27",
-        "label": "Overcast",
-        "icon": "cloud",
-        "high": 68,
-        "low": 54,
-        "precip": 0,
-        "uv": 4,
-        "sunrise": "06:56",
-        "sunset": "17:27"
-      },
-      {
-        "date": "2026-11-28",
-        "label": "Overcast",
-        "icon": "cloud",
-        "high": 64,
-        "low": 56,
-        "precip": 1,
-        "uv": 4,
-        "sunrise": "06:57",
-        "sunset": "17:27"
-      },
-      {
-        "date": "2026-11-29",
-        "label": "Light drizzle",
-        "icon": "drizzle",
-        "high": 76,
-        "low": 58,
-        "precip": 18,
-        "uv": 4,
-        "sunrise": "06:58",
-        "sunset": "17:27"
-      },
-      {
-        "date": "2026-11-30",
-        "label": "Showers",
-        "icon": "rain",
-        "high": 74,
-        "low": 67,
-        "precip": 32,
-        "uv": 1,
-        "sunrise": "06:59",
-        "sunset": "17:27"
-      },
-      {
-        "date": "2026-12-01",
-        "label": "Overcast",
-        "icon": "cloud",
-        "high": 74,
-        "low": 62,
-        "precip": 34,
-        "uv": 3,
-        "sunrise": "07:00",
-        "sunset": "17:27"
-      }
-    ],
-    "air": {
-      "aqi": 29,
-      "label": "Good",
-      "pm25": 5.3
-    }
-  },
+  "weather": null,
   "severe": [],
   "football": [
     {
@@ -293,62 +200,6 @@
   ],
   "events": [
     {
-      "id": "12591756",
-      "name": "Student Lounge",
-      "org": "Wesley at UCF",
-      "theme": "Social",
-      "location": "The Wesley Foundation ",
-      "date": "2026-11-25",
-      "start": "11:00",
-      "end": "15:00",
-      "blurb": "Wesley's student lounge is open Mon-Thur 10:00am-3:00pm; wednesdays 11:00am-3:00pm. A perfect chill place to gather with friends, talk, study, play a game or ju",
-      "rsvps": 0,
-      "image": "https://se-images.campuslabs.com/clink/images/3dd59661-b6d1-422e-9c24-badf4fe4b5548572a737-bdda-40d7-b426-a1edd8d55e48.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12591756"
-    },
-    {
-      "id": "12879769",
-      "name": "Bi-Monthly General Meeting",
-      "org": "Student Veterans of America @ UCF",
-      "theme": "GroupBusiness",
-      "location": "Military and Veteran Success Center",
-      "date": "2026-11-25",
-      "start": "16:00",
-      "end": "17:00",
-      "blurb": "Join the UCF Student Veterans Association (SVA) for our general membership meeting! As we continue to grow our organization and build a strong foundation, we in",
-      "rsvps": 0,
-      "image": "https://se-images.campuslabs.com/clink/images/08dd9c68-32dd-4a5c-b9ba-385fbcecf6f359fd5e95-739c-4a3a-ab98-95a70367db94.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12879769"
-    },
-    {
-      "id": "12857995",
-      "name": "ARC @ UCF GBM B",
-      "org": "Amateur Radio Club at UCF",
-      "theme": "GroupBusiness",
-      "location": "Eng1 456a",
-      "date": "2026-11-25",
-      "start": "17:30",
-      "end": "20:00",
-      "blurb": "Join us for our weekly meeting in the shack!",
-      "rsvps": 0,
-      "image": "https://se-images.campuslabs.com/clink/images/239889c0-8a8d-45e0-9d42-9a4f44c5b4b8e643bb3c-779a-460f-8815-e70280cd318b.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12857995"
-    },
-    {
-      "id": "12591323",
-      "name": "Community Knight with Wesley at UCF",
-      "org": "Wesley at UCF",
-      "theme": "Social",
-      "location": "The Wesley Foundation at UCF",
-      "date": "2026-11-25",
-      "start": "17:30",
-      "end": "19:30",
-      "blurb": "Join us at 5:30 p.m. for a free dinner! Hang out with friends, play some games, and de-stress over some warm, free food each Wednesday. Once a month, we will ha",
-      "rsvps": 0,
-      "image": "https://se-images.campuslabs.com/clink/images/b4d1bf74-a590-4bc2-bd63-1997d7f25b7674de23a3-08cb-4410-86c9-ca7075f024b2.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12591323"
-    },
-    {
       "id": "12940943",
       "name": "Riichi Mahjong Knights Weekly Meeting",
       "org": "Riichi Mahjong Knights",
@@ -414,7 +265,7 @@
       "start": "11:00",
       "end": "14:00",
       "blurb": "Here for Thanksgiving. Enjoy a free meal with your fellow Knights. The Thanksgiving meal will be on Thursday, November 26 from 11am-2pm at 63 South. It is open ",
-      "rsvps": 404,
+      "rsvps": 406,
       "image": "https://se-images.campuslabs.com/clink/images/8f49bf2c-4516-4d47-a5be-7ad342414e731a3f6194-f431-4c0f-8fc3-78022bda15b4.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12970386"
     },
@@ -484,7 +335,7 @@
       "start": "09:00",
       "end": "10:30",
       "blurb": "Join the Natural Resources team in an invasive plant removal shift! We will meet at the Smoothie King across from the College of Sciences building before headin",
-      "rsvps": 9,
+      "rsvps": 10,
       "image": "https://se-images.campuslabs.com/clink/images/4c13ab45-d03b-4c7d-bcb7-b7bd4b6b205fd6d707f6-f32d-4fb4-8efc-8d36807fc860.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12946893"
     },
@@ -4211,12 +4062,6 @@
       "changes": {},
       "title": "PHY 2048L Laboratory",
       "url": null,
-      "weather": {
-        "temp": 61,
-        "precip": 0,
-        "label": "Overcast",
-        "icon": "cloud"
-      },
       "courseTitle": "Physics Lab"
     },
     {
@@ -4233,12 +4078,6 @@
       "changes": {},
       "title": "EGS 1006C Laboratory",
       "url": null,
-      "weather": {
-        "temp": 69,
-        "precip": 32,
-        "label": "Heavy drizzle",
-        "icon": "drizzle"
-      },
       "courseTitle": "Intro to Engineering"
     },
     {
@@ -4255,12 +4094,6 @@
       "changes": {},
       "title": "ISC 2054 Seminar",
       "url": null,
-      "weather": {
-        "temp": 74,
-        "precip": 27,
-        "label": "Light drizzle",
-        "icon": "drizzle"
-      },
       "courseTitle": "STEM Seminar"
     },
     {
@@ -4277,12 +4110,6 @@
       "changes": {},
       "title": "PHY 2048 Discussion",
       "url": null,
-      "weather": {
-        "temp": 65,
-        "precip": 30,
-        "label": "Overcast",
-        "icon": "cloud"
-      },
       "courseTitle": "Physics: Mechanics"
     },
     {
@@ -4299,12 +4126,6 @@
       "changes": {},
       "title": "ENC 1101 Lecture",
       "url": null,
-      "weather": {
-        "temp": 70,
-        "precip": 30,
-        "label": "Overcast",
-        "icon": "cloud"
-      },
       "courseTitle": "Writing & Composition"
     },
     {
@@ -4321,12 +4142,6 @@
       "changes": {},
       "title": "MAC 2312 Lecture",
       "url": null,
-      "weather": {
-        "temp": 72,
-        "precip": 30,
-        "label": "Overcast",
-        "icon": "cloud"
-      },
       "courseTitle": "Calculus 2"
     },
     {
@@ -4343,12 +4158,6 @@
       "changes": {},
       "title": "PHY 2048 Lecture",
       "url": null,
-      "weather": {
-        "temp": 74,
-        "precip": 34,
-        "label": "Overcast",
-        "icon": "cloud"
-      },
       "courseTitle": "Physics: Mechanics"
     },
     {
@@ -4365,12 +4174,6 @@
       "changes": {},
       "title": "IDH 1920H Lecture",
       "url": null,
-      "weather": {
-        "temp": 74,
-        "precip": 34,
-        "label": "Overcast",
-        "icon": "cloud"
-      },
       "courseTitle": "Honors Symposium"
     },
     {
@@ -4387,12 +4190,6 @@
       "changes": {},
       "title": "IDH 1920H Lecture",
       "url": null,
-      "weather": {
-        "temp": 71,
-        "precip": 34,
-        "label": "Overcast",
-        "icon": "cloud"
-      },
       "courseTitle": "Honors Symposium"
     },
     {
