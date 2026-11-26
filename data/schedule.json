@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T21:37:32.369748-05:00",
+  "generatedAt": "2026-11-26T14:24:23.706068-05:00",
   "term": {
     "name": "Fall 2026",
     "start": "2026-08-24",
@@ -86,7 +86,100 @@
       "url": null
     }
   ],
-  "weather": null,
+  "weather": {
+    "place": "UCF Orlando",
+    "current": {
+      "temp": 66,
+      "feelsLike": 63,
+      "label": "Partly cloudy",
+      "icon": "cloud",
+      "isDay": true
+    },
+    "days": [
+      {
+        "date": "2026-11-26",
+        "label": "Light drizzle",
+        "icon": "drizzle",
+        "high": 66,
+        "low": 57,
+        "precip": 30,
+        "uv": 4,
+        "sunrise": "06:56",
+        "sunset": "17:27"
+      },
+      {
+        "date": "2026-11-27",
+        "label": "Overcast",
+        "icon": "cloud",
+        "high": 61,
+        "low": 51,
+        "precip": 1,
+        "uv": 5,
+        "sunrise": "06:56",
+        "sunset": "17:27"
+      },
+      {
+        "date": "2026-11-28",
+        "label": "Overcast",
+        "icon": "cloud",
+        "high": 66,
+        "low": 54,
+        "precip": 1,
+        "uv": 3,
+        "sunrise": "06:57",
+        "sunset": "17:27"
+      },
+      {
+        "date": "2026-11-29",
+        "label": "Overcast",
+        "icon": "cloud",
+        "high": 72,
+        "low": 60,
+        "precip": 8,
+        "uv": 3,
+        "sunrise": "06:58",
+        "sunset": "17:27"
+      },
+      {
+        "date": "2026-11-30",
+        "label": "Heavy drizzle",
+        "icon": "drizzle",
+        "high": 71,
+        "low": 60,
+        "precip": 33,
+        "uv": 2,
+        "sunrise": "06:59",
+        "sunset": "17:27"
+      },
+      {
+        "date": "2026-12-01",
+        "label": "Showers",
+        "icon": "rain",
+        "high": 67,
+        "low": 60,
+        "precip": 39,
+        "uv": 0,
+        "sunrise": "07:00",
+        "sunset": "17:27"
+      },
+      {
+        "date": "2026-12-02",
+        "label": "Light drizzle",
+        "icon": "drizzle",
+        "high": 78,
+        "low": 66,
+        "precip": 15,
+        "uv": 3,
+        "sunrise": "07:00",
+        "sunset": "17:27"
+      }
+    ],
+    "air": {
+      "aqi": 29,
+      "label": "Good",
+      "pm25": 3.5
+    }
+  },
   "severe": [],
   "football": [
     {
@@ -200,48 +293,6 @@
   ],
   "events": [
     {
-      "id": "12940943",
-      "name": "Riichi Mahjong Knights Weekly Meeting",
-      "org": "Riichi Mahjong Knights",
-      "theme": "Social",
-      "location": "Student Union Second Floor",
-      "date": "2026-11-25",
-      "start": "19:00",
-      "end": "23:45",
-      "blurb": "We host weekly meetings where we get together and play Riichi Mahjong. Everyone is welcome, and no previous experience is needed. We have beginner tables to tea",
-      "rsvps": 0,
-      "image": "https://se-images.campuslabs.com/clink/images/c8289208-f0da-4e1a-b5fd-693ef0e53805cc7cd149-3b2c-4879-84ac-e14ec0e2ffc4.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12940943"
-    },
-    {
-      "id": "12614674",
-      "name": "Volunteering with Wesley at UCF",
-      "org": "Wesley at UCF",
-      "theme": "CommunityService",
-      "location": "Faith UMC",
-      "date": "2026-11-26",
-      "start": "08:00",
-      "end": "13:00",
-      "blurb": "Come volunteer with us at Faith UMC! Wesley at UCF serves at the food pantry every Wednesday and Thursday between 8am- 1:00 pm. Setting up and serving food is t",
-      "rsvps": 0,
-      "image": "https://se-images.campuslabs.com/clink/images/21fe1757-fb68-469f-8acb-0c4679e32d75c7237734-591c-408b-93eb-b8b73e21fac2.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12614674"
-    },
-    {
-      "id": "12690896",
-      "name": "Food Pantry",
-      "org": "Wesley at UCF",
-      "theme": "CommunityService",
-      "location": "Faith UMC",
-      "date": "2026-11-26",
-      "start": "10:00",
-      "end": "12:00",
-      "blurb": "Need a week's worth of free food? Wesley is here to support you! Faith UMC hosts a food pantry every Thursday, and we are happy to provide transportation to tho",
-      "rsvps": 0,
-      "image": "https://se-images.campuslabs.com/clink/images/ae6d6e40-3287-48bd-8132-16073d4b888acd774bb2-80b7-4939-86fb-e9997e260ef8.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12690896"
-    },
-    {
       "id": "12591757",
       "name": "Student Lounge",
       "org": "Wesley at UCF",
@@ -254,20 +305,6 @@
       "rsvps": 0,
       "image": "https://se-images.campuslabs.com/clink/images/3dd59661-b6d1-422e-9c24-badf4fe4b5548572a737-bdda-40d7-b426-a1edd8d55e48.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12591757"
-    },
-    {
-      "id": "12970386",
-      "name": "Thanksgiving Meal ",
-      "org": "Office of Student Involvement (OSI)",
-      "theme": "Social",
-      "location": "63 South",
-      "date": "2026-11-26",
-      "start": "11:00",
-      "end": "14:00",
-      "blurb": "Here for Thanksgiving. Enjoy a free meal with your fellow Knights. The Thanksgiving meal will be on Thursday, November 26 from 11am-2pm at 63 South. It is open ",
-      "rsvps": 406,
-      "image": "https://se-images.campuslabs.com/clink/images/8f49bf2c-4516-4d47-a5be-7ad342414e731a3f6194-f431-4c0f-8fc3-78022bda15b4.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12970386"
     },
     {
       "id": "12614738",
@@ -615,7 +652,7 @@
       "start": "17:30",
       "end": "20:30",
       "blurb": "Join us on Wednesday December 2 at 5:30 PM for a Wesley Christmas party! Celebrate the end of the semester and the holidays with some free food, music, and fun ",
-      "rsvps": 0,
+      "rsvps": 1,
       "image": "https://se-images.campuslabs.com/clink/images/821b1aa5-4a0f-4340-9fee-66e1e8bef168a3dcae16-b46e-4443-b5d4-3ac8912aeb32.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12954530"
     },
@@ -4062,6 +4099,12 @@
       "changes": {},
       "title": "PHY 2048L Laboratory",
       "url": null,
+      "weather": {
+        "temp": 61,
+        "precip": 0,
+        "label": "Overcast",
+        "icon": "cloud"
+      },
       "courseTitle": "Physics Lab"
     },
     {
@@ -4078,6 +4121,12 @@
       "changes": {},
       "title": "EGS 1006C Laboratory",
       "url": null,
+      "weather": {
+        "temp": 69,
+        "precip": 14,
+        "label": "Overcast",
+        "icon": "cloud"
+      },
       "courseTitle": "Intro to Engineering"
     },
     {
@@ -4094,6 +4143,12 @@
       "changes": {},
       "title": "ISC 2054 Seminar",
       "url": null,
+      "weather": {
+        "temp": 63,
+        "precip": 26,
+        "label": "Light drizzle",
+        "icon": "drizzle"
+      },
       "courseTitle": "STEM Seminar"
     },
     {
@@ -4110,6 +4165,12 @@
       "changes": {},
       "title": "PHY 2048 Discussion",
       "url": null,
+      "weather": {
+        "temp": 61,
+        "precip": 33,
+        "label": "Rain",
+        "icon": "rain"
+      },
       "courseTitle": "Physics: Mechanics"
     },
     {
@@ -4126,6 +4187,12 @@
       "changes": {},
       "title": "ENC 1101 Lecture",
       "url": null,
+      "weather": {
+        "temp": 63,
+        "precip": 39,
+        "label": "Rain",
+        "icon": "rain"
+      },
       "courseTitle": "Writing & Composition"
     },
     {
@@ -4142,6 +4209,12 @@
       "changes": {},
       "title": "MAC 2312 Lecture",
       "url": null,
+      "weather": {
+        "temp": 65,
+        "precip": 39,
+        "label": "Showers",
+        "icon": "rain"
+      },
       "courseTitle": "Calculus 2"
     },
     {
@@ -4158,6 +4231,12 @@
       "changes": {},
       "title": "PHY 2048 Lecture",
       "url": null,
+      "weather": {
+        "temp": 66,
+        "precip": 35,
+        "label": "Light drizzle",
+        "icon": "drizzle"
+      },
       "courseTitle": "Physics: Mechanics"
     },
     {
@@ -4174,6 +4253,12 @@
       "changes": {},
       "title": "IDH 1920H Lecture",
       "url": null,
+      "weather": {
+        "temp": 67,
+        "precip": 35,
+        "label": "Light drizzle",
+        "icon": "drizzle"
+      },
       "courseTitle": "Honors Symposium"
     },
     {
@@ -4190,6 +4275,12 @@
       "changes": {},
       "title": "IDH 1920H Lecture",
       "url": null,
+      "weather": {
+        "temp": 67,
+        "precip": 35,
+        "label": "Overcast",
+        "icon": "cloud"
+      },
       "courseTitle": "Honors Symposium"
     },
     {
@@ -4206,6 +4297,12 @@
       "changes": {},
       "title": "ISC 2054 Seminar",
       "url": null,
+      "weather": {
+        "temp": 78,
+        "precip": 2,
+        "label": "Light drizzle",
+        "icon": "drizzle"
+      },
       "courseTitle": "STEM Seminar"
     },
     {
@@ -4259,24 +4356,6 @@
   ],
   "alerts": [],
   "assignments": [
-    {
-      "course": "EGS 1006C",
-      "courseTitle": "Intro to Engineering",
-      "title": "Midterm Peer Evaluations",
-      "dueAt": "2026-10-26T00:00:00-04:00",
-      "points": null,
-      "overdue": true,
-      "url": "https://webcourses.ucf.edu/calendar?include_contexts=course_1519779&month=10&year=2026#assignment_9671390"
-    },
-    {
-      "course": "EGS 1006C",
-      "courseTitle": "Intro to Engineering",
-      "title": "Prototype Launcher and EDP Description",
-      "dueAt": "2026-10-26T00:00:00-04:00",
-      "points": null,
-      "overdue": true,
-      "url": "https://webcourses.ucf.edu/calendar?include_contexts=course_1519779&month=10&year=2026#assignment_9746695"
-    },
     {
       "course": "MAC 2312",
       "courseTitle": "Calculus 2",
@@ -4618,6 +4697,24 @@
       "points": null,
       "overdue": true,
       "url": "https://webcourses.ucf.edu/calendar?include_contexts=course_1514288&month=11&year=2026#assignment_9597090"
+    },
+    {
+      "course": "ENC 1101",
+      "courseTitle": "Writing & Composition",
+      "title": "Discussion Post #11: Writing Across Contexts - Moved to Thanksgiving Week.",
+      "dueAt": "2026-11-25T00:00:00-05:00",
+      "points": null,
+      "overdue": true,
+      "url": "https://webcourses.ucf.edu/calendar?include_contexts=course_1521509&month=11&year=2026#assignment_9701045"
+    },
+    {
+      "course": "MAC 2312",
+      "courseTitle": "Calculus 2",
+      "title": "Calculus of Parametric Curves Section 7.2",
+      "dueAt": "2026-11-30T00:00:00-05:00",
+      "points": null,
+      "overdue": false,
+      "url": "https://webcourses.ucf.edu/calendar?include_contexts=course_1522946&month=11&year=2026#assignment_9672810"
     }
   ],
   "recentChanges": []
