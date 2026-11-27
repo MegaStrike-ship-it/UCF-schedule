@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T14:24:23.706068-05:00",
+  "generatedAt": "2026-11-26T21:38:49.275110-05:00",
   "term": {
     "name": "Fall 2026",
     "start": "2026-08-24",
@@ -86,100 +86,7 @@
       "url": null
     }
   ],
-  "weather": {
-    "place": "UCF Orlando",
-    "current": {
-      "temp": 66,
-      "feelsLike": 63,
-      "label": "Partly cloudy",
-      "icon": "cloud",
-      "isDay": true
-    },
-    "days": [
-      {
-        "date": "2026-11-26",
-        "label": "Light drizzle",
-        "icon": "drizzle",
-        "high": 66,
-        "low": 57,
-        "precip": 30,
-        "uv": 4,
-        "sunrise": "06:56",
-        "sunset": "17:27"
-      },
-      {
-        "date": "2026-11-27",
-        "label": "Overcast",
-        "icon": "cloud",
-        "high": 61,
-        "low": 51,
-        "precip": 1,
-        "uv": 5,
-        "sunrise": "06:56",
-        "sunset": "17:27"
-      },
-      {
-        "date": "2026-11-28",
-        "label": "Overcast",
-        "icon": "cloud",
-        "high": 66,
-        "low": 54,
-        "precip": 1,
-        "uv": 3,
-        "sunrise": "06:57",
-        "sunset": "17:27"
-      },
-      {
-        "date": "2026-11-29",
-        "label": "Overcast",
-        "icon": "cloud",
-        "high": 72,
-        "low": 60,
-        "precip": 8,
-        "uv": 3,
-        "sunrise": "06:58",
-        "sunset": "17:27"
-      },
-      {
-        "date": "2026-11-30",
-        "label": "Heavy drizzle",
-        "icon": "drizzle",
-        "high": 71,
-        "low": 60,
-        "precip": 33,
-        "uv": 2,
-        "sunrise": "06:59",
-        "sunset": "17:27"
-      },
-      {
-        "date": "2026-12-01",
-        "label": "Showers",
-        "icon": "rain",
-        "high": 67,
-        "low": 60,
-        "precip": 39,
-        "uv": 0,
-        "sunrise": "07:00",
-        "sunset": "17:27"
-      },
-      {
-        "date": "2026-12-02",
-        "label": "Light drizzle",
-        "icon": "drizzle",
-        "high": 78,
-        "low": 66,
-        "precip": 15,
-        "uv": 3,
-        "sunrise": "07:00",
-        "sunset": "17:27"
-      }
-    ],
-    "air": {
-      "aqi": 29,
-      "label": "Good",
-      "pm25": 3.5
-    }
-  },
+  "weather": null,
   "severe": [],
   "football": [
     {
@@ -292,20 +199,6 @@
     }
   ],
   "events": [
-    {
-      "id": "12591757",
-      "name": "Student Lounge",
-      "org": "Wesley at UCF",
-      "theme": "Social",
-      "location": "The Wesley Foundation ",
-      "date": "2026-11-26",
-      "start": "10:00",
-      "end": "15:00",
-      "blurb": "Wesley's student lounge is open Mon-Thur 10:00am-3:00pm; wednesdays 11:00am-3:00pm. A perfect chill place to gather with friends, talk, study, play a game or ju",
-      "rsvps": 0,
-      "image": "https://se-images.campuslabs.com/clink/images/3dd59661-b6d1-422e-9c24-badf4fe4b5548572a737-bdda-40d7-b426-a1edd8d55e48.png?preset=small-sq",
-      "url": "https://ucf.campuslabs.com/engage/event/12591757"
-    },
     {
       "id": "12614738",
       "name": "Sunday Worship with Wesley at UCF",
@@ -792,7 +685,7 @@
       "start": "09:00",
       "end": "17:00",
       "blurb": "The Transfer Engagement Team want to support your success during finals week through a goodie-bag distribution, and promote and provide opportunities for you to",
-      "rsvps": 0,
+      "rsvps": 2,
       "image": "https://se-images.campuslabs.com/clink/images/a5294d54-db49-4d51-9b4a-dd59fe0a0b385bd33cc0-be27-4015-8996-3d85c5f4d305.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12991082"
     },
@@ -4099,12 +3992,6 @@
       "changes": {},
       "title": "PHY 2048L Laboratory",
       "url": null,
-      "weather": {
-        "temp": 61,
-        "precip": 0,
-        "label": "Overcast",
-        "icon": "cloud"
-      },
       "courseTitle": "Physics Lab"
     },
     {
@@ -4121,12 +4008,6 @@
       "changes": {},
       "title": "EGS 1006C Laboratory",
       "url": null,
-      "weather": {
-        "temp": 69,
-        "precip": 14,
-        "label": "Overcast",
-        "icon": "cloud"
-      },
       "courseTitle": "Intro to Engineering"
     },
     {
@@ -4143,12 +4024,6 @@
       "changes": {},
       "title": "ISC 2054 Seminar",
       "url": null,
-      "weather": {
-        "temp": 63,
-        "precip": 26,
-        "label": "Light drizzle",
-        "icon": "drizzle"
-      },
       "courseTitle": "STEM Seminar"
     },
     {
@@ -4165,12 +4040,6 @@
       "changes": {},
       "title": "PHY 2048 Discussion",
       "url": null,
-      "weather": {
-        "temp": 61,
-        "precip": 33,
-        "label": "Rain",
-        "icon": "rain"
-      },
       "courseTitle": "Physics: Mechanics"
     },
     {
@@ -4187,12 +4056,6 @@
       "changes": {},
       "title": "ENC 1101 Lecture",
       "url": null,
-      "weather": {
-        "temp": 63,
-        "precip": 39,
-        "label": "Rain",
-        "icon": "rain"
-      },
       "courseTitle": "Writing & Composition"
     },
     {
@@ -4209,12 +4072,6 @@
       "changes": {},
       "title": "MAC 2312 Lecture",
       "url": null,
-      "weather": {
-        "temp": 65,
-        "precip": 39,
-        "label": "Showers",
-        "icon": "rain"
-      },
       "courseTitle": "Calculus 2"
     },
     {
@@ -4231,12 +4088,6 @@
       "changes": {},
       "title": "PHY 2048 Lecture",
       "url": null,
-      "weather": {
-        "temp": 66,
-        "precip": 35,
-        "label": "Light drizzle",
-        "icon": "drizzle"
-      },
       "courseTitle": "Physics: Mechanics"
     },
     {
@@ -4253,12 +4104,6 @@
       "changes": {},
       "title": "IDH 1920H Lecture",
       "url": null,
-      "weather": {
-        "temp": 67,
-        "precip": 35,
-        "label": "Light drizzle",
-        "icon": "drizzle"
-      },
       "courseTitle": "Honors Symposium"
     },
     {
@@ -4275,12 +4120,6 @@
       "changes": {},
       "title": "IDH 1920H Lecture",
       "url": null,
-      "weather": {
-        "temp": 67,
-        "precip": 35,
-        "label": "Overcast",
-        "icon": "cloud"
-      },
       "courseTitle": "Honors Symposium"
     },
     {
@@ -4297,12 +4136,6 @@
       "changes": {},
       "title": "ISC 2054 Seminar",
       "url": null,
-      "weather": {
-        "temp": 78,
-        "precip": 2,
-        "label": "Light drizzle",
-        "icon": "drizzle"
-      },
       "courseTitle": "STEM Seminar"
     },
     {
