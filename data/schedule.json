@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T14:20:06.694767-05:00",
+  "generatedAt": "2026-11-27T21:28:27.521905-05:00",
   "term": {
     "name": "Fall 2026",
     "start": "2026-08-24",
@@ -86,100 +86,7 @@
       "url": null
     }
   ],
-  "weather": {
-    "place": "UCF Orlando",
-    "current": {
-      "temp": 63,
-      "feelsLike": 60,
-      "label": "Overcast",
-      "icon": "cloud",
-      "isDay": true
-    },
-    "days": [
-      {
-        "date": "2026-11-27",
-        "label": "Overcast",
-        "icon": "cloud",
-        "high": 64,
-        "low": 53,
-        "precip": 0,
-        "uv": 5,
-        "sunrise": "06:56",
-        "sunset": "17:27"
-      },
-      {
-        "date": "2026-11-28",
-        "label": "Overcast",
-        "icon": "cloud",
-        "high": 65,
-        "low": 56,
-        "precip": 18,
-        "uv": 3,
-        "sunrise": "06:57",
-        "sunset": "17:27"
-      },
-      {
-        "date": "2026-11-29",
-        "label": "Overcast",
-        "icon": "cloud",
-        "high": 75,
-        "low": 56,
-        "precip": 5,
-        "uv": 4,
-        "sunrise": "06:58",
-        "sunset": "17:27"
-      },
-      {
-        "date": "2026-11-30",
-        "label": "Drizzle",
-        "icon": "drizzle",
-        "high": 72,
-        "low": 64,
-        "precip": 40,
-        "uv": 1,
-        "sunrise": "06:59",
-        "sunset": "17:27"
-      },
-      {
-        "date": "2026-12-01",
-        "label": "Showers",
-        "icon": "rain",
-        "high": 66,
-        "low": 64,
-        "precip": 55,
-        "uv": 0,
-        "sunrise": "07:00",
-        "sunset": "17:27"
-      },
-      {
-        "date": "2026-12-02",
-        "label": "Overcast",
-        "icon": "cloud",
-        "high": 78,
-        "low": 61,
-        "precip": 6,
-        "uv": 4,
-        "sunrise": "07:00",
-        "sunset": "17:27"
-      },
-      {
-        "date": "2026-12-03",
-        "label": "Light drizzle",
-        "icon": "drizzle",
-        "high": 80,
-        "low": 62,
-        "precip": 3,
-        "uv": 4,
-        "sunrise": "07:01",
-        "sunset": "17:27"
-      }
-    ],
-    "air": {
-      "aqi": 40,
-      "label": "Good",
-      "pm25": 10.9
-    }
-  },
+  "weather": null,
   "severe": [],
   "football": [
     {
@@ -456,7 +363,7 @@
       "start": "19:00",
       "end": "22:00",
       "blurb": "\u2744\ufe0f Winter Wonderland: Winter in New York \ud83d\uddfd Experience the magic of winter in New York right here at UCF! Join us for a night filled with exciting attractions, a",
-      "rsvps": 6,
+      "rsvps": 7,
       "image": "https://se-images.campuslabs.com/clink/images/aa0bab01-9a1b-46dc-91b1-103a3933790e0bedf6c8-daad-4ed9-aff2-02f3f98c1a4e.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12901837"
     },
@@ -613,6 +520,20 @@
       "rsvps": 0,
       "image": "https://se-images.campuslabs.com/clink/images/3dd59661-b6d1-422e-9c24-badf4fe4b5548572a737-bdda-40d7-b426-a1edd8d55e48.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12591760"
+    },
+    {
+      "id": "13002317",
+      "name": "Finals Energy Drink Bar Fundraiser",
+      "org": "National Student Speech Language Hearing Association (NSSLHA) - Orlando",
+      "theme": "Fundraising",
+      "location": "Reflection Pond by Toppers",
+      "date": "2026-12-02",
+      "start": "12:30",
+      "end": "15:15",
+      "blurb": "About: Treat yourself and recharge at NSSLHA's Energy Drink Bar! \ud83e\udee7\ud83e\udeab Choose from our preset menu or create your own energizing drink between your study sessions ",
+      "rsvps": 1,
+      "image": "https://se-images.campuslabs.com/clink/images/8223c6cd-91eb-49fa-8012-f257bd10fa62da4fb382-a1ef-4054-a2c8-73a418aa9f1b.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/13002317"
     },
     {
       "id": "12591324",
@@ -4085,12 +4006,6 @@
       "changes": {},
       "title": "PHY 2048L Laboratory",
       "url": null,
-      "weather": {
-        "temp": 61,
-        "precip": 1,
-        "label": "Overcast",
-        "icon": "cloud"
-      },
       "courseTitle": "Physics Lab"
     },
     {
@@ -4107,12 +4022,6 @@
       "changes": {},
       "title": "EGS 1006C Laboratory",
       "url": null,
-      "weather": {
-        "temp": 69,
-        "precip": 14,
-        "label": "Drizzle",
-        "icon": "drizzle"
-      },
       "courseTitle": "Intro to Engineering"
     },
     {
@@ -4129,12 +4038,6 @@
       "changes": {},
       "title": "ISC 2054 Seminar",
       "url": null,
-      "weather": {
-        "temp": 70,
-        "precip": 20,
-        "label": "Overcast",
-        "icon": "cloud"
-      },
       "courseTitle": "STEM Seminar"
     },
     {
@@ -4151,12 +4054,6 @@
       "changes": {},
       "title": "PHY 2048 Discussion",
       "url": null,
-      "weather": {
-        "temp": 64,
-        "precip": 35,
-        "label": "Showers",
-        "icon": "rain"
-      },
       "courseTitle": "Physics: Mechanics"
     },
     {
@@ -4173,12 +4070,6 @@
       "changes": {},
       "title": "ENC 1101 Lecture",
       "url": null,
-      "weather": {
-        "temp": 65,
-        "precip": 55,
-        "label": "Showers",
-        "icon": "rain"
-      },
       "courseTitle": "Writing & Composition"
     },
     {
@@ -4195,12 +4086,6 @@
       "changes": {},
       "title": "MAC 2312 Lecture",
       "url": null,
-      "weather": {
-        "temp": 66,
-        "precip": 55,
-        "label": "Showers",
-        "icon": "rain"
-      },
       "courseTitle": "Calculus 2"
     },
     {
@@ -4217,12 +4102,6 @@
       "changes": {},
       "title": "PHY 2048 Lecture",
       "url": null,
-      "weather": {
-        "temp": 66,
-        "precip": 42,
-        "label": "Drizzle",
-        "icon": "drizzle"
-      },
       "courseTitle": "Physics: Mechanics"
     },
     {
@@ -4239,12 +4118,6 @@
       "changes": {},
       "title": "IDH 1920H Lecture",
       "url": null,
-      "weather": {
-        "temp": 66,
-        "precip": 42,
-        "label": "Light drizzle",
-        "icon": "drizzle"
-      },
       "courseTitle": "Honors Symposium"
     },
     {
@@ -4261,12 +4134,6 @@
       "changes": {},
       "title": "IDH 1920H Lecture",
       "url": null,
-      "weather": {
-        "temp": 65,
-        "precip": 42,
-        "label": "Overcast",
-        "icon": "cloud"
-      },
       "courseTitle": "Honors Symposium"
     },
     {
@@ -4283,12 +4150,6 @@
       "changes": {},
       "title": "ISC 2054 Seminar",
       "url": null,
-      "weather": {
-        "temp": 78,
-        "precip": 2,
-        "label": "Mostly clear",
-        "icon": "sun"
-      },
       "courseTitle": "STEM Seminar"
     },
     {
@@ -4305,12 +4166,6 @@
       "changes": {},
       "title": "ENC 1101 Lecture",
       "url": null,
-      "weather": {
-        "temp": 71,
-        "precip": 3,
-        "label": "Overcast",
-        "icon": "cloud"
-      },
       "courseTitle": "Writing & Composition"
     },
     {
@@ -4327,12 +4182,6 @@
       "changes": {},
       "title": "MAC 2312 Lecture",
       "url": null,
-      "weather": {
-        "temp": 78,
-        "precip": 3,
-        "label": "Overcast",
-        "icon": "cloud"
-      },
       "courseTitle": "Calculus 2"
     },
     {
@@ -4349,12 +4198,6 @@
       "changes": {},
       "title": "PHY 2048 Lecture",
       "url": null,
-      "weather": {
-        "temp": 77,
-        "precip": 3,
-        "label": "Light drizzle",
-        "icon": "drizzle"
-      },
       "courseTitle": "Physics: Mechanics"
     }
   ],
