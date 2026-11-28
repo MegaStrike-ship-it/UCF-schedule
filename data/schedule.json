@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T21:28:27.521905-05:00",
+  "generatedAt": "2026-11-28T12:56:16.376532-05:00",
   "term": {
     "name": "Fall 2026",
     "start": "2026-08-24",
@@ -86,7 +86,100 @@
       "url": null
     }
   ],
-  "weather": null,
+  "weather": {
+    "place": "UCF Orlando",
+    "current": {
+      "temp": 61,
+      "feelsLike": 62,
+      "label": "Overcast",
+      "icon": "cloud",
+      "isDay": true
+    },
+    "days": [
+      {
+        "date": "2026-11-28",
+        "label": "Overcast",
+        "icon": "cloud",
+        "high": 64,
+        "low": 56,
+        "precip": 8,
+        "uv": 3,
+        "sunrise": "06:57",
+        "sunset": "17:27"
+      },
+      {
+        "date": "2026-11-29",
+        "label": "Overcast",
+        "icon": "cloud",
+        "high": 72,
+        "low": 55,
+        "precip": 24,
+        "uv": 4,
+        "sunrise": "06:58",
+        "sunset": "17:27"
+      },
+      {
+        "date": "2026-11-30",
+        "label": "Showers",
+        "icon": "rain",
+        "high": 71,
+        "low": 63,
+        "precip": 67,
+        "uv": 1,
+        "sunrise": "06:59",
+        "sunset": "17:27"
+      },
+      {
+        "date": "2026-12-01",
+        "label": "Drizzle",
+        "icon": "drizzle",
+        "high": 73,
+        "low": 62,
+        "precip": 52,
+        "uv": 2,
+        "sunrise": "07:00",
+        "sunset": "17:27"
+      },
+      {
+        "date": "2026-12-02",
+        "label": "Overcast",
+        "icon": "cloud",
+        "high": 80,
+        "low": 66,
+        "precip": 8,
+        "uv": 5,
+        "sunrise": "07:00",
+        "sunset": "17:27"
+      },
+      {
+        "date": "2026-12-03",
+        "label": "Overcast",
+        "icon": "cloud",
+        "high": 84,
+        "low": 66,
+        "precip": 7,
+        "uv": 4,
+        "sunrise": "07:01",
+        "sunset": "17:27"
+      },
+      {
+        "date": "2026-12-04",
+        "label": "Light drizzle",
+        "icon": "drizzle",
+        "high": 83,
+        "low": 69,
+        "precip": 27,
+        "uv": 4,
+        "sunrise": "07:02",
+        "sunset": "17:27"
+      }
+    ],
+    "air": {
+      "aqi": 54,
+      "label": "Moderate",
+      "pm25": 7.9
+    }
+  },
   "severe": [],
   "football": [
     {
@@ -228,6 +321,20 @@
       "url": "https://ucf.campuslabs.com/engage/event/12614739"
     },
     {
+      "id": "13002419",
+      "name": "Sunday Mass",
+      "org": "Catholic Campus Ministry",
+      "theme": "Spirituality",
+      "location": "The Live Oak Ballroom on Campus ",
+      "date": "2026-11-29",
+      "start": "12:00",
+      "end": "13:15",
+      "blurb": "Mass is the center of our Catholic Faith. It's where we come together as a Church to worship God through Christ's offering of Himself to the Father and for us i",
+      "rsvps": 0,
+      "image": "https://se-images.campuslabs.com/clink/images/07c263b9-8d92-4628-8089-7e1f854af95c2b1abdcb-b9f4-4e8f-befc-dbb52e59446e.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/13002419"
+    },
+    {
       "id": "12981481",
       "name": "Adopt-A-Road",
       "org": "Pediatric Association of Caring Knights",
@@ -363,7 +470,7 @@
       "start": "19:00",
       "end": "22:00",
       "blurb": "\u2744\ufe0f Winter Wonderland: Winter in New York \ud83d\uddfd Experience the magic of winter in New York right here at UCF! Join us for a night filled with exciting attractions, a",
-      "rsvps": 7,
+      "rsvps": 8,
       "image": "https://se-images.campuslabs.com/clink/images/aa0bab01-9a1b-46dc-91b1-103a3933790e0bedf6c8-daad-4ed9-aff2-02f3f98c1a4e.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12901837"
     },
@@ -480,6 +587,20 @@
       "url": "https://ucf.campuslabs.com/engage/event/12902428"
     },
     {
+      "id": "13002420",
+      "name": "KnightFire ",
+      "org": "Catholic Campus Ministry",
+      "theme": "Spirituality",
+      "location": "Catholic Campus Ministry at Northview ",
+      "date": "2026-12-01",
+      "start": "19:45",
+      "end": "21:30",
+      "blurb": "Knightfire is a worship-night style event that provides an opportunity for people to come together as a community to seek after God and experience genuine Chris",
+      "rsvps": 0,
+      "image": "https://se-images.campuslabs.com/clink/images/da451bb2-d1d1-464a-8197-562878a4b3376521185b-29bd-4510-aee4-f5e06d97401d.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/13002420"
+    },
+    {
       "id": "12833744",
       "name": "General Meetings",
       "org": "Voice Acting Knights",
@@ -534,6 +655,20 @@
       "rsvps": 1,
       "image": "https://se-images.campuslabs.com/clink/images/8223c6cd-91eb-49fa-8012-f257bd10fa62da4fb382-a1ef-4054-a2c8-73a418aa9f1b.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/13002317"
+    },
+    {
+      "id": "13002421",
+      "name": "Post Up ",
+      "org": "Catholic Campus Ministry",
+      "theme": "Social",
+      "location": "Memory Mall on Campus ",
+      "date": "2026-12-02",
+      "start": "12:30",
+      "end": "14:30",
+      "blurb": "Post Up is where we bring the love that's cultivated in the Chapel and at the Catholic Center out onto UCF's Campus. We set up a table, serve water and lemonade",
+      "rsvps": 0,
+      "image": "https://se-images.campuslabs.com/clink/images/58f510de-7856-4472-a616-afb36330604a083301dd-d99c-4983-b0f0-881c6fda8b91.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/13002421"
     },
     {
       "id": "12591324",
@@ -690,6 +825,20 @@
       "url": "https://ucf.campuslabs.com/engage/event/12992531"
     },
     {
+      "id": "13002422",
+      "name": "Women's Group: Study Night",
+      "org": "Catholic Campus Ministry",
+      "theme": "Spirituality",
+      "location": "Catholic Campus Ministry at Northview ",
+      "date": "2026-12-03",
+      "start": "19:30",
+      "end": "21:00",
+      "blurb": "Our women's community will be having a study night this Thursday! If you're looking to go into finals week prepared, come out and study with a community of amaz",
+      "rsvps": 0,
+      "image": "https://se-images.campuslabs.com/clink/images/28c6d8aa-bc95-42b4-8a00-d84ab3985f9475bbfa95-3b0e-40c6-9222-c4aed6175fe7.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/13002422"
+    },
+    {
       "id": "12991082",
       "name": " Don't Stress, Grab Success! (Finals Survival Kits)",
       "org": "Transfer Engagement",
@@ -760,6 +909,20 @@
       "url": "https://ucf.campuslabs.com/engage/event/12928908"
     },
     {
+      "id": "13002423",
+      "name": "Christmas Potluck and Movie Night",
+      "org": "Catholic Campus Ministry",
+      "theme": "Social",
+      "location": "Catholic Center at CCM",
+      "date": "2026-12-04",
+      "start": "19:00",
+      "end": "22:00",
+      "blurb": "This Friday we'll be having a Christmas Potluck and Movie Night! We'll be watching a Christmas movie and enjoying some great food together, and we'll also have ",
+      "rsvps": 0,
+      "image": "https://se-images.campuslabs.com/clink/images/c1d877c5-13b0-42f1-96af-e942db74fca74c1060fe-a95d-401d-9f00-ca98375ff12f.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/13002423"
+    },
+    {
       "id": "12990697",
       "name": "Jay Blanchard Park Clean-Up",
       "org": "Volunteer UCF",
@@ -786,6 +949,20 @@
       "rsvps": 4,
       "image": "https://se-images.campuslabs.com/clink/images/7521c3ca-9f2b-4638-86b8-9ada406b68c4f935bbbe-d7a6-4bac-a693-f450e63fe1f7.png?preset=small-sq",
       "url": "https://ucf.campuslabs.com/engage/event/12859829"
+    },
+    {
+      "id": "13002424",
+      "name": "Sunday Mass",
+      "org": "Catholic Campus Ministry",
+      "theme": "Spirituality",
+      "location": "The Live Oak Ballroom ",
+      "date": "2026-12-06",
+      "start": "12:00",
+      "end": "13:15",
+      "blurb": "Mass is the center of our Catholic Faith. It's where we come together as a Church to worship God through Christ's offering of Himself to the Father and for us i",
+      "rsvps": 0,
+      "image": "https://se-images.campuslabs.com/clink/images/b26dd1bb-8eeb-4ed1-83ba-c09d69337291ab7f1f18-46f2-4926-bc90-2aab01f9fec1.png?preset=small-sq",
+      "url": "https://ucf.campuslabs.com/engage/event/13002424"
     },
     {
       "id": "12578741",
@@ -4006,6 +4183,12 @@
       "changes": {},
       "title": "PHY 2048L Laboratory",
       "url": null,
+      "weather": {
+        "temp": 60,
+        "precip": 1,
+        "label": "Overcast",
+        "icon": "cloud"
+      },
       "courseTitle": "Physics Lab"
     },
     {
@@ -4022,6 +4205,12 @@
       "changes": {},
       "title": "EGS 1006C Laboratory",
       "url": null,
+      "weather": {
+        "temp": 69,
+        "precip": 52,
+        "label": "Overcast",
+        "icon": "cloud"
+      },
       "courseTitle": "Intro to Engineering"
     },
     {
@@ -4038,6 +4227,12 @@
       "changes": {},
       "title": "ISC 2054 Seminar",
       "url": null,
+      "weather": {
+        "temp": 70,
+        "precip": 20,
+        "label": "Heavy drizzle",
+        "icon": "drizzle"
+      },
       "courseTitle": "STEM Seminar"
     },
     {
@@ -4054,6 +4249,12 @@
       "changes": {},
       "title": "PHY 2048 Discussion",
       "url": null,
+      "weather": {
+        "temp": 63,
+        "precip": 28,
+        "label": "Overcast",
+        "icon": "cloud"
+      },
       "courseTitle": "Physics: Mechanics"
     },
     {
@@ -4070,6 +4271,12 @@
       "changes": {},
       "title": "ENC 1101 Lecture",
       "url": null,
+      "weather": {
+        "temp": 68,
+        "precip": 41,
+        "label": "Overcast",
+        "icon": "cloud"
+      },
       "courseTitle": "Writing & Composition"
     },
     {
@@ -4086,6 +4293,12 @@
       "changes": {},
       "title": "MAC 2312 Lecture",
       "url": null,
+      "weather": {
+        "temp": 72,
+        "precip": 41,
+        "label": "Overcast",
+        "icon": "cloud"
+      },
       "courseTitle": "Calculus 2"
     },
     {
@@ -4102,6 +4315,12 @@
       "changes": {},
       "title": "PHY 2048 Lecture",
       "url": null,
+      "weather": {
+        "temp": 72,
+        "precip": 52,
+        "label": "Light drizzle",
+        "icon": "drizzle"
+      },
       "courseTitle": "Physics: Mechanics"
     },
     {
@@ -4118,6 +4337,12 @@
       "changes": {},
       "title": "IDH 1920H Lecture",
       "url": null,
+      "weather": {
+        "temp": 71,
+        "precip": 52,
+        "label": "Overcast",
+        "icon": "cloud"
+      },
       "courseTitle": "Honors Symposium"
     },
     {
@@ -4134,6 +4359,12 @@
       "changes": {},
       "title": "IDH 1920H Lecture",
       "url": null,
+      "weather": {
+        "temp": 69,
+        "precip": 52,
+        "label": "Overcast",
+        "icon": "cloud"
+      },
       "courseTitle": "Honors Symposium"
     },
     {
@@ -4150,6 +4381,12 @@
       "changes": {},
       "title": "ISC 2054 Seminar",
       "url": null,
+      "weather": {
+        "temp": 79,
+        "precip": 1,
+        "label": "Overcast",
+        "icon": "cloud"
+      },
       "courseTitle": "STEM Seminar"
     },
     {
@@ -4166,6 +4403,12 @@
       "changes": {},
       "title": "ENC 1101 Lecture",
       "url": null,
+      "weather": {
+        "temp": 76,
+        "precip": 1,
+        "label": "Partly cloudy",
+        "icon": "cloud"
+      },
       "courseTitle": "Writing & Composition"
     },
     {
@@ -4182,6 +4425,12 @@
       "changes": {},
       "title": "MAC 2312 Lecture",
       "url": null,
+      "weather": {
+        "temp": 82,
+        "precip": 1,
+        "label": "Mostly clear",
+        "icon": "sun"
+      },
       "courseTitle": "Calculus 2"
     },
     {
@@ -4198,29 +4447,17 @@
       "changes": {},
       "title": "PHY 2048 Lecture",
       "url": null,
+      "weather": {
+        "temp": 83,
+        "precip": 7,
+        "label": "Mostly clear",
+        "icon": "sun"
+      },
       "courseTitle": "Physics: Mechanics"
     }
   ],
   "alerts": [],
   "assignments": [
-    {
-      "course": "MAC 2312",
-      "courseTitle": "Calculus 2",
-      "title": "Ratio and Root Tests Section 5.6",
-      "dueAt": "2026-10-28T00:00:00-04:00",
-      "points": null,
-      "overdue": true,
-      "url": "https://webcourses.ucf.edu/calendar?include_contexts=course_1522946&month=10&year=2026#assignment_9672802"
-    },
-    {
-      "course": "ENC 1101",
-      "courseTitle": "Writing & Composition",
-      "title": "Discussion Post #9: Revision through Peer Review",
-      "dueAt": "2026-10-28T00:00:00-04:00",
-      "points": null,
-      "overdue": true,
-      "url": "https://webcourses.ucf.edu/calendar?include_contexts=course_1521509&month=10&year=2026#assignment_9701047"
-    },
     {
       "course": "ENC 1101",
       "courseTitle": "Writing & Composition",
@@ -4562,6 +4799,24 @@
       "points": null,
       "overdue": false,
       "url": "https://webcourses.ucf.edu/calendar?include_contexts=course_1522946&month=11&year=2026#assignment_9672810"
+    },
+    {
+      "course": "ENC 1101",
+      "courseTitle": "Writing & Composition",
+      "title": "Major Assignment #3: Remediation of a Major Assignment",
+      "dueAt": "2026-11-30T00:00:00-05:00",
+      "points": null,
+      "overdue": false,
+      "url": "https://webcourses.ucf.edu/calendar?include_contexts=course_1521509&month=11&year=2026#assignment_9701081"
+    },
+    {
+      "course": "MAC 2312",
+      "courseTitle": "Calculus 2",
+      "title": "Polar Coordinates and Graphs Section 7.3",
+      "dueAt": "2026-12-01T00:00:00-05:00",
+      "points": null,
+      "overdue": false,
+      "url": "https://webcourses.ucf.edu/calendar?include_contexts=course_1522946&month=12&year=2026#assignment_9672811"
     }
   ],
   "recentChanges": []
